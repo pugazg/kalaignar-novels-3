@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCHES 1–7 PHYSICAL CAPTURE COMPLETE**
+**PASS 1 — PHYSICAL CAPTURE COMPLETE / HOLD RECONCILIATION NEXT**
 
 Active Part:
 - Part001
@@ -13,10 +13,10 @@ Active Part:
 ## Current accounting
 
 - Part001 physical scans: **75**
-- canonical Part001 records present: **70/75 — scans1–70**
-- Pass-1 physical capture complete: **70/75 — scans1–70**
-- Pass-1 text-complete records: **69/75 — scans1–15,17–70**
-- Pass-1 pending physical scans: **5/75 — scans71–75**
+- canonical Part001 records present: **75/75 — scans1–75**
+- Pass-1 physical capture complete: **75/75 — COMPLETE**
+- Pass-1 text-complete records: **74/75 — scans1–15,17–75**
+- Pass-1 pending physical scans: **0/75**
 - unresolved Pass-1 source-reading holds: **1 page — scan16 dense cartographic minor labels**
 - Part001 incoming boundary: **NONE**
 - Part001 outgoing 75→76 boundary: **PENDING Part002 direct witness**
@@ -38,7 +38,7 @@ All completed/captured Part001 records remain non-final:
 | 5 | 41–50 | 41–50 | scans41–42 = 24–25; scan43 chapter opener no inferred running page; scans44–50 = 27–33 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 6 | 51–60 | 51–60 | scan51 = 34; scan52 chapter opener no inferred running page; scans53–60 = 36–43 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 7 | 61–70 | 61–70 | scan61 chapter opener no inferred running page; scans62–69 = 45–52; scan70 chapter opener no inferred running page | **COMPLETE / 10 TEXT-COMPLETE** |
-| 8 | 71–75 | 71–75 | pending direct review | **NEXT / FINAL PASS-1 PHYSICAL BATCH** |
+| 8 | 71–75 | 71–75 | scans71–75 = 54–58 | **COMPLETE / 5 TEXT-COMPLETE** |
 
 ## Batch 1 source-structure observations
 
@@ -112,6 +112,17 @@ All completed/captured Part001 records remain non-final:
 - scan70 opens chapter **7 / உண்மையின் உதயம்** with displayed chapter number **7**;
 - scan70 has no confidently assigned running printed-page value and ends mid-sentence; scan71 is not imported.
 
+## Batch 8 source-structure observations
+
+- scans71–75 continue chapter7 `உண்மையின் உதயம்`;
+- visible running printed pagination is **54–58**;
+- scan71 directly continues the chapter-opening sentence from scan70;
+- scan69 had already closed chapter6; no new chapter boundary occurs within scans71–75;
+- scan75 is the final physical page of Part001 and remains **mid-chapter**;
+- scan75 ends with `ஆனால் அந்த மகிழ்ச்சி நீடிக்கவில்லை!`;
+- no scan76 / Part002 text is inferred or reconstructed;
+- outgoing split boundary **75→76 remains PENDING Part002 direct witness**.
+
 ## Continuation integrity
 
 - scan30 continues into scan31 without reconstruction;
@@ -139,7 +150,12 @@ All completed/captured Part001 records remain non-final:
 - scan66 ends `மாயவருக்கு பெருத்த`; scan67 continues `ஏமாற்றம் ஏற்பட்டது போன்ற நிலைமை!`;
 - scan67 ends `...எனப் பரிவுடன்`; scan68 continues `கூறினார்.`;
 - scan68 ends `...இரண்டு தட்டுகளில் வைத்துக்`; scan69 continues `கொடுத்தான்.` and closes chapter6;
-- scan70 begins chapter7 and ends `...ஒரு சிலருடைய பெயரை`; scan71 has not been transcribed.
+- scan70 begins chapter7 and ends `...ஒரு சிலருடைய பெயரை`; scan71 continues `வெளியில் சொல்வது அவர்களுக்கே நல்லதல்ல...`;
+- scan71 ends `...இப்படியே இருப்பது இருபத்தி ஐந்து`; scan72 continues `வருஷங்கள் கழிந்தன என்றாலும்...`;
+- scan72 ends `...செல்லாத்தாக் கவுண்டர் பின்னுகிற`; scan73 continues `சிலந்திவலைதானே தலையூர்க்காளியைச் சிக்க வைக்கிறது!`;
+- scan73 ends `...தலையூர் மன்னர் பெரிய காளி`; scan74 continues `முடிவு செய்தார்.`;
+- scan74 ends `...மலைக்கொழுந்தாக் கவுண்டருக்கும் நெல்லியங்கோடனுக்கும்`; scan75 continues `உள்ள நெருங்கிய சொந்தபந்தத்தை...`;
+- scan75 is open at the Part boundary; continuation is intentionally **not reconstructed** without the Part002 witness.
 
 ## Notable source readings retained
 
@@ -182,7 +198,12 @@ All completed/captured Part001 records remain non-final:
 - scan67 — `மாரிக்கவுண்டன்பாளையம்`, `முள்வேலி`, `எதிர்கொண்டழைக்க`;
 - scan68 — `வேங்கை போல் உருக்கொண்ட`, `வில்லம்பு`, `குத்துக் கட்டை`;
 - scan69 — chapter-title phrase `பெயர் சொல்லாப் பட்டணம்` repeated in dialogue;
-- scan70 — chapter title `உண்மையின் உதயம்`, `பெருங்கனைப்பொன்றை`.
+- scan70 — chapter title `உண்மையின் உதயம்`, `பெருங்கனைப்பொன்றை`;
+- scan71 — `காசிமாநகர்`, `புத்தவிகாரங்கள்`, `சமணப்பள்ளிகள்`, `மனச்சாட்சி குடைய ஆரம்பித்தது`;
+- scan72 — `முகஸ்துதிப் பேச்சு`, `பிராயச்சித்தமாக`, `தூய்மையான இதயம்`;
+- scan73 — `சிலந்திவலைதானே`, `வாழவந்திச் சீமை`, `நெல்லிவளநாடு நெற் சூழ்ந்த கோனாடு`, quoted `மசை`, quoted `மச்சசாமி`;
+- scan74 — `ராஜ்ய பாரம்`, `மறுவார்த்தை`, source-visible forms `உதவிகளைப்பெற்று` and `கூடாதேயென்று`;
+- scan75 — source-visible split forms `ஆண்டு களுக்கு` and `வெளியூர் களுக்குக்`, `சிலந்தி வலையிலிருந்து`, final line `ஆனால் அந்த மகிழ்ச்சி நீடிக்கவில்லை!`.
 
 No spelling modernization, external-place correction, grammar-based reconstruction or inferred pagination is authorized in Pass 1.
 
@@ -192,6 +213,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — scans71–75 / local pages71–75** — the final Part001 Pass-1 physical batch.
+Perform the **Part001 Pass 1 hold-reconciliation reread of scan16**, focusing only on the dense minor cartographic labels still unresolved from the map plate. Use rendered source pixels only; do not resolve labels from external geography or inference.
 
-Carry the explicit **scan16 cartographic-label reread hold** forward; do not resolve it by external geography or inference. Do not begin Pass 2A until Pass 1 covers all **75** Part001 scans and Pass-1 holds are reconciled. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
+Pass 2A remains **BLOCKED** until scan16 is reconciled and Pass 1 reaches **75/75 text-complete**. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
