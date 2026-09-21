@@ -93,6 +93,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - registered physical scan rows: **75**
 - canonical page records: **75/75 — scans1–75**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
-- Part001 Pass 2A: **IN PROGRESS — scans1–20 REVIEWED / PASS; 4 source-text corrections; 0 unresolved**
+- Part001 Pass 2A: **IN PROGRESS — scans1–30 REVIEWED / PASS; 12 source-text corrections; 0 unresolved**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 2A scans21–30 / local pages21–30**
+- exact next activity: **Part001 Pass 2A scans31–40 / local pages31–40**
