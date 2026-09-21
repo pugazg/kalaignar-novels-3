@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2A scans61–70
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2A scans71–75
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -38,10 +38,10 @@ If the Part001 PDF is not available in the new chat/runtime, ask the user to att
 - scan16 — **image-preserved map page** at `works/ponnar-sankar/assets/scan-0016-map.png`
 - scan16 map labels are **not** to be transcribed label-by-label into Unicode
 - Pass1 holds — **0**
-- Pass 2A — **IN PROGRESS / BATCHES 1–6 COMPLETE**
-- Pass2A reviewed — **60/75 — scans1–60**
-- Pass2A pending — **15/75 — scans61–75**
-- cumulative Pass2A source-text corrections — **26**
+- Pass 2A — **IN PROGRESS / BATCHES 1–7 COMPLETE**
+- Pass2A reviewed — **70/75 — scans1–70**
+- Pass2A pending — **5/75 — scans71–75**
+- cumulative Pass2A source-text corrections — **29**
 - Pass2A unresolved textual questions — **0**
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`
@@ -54,20 +54,19 @@ If the Part001 PDF is not available in the new chat/runtime, ask the user to att
 
 The duplicate `Formal Part001 Pass 2A review` blocks accidentally introduced in some Batch-5 records were cleaned up before Batch 6. Do not reintroduce duplicate review sections.
 
-## Latest completed Pass 2A batch — scans51–60
+## Latest completed Pass 2A batch — scans61–70
 
-Batch 6 is **REVIEWED / PASS** with **4 corrections** and **0 unresolved**:
+Batch 7 is **REVIEWED / PASS** with **3 corrections** and **0 unresolved**:
 
-- scan51 — `சின்னமலைக்கொழுந்தின்` → **`சின்னமலைக் கொழுந்தின்`**
-- scan52 — `தாழும் நடந்துகொண்டு` → **`தாமும் நடந்துகொண்டு`**
-- scan53 — `காலை புல்லின்` → **`காலைப் புல்லின்`**
-- scan58 — `நவரத்தினமழைத்த` → **`நவரத்தினமிழைத்த`**
+- scan62 — `வேகத்தைப் பொறுத்தவரையில்` → **`வேகத்தைப் பொருத்தவரையில்`**
+- scan66 — `தப்பித்தோம் பிழைத்தோம் என்று` → **`தப்பித்தோம் பிழைத்தோமென்று`**
+- scan70 — `பெருங்கனைப்பொன்றை` → **`பெருங் கனைப்பொன்றை`**
 
-Scans54–57 and 59–60 passed with 0 corrections.
+Scans61, 63–65 and 67–69 passed with 0 corrections.
 
 ## Exact next activity
 
-Process **Part001 Pass 2A — global scans61–70 / local pages61–70**.
+Process **Part001 Pass 2A — global scans71–75 / local pages71–75** — the final Pass2A batch.
 
 For each page:
 
@@ -83,17 +82,17 @@ For each page:
 
 Expected structural context already established by Pass 1:
 
-- scan61 — chapter6 **`பெயர் சொல்லாப் பட்டணம்`** opener; no inferred running printed page
-- scans62–69 — chapter6 continuation/close; printed pages **45–52**
-- scan70 — chapter7 **`உண்மையின் உதயம்`** opener; no inferred running printed page
+- scans71–75 — chapter7 **`உண்மையின் உதயம்`** continuation; printed pages **54–58**
+- scan75 — final physical page of Part001; chapter remains open at the split boundary
+- do not reconstruct continuation beyond scan75 without the Part002 direct witness
 
 Do not assume the existing Pass1 transcription is correct merely because it was previously captured; Pass2A is an independent direct-source comparison.
 
-## After scans61–70
+## After scans71–75
 
 Synchronize only after the batch is actually completed:
 
-- all edited page records for scans61–70
+- all edited page records for scans71–75
 - `works/ponnar-sankar/PART_001_PASS2A_PROGRESS.md`
 - `works/ponnar-sankar/indexes/page-map.md`
 - `works/ponnar-sankar/SOURCE_SPLIT_MANIFEST.md`
@@ -104,7 +103,7 @@ Synchronize only after the batch is actually completed:
 - this `NEXT_CHAT_PROMPT.md` so it always reflects the live frontier
 - closed `PART_001_PASS1_PROGRESS.md` frontier reference if needed
 
-If scans61–70 complete cleanly, the next Pass2A frontier will be **scans71–75**, but do not claim that state until scans61–70 have actually been source-verified and committed.
+If scans71–75 complete cleanly, Part001 Pass2A will be **75/75 COMPLETE**. Do not begin Pass2B in the same step unless the user explicitly proceeds to the next activity after the Pass2A completion and synchronized control update.
 
 ## Mandatory archive rules
 
