@@ -11,7 +11,7 @@
 
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
-| 001 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | NOT STARTED |
 | 002 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -20,6 +20,16 @@
 | 007 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 008 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 
+## Current accounting
+
+- registered Parts: **1/8**
+- registered physical scan coverage: **1–75 / 75 scans**
+- Part001 source intake: **REGISTERED / COMPLETE**
+- Part001 canonical records: **0/75**
+- Part001 Pass 1: **NOT STARTED / NEXT**
+- Part002–Part008: **pending source intake**
+- outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
+
 ## Current frontier
 
-**Part001 source intake next.**
+**Part001 Pass 1 — scans 1–10 / local pages 1–10.**
