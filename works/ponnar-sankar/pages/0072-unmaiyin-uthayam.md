@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 8
 
 ## Source transcription
 
-வருஷங்கள் கழிந்தன என்றாலும், என்னுடைய எண்ணமெல்லாம் தமிழ்நாட்டையே சுற்றிக் கொண்டிருந்தது. அதிலும் தலையூர்க் காளியைப் பற்றியே எனக்குக் கவலை. அவனைத் தனியே விட்டு இருப்பது ஐந்து வருஷம் கழித்து விட்டோமே; அவன் தந்தை இறந்தபோது நம் கையில்தானே அவனை ஒப்படைத்துவிட்டுத் துணையாக இருக்குமாறு சொல்லிவிட்டுப் போனார் - அந்தப் பொறுப்பைத் தட்டிக் கழித்து விட்டோமே என்ற கவலை வேறு என்னைக் கவ்விக் கொண்டது. சுருக்கமாகச் சொன்னால் பிறந்த மண்ணின் மீதுள்ள பற்று என்னைப் பற்றிக் கொண்டு திரும்ப இழுத்து வந்து விட்டது.”
+வருஷங்கள் கழிந்தன என்றாலும், என்னுடைய எண்ணமெல்லாம் தமிழ்நாட்டையே சுற்றிக் கொண்டிருந்தது. அதிலும் தலையூர்க் காளியைப் பற்றியே எனக்குக் கவலை. அவனைத் தனியே விட்டு இருபத்தி ஐந்து வருஷம் கழித்து விட்டோமே; அவன் தந்தை இறந்தபோது நம் கையில்தானே அவனை ஒப்படைத்துவிட்டுத் துணையாக இருக்குமாறு சொல்லிவிட்டுப் போனார் - அந்தப் பொறுப்பைத் தட்டிக் கழித்து விட்டோமே என்ற கவலை வேறு என்னைக் கப்பிக் கொண்டது. சுருக்கமாகச் சொன்னால் பிறந்த மண்ணின் மீதுள்ள பற்று என்னைப் பற்றிக் கொண்டு திரும்ப இழுத்து வந்து விட்டது.”
 
 மாயவரின் பதில், ராக்கியண்ணன் மனத்தில் மிக உருக்கமாகப் பதிந்தது.
 
@@ -42,3 +42,13 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 8
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 72; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 72; அச்சுப் பக்கம்: 55; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected `அவனைத் தனியே விட்டு இருப்பது ஐந்து` → source-visible `அவனைத் தனியே விட்டு இருபத்தி ஐந்து`;
+- corrected `என்னைக் கவ்விக் கொண்டது` → source-visible `என்னைக் கப்பிக் கொண்டது`;
+- source-text corrections: **2**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
