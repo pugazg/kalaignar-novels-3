@@ -30,7 +30,8 @@ Source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_0
 - scan 2 is the title/publisher page;
 - scan 3 carries publication metadata;
 - preliminary/front-matter material precedes the numbered novel body;
-- scan 18 visibly begins printed page **1**;
+- scan 18 visibly opens chapter **1**, `மண விழாவில் மச்சான்`; the chapter-opener page does not receive an inferred running printed-page value;
+- scan 19 visibly carries running printed page **2** and scan 20 carries **3**;
 - scan 75 visibly carries printed page **58**;
 - detailed page-type, text and printed-page mapping remain a **Pass 1** responsibility.
 
@@ -72,21 +73,27 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/75 TEXT-COMPLETE.**
+**PART001 PASS 1 — IN PROGRESS / BATCH 2 PHYSICAL CAPTURE COMPLETE.**
 
-- canonical page records — **10/75 — scans1–10**
-- Pass1 text-complete — **10/75**
-- Pass1 pending — **65/75 — scans11–75**
-- completed-batch unresolved source-reading holds — **0**
+- canonical page records — **20/75 — scans1–20**
+- Pass1 text-complete — **19/75 — scans1–15,17–20**
+- Pass1 pending physical scans — **55/75 — scans21–75**
+- Pass1 source-reading hold — **1 page: scan16 dense cartographic minor labels**
+- completed-batch unresolved source-reading holds — **1 cartographic-label hold on scan16**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - scan8→9 internal continuation — **captured without reconstruction**
-- scan10 ending — **open continuation; scan11 not yet transcribed**
+- scan10→11 continuation — **captured directly**
+- scans11–15 — **நுழைவாயில் continuation/close**
+- scan16 — **map plate / physical capture complete / minor-label reread hold**
+- scan17 — **blank reverse/show-through page**
+- scans18–20 — **chapter1 `மண விழாவில் மச்சான்` begins and continues**
+- scan20 ending — **open continuation; scan21 not yet transcribed**
 - outgoing Part001 75→76 — **PENDING Part002 direct witness**
 - durable progress — `PART_001_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans 11–20 / local pages 11–20**.
+Begin **Part001 Pass 1 — global scans 21–30 / local pages 21–30**, while retaining the scan16 cartographic-label hold for later direct reread.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
