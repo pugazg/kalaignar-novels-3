@@ -16,16 +16,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 8 | 8 | — | `நுழைவாயில்` opening; printed number not visible | needs-review | `pages/0008-nuzhaivaayil.md` |
 | 001 | 9 | 9 | viii | `நுழைவாயில்` continuation | needs-review | `pages/0009-nuzhaivaayil.md` |
 | 001 | 10 | 10 | ix | `நுழைவாயில்` continuation; open ending | needs-review | `pages/0010-nuzhaivaayil.md` |
-| 001 | 11 | 11 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 12 | 12 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 13 | 13 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 14 | 14 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 15 | 15 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 16 | 16 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 17 | 17 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 18 | 18 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 19 | 19 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 20 | 20 | — | unclassified — Pass 1 direct source review pending | not-started | — |
+| 001 | 11 | 11 | x | `நுழைவாயில்` continuation | needs-review | `pages/0011-nuzhaivaayil.md` |
+| 001 | 12 | 12 | xi | `நுழைவாயில்` continuation | needs-review | `pages/0012-nuzhaivaayil.md` |
+| 001 | 13 | 13 | xii | `நுழைவாயில்` continuation | needs-review | `pages/0013-nuzhaivaayil.md` |
+| 001 | 14 | 14 | xiii | `நுழைவாயில்` continuation | needs-review | `pages/0014-nuzhaivaayil.md` |
+| 001 | 15 | 15 | xiv | `நுழைவாயில்` close; substantial blank lower field | needs-review | `pages/0015-nuzhaivaayil.md` |
+| 001 | 16 | 16 | — | landscape map plate; minor cartographic-label reread hold | needs-review | `pages/0016-map.md` |
+| 001 | 17 | 17 | — | blank physical page; map show-through only | needs-review | `pages/0017-blank.md` |
+| 001 | 18 | 18 | — | chapter1 `மண விழாவில் மச்சான்` opening; running page not inferred | needs-review | `pages/0018-mana-vizhaavil-machchaan.md` |
+| 001 | 19 | 19 | 2 | chapter1 continuation | needs-review | `pages/0019-mana-vizhaavil-machchaan.md` |
+| 001 | 20 | 20 | 3 | chapter1 continuation; open ending | needs-review | `pages/0020-mana-vizhaavil-machchaan.md` |
 | 001 | 21 | 21 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 22 | 22 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 23 | 23 | — | unclassified — Pass 1 direct source review pending | not-started | — |
@@ -91,7 +91,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
-- canonical page records: **10/75 — scans1–10**
-- Part001 Pass 1: **IN PROGRESS — 10/75 TEXT-COMPLETE**
+- canonical page records: **20/75 — scans1–20**
+- Part001 Pass 1: **IN PROGRESS — scans1–20 physically captured / 19 text-complete / scan16 map-label hold**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 scans11–20 / local pages11–20**
+- exact next activity: **Part001 Pass 1 scans21–30 / local pages21–30**
