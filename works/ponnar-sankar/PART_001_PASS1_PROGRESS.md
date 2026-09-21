@@ -177,7 +177,7 @@ All completed/captured Part001 records remain non-final:
 - scan43 — chapter title `இனிய சூழலும் புதிய கோலமும்`, `மேனாட்டுச் சிற்றரசன்`;
 - scan44 — `சூதுவலை`, `பூதாகாரப்படுத்திக் கொண்டு`;
 - scan45 — `பொய்களாம் நெருஞ்சில் முட்கள்`, `அறைகூவல்`;
-- scan46 — `கெளரவம்`, `என்பொருட்டு`, `பயங்கர குழப்பி`;
+- scan46 — `கெளரவம்`, `என்பொருட்டு`, source-corrected in Pass2A to `பயங்கர குழ்ச்சி`;
 - scan47 — `ரம்பை ஊர்வசி`, `எகடியத் தொனி`;
 - scan48 — `குப்பாரி கொட்டி`, `தண்புனலில்`;
 - scan49 — `முகூர்த்தக் கால்`, `பிரமசரிய விரதம்`, `விரலி மஞ்சள்`, `கூரைச்சேலை`;
@@ -216,6 +216,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Part001 Pass 1 is closed. Current repository frontier is **Part001 Pass 2A — scans41–50 / local pages41–50**; see `PART_001_PASS2A_PROGRESS.md`.
+Part001 Pass 1 is closed. Current repository frontier is **Part001 Pass 2A — scans51–60 / local pages51–60**; see `PART_001_PASS2A_PROGRESS.md`.
 
 For scan16, the map page is an **image-preserved non-text page** and must be visually verified as an image asset rather than Unicode label transcription. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
