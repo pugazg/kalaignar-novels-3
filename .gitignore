@@ -1,0 +1,5 @@
+# Controlling source PDFs remain outside Git.
+*.pdf
+
+# Local OS metadata
+.DS_Store
