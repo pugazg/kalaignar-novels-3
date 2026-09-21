@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — COMPLETE / PASS 2B NEXT**
+**PASS 2A — COMPLETE / PASS 2B IN PROGRESS**
 
 Active Part:
 - Part001
@@ -144,17 +144,22 @@ Active Part:
 
 ## Correction ledger
 
-### P2A-001 — scan3
+### P2A-001 — scan3 — SUPERSEDED BY P2B-001
 
 Pass-1 record:
 - `அளவு : 14 x 21 சி. எம்.`
 
-Direct source-pixel reading:
+Pass 2A reading recorded at the time:
 - `அளவு : 14 x 21 செ. மீ.`
 
-Action:
-- canonical scan3 corrected to source-visible `செ. மீ.`;
-- no modernization or external normalization involved.
+Pass 2A action at the time:
+- canonical scan3 was changed to `செ. மீ.`.
+
+Later independent Pass 2B direct source-pixel reread:
+- source visibly reads **`அளவு : 14 x 21 சி. எம்.`**;
+- **P2A-001 is superseded by P2B-001**;
+- canonical scan3 is restored to `சி. எம்.`;
+- historical Pass2A accounting remains unchanged as a record of what occurred during Pass2A.
 
 
 ### P2A-002 — scan19
@@ -593,6 +598,6 @@ All reviewed pages remain:
 
 Part001 Pass 2A is **COMPLETE / 75/75 REVIEWED / PASS**.
 
-Proceed next with **Part001 Pass 2B — scans1–10 / local pages1–10**, performing an independent lexical / historical-glyph reread. Do not reuse Pass2A conclusions as a substitute for direct source inspection.
+Pass2B is now **IN PROGRESS — scans1–10 REVIEWED / PASS**. Proceed next with **Part001 Pass 2B — scans11–20 / local pages11–20**, continuing the independent lexical / historical-glyph reread. P2B-001 on scan3 supersedes P2A-001.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
