@@ -29,9 +29,10 @@
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual pages + 1 image-map page**
 - Part001 Pass 1 pending physical scans: **0/75**
 - unresolved Pass1 source-reading holds: **0**
+- Part001 Pass 2A: **IN PROGRESS — 10/75 reviewed; 1 correction; 0 unresolved**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 Pass 2A — scans1–10 / local pages1–10.**
+**Part001 Pass 2A — scans11–20 / local pages11–20.**
