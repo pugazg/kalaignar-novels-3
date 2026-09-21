@@ -30,7 +30,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1
                  எட்டாம் பதிப்பு 2015  
                  ஒன்பதாம் பதிப்பு 2017  
 தாள்           : 70 GSM  
-அளவு           : 14 x 21 சி. எம்.  
+அளவு           : 14 x 21 செ. மீ.  
 படிகள்         : 1000  
 காலம்          : ஏப்ரல் 2017  
 விலை           : 500/- ரூபாய்  
@@ -50,3 +50,12 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1
 - status and visual fidelity remain `needs-review`.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 3; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected the Pass-1 unit reading `சி. எம்.` → source-visible `செ. மீ.` on the `அளவு` line;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
