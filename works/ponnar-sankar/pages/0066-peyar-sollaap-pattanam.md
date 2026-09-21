@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 7
 
 தூக்கி தரையில் ஓங்கி அடித்து, அவற்றின் உடல்களை வீசியெறிந்தனர்!
 
-ஒன்றிரண்டு பன்றிகள் தப்பித்தோம் பிழைத்தோம் என்று தலைதெறிக்க ஓடி விடவே, வாலிபர்கள் மூவரும் ஒருவர் தோளைப் பிடித்து ஒருவர் குலுக்கிப் பாராட்டு தெரிவித்துக் கொண்டு உடலில் படிந்துள்ள மண்ணைக் கழுவுவதற்காக அங்கு, சற்று தொலைவிலிருந்த பெரிய கிணற்றை நோக்கி நடந்து கொண்டிருந்தனர்.
+ஒன்றிரண்டு பன்றிகள் தப்பித்தோம் பிழைத்தோமென்று தலைதெறிக்க ஓடி விடவே, வாலிபர்கள் மூவரும் ஒருவர் தோளைப் பிடித்து ஒருவர் குலுக்கிப் பாராட்டு தெரிவித்துக் கொண்டு உடலில் படிந்துள்ள மண்ணைக் கழுவுவதற்காக அங்கு, சற்று தொலைவிலிருந்த பெரிய கிணற்றை நோக்கி நடந்து கொண்டிருந்தனர்.
 
 மாயவர், குதிரையை அவர்கள் நடந்து செல்லும் திசையில் முடுக்கிவிட்டார். குதிரையில் யாரோ வருவது கண்டு வாலிபர்கள் மூவரும் நின்றனர். அவர்களைப் பார்த்து மாயவர், “தம்பிகளா! இந்த ஊரில் ‘ராக்கியண்ணன் பயிற்சிப்பாசறை’ எங்கே இருக்கிறது?” என்று கேட்கவே - வாலிபர்கள் மூவரும் ஒருவரையொருவர் பார்த்துக் கொண்டனர். விழிகளை அகல விரித்தனர். மூவரில் ஒருவன் மட்டும் முன்வந்து; “இதோ இந்தப் பக்கம் நேராகப்போனால்... அந்தப் பாசறை போய்ச் சேரலாம்!” என்றான்.
 
@@ -36,3 +36,12 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 7
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 66; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 66; அச்சுப் பக்கம்: 49; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected restored source-visible joined form `பிழைத்தோமென்று`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
