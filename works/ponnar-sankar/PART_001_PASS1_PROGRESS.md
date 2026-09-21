@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCHES 1–4 PHYSICAL CAPTURE COMPLETE**
+**PASS 1 — IN PROGRESS / BATCHES 1–5 PHYSICAL CAPTURE COMPLETE**
 
 Active Part:
 - Part001
@@ -13,10 +13,10 @@ Active Part:
 ## Current accounting
 
 - Part001 physical scans: **75**
-- canonical Part001 records present: **40/75 — scans1–40**
-- Pass-1 physical capture complete: **40/75 — scans1–40**
-- Pass-1 text-complete records: **39/75 — scans1–15,17–40**
-- Pass-1 pending physical scans: **35/75 — scans41–75**
+- canonical Part001 records present: **50/75 — scans1–50**
+- Pass-1 physical capture complete: **50/75 — scans1–50**
+- Pass-1 text-complete records: **49/75 — scans1–15,17–50**
+- Pass-1 pending physical scans: **25/75 — scans51–75**
 - unresolved Pass-1 source-reading holds: **1 page — scan16 dense cartographic minor labels**
 - Part001 incoming boundary: **NONE**
 - Part001 outgoing 75→76 boundary: **PENDING Part002 direct witness**
@@ -35,8 +35,9 @@ All completed/captured Part001 records remain non-final:
 | 2 | 11–20 | 11–20 | scans11–15 = x–xiv; scan19 = 2; scan20 = 3 | **PHYSICAL CAPTURE COMPLETE / 9 TEXT-COMPLETE + 1 MAP-LABEL HOLD** |
 | 3 | 21–30 | 21–30 | scans21–25 = 4–8; scan26 chapter opener no inferred running page; scans27–30 = 10–13 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 4 | 31–40 | 31–40 | scans31–33 = 14–16; scan34 chapter opener no inferred running page; scans35–40 = 18–23 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 5 | 41–50 | 41–50 | pending direct review | **NEXT** |
-| remaining | 51–75 | 51–75 | pending direct review | NOT STARTED |
+| 5 | 41–50 | 41–50 | scans41–42 = 24–25; scan43 chapter opener no inferred running page; scans44–50 = 27–33 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 6 | 51–60 | 51–60 | pending direct review | **NEXT** |
+| remaining | 61–75 | 61–75 | pending direct review | NOT STARTED |
 
 ## Batch 1 source-structure observations
 
@@ -80,6 +81,16 @@ All completed/captured Part001 records remain non-final:
 - scans35–40 continue chapter3 / printed pages **18–23**;
 - scan40 ends with செல்லாத்தாக் கவுண்டர் asking மலைக்கொழுந்தாக் கவுண்டர் to state the real problem; scan41 is not imported.
 
+## Batch 5 source-structure observations
+
+- scans41–42 continue and close chapter3 `மச்சசாமியும் மருமகியும்` / printed pages **24–25**;
+- scan42 closes chapter3 after தலையூர்க்காளி prevents செல்லாத்தாக் கவுண்டர் from striking மலைக்கொழுந்தாக் கவுண்டர்;
+- scan43 opens chapter **4 / இனிய சூழலும் புதிய கோலமும்** with displayed chapter number **4**;
+- scan43 has no confidently assigned running printed-page value and no value is inferred from sequence;
+- scans44–50 continue chapter4 / printed pages **27–33**;
+- scans49–50 move into detailed Kongu wedding-ritual description;
+- scan50 remains open mid-sentence after the மங்கல நாண்சூட்டும் setup; scan51 is not imported.
+
 ## Continuation integrity
 
 - scan30 continues into scan31 without reconstruction;
@@ -87,7 +98,15 @@ All completed/captured Part001 records remain non-final:
 - scan34 ends `...செத்துத் தொலைந்தான் என்று முடிவுகட்டி`; scan35 continues `தாமரைக்குத் திருமணம் நிச்சயம் செய்தீர்கள்.`;
 - scan37 ends `...சிடுசிடுவென முகத்தை மாற்றிக் கொண்டு`; scan38 continues `ஏதோ முணுமுணுத்தவர்...`;
 - scan39 records the decision that நெல்லியங்கோடன்–தாமரை நாச்சி marriage will proceed;
-- scan40 continues with the approach to செல்லாத்தாக் கவுண்டர் and remains open into scan41.
+- scan40 continues with the approach to செல்லாத்தாக் கவுண்டர் and remains open into scan41;
+- scan41 ends with `மன்னித்துக் கொள்ளுங்கள்!`; scan42 answers that plea and closes chapter3;
+- scan43 ends `...அவரும் மணவிழாவுக்கு வருகிறார் என்று`; scan44 continues `சொன்னேன்.`;
+- scan44 ends `...ஜென்மம் எடுத்த பயனாகக் கருதக் கூடியவன்`; scan45 continues `நான்!`;
+- scan46 ends `...நமது பெருமைக்கு`; scan47 continues `இழுக்கு!`;
+- scan47 ends `விடிவதற்குள்ளாக`; scan48 continues `வளநாட்டுக்காரர்கள் அனைவரும்...`;
+- scan48 ends `...தன் மனதுக்குகந்தவளை மணக்கவும்`; scan49 continues `ஏற்பாடுகள் நடந்தன.`;
+- scan49 ends with the ritual inventory at `ரவிக்கைத்துணி`; scan50 continues `முதலியவற்றை...`;
+- scan50 remains an open chapter continuation; scan51 has not been transcribed.
 
 ## Notable source readings retained
 
@@ -100,7 +119,17 @@ All completed/captured Part001 records remain non-final:
 - scan37 — `எமகிங்கரன்`, source-visible split form `தலை யிட்டாள்`;
 - scan38 — ceremonial forms `முப்பரித்தாலி`, `குப்பாரிகொட்டித்`, `பொன் பூட்டிக் குலம் ஓதுதல்`, `புதுக்கலத்துண்ணல்`;
 - scan39 — `பட்டுப் பீதாம்பரம்`, `மங்கல நாண்`;
-- scan40 — `ஆணையிட்டார்`, `தலையசைப்பின் குறிப்பையறிந்து`.
+- scan40 — `ஆணையிட்டார்`, `தலையசைப்பின் குறிப்பையறிந்து`;
+- scan41 — `ஆட்சேபணையில்லையே`, `எள் முனையளவு`;
+- scan42 — `சலித்தவாறும் சிலிர்த்தவாறும்`, `மகிழ்ச்சி - மருட்சி`;
+- scan43 — chapter title `இனிய சூழலும் புதிய கோலமும்`, `மேனாட்டுச் சிற்றரசன்`;
+- scan44 — `சூதுவலை`, `பூதாகாரப்படுத்திக் கொண்டு`;
+- scan45 — `பொய்களாம் நெருஞ்சில் முட்கள்`, `அறைகூவல்`;
+- scan46 — `கெளரவம்`, `என்னப் பொருட்டு`, `பயங்கர குழப்பி`;
+- scan47 — `ரம்பை ஊர்வசி`, `எகடியத் தொனி`;
+- scan48 — `குப்பாரி கொட்டி`, `தண்புனலில்`;
+- scan49 — `முகூர்த்தக் கால்`, `பிரமசரிய விரதம்`, `விரலி மஞ்சள்`, `கூரைச்சேலை`;
+- scan50 — `கணுவேயில்லாத விரலிமஞ்சள்`, `ஆயிரப்பெருந்திரி`, `பூதக்கலச் சாதம்`, `கம்பர் மங்கல விழா வாழ்த்து`.
 
 No spelling modernization, external-place correction, grammar-based reconstruction or inferred pagination is authorized in Pass 1.
 
@@ -110,6 +139,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — scans41–50 / local pages41–50**.
+Begin **Part001 Pass 1 — scans51–60 / local pages51–60**.
 
 Carry the explicit **scan16 cartographic-label reread hold** forward; do not resolve it by external geography or inference. Do not begin Pass 2A until Pass 1 covers all **75** Part001 scans and Pass-1 holds are reconciled. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
