@@ -1,0 +1,32 @@
+---
+scan_page: 1
+part: 1
+part_page: 1
+printed_page: null
+work: "ponnar-sankar"
+section: "front-matter"
+page_type: "cover"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1"
+---
+
+## Source transcription
+
+பொன்னர்-சங்கர்
+
+கலைஞர்  
+மு.கருணாநிதி
+
+## Pass 1 notes
+
+- colour illustrated outer cover;
+- two mounted warriors dominate the cover artwork; one raises a sword and the other carries a spear and shield;
+- title and author credit are source-visible display text;
+- no printed page number is visible;
+- source text, display hierarchy and non-text artwork were captured directly from rendered source pixels;
+- status and visual fidelity remain `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 1; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
