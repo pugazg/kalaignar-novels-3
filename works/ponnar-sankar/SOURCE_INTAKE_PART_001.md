@@ -73,11 +73,11 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 1 — IN PROGRESS / BATCH 2 PHYSICAL CAPTURE COMPLETE.**
+**PART001 PASS 1 — IN PROGRESS / BATCHES 1–3 PHYSICAL CAPTURE COMPLETE.**
 
-- canonical page records — **20/75 — scans1–20**
-- Pass1 text-complete — **19/75 — scans1–15,17–20**
-- Pass1 pending physical scans — **55/75 — scans21–75**
+- canonical page records — **30/75 — scans1–30**
+- Pass1 text-complete — **29/75 — scans1–15,17–30**
+- Pass1 pending physical scans — **45/75 — scans31–75**
 - Pass1 source-reading hold — **1 page: scan16 dense cartographic minor labels**
 - completed-batch unresolved source-reading holds — **1 cartographic-label hold on scan16**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -86,14 +86,16 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - scans11–15 — **நுழைவாயில் continuation/close**
 - scan16 — **map plate / physical capture complete / minor-label reread hold**
 - scan17 — **blank reverse/show-through page**
-- scans18–20 — **chapter1 `மண விழாவில் மச்சான்` begins and continues**
-- scan20 ending — **open continuation; scan21 not yet transcribed**
+- scans18–25 — **chapter1 `மண விழாவில் மச்சான்` begins, continues and closes**
+- scan26 — **chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opens; running page not inferred**
+- scans27–30 — **chapter2 continues / printed pages10–13**
+- scan30 — **chapter continuation; scan31 not yet transcribed**
 - outgoing Part001 75→76 — **PENDING Part002 direct witness**
 - durable progress — `PART_001_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans 21–30 / local pages 21–30**, while retaining the scan16 cartographic-label hold for later direct reread.
+Begin **Part001 Pass 1 — global scans 31–40 / local pages 31–40**, while retaining the scan16 cartographic-label hold for later direct reread.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
