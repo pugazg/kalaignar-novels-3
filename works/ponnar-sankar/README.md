@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 1 PHYSICAL CAPTURE COMPLETE / HOLD RECONCILIATION NEXT**
+**PART001 PASS 1 COMPLETE / PASS 2A NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -11,9 +11,11 @@
 - total physical scans for complete work: **pending remaining Part intakes**
 - registered physical scans: **75**
 - canonical page records: **75/75 — scans1–75**
-- Pass1 text-complete: **74/75 — scans1–15,17–75**
+- Pass1 textual transcriptions: **74/75 — scans1–15,17–75**
+- Pass1 image-preserved page: **1/75 — scan16 map plate**
+- Pass1 canonical completion: **75/75 — COMPLETE**
 - Pass1 pending physical scans: **0/75**
-- Pass1 source-reading holds: **1 — scan16 dense cartographic minor labels**
+- Pass1 source-reading holds: **0**
 - verified pages: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
@@ -50,6 +52,4 @@
 
 ## Exact next activity
 
-Perform **Part001 Pass 1 hold reconciliation — scan16 dense cartographic minor labels** from rendered source pixels only.
-
-Do not begin Pass 2A until scan16 is reconciled and all **75** Part001 scans are text-complete. Keep outgoing **75→76** pending until Part002 is supplied.
+Begin **Part001 Pass 2A — scans1–10 / local pages1–10** using direct source-pixel verification. Scan16 remains represented by `assets/scan-0016-map.png` and is not to be transcribed label-by-label. Keep outgoing **75→76** pending until Part002 is supplied.
