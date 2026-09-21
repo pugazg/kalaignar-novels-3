@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 4
 
 “மகளின் வாழ்க்கைப் பிரச்சினையை உங்கள் கெளரவப் பிரச்சினைக்காக அலட்சியப்படுத்துவது நியாயந்தானா அப்பா?”
 
-இப்போது அமைதியாகப் பெருமாயி அம்மாள் தலை யிட்டாள்.
+இப்போது அமைதியாகப் பெருமாயி அம்மாள் தலையிட்டாள்.
 
 “செல்லாத்தாக் கவுண்டரிடம் உண்மையான விபரத்தைச் சொல்லி அவரை சமாதானப்படுத்தி, அவரையும் இருந்து இந்தக் கலியாணத்தை நடத்தச் சொல்லக் கூடாதா?”
 
@@ -49,4 +49,15 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 4
 - source-text corrections: **0**;
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against rendered source pixels;
+- word boundaries, spacing, punctuation-sensitive readings, historical/source-visible glyph identity and compounds were rechecked without modernization;
+- rejoined the physical line-wrap split **`தலை யிட்டாள்` → `தலையிட்டாள்`**; the rendered source shows one lexical word split only by the line ending;
+
+- source-text corrections in Pass 2B: **1**;
+- unresolved textual questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
