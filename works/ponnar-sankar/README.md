@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 1 COMPLETE / PASS 2A NEXT**
+**PART001 PASS 2A IN PROGRESS / BATCH 1 COMPLETE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -16,6 +16,9 @@
 - Pass1 canonical completion: **75/75 — COMPLETE**
 - Pass1 pending physical scans: **0/75**
 - Pass1 source-reading holds: **0**
+- Pass2A reviewed: **10/75 — scans1–10**
+- Pass2A source-text corrections: **1**
+- Pass2A unresolved textual questions: **0**
 - verified pages: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
@@ -47,9 +50,10 @@
 - `SOURCE_INTAKE_PART_001.md`
 - `PAGE_RECORD_TEMPLATE.md`
 - `PART_001_PASS1_PROGRESS.md`
+- `PART_001_PASS2A_PROGRESS.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
 
 ## Exact next activity
 
-Begin **Part001 Pass 2A — scans1–10 / local pages1–10** using direct source-pixel verification. Scan16 remains represented by `assets/scan-0016-map.png` and is not to be transcribed label-by-label. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 2A — scans11–20 / local pages11–20** using direct source-pixel verification. For scan16, verify the image-map record/asset linkage rather than label-by-label Unicode text. Keep outgoing **75→76** pending until Part002 is supplied.
