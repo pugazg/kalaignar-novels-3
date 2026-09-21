@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / scans1–20 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / scans1–30 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -16,8 +16,8 @@ Active Part:
 
 ## Pass 2B accounting
 
-- reviewed: **20/75 — scans1–20**
-- pending: **55/75 — scans21–75**
+- reviewed: **30/75 — scans1–30**
+- pending: **45/75 — scans31–75**
 - source-text corrections applied in Pass 2B: **3**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
@@ -52,6 +52,21 @@ Active Part:
 | 18 | chapter1 `மண விழாவில் மச்சான்` opening | — | **2** | REVIEWED / PASS |
 | 19 | chapter1 continuation | 2 | 0 | REVIEWED / PASS |
 | 20 | chapter1 continuation | 3 | 0 | REVIEWED / PASS |
+
+## Batch 3 — scans21–30
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 21 | chapter1 continuation | 4 | 0 | REVIEWED / PASS |
+| 22 | chapter1 continuation | 5 | 0 | REVIEWED / PASS |
+| 23 | chapter1 continuation | 6 | 0 | REVIEWED / PASS |
+| 24 | chapter1 continuation | 7 | 0 | REVIEWED / PASS |
+| 25 | chapter1 close + illustration | 8 | 0 | REVIEWED / PASS |
+| 26 | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opening | — | 0 | REVIEWED / PASS |
+| 27 | chapter2 continuation | 10 | 0 | REVIEWED / PASS |
+| 28 | chapter2 continuation | 11 | 0 | REVIEWED / PASS |
+| 29 | chapter2 continuation | 12 | 0 | REVIEWED / PASS |
+| 30 | chapter2 continuation | 13 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -102,9 +117,18 @@ Action:
 - no status promotion performed
 - Pass3 not started
 
+## Batch 3 result
+
+- scans21–30: **10/10 REVIEWED / PASS**
+- Pass2B corrections in this batch: **0**
+- unresolved textual questions: **0**
+- source-visible word boundaries, colloquial forms, punctuation and historical/source forms retained without silent normalization
+- no status promotion performed
+- Pass3 not started
+
 ## Cumulative result
 
-- scans1–20: **20/20 REVIEWED / PASS**
+- scans1–30: **30/30 REVIEWED / PASS**
 - cumulative Pass2B corrections: **3**
 - unresolved textual questions: **0**
 - source-visible historical / lexical forms retained without silent normalization
@@ -113,6 +137,6 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — global scans21–30 / local pages21–30**.
+Proceed with **Part001 Pass 2B — global scans31–40 / local pages31–40**.
 
 Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Pass3.
