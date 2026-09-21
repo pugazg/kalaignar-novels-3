@@ -66,16 +66,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 58 | 58 | 41 | chapter5 continuation; expulsion/dowry declaration | needs-review | `pages/0058-thaamarai-naachchiyin-sapatham.md` |
 | 001 | 59 | 59 | 42 | chapter5 continuation; explicit sibling-vow / சபதம் | needs-review | `pages/0059-thaamarai-naachchiyin-sapatham.md` |
 | 001 | 60 | 60 | 43 | chapter5 close; substantial blank lower field | needs-review | `pages/0060-thaamarai-naachchiyin-sapatham.md` |
-| 001 | 61 | 61 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 62 | 62 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 63 | 63 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 64 | 64 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 65 | 65 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 66 | 66 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 67 | 67 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 68 | 68 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 69 | 69 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 70 | 70 | — | unclassified — Pass 1 direct source review pending | not-started | — |
+| 001 | 61 | 61 | — | chapter6 `பெயர் சொல்லாப் பட்டணம்` opening; running page not inferred | needs-review | `pages/0061-peyar-sollaap-pattanam.md` |
+| 001 | 62 | 62 | 45 | chapter6 continuation | needs-review | `pages/0062-peyar-sollaap-pattanam.md` |
+| 001 | 63 | 63 | 46 | chapter6 continuation; வாங்கலாயி / மாயவர் dialogue | needs-review | `pages/0063-peyar-sollaap-pattanam.md` |
+| 001 | 64 | 64 | 47 | chapter6 continuation | needs-review | `pages/0064-peyar-sollaap-pattanam.md` |
+| 001 | 65 | 65 | 48 | chapter6 continuation; wild-boar encounter | needs-review | `pages/0065-peyar-sollaap-pattanam.md` |
+| 001 | 66 | 66 | 49 | chapter6 continuation; வீர வாலிபர்கள் / பாசறை direction | needs-review | `pages/0066-peyar-sollaap-pattanam.md` |
+| 001 | 67 | 67 | 50 | chapter6 continuation; பாசறை entrance | needs-review | `pages/0067-peyar-sollaap-pattanam.md` |
+| 001 | 68 | 68 | 51 | chapter6 continuation; மாயவர்–ராக்கியண்ணன் reunion | needs-review | `pages/0068-peyar-sollaap-pattanam.md` |
+| 001 | 69 | 69 | 52 | chapter6 close; substantial blank lower field | needs-review | `pages/0069-peyar-sollaap-pattanam.md` |
+| 001 | 70 | 70 | — | chapter7 `உண்மையின் உதயம்` opening; running page not inferred | needs-review | `pages/0070-unmaiyin-uthayam.md` |
 | 001 | 71 | 71 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 72 | 72 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 73 | 73 | — | unclassified — Pass 1 direct source review pending | not-started | — |
@@ -91,7 +91,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
-- canonical page records: **60/75 — scans1–60**
-- Part001 Pass 1: **IN PROGRESS — scans1–60 physically captured / 59 text-complete / scan16 map-label hold**
+- canonical page records: **70/75 — scans1–70**
+- Part001 Pass 1: **IN PROGRESS — scans1–70 physically captured / 69 text-complete / scan16 map-label hold**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 scans61–70 / local pages61–70**
+- exact next activity: **Part001 Pass 1 scans71–75 / local pages71–75 — final Pass1 physical batch**
