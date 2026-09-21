@@ -56,16 +56,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 48 | 48 | 31 | chapter4 continuation; wedding-preparation transition | needs-review | `pages/0048-iniya-soozhalum-puthiya-kolamum.md` |
 | 001 | 49 | 49 | 32 | chapter4 continuation; wedding ritual detail begins | needs-review | `pages/0049-iniya-soozhalum-puthiya-kolamum.md` |
 | 001 | 50 | 50 | 33 | chapter4 continuation; ritual detail; open ending | needs-review | `pages/0050-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 51 | 51 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 52 | 52 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 53 | 53 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 54 | 54 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 55 | 55 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 56 | 56 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 57 | 57 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 58 | 58 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 59 | 59 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 60 | 60 | — | unclassified — Pass 1 direct source review pending | not-started | — |
+| 001 | 51 | 51 | 34 | chapter4 close | needs-review | `pages/0051-iniya-soozhalum-puthiya-kolamum.md` |
+| 001 | 52 | 52 | — | chapter5 `தாமரை நாச்சியின் சபதம்` opening; running page not inferred | needs-review | `pages/0052-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 53 | 53 | 36 | chapter5 continuation; parental-foot-washing ritual | needs-review | `pages/0053-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 54 | 54 | 37 | chapter5 continuation; urgent letter introduced | needs-review | `pages/0054-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 55 | 55 | 38 | chapter5 continuation; தலையூர்க்காளி letter begins | needs-review | `pages/0055-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 56 | 56 | 39 | chapter5 continuation; letter closes | needs-review | `pages/0056-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 57 | 57 | 40 | chapter5 continuation; family confrontation | needs-review | `pages/0057-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 58 | 58 | 41 | chapter5 continuation; expulsion/dowry declaration | needs-review | `pages/0058-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 59 | 59 | 42 | chapter5 continuation; explicit sibling-vow / சபதம் | needs-review | `pages/0059-thaamarai-naachchiyin-sapatham.md` |
+| 001 | 60 | 60 | 43 | chapter5 close; substantial blank lower field | needs-review | `pages/0060-thaamarai-naachchiyin-sapatham.md` |
 | 001 | 61 | 61 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 62 | 62 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 63 | 63 | — | unclassified — Pass 1 direct source review pending | not-started | — |
@@ -91,7 +91,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
-- canonical page records: **50/75 — scans1–50**
-- Part001 Pass 1: **IN PROGRESS — scans1–50 physically captured / 49 text-complete / scan16 map-label hold**
+- canonical page records: **60/75 — scans1–60**
+- Part001 Pass 1: **IN PROGRESS — scans1–60 physically captured / 59 text-complete / scan16 map-label hold**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 scans51–60 / local pages51–60**
+- exact next activity: **Part001 Pass 1 scans61–70 / local pages61–70**
