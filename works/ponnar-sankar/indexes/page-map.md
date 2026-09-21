@@ -21,7 +21,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 13 | 13 | xii | `நுழைவாயில்` continuation | needs-review | `pages/0013-nuzhaivaayil.md` |
 | 001 | 14 | 14 | xiii | `நுழைவாயில்` continuation | needs-review | `pages/0014-nuzhaivaayil.md` |
 | 001 | 15 | 15 | xiv | `நுழைவாயில்` close; substantial blank lower field | needs-review | `pages/0015-nuzhaivaayil.md` |
-| 001 | 16 | 16 | — | landscape map plate; minor cartographic-label reread hold | needs-review | `pages/0016-map.md` |
+| 001 | 16 | 16 | — | landscape map plate preserved as image asset; no label transcription required | needs-review | `pages/0016-map.md` |
 | 001 | 17 | 17 | — | blank physical page; map show-through only | needs-review | `pages/0017-blank.md` |
 | 001 | 18 | 18 | — | chapter1 `மண விழாவில் மச்சான்` opening; running page not inferred | needs-review | `pages/0018-mana-vizhaavil-machchaan.md` |
 | 001 | 19 | 19 | 2 | chapter1 continuation | needs-review | `pages/0019-mana-vizhaavil-machchaan.md` |
@@ -92,6 +92,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
 - canonical page records: **75/75 — scans1–75**
-- Part001 Pass 1: **PHYSICAL CAPTURE COMPLETE — 75/75; 74 text-complete / scan16 map-label hold**
+- Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 hold reconciliation — scan16 dense cartographic minor labels**
+- exact next activity: **Part001 Pass 2A scans1–10 / local pages1–10**
