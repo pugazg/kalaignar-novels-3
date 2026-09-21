@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 2A IN PROGRESS / BATCHES 1–5 COMPLETE**
+**PART001 PASS 2A IN PROGRESS / BATCHES 1–6 COMPLETE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -16,8 +16,8 @@
 - Pass1 canonical completion: **75/75 — COMPLETE**
 - Pass1 pending physical scans: **0/75**
 - Pass1 source-reading holds: **0**
-- Pass2A reviewed: **50/75 — scans1–50**
-- Pass2A source-text corrections: **22**
+- Pass2A reviewed: **60/75 — scans1–60**
+- Pass2A source-text corrections: **26**
 - Pass2A unresolved textual questions: **0**
 - verified pages: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
@@ -56,4 +56,4 @@
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans51–60 / local pages51–60** using direct source-pixel verification. Scan16 Pass2A is complete as an image-map record. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 2A — scans61–70 / local pages61–70** using direct source-pixel verification. Scan16 Pass2A is complete as an image-map record. Keep outgoing **75→76** pending until Part002 is supplied.
