@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCHES 1–6 COMPLETE**
+**PASS 2A — IN PROGRESS / BATCHES 1–7 COMPLETE**
 
 Active Part:
 - Part001
@@ -14,9 +14,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed: **60/75 — scans1–60**
-- pending: **15/75 — scans61–75**
-- source-text corrections applied: **26**
+- reviewed: **70/75 — scans1–70**
+- pending: **5/75 — scans71–75**
+- source-text corrections applied: **29**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 
@@ -114,6 +114,22 @@ Active Part:
 | 58 | chapter5 continuation | 41 | **1** | REVIEWED / PASS |
 | 59 | chapter5 continuation / vow exchange | 42 | 0 | REVIEWED / PASS |
 | 60 | chapter5 close | 43 | 0 | REVIEWED / PASS |
+
+
+## Batch 7 — scans61–70
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 61 | chapter6 `பெயர் சொல்லாப் பட்டணம்` opening | — | 0 | REVIEWED / PASS |
+| 62 | chapter6 continuation | 45 | **1** | REVIEWED / PASS |
+| 63 | chapter6 continuation | 46 | 0 | REVIEWED / PASS |
+| 64 | chapter6 continuation | 47 | 0 | REVIEWED / PASS |
+| 65 | chapter6 continuation | 48 | 0 | REVIEWED / PASS |
+| 66 | chapter6 continuation | 49 | **1** | REVIEWED / PASS |
+| 67 | chapter6 continuation | 50 | 0 | REVIEWED / PASS |
+| 68 | chapter6 continuation | 51 | 0 | REVIEWED / PASS |
+| 69 | chapter6 close | 52 | 0 | REVIEWED / PASS |
+| 70 | chapter7 `உண்மையின் உதயம்` opening | — | **1** | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -408,6 +424,40 @@ Direct source-pixel reading:
 Action:
 - canonical scan58 corrected to source-visible `நவரத்தினமிழைத்த`.
 
+
+### P2A-027 — scan62
+
+Pass-1 record:
+- `வேகத்தைப் பொறுத்தவரையில்`
+
+Direct source-pixel reading:
+- `வேகத்தைப் பொருத்தவரையில்`
+
+Action:
+- canonical scan62 corrected to source-visible `வேகத்தைப் பொருத்தவரையில்`.
+
+### P2A-028 — scan66
+
+Pass-1 record:
+- `தப்பித்தோம் பிழைத்தோம் என்று`
+
+Direct source-pixel reading:
+- `தப்பித்தோம் பிழைத்தோமென்று`
+
+Action:
+- canonical scan66 restored the source-visible joined form `பிழைத்தோமென்று`.
+
+### P2A-029 — scan70
+
+Pass-1 record:
+- `பெருங்கனைப்பொன்றை`
+
+Direct source-pixel reading:
+- `பெருங் கனைப்பொன்றை`
+
+Action:
+- canonical scan70 restored the source-visible spacing.
+
 ## Verification notes
 
 - scans1–2: display text, title/author/publisher wording and page-boundary identity checked directly;
@@ -478,12 +528,24 @@ Action:
 - scan60: printed page **43**, chapter5 closure and substantial blank lower field checked directly with no correction;
 - batch6 source-text corrections: **4**; unresolved textual questions: **0**.
 
+
+### Batch 7 verification notes
+
+- scan61: chapter6 number/title `பெயர் சொல்லாப் பட்டணம்`, opening prose and page structure checked directly; no running printed page inferred and no correction required;
+- scan62: printed page **45**, running header, descriptive prose and page-end continuation into scan63 checked directly; one lexical/source-form correction applied;
+- scans63–65: printed pages **46–48**, dialogue, place/name forms, paragraph structure and page boundaries checked directly with no corrections;
+- scan66: printed page **49**, wild-boar aftermath, training-camp dialogue and open continuation into scan67 checked directly; one source-visible joining correction applied;
+- scans67–68: printed pages **50–51**, training-camp entrance/reunion dialogue, punctuation and open continuations checked directly with no corrections;
+- scan69: printed page **52**, chapter6 closure and substantial blank lower field checked directly with no correction;
+- scan70: chapter7 number/title `உண்மையின் உதயம்`, opening dialogue and historical exposition checked directly; no running printed page inferred; one source-visible spacing correction applied;
+- batch7 source-text corrections: **3**; unresolved textual questions: **0**.
+
 All reviewed pages remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans61–70 / local pages61–70**.
+Proceed with **Part001 Pass 2A — scans71–75 / local pages71–75** — the final Pass 2A batch.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
