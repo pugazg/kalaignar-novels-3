@@ -53,10 +53,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - repository controls — **INITIALIZED / SYNCHRONIZED**
 - registered Parts — **1/8**
 - Part001 source intake — **COMPLETE**
-- Part001 canonical page records — **20/75 — scans1–20**
-- Part001 Pass 1 — **IN PROGRESS / BATCHES 1–2 PHYSICAL CAPTURE COMPLETE**
-- Part001 Pass 1 text-complete — **19/75 — scans1–15,17–20**
-- Part001 Pass 1 pending physical scans — **55/75 — scans21–75**
+- Part001 canonical page records — **30/75 — scans1–30**
+- Part001 Pass 1 — **IN PROGRESS / BATCHES 1–3 PHYSICAL CAPTURE COMPLETE**
+- Part001 Pass 1 text-complete — **29/75 — scans1–15,17–30**
+- Part001 Pass 1 pending physical scans — **45/75 — scans31–75**
 - unresolved Pass1 source-reading holds — **1 — scan16 dense cartographic minor labels**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
@@ -65,6 +65,6 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans21–30 / local pages21–30**. Carry the scan16 cartographic-label hold forward for later direct reread.
+Begin **Part001 Pass 1 — global scans31–40 / local pages31–40**. Carry the scan16 cartographic-label hold forward for later direct reread.
 
 Keep all created records at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass 2A until Pass1 covers all **75** scans. Keep **75→76** pending until Part002 is supplied.
