@@ -76,11 +76,11 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 68 | 68 | 51 | chapter6 continuation; மாயவர்–ராக்கியண்ணன் reunion | needs-review | `pages/0068-peyar-sollaap-pattanam.md` |
 | 001 | 69 | 69 | 52 | chapter6 close; substantial blank lower field | needs-review | `pages/0069-peyar-sollaap-pattanam.md` |
 | 001 | 70 | 70 | — | chapter7 `உண்மையின் உதயம்` opening; running page not inferred | needs-review | `pages/0070-unmaiyin-uthayam.md` |
-| 001 | 71 | 71 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 72 | 72 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 73 | 73 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 74 | 74 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 75 | 75 | — | unclassified — Pass 1 direct source review pending | not-started | — |
+| 001 | 71 | 71 | 54 | chapter7 `உண்மையின் உதயம்` continuation | needs-review | `pages/0071-unmaiyin-uthayam.md` |
+| 001 | 72 | 72 | 55 | chapter7 continuation | needs-review | `pages/0072-unmaiyin-uthayam.md` |
+| 001 | 73 | 73 | 56 | chapter7 continuation; historical/background exposition | needs-review | `pages/0073-unmaiyin-uthayam.md` |
+| 001 | 74 | 74 | 57 | chapter7 continuation | needs-review | `pages/0074-unmaiyin-uthayam.md` |
+| 001 | 75 | 75 | 58 | chapter7 continuation; Part001 ends mid-chapter; 75→76 pending witness | needs-review | `pages/0075-unmaiyin-uthayam.md` |
 
 ## Split accounting
 
@@ -91,7 +91,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
-- canonical page records: **70/75 — scans1–70**
-- Part001 Pass 1: **IN PROGRESS — scans1–70 physically captured / 69 text-complete / scan16 map-label hold**
+- canonical page records: **75/75 — scans1–75**
+- Part001 Pass 1: **PHYSICAL CAPTURE COMPLETE — 75/75; 74 text-complete / scan16 map-label hold**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 scans71–75 / local pages71–75 — final Pass1 physical batch**
+- exact next activity: **Part001 Pass 1 hold reconciliation — scan16 dense cartographic minor labels**
