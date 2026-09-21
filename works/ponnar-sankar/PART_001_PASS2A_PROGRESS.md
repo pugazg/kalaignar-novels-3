@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCHES 1–2 COMPLETE**
+**PASS 2A — IN PROGRESS / BATCHES 1–3 COMPLETE**
 
 Active Part:
 - Part001
@@ -14,9 +14,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed: **20/75 — scans1–20**
-- pending: **55/75 — scans21–75**
-- source-text corrections applied: **4**
+- reviewed: **30/75 — scans1–30**
+- pending: **45/75 — scans31–75**
+- source-text corrections applied: **12**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 
@@ -50,6 +50,22 @@ Active Part:
 | 18 | chapter1 `மண விழாவில் மச்சான்` opening | — | 0 | REVIEWED / PASS |
 | 19 | chapter1 continuation | 2 | **1** | REVIEWED / PASS |
 | 20 | chapter1 continuation | 3 | **2** | REVIEWED / PASS |
+
+
+## Batch 3 — scans21–30
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 21 | chapter1 continuation | 4 | 0 | REVIEWED / PASS |
+| 22 | chapter1 continuation | 5 | 0 | REVIEWED / PASS |
+| 23 | chapter1 continuation | 6 | 0 | REVIEWED / PASS |
+| 24 | chapter1 continuation | 7 | **1** | REVIEWED / PASS |
+| 25 | chapter1 close + illustration | 8 | **1** | REVIEWED / PASS |
+| 26 | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opening | — | 0 | REVIEWED / PASS |
+| 27 | chapter2 continuation | 10 | **1** | REVIEWED / PASS |
+| 28 | chapter2 continuation | 11 | **2** | REVIEWED / PASS |
+| 29 | chapter2 continuation | 12 | 0 | REVIEWED / PASS |
+| 30 | chapter2 continuation | 13 | **3** | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -99,6 +115,95 @@ Direct source-pixel reading:
 Action:
 - canonical scan20 corrected to source-visible `புறப்பட்டு விடவே`.
 
+
+### P2A-005 — scan24
+
+Pass-1 record:
+- `மச்சாமின்னு`
+
+Direct source-pixel reading:
+- `மச்சசாமின்னு`
+
+Action:
+- canonical scan24 corrected to source-visible colloquial form `மச்சசாமின்னு`.
+
+### P2A-006 — scan25
+
+Pass-1 record:
+- `அந்தப் புழங்காக் கொட்டடியில்`
+
+Direct source-pixel reading:
+- `அந்தப் பயங்கரக் கொட்டடியில்`
+
+Action:
+- canonical scan25 corrected to source-visible `அந்தப் பயங்கரக் கொட்டடியில்`.
+
+### P2A-007 — scan27
+
+Pass-1 record:
+- `விளையும் பயிர் முளையிலேயே கேள்விப்பட்ட தில்லையா?`
+
+Direct source-pixel reading:
+- `விளையும் பயிர் முளையிலேன்னு கேள்விப்பட்ட தில்லையா?`
+
+Action:
+- canonical scan27 corrected to source-visible colloquial `முளையிலேன்னு`.
+
+### P2A-008 — scan28
+
+Pass-1 record:
+- `ஊமைக் கோட்டான்`
+
+Direct source-pixel reading:
+- `ஊமைக்கோட்டான்`
+
+Action:
+- canonical scan28 corrected to the source-visible joined form.
+
+### P2A-009 — scan28
+
+Pass-1 record:
+- `கடு சூது அறியாமல்`
+
+Direct source-pixel reading:
+- `கபடு சூது அறியாமல்`
+
+Action:
+- canonical scan28 corrected to source-visible `கபடு சூது அறியாமல்`.
+
+### P2A-010 — scan30
+
+Pass-1 record:
+- `கொடுக்க மளவுக்கு`
+
+Direct source-pixel reading:
+- `கொடுக்குமளவுக்கு`
+
+Action:
+- canonical scan30 corrected by rejoining the single source word split only by physical line wrapping.
+
+### P2A-011 — scan30
+
+Pass-1 record:
+- `செல்லும் இழகிற கொட்டடியில்`
+
+Direct source-pixel reading:
+- `செல்லும் இழைகிற கொட்டடியில்`
+
+Action:
+- canonical scan30 corrected `இழகிற` → `இழைகிற`.
+
+### P2A-012 — scan30
+
+Pass-1 record:
+- `மகரந்தத்துள்களையெல்லாம்`
+
+Direct source-pixel reading:
+- `மகரந்தத்துகள்களையெல்லாம்`
+
+Action:
+- canonical scan30 corrected to source-visible `மகரந்தத்துகள்களையெல்லாம்`.
+
 ## Verification notes
 
 - scans1–2: display text, title/author/publisher wording and page-boundary identity checked directly;
@@ -120,12 +225,24 @@ Action:
 - scan19: printed page **2** and running header checked; one source-text correction applied;
 - scan20: printed page **3**, announcement/dialogue text and open continuation into scan21 checked; two source-text corrections applied.
 
+
+### Batch 3 verification notes
+
+- scans21–24: chapter1 continuation, printed pages **4–7**, dialogue punctuation, page boundaries and colloquial forms checked directly;
+- scan24: one lexical correction applied in the disguised-identity dialogue;
+- scan25: printed page **8**, chapter1 closure, substantial blank field and two-warrior illustration checked; one source-reading correction applied;
+- scan26: chapter2 number/title and opening text checked; no running page number inferred;
+- scan27: printed page **10** and dialogue/background exposition checked; one colloquial-form correction applied;
+- scan28: printed page **11**, compound/colloquial wording checked; two source-text corrections applied;
+- scan29: printed page **12**, dialogue and open dash into scan30 checked with no correction;
+- scan30: printed page **13**, continuation from scan29 and insect-infested-shed wording checked; three source-text corrections applied.
+
 All reviewed pages remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans21–30 / local pages21–30**.
+Proceed with **Part001 Pass 2A — scans31–40 / local pages31–40**.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
