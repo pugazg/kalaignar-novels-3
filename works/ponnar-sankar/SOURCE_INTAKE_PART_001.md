@@ -70,9 +70,23 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - [x] incoming boundary recorded as NONE
 - [x] outgoing boundary left pending until Part002 witness is supplied
 
+## Current gate
+
+**PART001 PASS 1 — IN PROGRESS / BATCH 1 COMPLETE — 10/75 TEXT-COMPLETE.**
+
+- canonical page records — **10/75 — scans1–10**
+- Pass1 text-complete — **10/75**
+- Pass1 pending — **65/75 — scans11–75**
+- completed-batch unresolved source-reading holds — **0**
+- all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- scan8→9 internal continuation — **captured without reconstruction**
+- scan10 ending — **open continuation; scan11 not yet transcribed**
+- outgoing Part001 75→76 — **PENDING Part002 direct witness**
+- durable progress — `PART_001_PASS1_PROGRESS.md`
+
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans 1–10 / local pages 1–10**.
+Begin **Part001 Pass 1 — global scans 11–20 / local pages 11–20**.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
