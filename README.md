@@ -8,10 +8,12 @@
 - author: **கலைஞர் மு. கருணாநிதி**
 - working source: **8 split PDFs**, each **not more than 50 MB**
 - split method: **file-size based**, therefore page counts per Part are not assumed
-- complete physical scan extent: **pending source intake**
-- source-family / archive identifier: **pending first supplied split**
+- source family / archive identifier: **TVA_BOK_0065560**
+- Part001: **REGISTERED / 75 local pages / global scans1–75**
+- remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **repository/workflow initialized; Part001 source intake next**
+- current state: **Part001 source intake complete; Pass1 scans1–10 next**
+- outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
 ## Workflow
 
@@ -40,4 +42,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Supply **Part001**. Register its filename, byte size, SHA-256, local PDF page count, source identity and global scan mapping before transcription begins.
+Begin **Part001 Pass 1 — global scans1–10 / local pages1–10**.
+
+Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
