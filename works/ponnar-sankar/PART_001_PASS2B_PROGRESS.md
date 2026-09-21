@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / scans1–10 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / scans1–20 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2B accounting
 
-- reviewed: **10/75 — scans1–10**
-- pending: **65/75 — scans11–75**
-- source-text corrections applied in Pass 2B: **1**
+- reviewed: **20/75 — scans1–20**
+- pending: **55/75 — scans21–75**
+- source-text corrections applied in Pass 2B: **3**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 - all reviewed records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -38,6 +38,21 @@ Active Part:
 | 9 | `நுழைவாயில்` continuation | viii | 0 | REVIEWED / PASS |
 | 10 | `நுழைவாயில்` continuation | ix | 0 | REVIEWED / PASS |
 
+## Batch 2 — scans11–20
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 11 | `நுழைவாயில்` continuation | x | 0 | REVIEWED / PASS |
+| 12 | `நுழைவாயில்` continuation | xi | 0 | REVIEWED / PASS |
+| 13 | `நுழைவாயில்` continuation | xii | 0 | REVIEWED / PASS |
+| 14 | `நுழைவாயில்` continuation | xiii | 0 | REVIEWED / PASS |
+| 15 | `நுழைவாயில்` close | xiv | 0 | REVIEWED / PASS |
+| 16 | image-preserved map plate | — | 0 / N/A | REVIEWED / PASS |
+| 17 | blank / map show-through | — | 0 | REVIEWED / PASS |
+| 18 | chapter1 `மண விழாவில் மச்சான்` opening | — | **2** | REVIEWED / PASS |
+| 19 | chapter1 continuation | 2 | 0 | REVIEWED / PASS |
+| 20 | chapter1 continuation | 3 | 0 | REVIEWED / PASS |
+
 ## Correction ledger
 
 ### P2B-001 — scan3 — supersedes P2A-001
@@ -54,10 +69,43 @@ Action:
 - the historical Pass2A total remains **31 corrections recorded during that pass**, but P2A-001 no longer controls canonical wording;
 - no modernization or external normalization was used.
 
-## Batch result
+### P2B-002 — scan18
 
-- scans1–10: **10/10 REVIEWED / PASS**
-- Pass2B corrections in this batch: **1**
+Pass2B entry-state canonical:
+- `வாழை மரங்கள் மூங்கில்மரங்களை அணைத்துத் தழுவிக் கொண்டு`
+
+Independent direct source-pixel reading:
+- `வாழை மரங்கள் மூங்கில் மரங்களை அணைத்துத் தழுவிக் கொண்டு`
+
+Action:
+- canonical scan18 restored the source-visible word boundary **`மூங்கில் மரங்களை`**;
+- no modernization or inferred lexical normalization was used.
+
+### P2B-003 — scan18
+
+Pass2B entry-state canonical:
+- `மலைக்கொழுந்தாக் கவுண்டரின் மகன் சின்னமலைக்கொழுந்தும்,`
+
+Independent direct source-pixel reading:
+- `மலைக்கொழுந்தாக் கவுண்டரின் மகன் சின்னமலைக் கொழுந்தும்,`
+
+Action:
+- canonical scan18 restored the source-visible word boundary **`சின்னமலைக் கொழுந்தும்`**;
+- this is occurrence-sensitive and does not normalize other `சின்னமலைக்கொழுந்து` occurrences elsewhere.
+
+## Batch 2 result
+
+- scans11–20: **10/10 REVIEWED / PASS**
+- Pass2B corrections in this batch: **2**
+- unresolved textual questions: **0**
+- scan16 handled as image-preserved map evidence only; no label-by-label Unicode reconstruction
+- no status promotion performed
+- Pass3 not started
+
+## Cumulative result
+
+- scans1–20: **20/20 REVIEWED / PASS**
+- cumulative Pass2B corrections: **3**
 - unresolved textual questions: **0**
 - source-visible historical / lexical forms retained without silent normalization
 - no status promotion performed
@@ -65,6 +113,6 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — global scans11–20 / local pages11–20**.
+Proceed with **Part001 Pass 2B — global scans21–30 / local pages21–30**.
 
-For scan16, verify the preserved map as an image record only; do not recreate or verify it label-by-label as Unicode text. Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Pass3.
