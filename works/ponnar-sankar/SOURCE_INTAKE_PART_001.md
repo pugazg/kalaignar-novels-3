@@ -73,11 +73,11 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 1 — IN PROGRESS / BATCHES 1–6 PHYSICAL CAPTURE COMPLETE.**
+**PART001 PASS 1 — IN PROGRESS / BATCHES 1–7 PHYSICAL CAPTURE COMPLETE.**
 
-- canonical page records — **60/75 — scans1–60**
-- Pass1 text-complete — **59/75 — scans1–15,17–60**
-- Pass1 pending physical scans — **15/75 — scans61–75**
+- canonical page records — **70/75 — scans1–70**
+- Pass1 text-complete — **69/75 — scans1–15,17–70**
+- Pass1 pending physical scans — **5/75 — scans71–75**
 - Pass1 source-reading hold — **1 page: scan16 dense cartographic minor labels**
 - completed-batch unresolved source-reading holds — **1 cartographic-label hold on scan16**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -96,12 +96,15 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - scan52 — **chapter5 `தாமரை நாச்சியின் சபதம்` opens; running page not inferred**
 - scans53–60 — **chapter5 continues and closes / printed pages36–43**
 - scan60 — **chapter5 close; substantial blank lower field**
+- scan61 — **chapter6 `பெயர் சொல்லாப் பட்டணம்` opens; running page not inferred**
+- scans62–69 — **chapter6 continues and closes / printed pages45–52**
+- scan70 — **chapter7 `உண்மையின் உதயம்` opens; running page not inferred; scan71 not yet transcribed**
 - outgoing Part001 75→76 — **PENDING Part002 direct witness**
 - durable progress — `PART_001_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans 61–70 / local pages 61–70**, while retaining the scan16 cartographic-label hold for later direct reread.
+Begin **Part001 Pass 1 — global scans 71–75 / local pages 71–75** — the final Pass1 physical batch — while retaining the scan16 cartographic-label hold for later direct reread.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
