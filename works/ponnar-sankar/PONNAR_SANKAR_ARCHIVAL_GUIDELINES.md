@@ -174,6 +174,12 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 
 ## Current frontier
 
-- Part001–Part008 — **SOURCE FILES EXPECTED / intake not yet registered**
-- canonical page records — **0**
-- exact next gate — **Part001 source intake**
+- Part001 — **SOURCE INTAKE COMPLETE / 75 canonical page records**
+- Part001 Pass 1 — **COMPLETE**
+- Part001 Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
+- Part001 Pass 2A corrections — **31**
+- Part001 Pass 2A unresolved — **0**
+- Part001 Pass 2B — **NOT STARTED**
+- Part002–Part008 — **pending intake / blocked by mandatory Part lock**
+- outgoing boundary 75→76 — **PENDING Part002 direct witness**
+- exact next gate — **Part001 Pass 2B scans1–10**
