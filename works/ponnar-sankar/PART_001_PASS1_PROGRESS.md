@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCHES 1–6 PHYSICAL CAPTURE COMPLETE**
+**PASS 1 — IN PROGRESS / BATCHES 1–7 PHYSICAL CAPTURE COMPLETE**
 
 Active Part:
 - Part001
@@ -13,10 +13,10 @@ Active Part:
 ## Current accounting
 
 - Part001 physical scans: **75**
-- canonical Part001 records present: **60/75 — scans1–60**
-- Pass-1 physical capture complete: **60/75 — scans1–60**
-- Pass-1 text-complete records: **59/75 — scans1–15,17–60**
-- Pass-1 pending physical scans: **15/75 — scans61–75**
+- canonical Part001 records present: **70/75 — scans1–70**
+- Pass-1 physical capture complete: **70/75 — scans1–70**
+- Pass-1 text-complete records: **69/75 — scans1–15,17–70**
+- Pass-1 pending physical scans: **5/75 — scans71–75**
 - unresolved Pass-1 source-reading holds: **1 page — scan16 dense cartographic minor labels**
 - Part001 incoming boundary: **NONE**
 - Part001 outgoing 75→76 boundary: **PENDING Part002 direct witness**
@@ -37,8 +37,8 @@ All completed/captured Part001 records remain non-final:
 | 4 | 31–40 | 31–40 | scans31–33 = 14–16; scan34 chapter opener no inferred running page; scans35–40 = 18–23 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 41–50 | 41–50 | scans41–42 = 24–25; scan43 chapter opener no inferred running page; scans44–50 = 27–33 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 6 | 51–60 | 51–60 | scan51 = 34; scan52 chapter opener no inferred running page; scans53–60 = 36–43 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 7 | 61–70 | 61–70 | pending direct review | **NEXT** |
-| remaining | 71–75 | 71–75 | pending direct review | NOT STARTED |
+| 7 | 61–70 | 61–70 | scan61 chapter opener no inferred running page; scans62–69 = 45–52; scan70 chapter opener no inferred running page | **COMPLETE / 10 TEXT-COMPLETE** |
+| 8 | 71–75 | 71–75 | pending direct review | **NEXT / FINAL PASS-1 PHYSICAL BATCH** |
 
 ## Batch 1 source-structure observations
 
@@ -102,6 +102,16 @@ All completed/captured Part001 records remain non-final:
 - scan59 contains the explicit sibling-vow / சபதம் exchange that gives the chapter its title;
 - scan60 / printed page **43** closes chapter5; the lower part of the physical page is substantially blank.
 
+## Batch 7 source-structure observations
+
+- scan61 opens chapter **6 / பெயர் சொல்லாப் பட்டணம்** with displayed chapter number **6**;
+- scan61 has no confidently assigned running printed-page value and no value is inferred from sequence;
+- scans62–68 continue chapter6 / printed pages **45–51**;
+- scan69 / printed page **52** closes chapter6 with the phrase `பெயர் சொல்லாப் பட்டணம்` appearing in the dialogue that motivates the chapter title;
+- scan69 leaves a substantial intentional blank lower field;
+- scan70 opens chapter **7 / உண்மையின் உதயம்** with displayed chapter number **7**;
+- scan70 has no confidently assigned running printed-page value and ends mid-sentence; scan71 is not imported.
+
 ## Continuation integrity
 
 - scan30 continues into scan31 without reconstruction;
@@ -122,7 +132,14 @@ All completed/captured Part001 records remain non-final:
 - scan53 ends `...மங்கல இசை முழங்க`; scan54 continues `அழைத்துச் சென்று...`;
 - scan55 ends `...எனக்கும் செல்லாத்தாக் கவுண்டருக்கும்`; scan56 continues the same letter with `உருவாகியிருக்கக்கூடிய சந்தேகம்...`;
 - scan57 ends `...அதற்காகத் தங்கச்சியை விட்டுக் கொடுத்துவிடுவானா? நீ`; scan58 continues `பிறந்தது முதல்...`;
-- scan59 ends `...“வாருங்கள்`; scan60 continues `அத்தான், போகலாம்!”` and closes chapter5.
+- scan59 ends `...“வாருங்கள்`; scan60 continues `அத்தான், போகலாம்!”` and closes chapter5;
+- scan61 begins a new chapter after the chapter5 close;
+- scan62 ends `...உழவர் பெருமாட்டிக்கு முன்`; scan63 continues `வாய்ப்பல் ஒன்றிரண்டு...`;
+- scan65 ends `...கரும்பாறைகளைத் தூக்குவது போலத்`; scan66 continues `தூக்கி தரையில் ஓங்கி அடித்து...`;
+- scan66 ends `மாயவருக்கு பெருத்த`; scan67 continues `ஏமாற்றம் ஏற்பட்டது போன்ற நிலைமை!`;
+- scan67 ends `...எனப் பரிவுடன்`; scan68 continues `கூறினார்.`;
+- scan68 ends `...இரண்டு தட்டுகளில் வைத்துக்`; scan69 continues `கொடுத்தான்.` and closes chapter6;
+- scan70 begins chapter7 and ends `...ஒரு சிலருடைய பெயரை`; scan71 has not been transcribed.
 
 ## Notable source readings retained
 
@@ -155,7 +172,17 @@ All completed/captured Part001 records remain non-final:
 - scan57 — ritual term `நலங்கிடுதல்`, `மளமளவென`;
 - scan58 — `கிலுகிலுப்பை`, `சீர்வரிசை`, `நவரத்தினமழைத்த நாற்காலிகள்`;
 - scan59 — `பரந்த மனப்பான்மையுடன்`, `கிண்டல் செய்த`, explicit sibling-vow exchange;
-- scan60 — `மயக்கமுற்றுக் கீழே கிடந்த பாயில்`, `கேட்பாரற்றுக் கிடந்தன`.
+- scan60 — `மயக்கமுற்றுக் கீழே கிடந்த பாயில்`, `கேட்பாரற்றுக் கிடந்தன`;
+- scan61 — chapter title `பெயர் சொல்லாப் பட்டணம்`, source form `நட்டாற்றிலும்`;
+- scan62 — `ஒத்தமாந்துறை`, `அருட்பொலிவு`, `அமராவதியாற்றுடன்`;
+- scan63 — `வாங்கலான்`, `வாங்கிலி`, `வாங்கலாயி`, `சூடாக் கஞ்சி`;
+- scan64 — `கள்ளமில்லா உள்ளம்`, `வேட்டுவகுலம்`, `வேளாளகுலம்`;
+- scan65 — `காண்டா மிருகத்தைப் போன்ற`, `கட்டாரி`;
+- scan66 — `ராக்கியண்ணன் பயிற்சிப்பாசறை`, `ஒற்றையடிக் குறுக்குப் பாதை`;
+- scan67 — `மாரிக்கவுண்டன்பாளையம்`, `முள்வேலி`, `எதிர்கொண்டழைக்க`;
+- scan68 — `வேங்கை போல் உருக்கொண்ட`, `வில்லம்பு`, `குத்துக் கட்டை`;
+- scan69 — chapter-title phrase `பெயர் சொல்லாப் பட்டணம்` repeated in dialogue;
+- scan70 — chapter title `உண்மையின் உதயம்`, `பெருங்கனைப்பொன்றை`.
 
 No spelling modernization, external-place correction, grammar-based reconstruction or inferred pagination is authorized in Pass 1.
 
@@ -165,6 +192,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — scans61–70 / local pages61–70**.
+Begin **Part001 Pass 1 — scans71–75 / local pages71–75** — the final Part001 Pass-1 physical batch.
 
 Carry the explicit **scan16 cartographic-label reread hold** forward; do not resolve it by external geography or inference. Do not begin Pass 2A until Pass 1 covers all **75** Part001 scans and Pass-1 holds are reconciled. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
