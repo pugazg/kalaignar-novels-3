@@ -216,6 +216,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Part001 Pass 1 is closed. Current repository frontier is **Part001 Pass 2A — scans21–30 / local pages21–30**; see `PART_001_PASS2A_PROGRESS.md`.
+Part001 Pass 1 is closed. Current repository frontier is **Part001 Pass 2A — scans31–40 / local pages31–40**; see `PART_001_PASS2A_PROGRESS.md`.
 
 For scan16, the map page is an **image-preserved non-text page** and must be visually verified as an image asset rather than Unicode label transcription. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
