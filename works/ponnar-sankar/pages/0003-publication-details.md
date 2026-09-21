@@ -30,7 +30,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1
                  எட்டாம் பதிப்பு 2015  
                  ஒன்பதாம் பதிப்பு 2017  
 தாள்           : 70 GSM  
-அளவு           : 14 x 21 செ. மீ.  
+அளவு           : 14 x 21 சி. எம்.  
 படிகள்         : 1000  
 காலம்          : ஏப்ரல் 2017  
 விலை           : 500/- ரூபாய்  
@@ -54,8 +54,20 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1
 ## Formal Part001 Pass 2A review
 
 - direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
-- corrected the Pass-1 unit reading `சி. எம்.` → source-visible `செ. மீ.` on the `அளவு` line;
+- Pass 2A at the time changed the Pass-1 unit reading `சி. எம்.` → `செ. மீ.` on the `அளவு` line; **that Pass 2A finding is superseded by the Pass 2B review below**;
 - source-text corrections: **1**;
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against rendered source pixels;
+- word boundaries, spacing, punctuation-sensitive readings, historical/source-visible glyph identity and compounds were rechecked without modernization;
+- direct source-pixel reread establishes the `அளவு` line as **`14 x 21 சி. எம்.`**;
+- canonical source transcription corrected **`14 x 21 செ. மீ.` → `14 x 21 சி. எம்.`**;
+- this supersedes **P2A-001**; the original Pass-1 reading was source-correct for this item;
+- source-text corrections in Pass 2B: **1**;
+- unresolved textual questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
