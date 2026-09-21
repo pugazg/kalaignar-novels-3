@@ -1,0 +1,37 @@
+---
+scan_page: 2
+part: 1
+part_page: 2
+printed_page: null
+work: "ponnar-sankar"
+section: "front-matter"
+page_type: "title-page"
+status: "needs-review"
+visual_fidelity: "needs-review"
+language: "ta"
+source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf"
+transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1"
+---
+
+## Source transcription
+
+பொன்னர்  
+சங்கர்
+
+(அண்ணன்மார் வரலாறு)
+
+கலைஞர்  
+மு.கருணாநிதி
+
+பூம்புகார் பதிப்பகம்  
+63, பிரகாசம் சாலை, சென்னை - 600 108.
+
+## Pass 1 notes
+
+- decorative framed title/publisher page;
+- publisher emblem appears at the foot as non-text visual matter;
+- a partial circular library stamp overlaps the upper-right area and is treated as a copy-specific non-body mark;
+- no printed page number is visible;
+- status and visual fidelity remain `needs-review`.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 2; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
