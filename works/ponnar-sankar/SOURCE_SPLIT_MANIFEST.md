@@ -25,11 +25,12 @@
 - registered Parts: **1/8**
 - registered physical scan coverage: **1–75 / 75 scans**
 - Part001 source intake: **REGISTERED / COMPLETE**
-- Part001 canonical records: **0/75**
-- Part001 Pass 1: **NOT STARTED / NEXT**
+- Part001 canonical records: **10/75 — scans1–10**
+- Part001 Pass 1: **IN PROGRESS — BATCH 1 COMPLETE — 10/75 TEXT-COMPLETE**
+- Part001 Pass 1 pending: **65/75 — scans11–75**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 Pass 1 — scans 1–10 / local pages 1–10.**
+**Part001 Pass 1 — scans 11–20 / local pages 11–20.**
