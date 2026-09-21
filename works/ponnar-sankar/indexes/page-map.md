@@ -26,16 +26,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 18 | 18 | — | chapter1 `மண விழாவில் மச்சான்` opening; running page not inferred | needs-review | `pages/0018-mana-vizhaavil-machchaan.md` |
 | 001 | 19 | 19 | 2 | chapter1 continuation | needs-review | `pages/0019-mana-vizhaavil-machchaan.md` |
 | 001 | 20 | 20 | 3 | chapter1 continuation; open ending | needs-review | `pages/0020-mana-vizhaavil-machchaan.md` |
-| 001 | 21 | 21 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 22 | 22 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 23 | 23 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 24 | 24 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 25 | 25 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 26 | 26 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 27 | 27 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 28 | 28 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 29 | 29 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 30 | 30 | — | unclassified — Pass 1 direct source review pending | not-started | — |
+| 001 | 21 | 21 | 4 | chapter1 continuation | needs-review | `pages/0021-mana-vizhaavil-machchaan.md` |
+| 001 | 22 | 22 | 5 | chapter1 continuation | needs-review | `pages/0022-mana-vizhaavil-machchaan.md` |
+| 001 | 23 | 23 | 6 | chapter1 continuation | needs-review | `pages/0023-mana-vizhaavil-machchaan.md` |
+| 001 | 24 | 24 | 7 | chapter1 continuation; open quoted ending | needs-review | `pages/0024-mana-vizhaavil-machchaan.md` |
+| 001 | 25 | 25 | 8 | chapter1 close; two-warrior illustration in lower field | needs-review | `pages/0025-mana-vizhaavil-machchaan.md` |
+| 001 | 26 | 26 | — | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opening; running page not inferred | needs-review | `pages/0026-virundhinar-vidudiyum-vengai-thottiyum.md` |
+| 001 | 27 | 27 | 10 | chapter2 continuation | needs-review | `pages/0027-virundhinar-vidudiyum-vengai-thottiyum.md` |
+| 001 | 28 | 28 | 11 | chapter2 continuation | needs-review | `pages/0028-virundhinar-vidudiyum-vengai-thottiyum.md` |
+| 001 | 29 | 29 | 12 | chapter2 continuation; open ending | needs-review | `pages/0029-virundhinar-vidudiyum-vengai-thottiyum.md` |
+| 001 | 30 | 30 | 13 | chapter2 continuation | needs-review | `pages/0030-virundhinar-vidudiyum-vengai-thottiyum.md` |
 | 001 | 31 | 31 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 32 | 32 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 33 | 33 | — | unclassified — Pass 1 direct source review pending | not-started | — |
@@ -91,7 +91,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
-- canonical page records: **20/75 — scans1–20**
-- Part001 Pass 1: **IN PROGRESS — scans1–20 physically captured / 19 text-complete / scan16 map-label hold**
+- canonical page records: **30/75 — scans1–30**
+- Part001 Pass 1: **IN PROGRESS — scans1–30 physically captured / 29 text-complete / scan16 map-label hold**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 scans21–30 / local pages21–30**
+- exact next activity: **Part001 Pass 1 scans31–40 / local pages31–40**
