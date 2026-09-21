@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 2B IN PROGRESS — 20/75 REVIEWED / scans21–30 NEXT**
+**PART001 PASS 2B IN PROGRESS — 30/75 REVIEWED / scans31–40 NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -19,7 +19,7 @@
 - Pass2A reviewed: **75/75 — COMPLETE**
 - Pass2A source-text corrections: **31**
 - Pass2A unresolved textual questions: **0**
-- Pass2B reviewed: **20/75 — scans1–20**
+- Pass2B reviewed: **30/75 — scans1–30**
 - Pass2B source-text corrections: **3**
 - Pass2B unresolved textual questions: **0**
 - verified pages: **0**
@@ -60,4 +60,4 @@
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — scans21–30 / local pages21–30** as the next independent lexical / historical-glyph reread batch. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 2B — scans31–40 / local pages31–40** as the next independent lexical / historical-glyph reread batch. Keep outgoing **75→76** pending until Part002 is supplied.
