@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 5
 
 “ஒன்றுமில்லையப்பா! காரணம் இதுதான்! எங்கிருந்தோ நெல்லியங்கோடன் வந்துவிட்டான். இவர் மகளை அவனுக்குக் கட்டி வைக்கத் தீர்மானித்துவிட்டார்.”
 
-மாந்தியப்பனின் வாயிலிருந்து இந்தச் சொற்கள் தீயிடை வீழ்ந்து ஆழ்ந்து வெளிப்பட்ட இரும்புத்துகள்களின் கனலோடு புறப்பட்ட அந்தக் கணமே, “ஆ! என்ன?” என்று புலி போல எழுந்து தனது படுக்கையருகேயிருந்த வாளையெடுத்து மலைக்கொழுந்தாக் கவுண்டரை நோக்கி ஓங்கினார் செல்லாத்தாக் கவுண்டர்.
+மாந்தியப்பனின் வாயிலிருந்து இந்தச் சொற்கள் தீயிடை வீழ்ந்து ஆழ்ந்து வெளிப்பட்ட இரும்புத்துகள்களின் கனலோடு புறப்பட்ட அந்தக் கணமே; “ஆ! என்ன?” என்று புலி போல எழுந்து தனது படுக்கையருகேயிருந்த வாளையெடுத்து மலைக்கொழுந்தாக் கவுண்டரை நோக்கி ஓங்கினார் செல்லாத்தாக் கவுண்டர்.
 
 மின்னல் போலப் பாய்ந்து ஒருகரம் செல்லாத்தாக் கவுண்டரின் வாளின் பிடியைத் தடுத்து நிறுத்தியது. எல்லோரும் ஆச்சரியத்துடன், பதட்டத்துடன் பார்த்தார்கள். தடுத்து நிறுத்தியது தலையூர்க்காளி என்பதைக் கண்ட மகிழ்ச்சி - மருட்சி - இவற்றுக்கிடையே அசைவின்றி அனைவரும் நின்றார்கள்.
 
@@ -38,3 +38,12 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 5
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 42; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 42; அச்சுப் பக்கம்: 25; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected comma after `அந்தக் கணமே` → source-visible semicolon;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
