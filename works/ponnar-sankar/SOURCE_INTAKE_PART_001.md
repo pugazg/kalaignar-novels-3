@@ -73,11 +73,11 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 1 — IN PROGRESS / BATCHES 1–5 PHYSICAL CAPTURE COMPLETE.**
+**PART001 PASS 1 — IN PROGRESS / BATCHES 1–6 PHYSICAL CAPTURE COMPLETE.**
 
-- canonical page records — **50/75 — scans1–50**
-- Pass1 text-complete — **49/75 — scans1–15,17–50**
-- Pass1 pending physical scans — **25/75 — scans51–75**
+- canonical page records — **60/75 — scans1–60**
+- Pass1 text-complete — **59/75 — scans1–15,17–60**
+- Pass1 pending physical scans — **15/75 — scans61–75**
 - Pass1 source-reading hold — **1 page: scan16 dense cartographic minor labels**
 - completed-batch unresolved source-reading holds — **1 cartographic-label hold on scan16**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -92,14 +92,16 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - scan34 — **chapter3 `மச்சசாமியும் மருமகியும்` opens; running page not inferred**
 - scans35–42 — **chapter3 continues and closes / printed pages18–25**
 - scan43 — **chapter4 `இனிய சூழலும் புதிய கோலமும்` opens; running page not inferred**
-- scans44–50 — **chapter4 continues / printed pages27–33**
-- scan50 — **chapter continuation / wedding-ritual sequence; scan51 not yet transcribed**
+- scans44–51 — **chapter4 continues and closes / printed pages27–34**
+- scan52 — **chapter5 `தாமரை நாச்சியின் சபதம்` opens; running page not inferred**
+- scans53–60 — **chapter5 continues and closes / printed pages36–43**
+- scan60 — **chapter5 close; substantial blank lower field**
 - outgoing Part001 75→76 — **PENDING Part002 direct witness**
 - durable progress — `PART_001_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans 51–60 / local pages 51–60**, while retaining the scan16 cartographic-label hold for later direct reread.
+Begin **Part001 Pass 1 — global scans 61–70 / local pages 61–70**, while retaining the scan16 cartographic-label hold for later direct reread.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
