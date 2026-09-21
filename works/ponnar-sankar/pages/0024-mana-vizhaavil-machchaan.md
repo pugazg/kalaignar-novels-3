@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3
 
 “ஏடே, என்ன சொன்னே?” என்று ஆர்ப்பரித்து அவன் எதிரில் செல்வதற்குள் அந்த வாலிபன் தனது பரட்டைத் தலையையும், தாடியையும் அகற்றி மாறுவேடம் கலைந்து விட்டு அவர்களைப் பார்த்து;
 
-“என்னை ஒண்ணும் தெரியாத மச்சாமின்னு  
+“என்னை ஒண்ணும் தெரியாத மச்சசாமின்னு  
 கிண்டல் பண்ணுவீங்களே; இப்ப எப்படி  
 இந்த மச்சக்கவுண்டன் வேலை?”
 
@@ -46,3 +46,12 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 24; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 24; அச்சுப் பக்கம்: 7; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part001 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected `மச்சாமின்னு` → source-visible `மச்சசாமின்னு`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
