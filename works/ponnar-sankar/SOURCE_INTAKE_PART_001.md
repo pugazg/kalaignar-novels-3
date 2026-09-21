@@ -73,18 +73,19 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 1 — PHYSICAL CAPTURE COMPLETE / HOLD RECONCILIATION NEXT.**
+**PART001 PASS 1 — COMPLETE / PASS 2A NEXT.**
 
 - canonical page records — **75/75 — scans1–75**
-- Pass1 text-complete — **74/75 — scans1–15,17–75**
+- Pass1 textual transcriptions — **74/75 — scans1–15,17–75**
+- Pass1 image-preserved non-text page — **1/75 — scan16 map plate**
+- Pass1 canonical completion — **75/75 — COMPLETE**
 - Pass1 pending physical scans — **0/75**
-- Pass1 source-reading hold — **1 page: scan16 dense cartographic minor labels**
-- completed-batch unresolved source-reading holds — **1 cartographic-label hold on scan16**
+- Pass1 source-reading holds — **0**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - scan8→9 internal continuation — **captured without reconstruction**
 - scan10→11 continuation — **captured directly**
 - scans11–15 — **நுழைவாயில் continuation/close**
-- scan16 — **map plate / physical capture complete / minor-label reread hold**
+- scan16 — **map plate preserved as image asset `assets/scan-0016-map.png`; no label-by-label transcription required**
 - scan17 — **blank reverse/show-through page**
 - scans18–25 — **chapter1 `மண விழாவில் மச்சான்` begins, continues and closes**
 - scan26 — **chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opens; running page not inferred**
@@ -106,8 +107,6 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Exact next activity
 
-Perform **Part001 Pass 1 hold reconciliation on scan16**, rereading only the unresolved dense cartographic minor labels from rendered source pixels.
+Begin **Part001 Pass 2A — scans1–10 / local pages1–10** using direct source-pixel verification against the existing canonical records.
 
-Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
-
-Do not begin Pass 2A until the scan16 hold is reconciled and Pass 1 reaches **75/75 text-complete**. Keep **75→76** pending until Part002 is supplied and directly checked.
+Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the appropriate later gates. Keep **75→76** pending until Part002 is supplied and directly checked.
