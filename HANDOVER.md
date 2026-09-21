@@ -61,7 +61,6 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
-- unresolved source-reading holds — **0 recorded because transcription has not started**
 
 ## Exact next activity
 
