@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans21–30
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans31–40
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,7 +39,7 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–20 REVIEWED / PASS**
+- Pass 2B — **IN PROGRESS / scans1–30 REVIEWED / PASS**
 - Pass2B corrections — **3**
 - Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
@@ -49,22 +49,19 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 2 — scans11–20
+## Pass 2B Batch 3 — scans21–30
 
-Batch completed **10/10 REVIEWED / PASS** with **2 corrections**.
+Batch completed **10/10 REVIEWED / PASS** with **0 corrections**.
 
-- scans11–17 and 19–20 — **0 corrections**
-- scan16 — image-preserved map record verified directly; no label-by-label Unicode reconstruction
-- scan18 — `மூங்கில்மரங்களை` → **`மூங்கில் மரங்களை`**
-- scan18 — `சின்னமலைக்கொழுந்தும்` → **`சின்னமலைக் கொழுந்தும்`**
+- scans21–30 — **0 corrections**
 - unresolved textual questions — **0**
-- cumulative Pass2B state — **20/75 reviewed / 3 corrections / 0 unresolved**
+- cumulative Pass2B state — **30/75 reviewed / 3 corrections / 0 unresolved**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — global scans21–30 / local pages21–30**.
+Continue **Part001 Pass 2B — global scans31–40 / local pages31–40**.
 
 Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
