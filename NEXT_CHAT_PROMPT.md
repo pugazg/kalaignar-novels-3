@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2A scans71–75
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans1–10
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,110 +10,78 @@ Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `wo
 4. `works/ponnar-sankar/indexes/page-map.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 
-Refetch live `main` before editing and again after the batch to confirm synchronization.
+Refetch live `main` before editing and again after the batch.
 
 ## Work and source
 
 - work — **பொன்னர் சங்கர்**
-- source-visible subtitle — **அண்ணன்மார் வரலாறு**
+- subtitle — **அண்ணன்மார் வரலாறு**
 - author — **கலைஞர் மு. கருணாநிதி**
 - source family — **TVA_BOK_0065560**
-- controlling Part001 source — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf`
-- Part001 bytes — **49,648,830**
+- Part001 source — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf`
+- bytes — **49,648,830**
 - SHA-256 — `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6`
-- Part001 physical extent — **75 local pages / global scans1–75**
-- source text layer — **absent / unusable**
+- extent — **75 local pages / global scans1–75**
 - sole textual/structural authority — **rendered source pixels**
-- source-visible edition — **ஒன்பதாம் பதிப்பு 2017**
-- publication month — **ஏப்ரல் 2017**
+- source text layer — **absent / unusable**
 
-If the Part001 PDF is not available in the new chat/runtime, ask the user to attach that exact source before performing Pass 2A. Do not substitute OCR, web text, another edition, or inferred wording.
+If the exact Part001 PDF is unavailable in the runtime, ask the user to attach it. Do not use OCR, web text, another edition, or inferred wording as a substitute.
 
 ## Durable Part001 state
 
 - source intake — **COMPLETE**
 - canonical page records — **75/75**
 - Pass 1 — **COMPLETE**
-- Pass1 textual records — **74/75**
 - scan16 — **image-preserved map page** at `works/ponnar-sankar/assets/scan-0016-map.png`
-- scan16 map labels are **not** to be transcribed label-by-label into Unicode
-- Pass1 holds — **0**
-- Pass 2A — **IN PROGRESS / BATCHES 1–7 COMPLETE**
-- Pass2A reviewed — **70/75 — scans1–70**
-- Pass2A pending — **5/75 — scans71–75**
-- cumulative Pass2A source-text corrections — **29**
+- Pass 1 holds — **0**
+- Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
+- cumulative Pass2A source-text corrections — **31**
 - Pass2A unresolved textual questions — **0**
 - records promoted to verified — **0**
-- all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`
+- all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- Pass 2B — **NOT STARTED**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Important completed cleanup
+## Final Pass 2A batch — scans71–75
 
-The duplicate `Formal Part001 Pass 2A review` blocks accidentally introduced in some Batch-5 records were cleaned up before Batch 6. Do not reintroduce duplicate review sections.
+Batch 8 completed **REVIEWED / PASS** with **2 corrections**:
 
-## Latest completed Pass 2A batch — scans61–70
+- scan72 — `அவனைத் தனியே விட்டு இருப்பது ஐந்து வருஷம்...` → **`அவனைத் தனியே விட்டு இருபத்தி ஐந்து வருஷம்...`**
+- scan72 — `என்னைக் கவ்விக் கொண்டது` → **`என்னைக் கப்பிக் கொண்டது`**
 
-Batch 7 is **REVIEWED / PASS** with **3 corrections** and **0 unresolved**:
+Scans71 and 73–75 passed with 0 corrections.
 
-- scan62 — `வேகத்தைப் பொறுத்தவரையில்` → **`வேகத்தைப் பொருத்தவரையில்`**
-- scan66 — `தப்பித்தோம் பிழைத்தோம் என்று` → **`தப்பித்தோம் பிழைத்தோமென்று`**
-- scan70 — `பெருங்கனைப்பொன்றை` → **`பெருங் கனைப்பொன்றை`**
-
-Scans61, 63–65 and 67–69 passed with 0 corrections.
+Part001 Pass2A total: **75/75 reviewed / 31 corrections / 0 unresolved**.
 
 ## Exact next activity
 
-Process **Part001 Pass 2A — global scans71–75 / local pages71–75** — the final Pass2A batch.
+Start **Part001 Pass 2B — global scans1–10 / local pages1–10**.
 
-For each page:
+Pass 2B is an **independent lexical / historical-glyph reread**. For each page:
 
-1. inspect the rendered source page directly;
-2. compare word-by-word against the canonical page record;
-3. verify punctuation, spacing, historical/source glyph identity, paragraph/dialogue structure, running headers, printed pagination and physical page boundaries;
-4. apply only source-supported corrections;
-5. add exactly **one** `## Formal Part001 Pass 2A review` section per page;
-6. record correction count and unresolved textual questions;
+1. inspect rendered source pixels directly;
+2. reread independently rather than accepting Pass2A wording by default;
+3. focus on word boundaries, spacing, punctuation-sensitive readings, historical Tamil glyph identity and source-visible compounds;
+4. do not silently modernize;
+5. apply only source-supported canonical corrections;
+6. add exactly one formal Pass2B review section per page;
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-8. do not promote any page to verified;
-9. do not begin Pass 2B.
+8. do not begin Pass3.
 
-Expected structural context already established by Pass 1:
+For scan16 later in Pass2B, treat the map as an image-preserved visual record; do not recreate label-by-label Unicode text.
 
-- scans71–75 — chapter7 **`உண்மையின் உதயம்`** continuation; printed pages **54–58**
-- scan75 — final physical page of Part001; chapter remains open at the split boundary
-- do not reconstruct continuation beyond scan75 without the Part002 direct witness
-
-Do not assume the existing Pass1 transcription is correct merely because it was previously captured; Pass2A is an independent direct-source comparison.
-
-## After scans71–75
-
-Synchronize only after the batch is actually completed:
-
-- all edited page records for scans71–75
-- `works/ponnar-sankar/PART_001_PASS2A_PROGRESS.md`
-- `works/ponnar-sankar/indexes/page-map.md`
-- `works/ponnar-sankar/SOURCE_SPLIT_MANIFEST.md`
-- `works/ponnar-sankar/SOURCE_INTAKE_PART_001.md`
-- `works/ponnar-sankar/README.md`
-- root `README.md`
-- `HANDOVER.md`
-- this `NEXT_CHAT_PROMPT.md` so it always reflects the live frontier
-- closed `PART_001_PASS1_PROGRESS.md` frontier reference if needed
-
-If scans71–75 complete cleanly, Part001 Pass2A will be **75/75 COMPLETE**. Do not begin Pass2B in the same step unless the user explicitly proceeds to the next activity after the Pass2A completion and synchronized control update.
+Create `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md` when the first Pass2B batch is actually processed, then synchronize all maintained controls, `HANDOVER.md`, and this file.
 
 ## Mandatory archive rules
 
 - **LIVE MAIN IS AUTHORITATIVE.**
-- source pixels are authoritative; OCR/text layers are not
-- do not normalize spelling, punctuation, compounds, spacing or historical forms unless the source itself supports the change
-- do not use external geography or external editions to repair source text
-- preserve chapter boundaries, blank fields, illustrations and page structure
-- scan16 remains an image-map record, not label transcription
+- source pixels are authoritative
+- no OCR-based Tamil verification
+- preserve source spelling, spacing, punctuation, historical forms and page structure
 - no future Part ranges/page counts may be invented
-- Part002 may be inspected only as a future boundary witness after it is supplied
-- no Part002 canonical transcription until Part001 completes the entire maintained workflow and is finally closed/frozen
-- do not begin Pass2B until Pass2A is fully complete across scans1–75
+- Part002 may only be used as a future boundary witness after it is supplied
+- no Part002 canonical transcription until Part001 completes the full maintained workflow and is frozen
+- Pass3 cannot begin until Pass2B closes
