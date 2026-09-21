@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans31–40
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans41–50
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,8 +39,8 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–30 REVIEWED / PASS**
-- Pass2B corrections — **3**
+- Pass 2B — **IN PROGRESS / scans1–40 REVIEWED / PASS**
+- Pass2B corrections — **6**
 - Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -49,19 +49,22 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 3 — scans21–30
+## Pass 2B Batch 4 — scans31–40
 
-Batch completed **10/10 REVIEWED / PASS** with **0 corrections**.
+Batch completed **10/10 REVIEWED / PASS** with **3 corrections**.
 
-- scans21–30 — **0 corrections**
+- scan32 — `ஆதிசெட்டியப் பாளையத்தில்` → **`ஆதிசெட்டிப் பாளையத்தில்`**
+- scan32 — `ஆதிசெட்டியப்பாளையத்தில்` → **`ஆதிசெட்டிப்பாளையத்தில்`**
+- scan37 — physical line-wrap-only split `தலை யிட்டாள்` → **`தலையிட்டாள்`**
+- scans31, 33–36, 38–40 — **0 corrections**
 - unresolved textual questions — **0**
-- cumulative Pass2B state — **30/75 reviewed / 3 corrections / 0 unresolved**
+- cumulative Pass2B state — **40/75 reviewed / 6 corrections / 0 unresolved**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — global scans31–40 / local pages31–40**.
+Continue **Part001 Pass 2B — global scans41–50 / local pages41–50**.
 
 Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
