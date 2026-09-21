@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans11–20
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans21–30
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,8 +39,8 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–10 REVIEWED / PASS**
-- Pass2B corrections — **1**
+- Pass 2B — **IN PROGRESS / scans1–20 REVIEWED / PASS**
+- Pass2B corrections — **3**
 - Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -49,20 +49,22 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 1 — scans1–10
+## Pass 2B Batch 2 — scans11–20
 
-Batch completed **10/10 REVIEWED / PASS** with **1 correction**.
+Batch completed **10/10 REVIEWED / PASS** with **2 corrections**.
 
-- scans1–2 and 4–10 — **0 corrections**
-- scan3 — `அளவு : 14 x 21 செ. மீ.` → **`அளவு : 14 x 21 சி. எம்.`**
-- scan3 finding is a direct rendered-source-pixel reread and **supersedes P2A-001**
+- scans11–17 and 19–20 — **0 corrections**
+- scan16 — image-preserved map record verified directly; no label-by-label Unicode reconstruction
+- scan18 — `மூங்கில்மரங்களை` → **`மூங்கில் மரங்களை`**
+- scan18 — `சின்னமலைக்கொழுந்தும்` → **`சின்னமலைக் கொழுந்தும்`**
 - unresolved textual questions — **0**
+- cumulative Pass2B state — **20/75 reviewed / 3 corrections / 0 unresolved**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — global scans11–20 / local pages11–20**.
+Continue **Part001 Pass 2B — global scans21–30 / local pages21–30**.
 
 Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
@@ -74,8 +76,6 @@ Pass 2B remains an **independent lexical / historical-glyph reread**. For each p
 6. add exactly one formal Pass2B review section per page;
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 8. do not begin Pass3.
-
-For **scan16**, treat the map as an image-preserved visual record. Verify the preserved image asset / page classification directly, but **do not recreate or validate label-by-label Unicode text**.
 
 After the batch, update `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`, synchronize all maintained controls, `HANDOVER.md`, and this file.
 
