@@ -1,14 +1,15 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans1–10
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans11–20
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Read first
 
 1. `HANDOVER.md`
-2. `works/ponnar-sankar/PART_001_PASS2A_PROGRESS.md`
-3. `works/ponnar-sankar/SOURCE_INTAKE_PART_001.md`
-4. `works/ponnar-sankar/indexes/page-map.md`
-5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
+2. `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`
+3. `works/ponnar-sankar/PART_001_PASS2A_PROGRESS.md`
+4. `works/ponnar-sankar/SOURCE_INTAKE_PART_001.md`
+5. `works/ponnar-sankar/indexes/page-map.md`
+6. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 
 Refetch live `main` before editing and again after the batch.
 
@@ -35,32 +36,35 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - scan16 — **image-preserved map page** at `works/ponnar-sankar/assets/scan-0016-map.png`
 - Pass 1 holds — **0**
 - Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
-- cumulative Pass2A source-text corrections — **31**
+- Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
+- **P2A-001 is superseded by P2B-001**
+- Pass 2B — **IN PROGRESS / scans1–10 REVIEWED / PASS**
+- Pass2B corrections — **1**
+- Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- Pass 2B — **NOT STARTED**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Final Pass 2A batch — scans71–75
+## Pass 2B Batch 1 — scans1–10
 
-Batch 8 completed **REVIEWED / PASS** with **2 corrections**:
+Batch completed **10/10 REVIEWED / PASS** with **1 correction**.
 
-- scan72 — `அவனைத் தனியே விட்டு இருப்பது ஐந்து வருஷம்...` → **`அவனைத் தனியே விட்டு இருபத்தி ஐந்து வருஷம்...`**
-- scan72 — `என்னைக் கவ்விக் கொண்டது` → **`என்னைக் கப்பிக் கொண்டது`**
-
-Scans71 and 73–75 passed with 0 corrections.
-
-Part001 Pass2A total: **75/75 reviewed / 31 corrections / 0 unresolved**.
+- scans1–2 and 4–10 — **0 corrections**
+- scan3 — `அளவு : 14 x 21 செ. மீ.` → **`அளவு : 14 x 21 சி. எம்.`**
+- scan3 finding is a direct rendered-source-pixel reread and **supersedes P2A-001**
+- unresolved textual questions — **0**
+- no status promotion
+- Pass3 not started
 
 ## Exact next activity
 
-Start **Part001 Pass 2B — global scans1–10 / local pages1–10**.
+Continue **Part001 Pass 2B — global scans11–20 / local pages11–20**.
 
-Pass 2B is an **independent lexical / historical-glyph reread**. For each page:
+Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
 1. inspect rendered source pixels directly;
 2. reread independently rather than accepting Pass2A wording by default;
@@ -71,9 +75,9 @@ Pass 2B is an **independent lexical / historical-glyph reread**. For each page:
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 8. do not begin Pass3.
 
-For scan16 later in Pass2B, treat the map as an image-preserved visual record; do not recreate label-by-label Unicode text.
+For **scan16**, treat the map as an image-preserved visual record. Verify the preserved image asset / page classification directly, but **do not recreate or validate label-by-label Unicode text**.
 
-Create `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md` when the first Pass2B batch is actually processed, then synchronize all maintained controls, `HANDOVER.md`, and this file.
+After the batch, update `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`, synchronize all maintained controls, `HANDOVER.md`, and this file.
 
 ## Mandatory archive rules
 
