@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCHES 1–7 COMPLETE**
+**PASS 2A — COMPLETE / PASS 2B NEXT**
 
 Active Part:
 - Part001
@@ -14,9 +14,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed: **70/75 — scans1–70**
-- pending: **5/75 — scans71–75**
-- source-text corrections applied: **29**
+- reviewed: **75/75 — scans1–75 — COMPLETE**
+- pending: **0/75**
+- source-text corrections applied: **31**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 
@@ -130,6 +130,17 @@ Active Part:
 | 68 | chapter6 continuation | 51 | 0 | REVIEWED / PASS |
 | 69 | chapter6 close | 52 | 0 | REVIEWED / PASS |
 | 70 | chapter7 `உண்மையின் உதயம்` opening | — | **1** | REVIEWED / PASS |
+
+
+## Batch 8 — scans71–75
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 71 | chapter7 `உண்மையின் உதயம்` continuation | 54 | 0 | REVIEWED / PASS |
+| 72 | chapter7 continuation | 55 | **2** | REVIEWED / PASS |
+| 73 | chapter7 continuation | 56 | 0 | REVIEWED / PASS |
+| 74 | chapter7 continuation | 57 | 0 | REVIEWED / PASS |
+| 75 | chapter7 continuation / Part001 final physical page | 58 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -458,6 +469,29 @@ Direct source-pixel reading:
 Action:
 - canonical scan70 restored the source-visible spacing.
 
+
+### P2A-030 — scan72
+
+Pass-1 record:
+- `அவனைத் தனியே விட்டு இருப்பது ஐந்து வருஷம் கழித்து விட்டோமே;`
+
+Direct source-pixel reading:
+- `அவனைத் தனியே விட்டு இருபத்தி ஐந்து வருஷம் கழித்து விட்டோமே;`
+
+Action:
+- canonical scan72 corrected to the source-visible `இருபத்தி ஐந்து` reading.
+
+### P2A-031 — scan72
+
+Pass-1 record:
+- `என்னைக் கவ்விக் கொண்டது.`
+
+Direct source-pixel reading:
+- `என்னைக் கப்பிக் கொண்டது.`
+
+Action:
+- canonical scan72 corrected to the exact source-visible `கப்பிக்` form without normalization.
+
 ## Verification notes
 
 - scans1–2: display text, title/author/publisher wording and page-boundary identity checked directly;
@@ -540,12 +574,25 @@ Action:
 - scan70: chapter7 number/title `உண்மையின் உதயம்`, opening dialogue and historical exposition checked directly; no running printed page inferred; one source-visible spacing correction applied;
 - batch7 source-text corrections: **3**; unresolved textual questions: **0**.
 
+
+### Batch 8 verification notes
+
+- scan71: printed page **54**, continuation from scan70, historical exposition, dialogue punctuation and page-end boundary checked directly with no correction;
+- scan72: printed page **55**, continuation narrative and dialogue checked directly; two source-text corrections applied, including the source-visible `இருபத்தி ஐந்து` and `கப்பிக்` readings;
+- scan73: printed page **56**, place/name forms, quoted `மசை` / `மச்சசாமி`, historical exposition and open continuation into scan74 checked directly with no correction;
+- scan74: printed page **57**, royal-death narrative, quoted dialogue, paragraph structure and open continuation into scan75 checked directly with no correction;
+- scan75: printed page **58**, final Part001 physical page, dialogue/narrative structure and terminal open chapter state checked directly; no continuation beyond the 75→76 split boundary was reconstructed;
+- batch8 source-text corrections: **2**; unresolved textual questions: **0**;
+- Part001 Pass 2A total: **75/75 REVIEWED / PASS; 31 corrections; 0 unresolved**.
+
 All reviewed pages remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans71–75 / local pages71–75** — the final Pass 2A batch.
+Part001 Pass 2A is **COMPLETE / 75/75 REVIEWED / PASS**.
+
+Proceed next with **Part001 Pass 2B — scans1–10 / local pages1–10**, performing an independent lexical / historical-glyph reread. Do not reuse Pass2A conclusions as a substitute for direct source inspection.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
