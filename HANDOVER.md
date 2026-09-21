@@ -54,10 +54,12 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - registered Parts — **1/8**
 - Part001 source intake — **COMPLETE**
 - Part001 canonical page records — **75/75 — scans1–75**
-- Part001 Pass 1 — **PHYSICAL CAPTURE COMPLETE / HOLD RECONCILIATION NEXT**
-- Part001 Pass 1 text-complete — **74/75 — scans1–15,17–75**
+- Part001 Pass 1 — **COMPLETE**
+- Part001 Pass 1 textual transcriptions — **74/75 — scans1–15,17–75**
+- Part001 scan16 — **map preserved as image asset `works/ponnar-sankar/assets/scan-0016-map.png`**
+- Part001 Pass 1 canonical completion — **75/75**
 - Part001 Pass 1 pending physical scans — **0/75**
-- unresolved Pass1 source-reading holds — **1 — scan16 dense cartographic minor labels**
+- unresolved Pass1 source-reading holds — **0**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
@@ -65,6 +67,4 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Perform **Part001 Pass 1 hold reconciliation — scan16 dense cartographic minor labels** from rendered source pixels only.
-
-Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not begin Pass 2A until scan16 is reconciled and Pass1 reaches **75/75 text-complete**. Keep **75→76** pending until Part002 is supplied.
+Begin **Part001 Pass 2A — global scans1–10 / local pages1–10** using direct source-pixel verification. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Treat scan16 as a visual image-map record, not a label-transcription page. Keep **75→76** pending until Part002 is supplied.
