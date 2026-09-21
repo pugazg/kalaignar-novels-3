@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 1 IN PROGRESS / BATCH 1 COMPLETE**
+**PART001 PASS 1 IN PROGRESS / BATCHES 1–2 PHYSICAL CAPTURE COMPLETE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -10,9 +10,10 @@
 - source family: **TVA_BOK_0065560**
 - total physical scans for complete work: **pending remaining Part intakes**
 - registered physical scans: **75**
-- canonical page records: **10/75 — scans1–10**
-- Pass1 text-complete: **10/75**
-- Pass1 pending: **65/75 — scans11–75**
+- canonical page records: **20/75 — scans1–20**
+- Pass1 text-complete: **19/75 — scans1–15,17–20**
+- Pass1 pending physical scans: **55/75 — scans21–75**
+- Pass1 source-reading holds: **1 — scan16 dense cartographic minor labels**
 - verified pages: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
@@ -49,6 +50,6 @@
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — scans11–20 / local pages11–20** from rendered source pixels.
+Begin **Part001 Pass 1 — scans21–30 / local pages21–30** from rendered source pixels. Carry the scan16 cartographic-label hold forward for later direct reread.
 
 Do not begin Pass 2A until all **75** Part001 scans are text-complete. Keep outgoing **75→76** pending until Part002 is supplied.
