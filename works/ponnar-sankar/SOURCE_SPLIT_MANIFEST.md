@@ -25,13 +25,13 @@
 - registered Parts: **1/8**
 - registered physical scan coverage: **1–75 / 75 scans**
 - Part001 source intake: **REGISTERED / COMPLETE**
-- Part001 canonical records: **50/75 — scans1–50**
-- Part001 Pass 1: **IN PROGRESS — BATCHES 1–5 PHYSICAL CAPTURE COMPLETE; 49/75 TEXT-COMPLETE**
-- Part001 Pass 1 pending physical scans: **25/75 — scans51–75**
+- Part001 canonical records: **60/75 — scans1–60**
+- Part001 Pass 1: **IN PROGRESS — BATCHES 1–6 PHYSICAL CAPTURE COMPLETE; 59/75 TEXT-COMPLETE**
+- Part001 Pass 1 pending physical scans: **15/75 — scans61–75**
 - unresolved Pass1 source-reading holds: **1 — scan16 dense cartographic minor labels**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 Pass 1 — scans 51–60 / local pages 51–60.**
+**Part001 Pass 1 — scans 61–70 / local pages 61–70.**
