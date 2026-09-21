@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCHES 1–4 COMPLETE**
+**PASS 2A — IN PROGRESS / BATCHES 1–5 COMPLETE**
 
 Active Part:
 - Part001
@@ -14,9 +14,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed: **40/75 — scans1–40**
-- pending: **35/75 — scans41–75**
-- source-text corrections applied: **12**
+- reviewed: **50/75 — scans1–50**
+- pending: **25/75 — scans51–75**
+- source-text corrections applied: **22**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 
@@ -82,6 +82,22 @@ Active Part:
 | 38 | chapter3 continuation / ceremonial-detail page | 21 | 0 | REVIEWED / PASS |
 | 39 | chapter3 continuation / marriage decision | 22 | 0 | REVIEWED / PASS |
 | 40 | chapter3 continuation / open dialogue | 23 | 0 | REVIEWED / PASS |
+
+
+## Batch 5 — scans41–50
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 41 | chapter3 continuation | 24 | **2** | REVIEWED / PASS |
+| 42 | chapter3 close | 25 | **1** | REVIEWED / PASS |
+| 43 | chapter4 `இனிய சூழலும் புதிய கோலமும்` opening | — | 0 | REVIEWED / PASS |
+| 44 | chapter4 continuation | 27 | 0 | REVIEWED / PASS |
+| 45 | chapter4 continuation | 28 | 0 | REVIEWED / PASS |
+| 46 | chapter4 continuation | 29 | **3** | REVIEWED / PASS |
+| 47 | chapter4 continuation | 30 | 0 | REVIEWED / PASS |
+| 48 | chapter4 continuation | 31 | **2** | REVIEWED / PASS |
+| 49 | chapter4 continuation / wedding ritual detail | 32 | **2** | REVIEWED / PASS |
+| 50 | chapter4 continuation / ritual detail | 33 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -220,6 +236,117 @@ Direct source-pixel reading:
 Action:
 - canonical scan30 corrected to source-visible `மகரந்தத்துகள்களையெல்லாம்`.
 
+
+### P2A-013 — scan41
+
+Pass-1 record:
+- `ஏகோ - தலையூரார் வருவதில்...`
+
+Direct source-pixel reading:
+- `ஓகோ - தலையூரார் வருவதில்...`
+
+Action:
+- canonical scan41 corrected `ஏகோ` → `ஓகோ`.
+
+### P2A-014 — scan41
+
+Pass-1 record:
+- `மீசையை வருடியவாறு அவனை முகத்தில் தேக்கி;`
+
+Direct source-pixel reading:
+- `மீசையை வருடியவாறு ஆவலை முகத்தில் தேக்கி;`
+
+Action:
+- canonical scan41 corrected `அவனை` → `ஆவலை`.
+
+### P2A-015 — scan42
+
+Pass-1 record:
+- `புறப்பட்ட அந்தக் கணமே, “ஆ! என்ன?”`
+
+Direct source-pixel reading:
+- `புறப்பட்ட அந்தக் கணமே; “ஆ! என்ன?”`
+
+Action:
+- canonical scan42 corrected the punctuation after `அந்தக் கணமே` to the source-visible semicolon.
+
+### P2A-016 — scan46
+
+Pass-1 record:
+- `இப்போது ஏற்பட்டுள்ள நிலையை அப்படியே`
+
+Direct source-pixel reading:
+- `இப்போது ஏற்பட்டுள்ள நிலைமையை அப்படியே`
+
+Action:
+- canonical scan46 corrected `நிலையை` → `நிலைமையை`.
+
+### P2A-017 — scan46
+
+Pass-1 record:
+- `வாழ்த்தாமலே கூட வாய்மூடிக் கிடந்து விடுகிறேன்.`
+
+Direct source-pixel reading:
+- `வாழ்த்தாமலே கூட வாய் மூடிக் கிடந்து விடுகிறேன்.`
+
+Action:
+- canonical scan46 restored the source-visible word boundary.
+
+### P2A-018 — scan46
+
+Pass-1 record:
+- `ஒரு பயங்கர குழப்பி மறைந்து கிடக்கிறது`
+
+Direct source-pixel reading:
+- `ஒரு பயங்கர குழ்ச்சி மறைந்து கிடக்கிறது`
+
+Action:
+- canonical scan46 corrected to the exact source-visible form `பயங்கர குழ்ச்சி` without normalization.
+
+### P2A-019 — scan48
+
+Pass-1 record:
+- `தங்கையின் முகத்தில் மகிழ்ச்சியின் அடையாளமே இல்லை.`
+
+Direct source-pixel reading:
+- `தந்தையின் முகத்தில் மகிழ்ச்சியின் அடையாளமே இல்லை.`
+
+Action:
+- canonical scan48 corrected `தங்கையின்` → `தந்தையின்`.
+
+### P2A-020 — scan48
+
+Pass-1 record:
+- `அந்த முகத்தில் தெரிந்துதான் செய்தது.`
+
+Direct source-pixel reading:
+- `அந்த முகத்தில் தெரியத்தான் செய்தது.`
+
+Action:
+- canonical scan48 corrected to source-visible `தெரியத்தான் செய்தது`.
+
+### P2A-021 — scan49
+
+Pass-1 record:
+- `மணமகள் வீட்டார் - அவர்கள் உறவினர்`
+
+Direct source-pixel reading:
+- `மணமகள் வீட்டார் - அவர்களது உறவினர்`
+
+Action:
+- canonical scan49 corrected `அவர்கள்` → `அவர்களது`.
+
+### P2A-022 — scan49
+
+Pass-1 record:
+- `மணவிழா நிகழ்ச்சிகள் களைகட்டத் தொடங்கிவிட்டன.`
+
+Direct source-pixel reading:
+- `மணவிழா நிகழ்ச்சிகள் களை கட்டத் தொடங்கிவிட்டன.`
+
+Action:
+- canonical scan49 restored the source-visible word boundary `களை கட்டத்`.
+
 ## Verification notes
 
 - scans1–2: display text, title/author/publisher wording and page-boundary identity checked directly;
@@ -264,12 +391,25 @@ Action:
 - scan40: printed page **23**, `ஆணையிட்டார்`, `தலையசைப்பின் குறிப்பையறிந்து`, dialogue punctuation and open continuation into scan41 checked directly;
 - batch4 source-text corrections: **0**; unresolved textual questions: **0**.
 
+
+### Batch 5 verification notes
+
+- scans41–42: chapter3 continuation/closure, printed pages **24–25**, dialogue punctuation and the substantial blank lower field on scan42 checked directly; three corrections applied across the two pages;
+- scan43: chapter4 number/title `இனிய சூழலும் புதிய கோலமும்`, opening text and open continuation into scan44 checked directly; no running page number inferred;
+- scans44–45: printed pages **27–28**, dialogue/narrative flow and page-end continuations checked directly with no corrections;
+- scan46: printed page **29**, wording, spacing and the source-visible nonstandard form `பயங்கர குழ்ச்சி` checked directly; three corrections applied;
+- scan47: printed page **30**, departure dialogue, `ரம்பை ஊர்வசி`, `எகடியத் தொனி` and open continuation into scan48 checked directly with no corrections;
+- scan48: printed page **31**, wedding-preparation transition checked directly; two source-text corrections applied;
+- scan49: printed page **32**, kinship wording and ritual-transition wording checked directly; two source-text corrections applied;
+- scan50: printed page **33**, small lower-left source numeral **3**, dense wedding-ritual vocabulary and open continuation into scan51 checked directly with no correction;
+- batch5 source-text corrections: **10**; unresolved textual questions: **0**.
+
 All reviewed pages remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans41–50 / local pages41–50**.
+Proceed with **Part001 Pass 2A — scans51–60 / local pages51–60**.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
