@@ -73,11 +73,11 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 1 — IN PROGRESS / BATCHES 1–7 PHYSICAL CAPTURE COMPLETE.**
+**PART001 PASS 1 — PHYSICAL CAPTURE COMPLETE / HOLD RECONCILIATION NEXT.**
 
-- canonical page records — **70/75 — scans1–70**
-- Pass1 text-complete — **69/75 — scans1–15,17–70**
-- Pass1 pending physical scans — **5/75 — scans71–75**
+- canonical page records — **75/75 — scans1–75**
+- Pass1 text-complete — **74/75 — scans1–15,17–75**
+- Pass1 pending physical scans — **0/75**
 - Pass1 source-reading hold — **1 page: scan16 dense cartographic minor labels**
 - completed-batch unresolved source-reading holds — **1 cartographic-label hold on scan16**
 - all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -98,14 +98,16 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - scan60 — **chapter5 close; substantial blank lower field**
 - scan61 — **chapter6 `பெயர் சொல்லாப் பட்டணம்` opens; running page not inferred**
 - scans62–69 — **chapter6 continues and closes / printed pages45–52**
-- scan70 — **chapter7 `உண்மையின் உதயம்` opens; running page not inferred; scan71 not yet transcribed**
+- scan70 — **chapter7 `உண்மையின் உதயம்` opens; running page not inferred**
+- scans71–75 — **chapter7 continues / printed pages54–58**
+- scan75 — **Part001 final physical page; chapter remains open; continuation across 75→76 is not reconstructed**
 - outgoing Part001 75→76 — **PENDING Part002 direct witness**
 - durable progress — `PART_001_PASS1_PROGRESS.md`
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — global scans 71–75 / local pages 71–75** — the final Pass1 physical batch — while retaining the scan16 cartographic-label hold for later direct reread.
+Perform **Part001 Pass 1 hold reconciliation on scan16**, rereading only the unresolved dense cartographic minor labels from rendered source pixels.
 
 Create canonical page records from rendered source pixels only. Keep every new record at `status: "needs-review"` and `visual_fidelity: "needs-review"`.
 
-Do not begin Pass 2A until Pass 1 covers all **75** Part001 scans. Keep **75→76** pending until Part002 is supplied and directly checked.
+Do not begin Pass 2A until the scan16 hold is reconciled and Pass 1 reaches **75/75 text-complete**. Keep **75→76** pending until Part002 is supplied and directly checked.
