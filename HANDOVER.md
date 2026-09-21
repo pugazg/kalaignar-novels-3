@@ -65,15 +65,15 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 2A reviewed — **75/75 — scans1–75**
 - Part001 Pass 2A source-text corrections — **31 recorded historically; P2A-001 superseded by P2B-001**
 - Part001 Pass 2A unresolved textual questions — **0**
-- Part001 Pass 2B — **IN PROGRESS / scans1–30 REVIEWED / PASS**
-- Part001 Pass 2B source-text corrections — **3**
+- Part001 Pass 2B — **IN PROGRESS / scans1–40 REVIEWED / PASS**
+- Part001 Pass 2B source-text corrections — **6**
 - Part001 Pass 2B unresolved textual questions — **0**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Pass2B scans31–40 next**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Pass2B scans41–50 next**
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — global scans31–40 / local pages31–40** as the next independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 2B — global scans41–50 / local pages41–50** as the next independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Keep **75→76** pending until Part002 is supplied.
