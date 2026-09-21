@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCHES 1–3 PHYSICAL CAPTURE COMPLETE**
+**PASS 1 — IN PROGRESS / BATCHES 1–4 PHYSICAL CAPTURE COMPLETE**
 
 Active Part:
 - Part001
@@ -13,10 +13,10 @@ Active Part:
 ## Current accounting
 
 - Part001 physical scans: **75**
-- canonical Part001 records present: **30/75 — scans1–30**
-- Pass-1 physical capture complete: **30/75 — scans1–30**
-- Pass-1 text-complete records: **29/75 — scans1–15,17–30**
-- Pass-1 pending physical scans: **45/75 — scans31–75**
+- canonical Part001 records present: **40/75 — scans1–40**
+- Pass-1 physical capture complete: **40/75 — scans1–40**
+- Pass-1 text-complete records: **39/75 — scans1–15,17–40**
+- Pass-1 pending physical scans: **35/75 — scans41–75**
 - unresolved Pass-1 source-reading holds: **1 page — scan16 dense cartographic minor labels**
 - Part001 incoming boundary: **NONE**
 - Part001 outgoing 75→76 boundary: **PENDING Part002 direct witness**
@@ -34,8 +34,9 @@ All completed/captured Part001 records remain non-final:
 | 1 | 1–10 | 1–10 | scan9 = viii; scan10 = ix | **COMPLETE / 10 TEXT-COMPLETE** |
 | 2 | 11–20 | 11–20 | scans11–15 = x–xiv; scan19 = 2; scan20 = 3 | **PHYSICAL CAPTURE COMPLETE / 9 TEXT-COMPLETE + 1 MAP-LABEL HOLD** |
 | 3 | 21–30 | 21–30 | scans21–25 = 4–8; scan26 chapter opener no inferred running page; scans27–30 = 10–13 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 4 | 31–40 | 31–40 | pending direct review | **NEXT** |
-| remaining | 41–75 | 41–75 | pending direct review | NOT STARTED |
+| 4 | 31–40 | 31–40 | scans31–33 = 14–16; scan34 chapter opener no inferred running page; scans35–40 = 18–23 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 5 | 41–50 | 41–50 | pending direct review | **NEXT** |
+| remaining | 51–75 | 51–75 | pending direct review | NOT STARTED |
 
 ## Batch 1 source-structure observations
 
@@ -65,46 +66,50 @@ All completed/captured Part001 records remain non-final:
 ## Batch 3 source-structure observations
 
 - scans21–24 — chapter1 `மண விழாவில் மச்சான்` continuation / printed pages **4–7**;
-- scan24 ends with the open cry `“அத்தான் அத்தான்”,`;
-- scan25 / printed page **8** closes chapter1; the lower field contains a large blue two-warrior illustration;
-- scan26 opens chapter **2 / விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்** with displayed chapter number **2**;
-- scan26 has no confidently assigned running printed-page value and no value is inferred from sequence;
-- scans27–30 continue chapter2 / printed pages **10–13**;
-- scan30 remains within chapter2 and scan31 is not imported.
+- scan25 / printed page **8** closes chapter1; lower field contains the blue two-warrior illustration;
+- scan26 opens chapter **2 / விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்**;
+- scan26 has no confidently assigned running printed-page value;
+- scans27–30 continue chapter2 / printed pages **10–13**.
+
+## Batch 4 source-structure observations
+
+- scans31–32 continue chapter2 / printed pages **14–15**;
+- scan33 / printed page **16** closes chapter2 after மலைக்கொழுந்தாக் கவுண்டர் breaks into the room;
+- scan34 opens chapter **3 / மச்சசாமியும் மருமகியும்** with displayed chapter number **3**;
+- scan34 has no confidently assigned running printed-page value and no value is inferred from sequence;
+- scans35–40 continue chapter3 / printed pages **18–23**;
+- scan40 ends with செல்லாத்தாக் கவுண்டர் asking மலைக்கொழுந்தாக் கவுண்டர் to state the real problem; scan41 is not imported.
 
 ## Continuation integrity
 
-- scan20 ends `...பயந்து போய்க்`; scan21 continues `குரைக்கிறது; நீ வா என்னோடு!... `;
-- scan21 ends with the food-grain preference question; scan22 continues `அதனை எடுத்து ஒரு தோழி...`;
-- scan23 ends `...தாமரை நாச்சியின்`; scan24 continues `தாயார் பெருமாயி அம்மாள் வந்து சேர்ந்தாள்.`;
-- scan24 ends `“அத்தான் அத்தான்”,`; scan25 continues `என்று அலறியபடி!`;
-- scan25 closes chapter1 before the chapter2 opening on scan26;
-- scan26 ends an open quoted sentence after `உண்மையாக இருந்தாலும் -`; scan27 continues `இதில் என் தகப்பனார்...`;
-- scan27 ends `நெல்லியங்கோடன் நாலைந்து வயது வரையில்`; scan28 continues `பேசவே இல்லை.`;
-- scan29 ends `யாருக்கும் ஒரு கெடுதியும் விளைவிக்காமல் -`; scan30 continues `எத்தகைய இன்னல்கள் வந்தாலும்...`;
-- scan30 is text-complete for its physical page but remains an open chapter continuation; scan31 has not been transcribed.
+- scan30 continues into scan31 without reconstruction;
+- scan33 closes chapter2 before the chapter3 opening on scan34;
+- scan34 ends `...செத்துத் தொலைந்தான் என்று முடிவுகட்டி`; scan35 continues `தாமரைக்குத் திருமணம் நிச்சயம் செய்தீர்கள்.`;
+- scan37 ends `...சிடுசிடுவென முகத்தை மாற்றிக் கொண்டு`; scan38 continues `ஏதோ முணுமுணுத்தவர்...`;
+- scan39 records the decision that நெல்லியங்கோடன்–தாமரை நாச்சி marriage will proceed;
+- scan40 continues with the approach to செல்லாத்தாக் கவுண்டர் and remains open into scan41.
 
 ## Notable source readings retained
 
-- scan21 — `பெயர்மட்டும் வீரமலை`, `ரத்தினக் கம்பளம்`;
-- scan22 — `வெண் சங்கொத்த கண்களிலே`, `ரத வண்டி`;
-- scan23 — `சாக்கடையில் தோய்த்து எடுத்தது போன்ற கந்தலாக`, `மெத்தப் பரிதாபத்துடன்`;
-- scan24 — `மச்சாமின்னு`, `சுளீர் சுளீர்`, `நெல்லியங்கோடா`;
-- scan25 — `வதங்கிப்போன அல்லித்தண்டுபோல`, `புழங்காக் கொட்டடி`;
-- scan26 — `மகாரூபவதி`, `சொக்கட்டான்`;
-- scan27 — `எழுபது வள்ளம் பூமி`, `சிற்றாலைப் பட்டணம்`, `மணியம்`;
-- scan28 — `ஊமைக் கோட்டான் - ஊதாத சங்கு`, `கடு சூது அறியாமல்`, `மச்சசாமி`;
-- scan29 — `ஆஸ்திபாஸ்தி`, `ராஜதந்திரக் கோட்பாடு`, `மசமசவென`;
-- scan30 — `இரண்டுங்கெட்டான் பிள்ளை`, insect-infested `கொட்டடி` wording retained exactly as directly read at Pass-1 level.
+- scan31 — `கொட்டடியான உத்திரமொன்று`, `கரையானும் செல்லுப்பூச்சியும்`, `மொசமொசவென்று`;
+- scan32 — source-visible variant spacing `ஆதிசெட்டியப் பாளையத்தில்` / `ஆதிசெட்டியப்பாளையத்தில்`, `வறியவனாக`;
+- scan33 — `கருவேலமுள் கொப்புகளால்`, `கண்களைக் குளமாக்கிக் கொண்டு`;
+- scan34 — chapter title `மச்சசாமியும் மருமகியும்`;
+- scan35 — source form `குதுவது கள்ளம் கபடம் தெரியாதவன்`;
+- scan36 — source form `மணியக்குறிச்சிக் கவுண்டர்`, `மறப்போம் மன்னிப்போம்`;
+- scan37 — `எமகிங்கரன்`, source-visible split form `தலை யிட்டாள்`;
+- scan38 — ceremonial forms `முப்பரித்தாலி`, `குப்பாரிகொட்டித்`, `பொன் பூட்டிக் குலம் ஓதுதல்`, `புதுக்கலத்துண்ணல்`;
+- scan39 — `பட்டுப் பீதாம்பரம்`, `மங்கல நாண்`;
+- scan40 — `ஆணையிட்டார்`, `தலையசைப்பின் குறிப்பையறிந்து`.
 
-No spelling modernization, external-place correction or grammar-based reconstruction is authorized in Pass 1.
+No spelling modernization, external-place correction, grammar-based reconstruction or inferred pagination is authorized in Pass 1.
 
 ## Method note
 
-The controlling source is the user-supplied Part001 PDF rendered to page images and inspected directly. The PDF exposes no usable parsed text. Source wording, punctuation, displayed hierarchy, Roman/running pagination, chapter openings, illustrations and page-end fragments are captured from source pixels.
+The controlling source is the user-supplied Part001 PDF rendered to page images and inspected directly. The PDF exposes no usable parsed text. Source wording, punctuation, displayed hierarchy, running pagination, chapter openings, blank fields, illustrations and page-end fragments are captured from source pixels.
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — scans31–40 / local pages31–40**.
+Begin **Part001 Pass 1 — scans41–50 / local pages41–50**.
 
 Carry the explicit **scan16 cartographic-label reread hold** forward; do not resolve it by external geography or inference. Do not begin Pass 2A until Pass 1 covers all **75** Part001 scans and Pass-1 holds are reconciled. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
