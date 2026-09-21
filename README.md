@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 Pass2A IN PROGRESS — scans1–10 reviewed / PASS; 1 source-text correction; 0 unresolved; scans11–20 next**
+- current state: **Part001 Pass2A IN PROGRESS — scans1–20 reviewed / PASS; 4 source-text corrections; 0 unresolved; scans21–30 next**
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
 ## Workflow
@@ -42,6 +42,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — global scans11–20 / local pages11–20**. Scan16 is preserved as an image asset rather than label-by-label text.
+Proceed with **Part001 Pass 2A — global scans21–30 / local pages21–30**. Scan16 Pass2A is complete as an image asset.
 
 Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
