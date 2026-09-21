@@ -60,9 +60,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 1 canonical completion — **75/75**
 - Part001 Pass 1 pending physical scans — **0/75**
 - unresolved Pass1 source-reading holds — **0**
-- Part001 Pass 2A — **IN PROGRESS / BATCH 1 COMPLETE**
-- Part001 Pass 2A reviewed — **10/75 — scans1–10**
-- Part001 Pass 2A source-text corrections — **1**
+- Part001 Pass 2A — **IN PROGRESS / BATCHES 1–2 COMPLETE**
+- Part001 Pass 2A reviewed — **20/75 — scans1–20**
+- Part001 Pass 2A source-text corrections — **4**
 - Part001 Pass 2A unresolved textual questions — **0**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
@@ -71,4 +71,4 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — global scans11–20 / local pages11–20** using direct source-pixel verification. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Treat scan16 as a visual image-map record, not a label-transcription page. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 2A — global scans21–30 / local pages21–30** using direct source-pixel verification. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Treat scan16 as a visual image-map record, not a label-transcription page. Keep **75→76** pending until Part002 is supplied.
