@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCHES 1–5 PHYSICAL CAPTURE COMPLETE**
+**PASS 1 — IN PROGRESS / BATCHES 1–6 PHYSICAL CAPTURE COMPLETE**
 
 Active Part:
 - Part001
@@ -13,10 +13,10 @@ Active Part:
 ## Current accounting
 
 - Part001 physical scans: **75**
-- canonical Part001 records present: **50/75 — scans1–50**
-- Pass-1 physical capture complete: **50/75 — scans1–50**
-- Pass-1 text-complete records: **49/75 — scans1–15,17–50**
-- Pass-1 pending physical scans: **25/75 — scans51–75**
+- canonical Part001 records present: **60/75 — scans1–60**
+- Pass-1 physical capture complete: **60/75 — scans1–60**
+- Pass-1 text-complete records: **59/75 — scans1–15,17–60**
+- Pass-1 pending physical scans: **15/75 — scans61–75**
 - unresolved Pass-1 source-reading holds: **1 page — scan16 dense cartographic minor labels**
 - Part001 incoming boundary: **NONE**
 - Part001 outgoing 75→76 boundary: **PENDING Part002 direct witness**
@@ -36,8 +36,9 @@ All completed/captured Part001 records remain non-final:
 | 3 | 21–30 | 21–30 | scans21–25 = 4–8; scan26 chapter opener no inferred running page; scans27–30 = 10–13 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 4 | 31–40 | 31–40 | scans31–33 = 14–16; scan34 chapter opener no inferred running page; scans35–40 = 18–23 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 41–50 | 41–50 | scans41–42 = 24–25; scan43 chapter opener no inferred running page; scans44–50 = 27–33 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 6 | 51–60 | 51–60 | pending direct review | **NEXT** |
-| remaining | 61–75 | 61–75 | pending direct review | NOT STARTED |
+| 6 | 51–60 | 51–60 | scan51 = 34; scan52 chapter opener no inferred running page; scans53–60 = 36–43 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 7 | 61–70 | 61–70 | pending direct review | **NEXT** |
+| remaining | 71–75 | 71–75 | pending direct review | NOT STARTED |
 
 ## Batch 1 source-structure observations
 
@@ -91,6 +92,16 @@ All completed/captured Part001 records remain non-final:
 - scans49–50 move into detailed Kongu wedding-ritual description;
 - scan50 remains open mid-sentence after the மங்கல நாண்சூட்டும் setup; scan51 is not imported.
 
+## Batch 6 source-structure observations
+
+- scan51 / printed page **34** closes chapter4 `இனிய சூழலும் புதிய கோலமும்`;
+- scan52 opens chapter **5 / தாமரை நாச்சியின் சபதம்** with displayed chapter number **5**;
+- scan52 has no confidently assigned running printed-page value and no value is inferred from sequence;
+- scans53–59 continue chapter5 / printed pages **36–42**;
+- scans55–56 preserve தலையூர்க்காளி's letter as a continuous source block;
+- scan59 contains the explicit sibling-vow / சபதம் exchange that gives the chapter its title;
+- scan60 / printed page **43** closes chapter5; the lower part of the physical page is substantially blank.
+
 ## Continuation integrity
 
 - scan30 continues into scan31 without reconstruction;
@@ -106,7 +117,12 @@ All completed/captured Part001 records remain non-final:
 - scan47 ends `விடிவதற்குள்ளாக`; scan48 continues `வளநாட்டுக்காரர்கள் அனைவரும்...`;
 - scan48 ends `...தன் மனதுக்குகந்தவளை மணக்கவும்`; scan49 continues `ஏற்பாடுகள் நடந்தன.`;
 - scan49 ends with the ritual inventory at `ரவிக்கைத்துணி`; scan50 continues `முதலியவற்றை...`;
-- scan50 remains an open chapter continuation; scan51 has not been transcribed.
+- scan50 remains an open chapter continuation; scan51 directly completes the wedding-ritual sequence and closes chapter4;
+- scan52 begins chapter5 `தாமரை நாச்சியின் சபதம்`;
+- scan53 ends `...மங்கல இசை முழங்க`; scan54 continues `அழைத்துச் சென்று...`;
+- scan55 ends `...எனக்கும் செல்லாத்தாக் கவுண்டருக்கும்`; scan56 continues the same letter with `உருவாகியிருக்கக்கூடிய சந்தேகம்...`;
+- scan57 ends `...அதற்காகத் தங்கச்சியை விட்டுக் கொடுத்துவிடுவானா? நீ`; scan58 continues `பிறந்தது முதல்...`;
+- scan59 ends `...“வாருங்கள்`; scan60 continues `அத்தான், போகலாம்!”` and closes chapter5.
 
 ## Notable source readings retained
 
@@ -129,7 +145,17 @@ All completed/captured Part001 records remain non-final:
 - scan47 — `ரம்பை ஊர்வசி`, `எகடியத் தொனி`;
 - scan48 — `குப்பாரி கொட்டி`, `தண்புனலில்`;
 - scan49 — `முகூர்த்தக் கால்`, `பிரமசரிய விரதம்`, `விரலி மஞ்சள்`, `கூரைச்சேலை`;
-- scan50 — `கணுவேயில்லாத விரலிமஞ்சள்`, `ஆயிரப்பெருந்திரி`, `பூதக்கலச் சாதம்`, `கம்பர் மங்கல விழா வாழ்த்து`.
+- scan50 — `கணுவேயில்லாத விரலிமஞ்சள்`, `ஆயிரப்பெருந்திரி`, `பூதக்கலச் சாதம்`, `கம்பர் மங்கல விழா வாழ்த்து`;
+- scan51 — `தங்கணம்`, `பந்தமித்திரர்கள்`, `பெரியகாண்டியம்மா நீதான் துணை`;
+- scan52 — chapter title `தாமரை நாச்சியின் சபதம்`, ritual terms `மொய்க்காளரி` and `அருகுமணம்`;
+- scan53 — `பாதபூசை`, `தன்னைமீறி`, `மெளனமாக`;
+- scan54 — `சட்டுவம்`, urgent letter heading `அவசரம்`;
+- scan55 — letter forms `புரவலர்`, `பரிபாலித்து`, source-visible split `இரு நாடுகளுக்கு மிடையே`;
+- scan56 — source-visible form `அலட்சியப்படுத்தப்பட்டக் கூடியதல்ல`, `வருமுன் காப்போம்`;
+- scan57 — ritual term `நலங்கிடுதல்`, `மளமளவென`;
+- scan58 — `கிலுகிலுப்பை`, `சீர்வரிசை`, `நவரத்தினமழைத்த நாற்காலிகள்`;
+- scan59 — `பரந்த மனப்பான்மையுடன்`, `கிண்டல் செய்த`, explicit sibling-vow exchange;
+- scan60 — `மயக்கமுற்றுக் கீழே கிடந்த பாயில்`, `கேட்பாரற்றுக் கிடந்தன`.
 
 No spelling modernization, external-place correction, grammar-based reconstruction or inferred pagination is authorized in Pass 1.
 
@@ -139,6 +165,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Begin **Part001 Pass 1 — scans51–60 / local pages51–60**.
+Begin **Part001 Pass 1 — scans61–70 / local pages61–70**.
 
 Carry the explicit **scan16 cartographic-label reread hold** forward; do not resolve it by external geography or inference. Do not begin Pass 2A until Pass 1 covers all **75** Part001 scans and Pass-1 holds are reconciled. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
