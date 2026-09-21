@@ -61,16 +61,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 1 canonical completion — **75/75**
 - Part001 Pass 1 pending physical scans — **0/75**
 - unresolved Pass1 source-reading holds — **0**
-- Part001 Pass 2A — **IN PROGRESS / BATCHES 1–7 COMPLETE**
-- Part001 Pass 2A reviewed — **70/75 — scans1–70**
-- Part001 Pass 2A source-text corrections — **29**
+- Part001 Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
+- Part001 Pass 2A reviewed — **75/75 — scans1–75**
+- Part001 Pass 2A source-text corrections — **31**
 - Part001 Pass 2A unresolved textual questions — **0**
 - verified pages — **0**
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Pass2A scans71–75 final batch next**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Pass2B scans1–10 next**
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — global scans71–75 / local pages71–75** — the final Pass2A batch — using direct source-pixel verification. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Treat scan16 as a visual image-map record, not a label-transcription page. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 2B — global scans1–10 / local pages1–10** as an independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Treat scan16 as a visual image-map record, not a label-transcription page. Keep **75→76** pending until Part002 is supplied.
