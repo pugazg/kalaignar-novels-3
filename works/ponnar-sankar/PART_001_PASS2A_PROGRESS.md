@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCHES 1–5 COMPLETE**
+**PASS 2A — IN PROGRESS / BATCHES 1–6 COMPLETE**
 
 Active Part:
 - Part001
@@ -14,9 +14,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed: **50/75 — scans1–50**
-- pending: **25/75 — scans51–75**
-- source-text corrections applied: **22**
+- reviewed: **60/75 — scans1–60**
+- pending: **15/75 — scans61–75**
+- source-text corrections applied: **26**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 
@@ -98,6 +98,22 @@ Active Part:
 | 48 | chapter4 continuation | 31 | **2** | REVIEWED / PASS |
 | 49 | chapter4 continuation / wedding ritual detail | 32 | **2** | REVIEWED / PASS |
 | 50 | chapter4 continuation / ritual detail | 33 | 0 | REVIEWED / PASS |
+
+
+## Batch 6 — scans51–60
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 51 | chapter4 close | 34 | **1** | REVIEWED / PASS |
+| 52 | chapter5 `தாமரை நாச்சியின் சபதம்` opening | — | **1** | REVIEWED / PASS |
+| 53 | chapter5 continuation | 36 | **1** | REVIEWED / PASS |
+| 54 | chapter5 continuation | 37 | 0 | REVIEWED / PASS |
+| 55 | chapter5 continuation / letter | 38 | 0 | REVIEWED / PASS |
+| 56 | chapter5 continuation / letter close | 39 | 0 | REVIEWED / PASS |
+| 57 | chapter5 continuation | 40 | 0 | REVIEWED / PASS |
+| 58 | chapter5 continuation | 41 | **1** | REVIEWED / PASS |
+| 59 | chapter5 continuation / vow exchange | 42 | 0 | REVIEWED / PASS |
+| 60 | chapter5 close | 43 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -347,6 +363,51 @@ Direct source-pixel reading:
 Action:
 - canonical scan49 restored the source-visible word boundary `களை கட்டத்`.
 
+
+### P2A-023 — scan51
+
+Pass-1 record:
+- `சின்னமலைக்கொழுந்தின் காலில்`
+
+Direct source-pixel reading:
+- `சின்னமலைக் கொழுந்தின் காலில்`
+
+Action:
+- canonical scan51 restored the source-visible word boundary.
+
+### P2A-024 — scan52
+
+Pass-1 record:
+- `அற்ற குளத்தில் அறுநீர்ப் பறவைபோல் தாழும் நடந்துகொண்டு`
+
+Direct source-pixel reading:
+- `அற்ற குளத்தில் அறுநீர்ப் பறவைபோல் தாமும் நடந்துகொண்டு`
+
+Action:
+- canonical scan52 corrected `தாழும்` → `தாமும்`.
+
+### P2A-025 — scan53
+
+Pass-1 record:
+- `காலை புல்லின் நுனிமீது`
+
+Direct source-pixel reading:
+- `காலைப் புல்லின் நுனிமீது`
+
+Action:
+- canonical scan53 restored the source-visible `ப்`.
+
+### P2A-026 — scan58
+
+Pass-1 record:
+- `நவரத்தினமழைத்த நாற்காலிகள்`
+
+Direct source-pixel reading:
+- `நவரத்தினமிழைத்த நாற்காலிகள்`
+
+Action:
+- canonical scan58 corrected to source-visible `நவரத்தினமிழைத்த`.
+
 ## Verification notes
 
 - scans1–2: display text, title/author/publisher wording and page-boundary identity checked directly;
@@ -404,12 +465,25 @@ Action:
 - scan50: printed page **33**, small lower-left source numeral **3**, dense wedding-ritual vocabulary and open continuation into scan51 checked directly with no correction;
 - batch5 source-text corrections: **10**; unresolved textual questions: **0**.
 
+
+### Batch 6 verification notes
+
+- before Batch6, duplicate `Formal Part001 Pass 2A review` blocks accidentally introduced in Batch5 records were deduplicated; source transcription was not changed by that cleanup;
+- scan51: printed page **34**, chapter4 closure, marriage-ceremony sequence and substantial transition into the sibling confrontation checked directly; one source word-boundary correction applied;
+- scan52: chapter5 number/title `தாமரை நாச்சியின் சபதம்`, opening prose and proverb-like closing sentence checked directly; no running page number inferred; one lexical correction applied;
+- scan53: printed page **36**, parental-foot-washing sequence, emotional narrative and open continuation into scan54 checked directly; one source-text correction applied;
+- scans54–57: printed pages **37–40**, urgent-letter introduction, full தலையூர்க்காளி letter, family confrontation and page-end continuations checked directly with no corrections;
+- scan58: printed page **41**, dowry inventory and expulsion dialogue checked directly; one lexical correction applied;
+- scan59: printed page **42**, central sibling-vow / சபதம் exchange and open continuation into scan60 checked directly with no correction;
+- scan60: printed page **43**, chapter5 closure and substantial blank lower field checked directly with no correction;
+- batch6 source-text corrections: **4**; unresolved textual questions: **0**.
+
 All reviewed pages remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans51–60 / local pages51–60**.
+Proceed with **Part001 Pass 2A — scans61–70 / local pages61–70**.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
