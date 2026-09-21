@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — PHYSICAL CAPTURE COMPLETE / HOLD RECONCILIATION NEXT**
+**PASS 1 — COMPLETE / PASS 2A NEXT**
 
 Active Part:
 - Part001
@@ -15,12 +15,14 @@ Active Part:
 - Part001 physical scans: **75**
 - canonical Part001 records present: **75/75 — scans1–75**
 - Pass-1 physical capture complete: **75/75 — COMPLETE**
-- Pass-1 text-complete records: **74/75 — scans1–15,17–75**
+- Pass-1 textual transcriptions: **74/75 — scans1–15,17–75**
+- Pass-1 image-preserved non-text page: **1/75 — scan16 map plate**
+- Pass-1 canonical completion: **75/75 — COMPLETE**
 - Pass-1 pending physical scans: **0/75**
-- unresolved Pass-1 source-reading holds: **1 page — scan16 dense cartographic minor labels**
+- unresolved Pass-1 source-reading holds: **0**
 - Part001 incoming boundary: **NONE**
 - Part001 outgoing 75→76 boundary: **PENDING Part002 direct witness**
-- Pass 2A: **NOT STARTED / BLOCKED UNTIL PASS 1 COMPLETE**
+- Pass 2A: **NOT STARTED / NEXT**
 - Part002 canonical records: **0**
 
 All completed/captured Part001 records remain non-final:
@@ -32,7 +34,7 @@ All completed/captured Part001 records remain non-final:
 | Batch | Global scans | Local pages | Visible printed pages | Status |
 |---|---:|---:|---|---|
 | 1 | 1–10 | 1–10 | scan9 = viii; scan10 = ix | **COMPLETE / 10 TEXT-COMPLETE** |
-| 2 | 11–20 | 11–20 | scans11–15 = x–xiv; scan19 = 2; scan20 = 3 | **PHYSICAL CAPTURE COMPLETE / 9 TEXT-COMPLETE + 1 MAP-LABEL HOLD** |
+| 2 | 11–20 | 11–20 | scans11–15 = x–xiv; scan19 = 2; scan20 = 3 | **COMPLETE / 9 TEXT-COMPLETE + 1 IMAGE-MAP** |
 | 3 | 21–30 | 21–30 | scans21–25 = 4–8; scan26 chapter opener no inferred running page; scans27–30 = 10–13 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 4 | 31–40 | 31–40 | scans31–33 = 14–16; scan34 chapter opener no inferred running page; scans35–40 = 18–23 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 41–50 | 41–50 | scans41–42 = 24–25; scan43 chapter opener no inferred running page; scans44–50 = 27–33 | **COMPLETE / 10 TEXT-COMPLETE** |
@@ -57,8 +59,9 @@ All completed/captured Part001 records remain non-final:
 - scans11–15 — `நுழைவாயில்` continuation through close;
 - printed Roman pagination: **x, xi, xii, xiii, xiv**;
 - scan15 closes the prose and leaves a substantial intentional blank lower field;
-- scan16 — landscape cartographic plate captioned `பொன்னர் - சங்கர் ஆட்சி நடத்திய பகுதியும், அவர்கள் மூதாதையர் வாழ்ந்த இடங்களும்`;
-- scan16 principal legible map labels are captured, but dense minor cartographic labels carry **1 explicit Pass-1 reread hold** rather than being guessed;
+- scan16 — landscape cartographic plate preserved as the canonical picture asset `assets/scan-0016-map.png`;
+- scan16 is intentionally **not transcribed label-by-label**; the source image itself preserves caption, labels, route lines, rivers, symbols and compass together;
+- the earlier dense cartographic-label reread hold is **retired / not applicable** under the image-preservation decision;
 - scan17 — intentionally blank reverse/show-through page;
 - scan18 — chapter **1 / மண விழாவில் மச்சான்** opens;
 - scan18 has no confidently assigned running printed-page value;
@@ -213,6 +216,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Perform the **Part001 Pass 1 hold-reconciliation reread of scan16**, focusing only on the dense minor cartographic labels still unresolved from the map plate. Use rendered source pixels only; do not resolve labels from external geography or inference.
+Begin **Part001 Pass 2A — scans1–10 / local pages1–10** using direct source-pixel verification against the existing canonical records.
 
-Pass 2A remains **BLOCKED** until scan16 is reconciled and Pass 1 reaches **75/75 text-complete**. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
+For scan16, the map page is an **image-preserved non-text page** and must be visually verified as an image asset rather than Unicode label transcription. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
