@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / scans1–30 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / scans1–40 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2B accounting
 
-- reviewed: **30/75 — scans1–30**
-- pending: **45/75 — scans31–75**
-- source-text corrections applied in Pass 2B: **3**
+- reviewed: **40/75 — scans1–40**
+- pending: **35/75 — scans41–75**
+- source-text corrections applied in Pass 2B: **6**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 - all reviewed records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -67,6 +67,21 @@ Active Part:
 | 28 | chapter2 continuation | 11 | 0 | REVIEWED / PASS |
 | 29 | chapter2 continuation | 12 | 0 | REVIEWED / PASS |
 | 30 | chapter2 continuation | 13 | 0 | REVIEWED / PASS |
+
+## Batch 4 — scans31–40
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 31 | chapter2 continuation | 14 | 0 | REVIEWED / PASS |
+| 32 | chapter2 continuation | 15 | **2** | REVIEWED / PASS |
+| 33 | chapter2 close | 16 | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மச்சசாமியும் மருமகியும்` opening | — | 0 | REVIEWED / PASS |
+| 35 | chapter3 continuation | 18 | 0 | REVIEWED / PASS |
+| 36 | chapter3 continuation | 19 | 0 | REVIEWED / PASS |
+| 37 | chapter3 continuation | 20 | **1** | REVIEWED / PASS |
+| 38 | chapter3 continuation / ceremonial detail | 21 | 0 | REVIEWED / PASS |
+| 39 | chapter3 continuation | 22 | 0 | REVIEWED / PASS |
+| 40 | chapter3 continuation | 23 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -117,6 +132,52 @@ Action:
 - no status promotion performed
 - Pass3 not started
 
+### P2B-004 — scan32
+
+Pass2B entry-state canonical:
+- `கரூருக்கு அடுத்த ஆதிசெட்டியப் பாளையத்தில்`
+
+Independent direct source-pixel reading:
+- `கரூருக்கு அடுத்த ஆதிசெட்டிப் பாளையத்தில்`
+
+Action:
+- canonical scan32 corrected **`ஆதிசெட்டியப்` → `ஆதிசெட்டிப்`**;
+- locality spelling is preserved exactly as printed, without normalization.
+
+### P2B-005 — scan32
+
+Pass2B entry-state canonical:
+- `பயந்தே ஆதிசெட்டியப்பாளையத்தில் வாழ்க்கையை`
+
+Independent direct source-pixel reading:
+- `பயந்தே ஆதிசெட்டிப்பாளையத்தில் வாழ்க்கையை`
+
+Action:
+- canonical scan32 corrected the later source-visible occurrence **`ஆதிசெட்டியப்பாளையத்தில்` → `ஆதிசெட்டிப்பாளையத்தில்`**;
+- the two scan32 occurrence forms remain source-specific.
+
+### P2B-006 — scan37
+
+Pass2B entry-state canonical:
+- `பெருமாயி அம்மாள் தலை யிட்டாள்.`
+
+Independent direct source-pixel reading:
+- physical line ending separates `தலை` / `யிட்டாள்`, but they constitute the single lexical word `தலையிட்டாள்`.
+
+Action:
+- canonical scan37 rejoined the line-wrap split **`தலை யிட்டாள்` → `தலையிட்டாள்`**;
+- no modernization or wording change was introduced.
+
+## Batch 4 result
+
+- scans31–40: **10/10 REVIEWED / PASS**
+- Pass2B corrections in this batch: **3**
+- unresolved textual questions: **0**
+- source-visible spelling and occurrence-sensitive forms retained without normalization
+- physical line-wrap-only split on scan37 rejoined in canonical text
+- no status promotion performed
+- Pass3 not started
+
 ## Batch 3 result
 
 - scans21–30: **10/10 REVIEWED / PASS**
@@ -128,8 +189,8 @@ Action:
 
 ## Cumulative result
 
-- scans1–30: **30/30 REVIEWED / PASS**
-- cumulative Pass2B corrections: **3**
+- scans1–40: **40/40 REVIEWED / PASS**
+- cumulative Pass2B corrections: **6**
 - unresolved textual questions: **0**
 - source-visible historical / lexical forms retained without silent normalization
 - no status promotion performed
@@ -137,6 +198,6 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — global scans31–40 / local pages31–40**.
+Proceed with **Part001 Pass 2B — global scans41–50 / local pages41–50**.
 
 Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Pass3.
