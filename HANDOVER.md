@@ -6,6 +6,7 @@
 - Branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: `works/ponnar-sankar/`
+- continuation prompt: `NEXT_CHAT_PROMPT.md` — synchronized to the current live frontier
 
 ## Work
 
@@ -68,6 +69,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Pass2A scans61–70 next**
 
 ## Exact next activity
 
