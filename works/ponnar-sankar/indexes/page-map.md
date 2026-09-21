@@ -6,16 +6,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 | Part | Part page | Scan page | Printed page | Structural note | Status | Canonical file |
 |---:|---:|---:|---|---|---|---|
-| 001 | 1 | 1 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 2 | 2 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 3 | 3 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 4 | 4 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 5 | 5 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 6 | 6 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 7 | 7 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 8 | 8 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 9 | 9 | — | unclassified — Pass 1 direct source review pending | not-started | — |
-| 001 | 10 | 10 | — | unclassified — Pass 1 direct source review pending | not-started | — |
+| 001 | 1 | 1 | — | colour illustrated cover | needs-review | `pages/0001-cover.md` |
+| 001 | 2 | 2 | — | framed title/publisher page | needs-review | `pages/0002-title-page.md` |
+| 001 | 3 | 3 | — | `நூல் அளவை` publication-details page | needs-review | `pages/0003-publication-details.md` |
+| 001 | 4 | 4 | — | `எட்டாம் பதிப்பின் முன்னுரை` | needs-review | `pages/0004-eighth-edition-preface.md` |
+| 001 | 5 | 5 | — | blank physical page; faint show-through only | needs-review | `pages/0005-blank.md` |
+| 001 | 6 | 6 | — | decorative `பொன்னர்-சங்கர்` title divider | needs-review | `pages/0006-title-divider.md` |
+| 001 | 7 | 7 | — | blank physical page; faint show-through only | needs-review | `pages/0007-blank.md` |
+| 001 | 8 | 8 | — | `நுழைவாயில்` opening; printed number not visible | needs-review | `pages/0008-nuzhaivaayil.md` |
+| 001 | 9 | 9 | viii | `நுழைவாயில்` continuation | needs-review | `pages/0009-nuzhaivaayil.md` |
+| 001 | 10 | 10 | ix | `நுழைவாயில்` continuation; open ending | needs-review | `pages/0010-nuzhaivaayil.md` |
 | 001 | 11 | 11 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 12 | 12 | — | unclassified — Pass 1 direct source review pending | not-started | — |
 | 001 | 13 | 13 | — | unclassified — Pass 1 direct source review pending | not-started | — |
@@ -91,7 +91,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **1/8**
 - registered physical scan rows: **75**
-- canonical page records: **0**
-- Part001 Pass 1: **NOT STARTED / NEXT**
+- canonical page records: **10/75 — scans1–10**
+- Part001 Pass 1: **IN PROGRESS — 10/75 TEXT-COMPLETE**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 1 scans1–10 / local pages1–10**
+- exact next activity: **Part001 Pass 1 scans11–20 / local pages11–20**
