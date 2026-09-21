@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCHES 1–3 COMPLETE**
+**PASS 2A — IN PROGRESS / BATCHES 1–4 COMPLETE**
 
 Active Part:
 - Part001
@@ -14,8 +14,8 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed: **30/75 — scans1–30**
-- pending: **45/75 — scans31–75**
+- reviewed: **40/75 — scans1–40**
+- pending: **35/75 — scans41–75**
 - source-text corrections applied: **12**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
@@ -66,6 +66,22 @@ Active Part:
 | 28 | chapter2 continuation | 11 | **2** | REVIEWED / PASS |
 | 29 | chapter2 continuation | 12 | 0 | REVIEWED / PASS |
 | 30 | chapter2 continuation | 13 | **3** | REVIEWED / PASS |
+
+
+## Batch 4 — scans31–40
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 31 | chapter2 continuation | 14 | 0 | REVIEWED / PASS |
+| 32 | chapter2 continuation | 15 | 0 | REVIEWED / PASS |
+| 33 | chapter2 close | 16 | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மச்சசாமியும் மருமகியும்` opening | — | 0 | REVIEWED / PASS |
+| 35 | chapter3 continuation | 18 | 0 | REVIEWED / PASS |
+| 36 | chapter3 continuation | 19 | 0 | REVIEWED / PASS |
+| 37 | chapter3 continuation | 20 | 0 | REVIEWED / PASS |
+| 38 | chapter3 continuation / ceremonial-detail page | 21 | 0 | REVIEWED / PASS |
+| 39 | chapter3 continuation / marriage decision | 22 | 0 | REVIEWED / PASS |
+| 40 | chapter3 continuation / open dialogue | 23 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -237,12 +253,23 @@ Action:
 - scan29: printed page **12**, dialogue and open dash into scan30 checked with no correction;
 - scan30: printed page **13**, continuation from scan29 and insect-infested-shed wording checked; three source-text corrections applied.
 
+
+### Batch 4 verification notes
+
+- scans31–33: chapter2 continuation/closure, printed pages **14–16**, page-end boundaries and rescue/confrontation sequence checked directly with no source-text corrections;
+- scan34: chapter3 number/title `மச்சசாமியும் மருமகியும்`, opening dialogue and open continuation into scan35 checked directly; no running page number inferred;
+- scans35–37: printed pages **18–20**, dialogue punctuation, source-visible forms including `குதுவது`, `மணியக்குறிச்சிக் கவுண்டர்`, `எமகிங்கரன்` and split `தலை யிட்டாள்` checked directly;
+- scan38: printed page **21** and dense ceremonial vocabulary checked directly, including `முப்பரித்தாலி`, `குப்பாரிகொட்டித்`, `பொன் பூட்டிக் குலம் ஓதுதல்` and `புதுக்கலத்துண்ணல்`;
+- scan39: printed page **22**, `பட்டுப் பீதாம்பரம்`, `மங்கல நாண்`, dialogue and marriage-decision paragraph checked directly;
+- scan40: printed page **23**, `ஆணையிட்டார்`, `தலையசைப்பின் குறிப்பையறிந்து`, dialogue punctuation and open continuation into scan41 checked directly;
+- batch4 source-text corrections: **0**; unresolved textual questions: **0**.
+
 All reviewed pages remain:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2A — scans31–40 / local pages31–40**.
+Proceed with **Part001 Pass 2A — scans41–50 / local pages41–50**.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
