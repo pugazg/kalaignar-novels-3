@@ -316,4 +316,4 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — scans1–10 / local pages1–10** as the next meaningful full-page visual / structural verification batch. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+Pass3 has begun and scans1–10 are **REVIEWED / PASS** with **0 structural corrections / 0 unresolved visual-structural questions**. Proceed with **Part001 Pass 3 — scans11–20 / local pages11–20**. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. See `PART_001_PASS3_PROGRESS.md`.
