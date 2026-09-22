@@ -37,8 +37,8 @@ Every canonical page record was audited for the maintained Pass evidence.
 - Formal Part001 Pass 2A review — **75/75 present exactly once**
 - Formal Part001 Pass 2B review — **75/75 present exactly once**
 - Formal Part001 Pass 3 review — **75/75 present exactly once**
-- records still at `status: "needs-review"` — **75/75**
-- records still at `visual_fidelity: "needs-review"` — **75/75**
+- at audit execution, records were still at `status: "needs-review"` — **75/75**
+- at audit execution, records were still at `visual_fidelity: "needs-review"` — **75/75**
 
 Durable gate state:
 - Pass 1 — **COMPLETE / 75/75**
@@ -201,14 +201,42 @@ Re-audit of affected scope:
 
 **Audit status after user-confirmed corrections: PASS / COMPLETE — REVALIDATED.**
 
+## Final metadata/status synchronization
+
+Post-audit promotion completed after the revalidated audit:
+
+- canonical page records promoted — **75/75**
+- `status: "verified"` — **75/75**
+- `visual_fidelity: "verified"` — **75/75**
+- remaining canonical frontmatter `status: "needs-review"` — **0**
+- remaining canonical frontmatter `visual_fidelity: "needs-review"` — **0**
+- promotion baseline — `de2bc8ad325b76b318488f0159ee6dd2ef4deabb`
+- canonical promotion endpoint before control synchronization — `4bcf77bbb0a7f9327459c4e651ea67a5a7beea3a`
+- compare result — **75 canonical page files changed**
+- per canonical page diff — **2 additions / 2 deletions only**, corresponding to the two frontmatter status-field replacements
+- transform invariant check — **PASS on all 75 records** after stripping the two status fields
+- canonical Tamil/body transcription changes during promotion — **0**
+- chapter titles / filenames remained the user-confirmed source values
+- scan16 remains the image-backed map record
+- outgoing **75→76** remains **PENDING Part002 direct witness**
+
+**Final metadata/status synchronization: PASS / COMPLETE**
+
+**Tamil archival-ready checkpoint: PASS / COMPLETE**
+
 ## Exact next activity
 
-Proceed with **Part001 final metadata/status synchronization**:
+Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only.
 
-- promote canonical page records from `status: "needs-review"` to `status: "verified"`;
-- promote `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`;
-- do not alter canonical Tamil during status promotion;
-- synchronize all maintained control documents;
-- then establish the **Tamil archival-ready checkpoint** if all post-promotion checks pass.
+Assembly requirements:
+- exact canonical coverage **75/75**
+- missing coverage **0**
+- duplicate coverage **0**
+- unsupported Tamil insertion **0**
+- audit-note leakage **0**
+- canonical page mutations caused by assembly **0**
+- next-Part body leakage **0**
+- preserve scan16 as an image-backed/non-text structural record rather than inventing map-label Unicode
+- keep outgoing **75→76** pending until Part002 is supplied
 
-Do not begin assembled Tamil construction in the same activity unless explicitly requested.
+Do not begin English until assembled Tamil closes **VERIFIED / PASS / CLOSED**.
