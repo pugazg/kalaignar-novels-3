@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 3 COMPLETE / PASS — 75/75 REVIEWED / PART AUDIT NEXT**
+**PART001 WHOLE-PART AUDIT PASS / COMPLETE — FINAL METADATA SYNC NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -26,7 +26,9 @@
 - Pass3 cadence: **15 pages per iteration**
 - Pass3 structural corrections: **0**
 - Pass3 unresolved visual / structural questions: **0**
-- verified pages: **0**
+- Part001 whole-Part audit: **PASS / COMPLETE**
+- Part001 audit blockers: **0**
+- verified pages: **0 — promotion pending final metadata/status synchronization**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
@@ -60,9 +62,10 @@
 - `PART_001_PASS2A_PROGRESS.md`
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
+- `PART_001_AUDIT.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit** as the next gate. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 final metadata/status synchronization**: promote all canonical records to verified without Tamil changes, synchronize controls, and run the Tamil archival-ready checkpoint. Keep outgoing **75→76** pending until Part002 is supplied.
