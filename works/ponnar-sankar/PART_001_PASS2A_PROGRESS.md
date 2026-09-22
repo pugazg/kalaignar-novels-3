@@ -18,7 +18,7 @@ Active Part:
 - pending: **0/75**
 - source-text corrections applied: **31**
 - unresolved textual questions: **0**
-- records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
+- records promoted to verified after audit/final metadata sync: **75/75**
 
 ## Batch 1 — scans1–10
 
@@ -590,14 +590,18 @@ Action:
 - batch8 source-text corrections: **2**; unresolved textual questions: **0**;
 - Part001 Pass 2A total: **75/75 REVIEWED / PASS; 31 corrections; 0 unresolved**.
 
-All reviewed pages remain:
+At Pass2A closure, reviewed pages remained pending later gates:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
+
+Post-audit promotion completed later:
+- `status: "verified"` — **75/75**
+- `visual_fidelity: "verified"` — **75/75**
 
 ## Exact next activity
 
 Part001 Pass 2A is **COMPLETE / 75/75 REVIEWED / PASS**.
 
-Pass2B is now **COMPLETE / PASS — 75/75 REVIEWED** with **8 cumulative Pass2B corrections** and **0 unresolved**. Pass3 is **COMPLETE / PASS — 75/75 REVIEWED** with **0 structural corrections / 0 unresolved visual-structural questions**. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Proceed next with **final metadata/status synchronization**. P2B-001 on scan3 supersedes P2A-001.
+Pass2B is **COMPLETE / PASS — 75/75 REVIEWED** with **8 cumulative Pass2B corrections** and **0 unresolved**. Pass3 is **COMPLETE / PASS — 75/75 REVIEWED** with **0 structural corrections / 0 unresolved visual-structural questions**. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**, final metadata/status synchronization is **COMPLETE**, and Tamil archival-ready is **PASS / COMPLETE**. Proceed next with **Part001 assembled Tamil construction + exact canonical-coverage audit**. P2B-001 on scan3 supersedes P2A-001.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
