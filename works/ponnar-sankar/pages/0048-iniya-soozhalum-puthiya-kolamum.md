@@ -48,3 +48,12 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 5
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against rendered source pixels;
+- word boundaries, spacing, punctuation-sensitive readings, historical/source-visible glyph identity and compounds were rechecked without modernization;
+- source-text corrections in Pass 2B: **0**;
+- unresolved textual questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
