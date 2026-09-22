@@ -90,7 +90,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - scans18–25 — **chapter1 `மண விழாவில் மச்சான்` begins, continues and closes**
 - scan26 — **chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opens; running page not inferred**
 - scans27–33 — **chapter2 continues and closes / printed pages10–16**
-- scan34 — **chapter3 `மச்சசாமியும் மருமகியும்` opens; running page not inferred**
+- scan34 — **chapter3 `மச்சக்காரியும் மருமகளும்` opens; running page not inferred**
 - scans35–42 — **chapter3 continues and closes / printed pages18–25**
 - scan43 — **chapter4 `இனிய சூழலும் புதிய கோலமும்` opens; running page not inferred**
 - scans44–51 — **chapter4 continues and closes / printed pages27–34**
