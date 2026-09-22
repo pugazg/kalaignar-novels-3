@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / scans1–50 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / scans1–60 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -16,8 +16,8 @@ Active Part:
 
 ## Pass 2B accounting
 
-- reviewed: **50/75 — scans1–50**
-- pending: **25/75 — scans51–75**
+- reviewed: **60/75 — scans1–60**
+- pending: **15/75 — scans61–75**
 - source-text corrections applied in Pass 2B: **6**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
@@ -97,6 +97,21 @@ Active Part:
 | 48 | chapter4 continuation | 31 | 0 | REVIEWED / PASS |
 | 49 | chapter4 continuation / wedding ritual detail begins | 32 | 0 | REVIEWED / PASS |
 | 50 | chapter4 continuation / ritual detail | 33 | 0 | REVIEWED / PASS |
+
+## Batch 6 — scans51–60
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 51 | chapter4 close | 34 | 0 | REVIEWED / PASS |
+| 52 | chapter5 `தாமரை நாச்சியின் சபதம்` opening | — | 0 | REVIEWED / PASS |
+| 53 | chapter5 continuation / parental-foot-washing ritual | 36 | 0 | REVIEWED / PASS |
+| 54 | chapter5 continuation / urgent letter introduced | 37 | 0 | REVIEWED / PASS |
+| 55 | chapter5 continuation / தலையூர்க்காளி letter | 38 | 0 | REVIEWED / PASS |
+| 56 | chapter5 continuation / letter closes | 39 | 0 | REVIEWED / PASS |
+| 57 | chapter5 continuation / family confrontation | 40 | 0 | REVIEWED / PASS |
+| 58 | chapter5 continuation / expulsion-dowry declaration | 41 | 0 | REVIEWED / PASS |
+| 59 | chapter5 continuation / central sibling vow | 42 | 0 | REVIEWED / PASS |
+| 60 | chapter5 close | 43 | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -211,9 +226,18 @@ Action:
 - no status promotion performed
 - Pass3 not started
 
+## Batch 6 result
+
+- scans51–60: **10/10 REVIEWED / PASS**
+- Pass2B corrections in this batch: **0**
+- unresolved textual questions: **0**
+- source-visible lexical forms, occurrence-specific compounds, letter punctuation, ritual vocabulary and vow wording retained without silent normalization
+- no status promotion performed
+- Pass3 not started
+
 ## Cumulative result
 
-- scans1–50: **50/50 REVIEWED / PASS**
+- scans1–60: **60/60 REVIEWED / PASS**
 - cumulative Pass2B corrections: **6**
 - unresolved textual questions: **0**
 - source-visible historical / lexical forms retained without silent normalization
@@ -222,6 +246,6 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — global scans51–60 / local pages51–60**.
+Proceed with **Part001 Pass 2B — global scans61–70 / local pages61–70**.
 
 Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Pass3.
