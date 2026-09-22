@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 Pass3 COMPLETE / PASS — 75/75 reviewed; 0 structural corrections; 0 unresolved; whole-Part audit next**
+- current state: **Part001 WHOLE-PART AUDIT PASS / COMPLETE — 75/75 coverage reconciled; 0 in-scope blockers; final metadata/status synchronization next**
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
 ## Workflow
@@ -42,6 +42,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit** as the next gate. Keep page statuses unchanged until the audit passes and final metadata/status synchronization is performed.
+Proceed with **Part001 final metadata/status synchronization**. Promote canonical page `status` and `visual_fidelity` to `verified` without altering canonical Tamil, then run the post-promotion archival-ready checks.
 
 Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
