@@ -192,4 +192,6 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - chapter-title source revalidation — **PASS / USER-CONFIRMED — chapters1–4 corrected; chapters5–7 confirmed unchanged**
 - Part001 audit blockers — **0**
 - durable audit — `PART_001_AUDIT.md`
-- exact next gate — **Part001 final metadata/status synchronization**
+- Part001 final metadata/status synchronization — **COMPLETE / 75/75 status verified / 75/75 visual verified**
+- Part001 Tamil archival-ready — **PASS / COMPLETE**
+- exact next gate — **Part001 assembled Tamil construction + exact canonical-coverage audit**
