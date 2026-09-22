@@ -204,4 +204,4 @@ Active Part:
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit**. Audit complete continuous scan coverage, duplicate/missing canonical records, Pass evidence completeness, printed-page mapping, boundaries and unresolved-issue counts. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the audit passes and final metadata/status synchronization is performed.
+The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Proceed with **Part001 final metadata/status synchronization**. Promote only `status` and `visual_fidelity` to `verified`; do not alter canonical Tamil. See `PART_001_AUDIT.md`.
