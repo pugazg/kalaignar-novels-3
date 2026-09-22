@@ -72,12 +72,12 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
-- Part001 Pass 3 — **IN PROGRESS / scans1–55 REVIEWED / PASS**
+- Part001 Pass 3 — **IN PROGRESS / scans1–70 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Pass3 scans56–70 next**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — FINAL Pass3 scans71–75 next**
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — global scans56–70 / local pages56–70** as the next meaningful full-page visual / structural verification batch against rendered source pixels, continuing the **15-page iteration cadence**. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 3 — FINAL global scans71–75 / local pages71–75** as the final full-page visual / structural verification remainder against rendered source pixels. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Keep **75→76** pending until Part002 is supplied.
