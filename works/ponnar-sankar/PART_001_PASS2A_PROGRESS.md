@@ -47,7 +47,7 @@ Active Part:
 | 15 | `நுழைவாயில்` close | xiv | 0 | REVIEWED / PASS |
 | 16 | image-preserved map plate | — | 0 / N/A | REVIEWED / PASS |
 | 17 | blank / map show-through | — | 0 | REVIEWED / PASS |
-| 18 | chapter1 `மண விழாவில் மச்சான்` opening | — | 0 | REVIEWED / PASS |
+| 18 | chapter1 `மணவிழாவில் மசச்சாமி` opening | — | 0 | REVIEWED / PASS |
 | 19 | chapter1 continuation | 2 | **1** | REVIEWED / PASS |
 | 20 | chapter1 continuation | 3 | **2** | REVIEWED / PASS |
 
@@ -61,7 +61,7 @@ Active Part:
 | 23 | chapter1 continuation | 6 | 0 | REVIEWED / PASS |
 | 24 | chapter1 continuation | 7 | **1** | REVIEWED / PASS |
 | 25 | chapter1 close + illustration | 8 | **1** | REVIEWED / PASS |
-| 26 | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opening | — | 0 | REVIEWED / PASS |
+| 26 | chapter2 `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` opening | — | 0 | REVIEWED / PASS |
 | 27 | chapter2 continuation | 10 | **1** | REVIEWED / PASS |
 | 28 | chapter2 continuation | 11 | **2** | REVIEWED / PASS |
 | 29 | chapter2 continuation | 12 | 0 | REVIEWED / PASS |
@@ -75,7 +75,7 @@ Active Part:
 | 31 | chapter2 continuation | 14 | 0 | REVIEWED / PASS |
 | 32 | chapter2 continuation | 15 | 0 | REVIEWED / PASS |
 | 33 | chapter2 close | 16 | 0 | REVIEWED / PASS |
-| 34 | chapter3 `மச்சக்காரியும் மருமகளும்` opening | — | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மகிழ்ச்சியும் மருட்சியும்` opening | — | 0 | REVIEWED / PASS |
 | 35 | chapter3 continuation | 18 | 0 | REVIEWED / PASS |
 | 36 | chapter3 continuation | 19 | 0 | REVIEWED / PASS |
 | 37 | chapter3 continuation | 20 | 0 | REVIEWED / PASS |
@@ -90,7 +90,7 @@ Active Part:
 |---:|---|---|---:|---|
 | 41 | chapter3 continuation | 24 | **2** | REVIEWED / PASS |
 | 42 | chapter3 close | 25 | **1** | REVIEWED / PASS |
-| 43 | chapter4 `இனிய சூழலும் புதிய கோலமும்` opening | — | 0 | REVIEWED / PASS |
+| 43 | chapter4 `இனிய சூழலும் புதிய சோகமும்` opening | — | 0 | REVIEWED / PASS |
 | 44 | chapter4 continuation | 27 | 0 | REVIEWED / PASS |
 | 45 | chapter4 continuation | 28 | 0 | REVIEWED / PASS |
 | 46 | chapter4 continuation | 29 | **3** | REVIEWED / PASS |
@@ -534,7 +534,7 @@ Action:
 ### Batch 4 verification notes
 
 - scans31–33: chapter2 continuation/closure, printed pages **14–16**, page-end boundaries and rescue/confrontation sequence checked directly with no source-text corrections;
-- scan34: chapter3 number/title `மச்சக்காரியும் மருமகளும்`, opening dialogue and open continuation into scan35 checked directly; no running page number inferred;
+- scan34: chapter3 number/title `மகிழ்ச்சியும் மருட்சியும்`, opening dialogue and open continuation into scan35 checked directly; no running page number inferred;
 - scans35–37: printed pages **18–20**, dialogue punctuation, source-visible forms including `குதுவது`, `மணியக்குறிச்சிக் கவுண்டர்`, `எமகிங்கரன்` and split `தலை யிட்டாள்` checked directly;
 - scan38: printed page **21** and dense ceremonial vocabulary checked directly, including `முப்பரித்தாலி`, `குப்பாரிகொட்டித்`, `பொன் பூட்டிக் குலம் ஓதுதல்` and `புதுக்கலத்துண்ணல்`;
 - scan39: printed page **22**, `பட்டுப் பீதாம்பரம்`, `மங்கல நாண்`, dialogue and marriage-decision paragraph checked directly;
@@ -545,7 +545,7 @@ Action:
 ### Batch 5 verification notes
 
 - scans41–42: chapter3 continuation/closure, printed pages **24–25**, dialogue punctuation and the substantial blank lower field on scan42 checked directly; three corrections applied across the two pages;
-- scan43: chapter4 number/title `இனிய சூழலும் புதிய கோலமும்`, opening text and open continuation into scan44 checked directly; no running page number inferred;
+- scan43: chapter4 number/title `இனிய சூழலும் புதிய சோகமும்`, opening text and open continuation into scan44 checked directly; no running page number inferred;
 - scans44–45: printed pages **27–28**, dialogue/narrative flow and page-end continuations checked directly with no corrections;
 - scan46: printed page **29**, wording, spacing and the source-visible nonstandard form `பயங்கர குழ்ச்சி` checked directly; three corrections applied;
 - scan47: printed page **30**, departure dialogue, `ரம்பை ஊர்வசி`, `எகடியத் தொனி` and open continuation into scan48 checked directly with no corrections;
