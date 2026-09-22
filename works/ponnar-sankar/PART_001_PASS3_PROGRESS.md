@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / scans1–70 REVIEWED / PASS**
+**PASS 3 — COMPLETE / 75/75 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -17,8 +17,8 @@ Active Part:
 
 ## Pass 3 accounting
 
-- reviewed: **70/75 — scans1–70**
-- pending: **5/75 — scans71–75**
+- reviewed: **75/75 — scans1–75 — COMPLETE**
+- pending: **0/75**
 - working cadence: **15 pages per iteration** (final remainder may be smaller)
 - structural corrections applied in Pass 3: **0**
 - unresolved visual / structural questions: **0**
@@ -171,9 +171,32 @@ Active Part:
 - no status promotion performed
 - Part audit not started
 
+## Batch 6 — FINAL scans71–75
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---|---:|---|
+| 71 | chapter7 body | 54 | 0 | REVIEWED / PASS |
+| 72 | chapter7 body | 55 | 0 | REVIEWED / PASS |
+| 73 | chapter7 body | 56 | 0 | REVIEWED / PASS |
+| 74 | chapter7 body | 57 | 0 | REVIEWED / PASS |
+| 75 | chapter7 body / Part001 source-split edge | 58 | 0 | REVIEWED / PASS |
+
+## Batch 6 result
+
+- scans71–75: **5/5 REVIEWED / PASS**
+- structural corrections in this batch: **0**
+- unresolved visual / structural questions: **0**
+- alternating running author/work headers, printed pages 54–58 and ordinary single-column chapter7 body structure were directly verified
+- scan75 reaches the Part001 split edge as a full body page with no closing illustration, ornamental break or substantial blank field
+- outgoing **75→76** remains **PENDING Part002 direct witness** and no continuation was inferred
+- no lexical reopening was required
+- no status promotion performed
+- Pass3 closes **COMPLETE / PASS**
+- Part audit not started
+
 ## Cumulative result
 
-- scans1–70: **70/70 REVIEWED / PASS**
+- scans1–75: **75/75 REVIEWED / PASS — COMPLETE**
 - cumulative Pass3 structural corrections: **0**
 - unresolved visual / structural questions: **0**
 - no status promotion performed
@@ -181,6 +204,4 @@ Active Part:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — FINAL global scans71–75 / local pages71–75**.
-
-Continue meaningful full-page visual / structural verification against rendered source pixels in **15-page iterations**. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Part audit.
+Proceed with the **Part001 whole-Part audit**. Audit complete continuous scan coverage, duplicate/missing canonical records, Pass evidence completeness, printed-page mapping, boundaries and unresolved-issue counts. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the audit passes and final metadata/status synchronization is performed.
