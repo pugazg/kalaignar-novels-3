@@ -93,7 +93,7 @@ Active Part:
 | 31 | chapter2 body | 14 | 0 | REVIEWED / PASS |
 | 32 | chapter2 body | 15 | 0 | REVIEWED / PASS |
 | 33 | chapter2 close / substantial blank lower field | 16 | 0 | REVIEWED / PASS |
-| 34 | chapter3 `மச்சசாமியும் மருமகியும்` decorative opening | — | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மச்சக்காரியும் மருமகளும்` decorative opening | — | 0 | REVIEWED / PASS |
 | 35 | chapter3 body | 18 | 0 | REVIEWED / PASS |
 | 36 | chapter3 body | 19 | 0 | REVIEWED / PASS |
 | 37 | chapter3 body | 20 | 0 | REVIEWED / PASS |
