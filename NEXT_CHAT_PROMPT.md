@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 FINAL Pass 2B scans71–75
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans1–10
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -37,11 +37,11 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass 1 holds — **0**
 - Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass2A corrections recorded historically — **31**
-- Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–70 REVIEWED / PASS**
-- Pass2B corrections — **6**
+- Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
+- Pass2B corrections — **8**
 - Pass2B unresolved textual questions — **0**
+- Pass 3 — **NOT STARTED**
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - assembled Tamil — **NOT STARTED**
@@ -49,34 +49,35 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 7 — scans61–70
+## FINAL Pass 2B Batch — scans71–75
 
-Batch completed **10/10 REVIEWED / PASS** with **0 corrections**.
+Batch completed **5/5 REVIEWED / PASS** with **2 corrections**:
 
-- scans61–70 — **0 corrections**
+- scan75 — physical line-wrap-only split `ஆண்டு களுக்கு` → **`ஆண்டுகளுக்கு`**
+- scan75 — physical line-wrap-only split `வெளியூர் களுக்குக்` → **`வெளியூர்களுக்குக்`**
+- scans71–74 — **0 corrections**
 - unresolved textual questions — **0**
-- source-visible lexical forms, dialogue diction, place/name forms, compounds and punctuation retained without silent normalization
-- cumulative Pass2B state — **70/75 reviewed / 6 corrections / 0 unresolved**
+- cumulative Pass2B state — **75/75 reviewed / 8 corrections / 0 unresolved**
+- Pass2B — **COMPLETE / PASS**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — FINAL global scans71–75 / local pages71–75**.
+Begin **Part001 Pass 3 — global scans1–10 / local pages1–10**.
 
-Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
+Pass 3 is the **meaningful full-page visual / structural verification** gate. For each page:
 
 1. inspect rendered source pixels directly;
-2. reread independently rather than accepting Pass2A wording by default;
-3. focus on word boundaries, spacing, punctuation-sensitive readings, historical Tamil glyph identity and source-visible compounds;
-4. do not silently modernize;
-5. apply only source-supported canonical corrections;
-6. add exactly one formal Pass2B review section per page;
-7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-8. after scan75 closes, mark Pass2B **COMPLETE / PASS** only if all 75/75 are reviewed with unresolved count 0;
-9. do not begin Pass3 in the same batch unless the next explicit activity is requested.
+2. verify headings, title treatment, page type, printed-page visibility, blank fields, illustrations, recurring furniture and overall full-page structure;
+3. verify the canonical page record's structural classification against the source;
+4. do not reopen lexical wording unless a separate source-backed defect is discovered;
+5. add exactly one formal Pass3 review section per page;
+6. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+7. create/update a durable `PART_001_PASS3_PROGRESS.md` control as Pass3 begins;
+8. do not begin Part audit until Pass3 closes for all 75 scans.
 
-After the final batch, update `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`, synchronize all maintained controls, `HANDOVER.md`, and this file.
+After the batch, synchronize all maintained controls, `HANDOVER.md`, and this file.
 
 ## Mandatory archive rules
 
@@ -84,7 +85,8 @@ After the final batch, update `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`,
 - source pixels are authoritative
 - no OCR-based Tamil verification
 - preserve source spelling, spacing, punctuation, historical forms and page structure
+- scan16 remains image-preserved and must not be reconstructed label-by-label as Unicode
 - no future Part ranges/page counts may be invented
 - Part002 may only be used as a future boundary witness after it is supplied
 - no Part002 canonical transcription until Part001 completes the full maintained workflow and is frozen
-- Pass3 cannot begin until Pass2B closes
+- Part audit cannot begin until Pass3 closes
