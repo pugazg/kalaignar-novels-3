@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans56–70
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 FINAL Pass 3 scans71–75
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,10 +42,9 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass2B corrections — **8**
 - Pass2B unresolved textual questions — **0**
-- Pass 3 — **IN PROGRESS / scans1–55 REVIEWED / PASS**
+- Pass 3 — **IN PROGRESS / scans1–70 REVIEWED / PASS**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
-- Pass3 working cadence — **15 pages per iteration** (final remainder may be smaller)
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - assembled Tamil — **NOT STARTED**
@@ -53,44 +52,38 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 3 Batch 4 — scans41–55
+## Pass 3 Batch 5 — scans56–70
 
 Batch completed **15/15 REVIEWED / PASS** with **0 structural corrections** and **0 unresolved visual / structural questions**.
 
 Direct full-page verification confirmed:
 
-- scan41 — chapter3 body, printed page **24**, running author header;
-- scan42 — chapter3 close, printed page **25**, substantial intentional blank lower field;
-- scan43 — decorative chapter4 opener `இனிய சூழலும் புதிய கோலமும்`, displayed chapter number **4**, no running header or printed page number;
-- scans44–50 — alternating running work/author headers with printed pages **27–33**;
-- scan50 — separate small source-visible numeral **3** at lower-left foot, distinct from running pagination;
-- scan51 — chapter4 close, printed page **34**;
-- scan52 — decorative chapter5 opener `தாமரை நாச்சியின் சபதம்`, displayed chapter number **5**, no running header or printed page number;
-- scans53–55 — alternating running author/work headers with printed pages **36–38**;
-- ordinary single-column body structure and chapter-boundary treatment were consistent throughout.
+- scans56–59 — chapter5 body with alternating running headers and printed pages **39–42**;
+- scan60 — chapter5 close, printed page **43**, substantial intentional blank lower field;
+- scan61 — decorative chapter6 opener `பெயர் சொல்லாப் பட்டணம்`, displayed chapter number **6**, no running header or printed page number;
+- scans62–68 — alternating running work/author headers with printed pages **45–51**;
+- scan69 — chapter6 close, printed page **52**, substantial intentional blank lower field;
+- scan70 — decorative chapter7 opener `உண்மையின் உதயம்`, displayed chapter number **7**, no running header or printed page number.
 
 No lexical reopening was required. No status promotion was performed.
 
-Cumulative Pass3 state is **55/75 REVIEWED / PASS**, **0 structural corrections**, **0 unresolved visual / structural questions**.
+Cumulative Pass3 state is **70/75 REVIEWED / PASS**, **0 structural corrections**, **0 unresolved visual / structural questions**.
 
 ## Exact next activity
 
-Continue **Part001 Pass 3 — global scans56–70 / local pages56–70**.
+Complete **Part001 Pass 3 — FINAL global scans71–75 / local pages71–75**.
 
-The working cadence remains **15 pages per iteration**. Process this full 15-page batch in one iteration.
-
-Pass 3 remains the **meaningful full-page visual / structural verification** gate. For each page:
+For each page:
 
 1. inspect rendered source pixels directly;
-2. verify headings, page type, printed-page visibility, blank fields, illustrations, recurring running furniture and full-page structure;
+2. verify page type, printed-page visibility, recurring running furniture, blank fields, illustrations and full-page structure;
 3. verify canonical structural classification against the source;
 4. do not reopen lexical wording unless a separate source-backed defect is discovered;
 5. add exactly one formal Pass3 review section per page;
 6. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-7. update `PART_001_PASS3_PROGRESS.md` and synchronize all maintained controls after the batch;
-8. do not begin Part audit until Pass3 closes for all 75 scans.
-
-After scans56–70, the final Pass3 remainder will be **scans71–75**.
+7. after scan75, mark Pass3 **COMPLETE / PASS** only if all 75/75 are reviewed with 0 unresolved visual / structural questions;
+8. synchronize all maintained controls after the final Pass3 batch;
+9. do not begin the Part audit in the same batch unless explicitly requested.
 
 ## Mandatory archive rules
 
