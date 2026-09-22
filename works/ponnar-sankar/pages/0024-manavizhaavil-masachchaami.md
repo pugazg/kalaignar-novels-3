@@ -4,7 +4,7 @@ part: 1
 part_page: 24
 printed_page: 7
 work: "ponnar-sankar"
-section: "மண விழாவில் மச்சான்"
+section: "மணவிழாவில் மசச்சாமி"
 page_type: "body"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3"
 ---
 
-# மண விழாவில் மச்சான் — தொடர்ச்சி
+# மணவிழாவில் மசச்சாமி — தொடர்ச்சி
 
 ## Source transcription
 

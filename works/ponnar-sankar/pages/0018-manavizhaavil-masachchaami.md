@@ -4,7 +4,7 @@ part: 1
 part_page: 18
 printed_page: null
 work: "ponnar-sankar"
-section: "மண விழாவில் மச்சான்"
+section: "மணவிழாவில் மசச்சாமி"
 page_type: "chapter-opening"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 2"
 ---
 
-# 1 — மண விழாவில் மச்சான்
+# 1 — மணவிழாவில் மசச்சாமி
 
 ## Source transcription
 
@@ -53,10 +53,18 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 2
 ## Formal Part001 Pass 3 review
 
 - meaningful full-page visual / structural verification completed directly against rendered source pixels;
-- decorative chapter-opening artwork and large blue title `மண விழாவில் மச்சான்` occupy the upper field with displayed chapter number `1` below;
+- decorative chapter-opening artwork and large blue title `மணவிழாவில் மசச்சாமி` occupy the upper field with displayed chapter number `1` below;
 - body text begins beneath the decorative opener; a separate small numeral `2` is visible at the lower-left foot and remains intentionally unclassified rather than inferred as ordinary pagination;
 - chapter-opening classification and no ordinary running printed-page value are structurally correct;
 - structural corrections in Pass 3: **0**;
 - unresolved visual / structural questions: **0**;
 - Pass 3 result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
+
+## User-confirmed source chapter-title correction
+
+- exact chapter title supplied by the user from the controlling source: `மணவிழாவில் மசச்சாமி`;
+- previous repository chapter-title reading was incorrect and is superseded;
+- chapter-title / section metadata and maintained chapter headings corrected accordingly;
+- narrative body transcription was not altered by this title correction;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending final metadata/status synchronization.

@@ -4,7 +4,7 @@ part: 1
 part_page: 25
 printed_page: 8
 work: "ponnar-sankar"
-section: "மண விழாவில் மச்சான்"
+section: "மணவிழாவில் மசச்சாமி"
 page_type: "chapter-closing"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3"
 ---
 
-# மண விழாவில் மச்சான் — முடிவு
+# மணவிழாவில் மசச்சாமி — முடிவு
 
 ## Source transcription
 
@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3
 - running header at upper right: கலைஞர் மு. கருணாநிதி;
 - opening directly continues scan24;
 - substantial blank lower field contains a blue two-warrior illustration;
-- this closes chapter1 மண விழாவில் மச்சான்;
+- this closes chapter1 மணவிழாவில் மசச்சாமி;
 - status and visual fidelity remain needs-review.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 25; பகுதி: 001; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 8; PASS 1 TEXT-COMPLETE / needs-review -->
