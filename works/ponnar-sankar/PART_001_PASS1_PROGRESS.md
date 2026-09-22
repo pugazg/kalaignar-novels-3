@@ -80,14 +80,14 @@ All completed/captured Part001 records remain non-final:
 
 - scans31–32 continue chapter2 / printed pages **14–15**;
 - scan33 / printed page **16** closes chapter2 after மலைக்கொழுந்தாக் கவுண்டர் breaks into the room;
-- scan34 opens chapter **3 / மச்சசாமியும் மருமகியும்** with displayed chapter number **3**;
+- scan34 opens chapter **3 / மச்சக்காரியும் மருமகளும்** with displayed chapter number **3**;
 - scan34 has no confidently assigned running printed-page value and no value is inferred from sequence;
 - scans35–40 continue chapter3 / printed pages **18–23**;
 - scan40 ends with செல்லாத்தாக் கவுண்டர் asking மலைக்கொழுந்தாக் கவுண்டர் to state the real problem; scan41 is not imported.
 
 ## Batch 5 source-structure observations
 
-- scans41–42 continue and close chapter3 `மச்சசாமியும் மருமகியும்` / printed pages **24–25**;
+- scans41–42 continue and close chapter3 `மச்சக்காரியும் மருமகளும்` / printed pages **24–25**;
 - scan42 closes chapter3 after தலையூர்க்காளி prevents செல்லாத்தாக் கவுண்டர் from striking மலைக்கொழுந்தாக் கவுண்டர்;
 - scan43 opens chapter **4 / இனிய சூழலும் புதிய கோலமும்** with displayed chapter number **4**;
 - scan43 has no confidently assigned running printed-page value and no value is inferred from sequence;
@@ -165,7 +165,7 @@ All completed/captured Part001 records remain non-final:
 - scan31 — `கொட்டடியான உத்திரமொன்று`, `கரையானும் செல்லுப்பூச்சியும்`, `மொசமொசவென்று`;
 - scan32 — source-visible variant spacing `ஆதிசெட்டியப் பாளையத்தில்` / `ஆதிசெட்டியப்பாளையத்தில்`, `வறியவனாக`;
 - scan33 — `கருவேலமுள் கொப்புகளால்`, `கண்களைக் குளமாக்கிக் கொண்டு`;
-- scan34 — chapter title `மச்சசாமியும் மருமகியும்`;
+- scan34 — chapter title `மச்சக்காரியும் மருமகளும்`;
 - scan35 — source form `குதுவது கள்ளம் கபடம் தெரியாதவன்`;
 - scan36 — source form `மணியக்குறிச்சிக் கவுண்டர்`, `மறப்போம் மன்னிப்போம்`;
 - scan37 — `எமகிங்கரன்`, source-visible split form `தலை யிட்டாள்`;
