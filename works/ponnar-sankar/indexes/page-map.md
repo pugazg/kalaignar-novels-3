@@ -39,15 +39,15 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 31 | 31 | 14 | chapter2 continuation | needs-review | `pages/0031-virundhinar-vidudiyum-vengai-thottiyum.md` |
 | 001 | 32 | 32 | 15 | chapter2 continuation | needs-review | `pages/0032-virundhinar-vidudiyum-vengai-thottiyum.md` |
 | 001 | 33 | 33 | 16 | chapter2 close; substantial blank lower field | needs-review | `pages/0033-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 34 | 34 | — | chapter3 `மச்சசாமியும் மருமகியும்` opening; running page not inferred | needs-review | `pages/0034-machchasaamiyum-marumagiyum.md` |
-| 001 | 35 | 35 | 18 | chapter3 continuation | needs-review | `pages/0035-machchasaamiyum-marumagiyum.md` |
-| 001 | 36 | 36 | 19 | chapter3 continuation | needs-review | `pages/0036-machchasaamiyum-marumagiyum.md` |
-| 001 | 37 | 37 | 20 | chapter3 continuation; open ending | needs-review | `pages/0037-machchasaamiyum-marumagiyum.md` |
-| 001 | 38 | 38 | 21 | chapter3 continuation; ceremonial-detail page | needs-review | `pages/0038-machchasaamiyum-marumagiyum.md` |
-| 001 | 39 | 39 | 22 | chapter3 continuation; marriage decision | needs-review | `pages/0039-machchasaamiyum-marumagiyum.md` |
-| 001 | 40 | 40 | 23 | chapter3 continuation; open dialogue into scan41 | needs-review | `pages/0040-machchasaamiyum-marumagiyum.md` |
-| 001 | 41 | 41 | 24 | chapter3 continuation | needs-review | `pages/0041-machchasaamiyum-marumagiyum.md` |
-| 001 | 42 | 42 | 25 | chapter3 close; substantial blank lower field | needs-review | `pages/0042-machchasaamiyum-marumagiyum.md` |
+| 001 | 34 | 34 | — | chapter3 `மச்சக்காரியும் மருமகளும்` opening; running page not inferred | needs-review | `pages/0034-machchakkaariyum-marumagalum.md` |
+| 001 | 35 | 35 | 18 | chapter3 continuation | needs-review | `pages/0035-machchakkaariyum-marumagalum.md` |
+| 001 | 36 | 36 | 19 | chapter3 continuation | needs-review | `pages/0036-machchakkaariyum-marumagalum.md` |
+| 001 | 37 | 37 | 20 | chapter3 continuation; open ending | needs-review | `pages/0037-machchakkaariyum-marumagalum.md` |
+| 001 | 38 | 38 | 21 | chapter3 continuation; ceremonial-detail page | needs-review | `pages/0038-machchakkaariyum-marumagalum.md` |
+| 001 | 39 | 39 | 22 | chapter3 continuation; marriage decision | needs-review | `pages/0039-machchakkaariyum-marumagalum.md` |
+| 001 | 40 | 40 | 23 | chapter3 continuation; open dialogue into scan41 | needs-review | `pages/0040-machchakkaariyum-marumagalum.md` |
+| 001 | 41 | 41 | 24 | chapter3 continuation | needs-review | `pages/0041-machchakkaariyum-marumagalum.md` |
+| 001 | 42 | 42 | 25 | chapter3 close; substantial blank lower field | needs-review | `pages/0042-machchakkaariyum-marumagalum.md` |
 | 001 | 43 | 43 | — | chapter4 `இனிய சூழலும் புதிய கோலமும்` opening; running page not inferred | needs-review | `pages/0043-iniya-soozhalum-puthiya-kolamum.md` |
 | 001 | 44 | 44 | 27 | chapter4 continuation | needs-review | `pages/0044-iniya-soozhalum-puthiya-kolamum.md` |
 | 001 | 45 | 45 | 28 | chapter4 continuation | needs-review | `pages/0045-iniya-soozhalum-puthiya-kolamum.md` |
