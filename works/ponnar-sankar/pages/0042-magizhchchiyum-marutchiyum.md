@@ -4,7 +4,7 @@ part: 1
 part_page: 42
 printed_page: 25
 work: "ponnar-sankar"
-section: "மச்சக்காரியும் மருமகளும்"
+section: "மகிழ்ச்சியும் மருட்சியும்"
 page_type: "chapter-closing"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 5"
 ---
 
-# மச்சக்காரியும் மருமகளும் — முடிவு
+# மகிழ்ச்சியும் மருட்சியும் — முடிவு
 
 ## Source transcription
 
