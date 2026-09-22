@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 2B COMPLETE / PASS — 75/75 REVIEWED / PASS3 scans1–10 NEXT**
+**PART001 PASS 3 IN PROGRESS — 10/75 REVIEWED / scans11–20 NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -22,6 +22,9 @@
 - Pass2B reviewed: **75/75 — scans1–75 — COMPLETE**
 - Pass2B source-text corrections: **8**
 - Pass2B unresolved textual questions: **0**
+- Pass3 reviewed: **10/75 — scans1–10**
+- Pass3 structural corrections: **0**
+- Pass3 unresolved visual / structural questions: **0**
 - verified pages: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
@@ -55,9 +58,10 @@
 - `PART_001_PASS1_PROGRESS.md`
 - `PART_001_PASS2A_PROGRESS.md`
 - `PART_001_PASS2B_PROGRESS.md`
+- `PART_001_PASS3_PROGRESS.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — scans1–10 / local pages1–10** as the next full-page visual / structural verification batch. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 Pass 3 — scans11–20 / local pages11–20** as the next full-page visual / structural verification batch. Scan16 is image-preserved and must be verified visually without label-by-label Unicode reconstruction. Keep outgoing **75→76** pending until Part002 is supplied.
