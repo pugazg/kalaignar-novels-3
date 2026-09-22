@@ -60,3 +60,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 8
 - unresolved textual questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 3 review
+
+- meaningful full-page visual / structural verification completed directly against rendered source pixels;
+- printed page number `58` appears at upper left and running author header at upper right above the horizontal rule;
+- single-column chapter7 body fills the page to the Part001 source-split edge; there is no closing illustration, ornamental break or substantial blank field;
+- body-page classification, running furniture and printed pagination are structurally correct; the outgoing 75→76 continuation remains pending direct Part002 witness and is not inferred;
+- structural corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
