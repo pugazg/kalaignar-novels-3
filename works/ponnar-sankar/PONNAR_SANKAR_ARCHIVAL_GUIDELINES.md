@@ -194,4 +194,5 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - durable audit — `PART_001_AUDIT.md`
 - Part001 final metadata/status synchronization — **COMPLETE / 75/75 status verified / 75/75 visual verified**
 - Part001 Tamil archival-ready — **PASS / COMPLETE**
+- durable Tamil archival-ready checkpoint — `PART_001_TAMIL_ARCHIVAL_READY.md`
 - exact next gate — **Part001 assembled Tamil construction + exact canonical-coverage audit**
