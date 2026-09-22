@@ -22,8 +22,8 @@ Active Part:
 - working cadence: **15 pages per iteration** (final remainder may be smaller)
 - structural corrections applied in Pass 3: **0**
 - unresolved visual / structural questions: **0**
-- records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
-- all reviewed records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- records promoted to verified after audit/final metadata sync: **75/75**
+- at Pass3 closure, reviewed records remained `needs-review`; post-audit promotion later set **75/75** to `status: "verified"` / `visual_fidelity: "verified"`
 
 ## Batch 1 — scans1–10
 
@@ -204,4 +204,4 @@ Active Part:
 
 ## Exact next activity
 
-The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Proceed with **Part001 final metadata/status synchronization**. Promote only `status` and `visual_fidelity` to `verified`; do not alter canonical Tamil. See `PART_001_AUDIT.md`.
+The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Final metadata/status synchronization is **COMPLETE — 75/75 promoted**, and Tamil archival-ready is **PASS / COMPLETE**. Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit**. See `PART_001_AUDIT.md`.
