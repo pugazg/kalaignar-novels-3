@@ -65,4 +65,4 @@
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit** as the next gate. Keep outgoing **75→76** pending until Part002 is supplied. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with the **Part001 whole-Part audit** as the next gate. Keep outgoing **75→76** pending until Part002 is supplied.
