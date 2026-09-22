@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 PASS 3 IN PROGRESS — 70/75 REVIEWED / FINAL scans71–75 NEXT**
+**PART001 PASS 3 COMPLETE / PASS — 75/75 REVIEWED / PART AUDIT NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -22,7 +22,7 @@
 - Pass2B reviewed: **75/75 — scans1–75 — COMPLETE**
 - Pass2B source-text corrections: **8**
 - Pass2B unresolved textual questions: **0**
-- Pass3 reviewed: **70/75 — scans1–70**
+- Pass3 reviewed: **75/75 — scans1–75 — COMPLETE**
 - Pass3 cadence: **15 pages per iteration**
 - Pass3 structural corrections: **0**
 - Pass3 unresolved visual / structural questions: **0**
@@ -65,4 +65,4 @@
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — FINAL scans71–75 / local pages71–75** as the final full-page visual / structural verification remainder. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with the **Part001 whole-Part audit** as the next gate. Keep outgoing **75→76** pending until Part002 is supplied. Keep outgoing **75→76** pending until Part002 is supplied.
