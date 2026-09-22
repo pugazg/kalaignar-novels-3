@@ -63,16 +63,16 @@ All completed/captured Part001 records remain non-final:
 - scan16 is intentionally **not transcribed label-by-label**; the source image itself preserves caption, labels, route lines, rivers, symbols and compass together;
 - the earlier dense cartographic-label reread hold is **retired / not applicable** under the image-preservation decision;
 - scan17 — intentionally blank reverse/show-through page;
-- scan18 — chapter **1 / மண விழாவில் மச்சான்** opens;
+- scan18 — chapter **1 / மணவிழாவில் மசச்சாமி** opens;
 - scan18 has no confidently assigned running printed-page value;
 - scan19 — chapter1 continuation / running printed page **2**;
 - scan20 — chapter1 continuation / running printed page **3**.
 
 ## Batch 3 source-structure observations
 
-- scans21–24 — chapter1 `மண விழாவில் மச்சான்` continuation / printed pages **4–7**;
+- scans21–24 — chapter1 `மணவிழாவில் மசச்சாமி` continuation / printed pages **4–7**;
 - scan25 / printed page **8** closes chapter1; lower field contains the blue two-warrior illustration;
-- scan26 opens chapter **2 / விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்**;
+- scan26 opens chapter **2 / விருந்தினர் விடுதியும் வேதனை கொட்டடியும்**;
 - scan26 has no confidently assigned running printed-page value;
 - scans27–30 continue chapter2 / printed pages **10–13**.
 
@@ -80,16 +80,16 @@ All completed/captured Part001 records remain non-final:
 
 - scans31–32 continue chapter2 / printed pages **14–15**;
 - scan33 / printed page **16** closes chapter2 after மலைக்கொழுந்தாக் கவுண்டர் breaks into the room;
-- scan34 opens chapter **3 / மச்சக்காரியும் மருமகளும்** with displayed chapter number **3**;
+- scan34 opens chapter **3 / மகிழ்ச்சியும் மருட்சியும்** with displayed chapter number **3**;
 - scan34 has no confidently assigned running printed-page value and no value is inferred from sequence;
 - scans35–40 continue chapter3 / printed pages **18–23**;
 - scan40 ends with செல்லாத்தாக் கவுண்டர் asking மலைக்கொழுந்தாக் கவுண்டர் to state the real problem; scan41 is not imported.
 
 ## Batch 5 source-structure observations
 
-- scans41–42 continue and close chapter3 `மச்சக்காரியும் மருமகளும்` / printed pages **24–25**;
+- scans41–42 continue and close chapter3 `மகிழ்ச்சியும் மருட்சியும்` / printed pages **24–25**;
 - scan42 closes chapter3 after தலையூர்க்காளி prevents செல்லாத்தாக் கவுண்டர் from striking மலைக்கொழுந்தாக் கவுண்டர்;
-- scan43 opens chapter **4 / இனிய சூழலும் புதிய கோலமும்** with displayed chapter number **4**;
+- scan43 opens chapter **4 / இனிய சூழலும் புதிய சோகமும்** with displayed chapter number **4**;
 - scan43 has no confidently assigned running printed-page value and no value is inferred from sequence;
 - scans44–50 continue chapter4 / printed pages **27–33**;
 - scans49–50 move into detailed Kongu wedding-ritual description;
@@ -97,7 +97,7 @@ All completed/captured Part001 records remain non-final:
 
 ## Batch 6 source-structure observations
 
-- scan51 / printed page **34** closes chapter4 `இனிய சூழலும் புதிய கோலமும்`;
+- scan51 / printed page **34** closes chapter4 `இனிய சூழலும் புதிய சோகமும்`;
 - scan52 opens chapter **5 / தாமரை நாச்சியின் சபதம்** with displayed chapter number **5**;
 - scan52 has no confidently assigned running printed-page value and no value is inferred from sequence;
 - scans53–59 continue chapter5 / printed pages **36–42**;
@@ -165,7 +165,7 @@ All completed/captured Part001 records remain non-final:
 - scan31 — `கொட்டடியான உத்திரமொன்று`, `கரையானும் செல்லுப்பூச்சியும்`, `மொசமொசவென்று`;
 - scan32 — source-visible variant spacing `ஆதிசெட்டியப் பாளையத்தில்` / `ஆதிசெட்டியப்பாளையத்தில்`, `வறியவனாக`;
 - scan33 — `கருவேலமுள் கொப்புகளால்`, `கண்களைக் குளமாக்கிக் கொண்டு`;
-- scan34 — chapter title `மச்சக்காரியும் மருமகளும்`;
+- scan34 — chapter title `மகிழ்ச்சியும் மருட்சியும்`;
 - scan35 — source form `குதுவது கள்ளம் கபடம் தெரியாதவன்`;
 - scan36 — source form `மணியக்குறிச்சிக் கவுண்டர்`, `மறப்போம் மன்னிப்போம்`;
 - scan37 — `எமகிங்கரன்`, source-visible split form `தலை யிட்டாள்`;
@@ -174,7 +174,7 @@ All completed/captured Part001 records remain non-final:
 - scan40 — `ஆணையிட்டார்`, `தலையசைப்பின் குறிப்பையறிந்து`;
 - scan41 — `ஆட்சேபணையில்லையே`, `எள் முனையளவு`;
 - scan42 — `சலித்தவாறும் சிலிர்த்தவாறும்`, `மகிழ்ச்சி - மருட்சி`;
-- scan43 — chapter title `இனிய சூழலும் புதிய கோலமும்`, `மேனாட்டுச் சிற்றரசன்`;
+- scan43 — chapter title `இனிய சூழலும் புதிய சோகமும்`, `மேனாட்டுச் சிற்றரசன்`;
 - scan44 — `சூதுவலை`, `பூதாகாரப்படுத்திக் கொண்டு`;
 - scan45 — `பொய்களாம் நெருஞ்சில் முட்கள்`, `அறைகூவல்`;
 - scan46 — `கெளரவம்`, `என்பொருட்டு`, source-corrected in Pass2A to `பயங்கர குழ்ச்சி`;
