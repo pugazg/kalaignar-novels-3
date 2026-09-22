@@ -53,3 +53,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3
 - unresolved textual questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 3 review
+
+- meaningful full-page visual / structural verification completed directly against rendered source pixels;
+- printed page number `4` appears at upper left and running author header `கலைஞர் மு. கருணாநிதி` at upper right above the horizontal rule;
+- single-column chapter body fills the page below the rule;
+- body-page classification, running furniture and printed pagination are structurally correct;
+- structural corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
