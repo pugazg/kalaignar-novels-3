@@ -33,9 +33,11 @@
 - Part001 Pass 2B: **COMPLETE / PASS — 75/75 reviewed; 8 corrections; 0 unresolved**
 - Part001 Pass 3: **COMPLETE / PASS — 75/75 reviewed; 0 structural corrections; 0 unresolved**
 - Part001 whole-Part audit: **PASS / COMPLETE — 0 blockers**
+- Part001 final metadata/status synchronization: **COMPLETE — 75/75 status verified / 75/75 visual verified**
+- Part001 Tamil archival-ready: **PASS / COMPLETE**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 final metadata/status synchronization — Part audit PASS / COMPLETE; promote canonical records to verified without Tamil changes.**
+**Part001 assembled Tamil construction + exact canonical-coverage audit — next gate.**
