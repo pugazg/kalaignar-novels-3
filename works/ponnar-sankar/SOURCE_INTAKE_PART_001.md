@@ -108,7 +108,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - Part001 Pass2B reviewed — **75/75 — scans1–75 — COMPLETE**
 - Part001 Pass2B corrections — **8**
 - Part001 Pass2B unresolved textual questions — **0**
-- Part001 Pass3 reviewed — **25/75 — scans1–25**
+- Part001 Pass3 reviewed — **40/75 — scans1–40**
 - Part001 Pass3 cadence — **15 pages per iteration**
 - Part001 Pass3 structural corrections — **0**
 - Part001 Pass3 unresolved visual / structural questions — **0**
@@ -120,6 +120,6 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — scans26–40 / local pages26–40** as the next meaningful full-page visual / structural verification batch against rendered source pixels, continuing the **15-page iteration cadence**.
+Proceed with **Part001 Pass 3 — scans41–55 / local pages41–55** as the next meaningful full-page visual / structural verification batch against rendered source pixels, continuing the **15-page iteration cadence**.
 
 Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the appropriate later gates. Keep **75→76** pending until Part002 is supplied and directly checked.
