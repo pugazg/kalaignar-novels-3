@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans26–40
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans41–55
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,7 +42,7 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass2B corrections — **8**
 - Pass2B unresolved textual questions — **0**
-- Pass 3 — **IN PROGRESS / scans1–25 REVIEWED / PASS**
+- Pass 3 — **IN PROGRESS / scans1–40 REVIEWED / PASS**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Pass3 working cadence — **15 pages per iteration** (final remainder may be smaller)
@@ -53,25 +53,26 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 3 Batch 2 — scans11–25
+## Pass 3 Batch 3 — scans26–40
 
 Batch completed **15/15 REVIEWED / PASS** with **0 structural corrections** and **0 unresolved visual / structural questions**.
 
 Direct full-page verification confirmed:
 
-- scans11–14 — Roman pagination `x`–`xiii`, horizontal rules, continuous `நுழைவாயில்` prose, displayed short quotations / குறள் where source-visible;
-- scan15 — Roman page `xiv`, closing prose in the upper field and substantial intentional blank lower field;
-- scan16 — sideways landscape map plate visually verified; live asset relationship to `assets/scan-0016-map.png` confirmed; map labels were not reconstructed label-by-label as Unicode;
-- scan17 — intentional blank with faint reverse/show-through of the map;
-- scan18 — decorative chapter1 opener `மண விழாவில் மச்சான்`, displayed chapter number `1`, and separate lower-left numeral `2` retained as unclassified rather than inferred pagination;
-- scans19–24 — alternating running author/work headers and printed pages **2–7** verified;
-- scan25 — printed page **8**, chapter-closing prose in upper field, blue two-warrior illustration in substantial lower field.
+- scan26 — decorative chapter2 opener `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்`, displayed chapter number **2**, no running header or printed-page number;
+- scans27–32 — alternating running author/work headers with printed pages **10–15**;
+- scan33 — printed page **16**, chapter-closing prose followed by a substantial intentional blank lower field;
+- scan34 — decorative chapter3 opener `மச்சசாமியும் மருமகியும்`, displayed chapter number **3**, no running header or printed-page number;
+- scans35–40 — alternating running author/work headers with printed pages **18–23**;
+- ordinary single-column body-page structure and chapter-boundary treatment were consistent throughout.
 
 No lexical reopening was required. No status promotion was performed.
 
+The Pass3 progress control was also reconciled so Batch1 correctly reads **scans1–10: 10/10**, and cumulative Pass3 now reads **scans1–40: 40/40 REVIEWED / PASS**.
+
 ## Exact next activity
 
-Continue **Part001 Pass 3 — global scans26–40 / local pages26–40**.
+Continue **Part001 Pass 3 — global scans41–55 / local pages41–55**.
 
 The user has set the Pass3 working cadence to **15 pages per iteration**. Process this full 15-page batch in one iteration.
 
@@ -86,7 +87,7 @@ Pass 3 remains the **meaningful full-page visual / structural verification** gat
 7. update `PART_001_PASS3_PROGRESS.md` and synchronize all maintained controls after the batch;
 8. do not begin Part audit until Pass3 closes for all 75 scans.
 
-After scans26–40, the next 15-page iteration should be scans41–55.
+After scans41–55, the next 15-page iteration should be scans56–70.
 
 ## Mandatory archive rules
 
