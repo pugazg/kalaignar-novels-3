@@ -73,7 +73,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 2B — IN PROGRESS / scans1–50 REVIEWED / PASS.**
+**PART001 PASS 2B — IN PROGRESS / scans1–60 REVIEWED / PASS.**
 
 - canonical page records — **75/75 — scans1–75**
 - Pass1 textual transcriptions — **74/75 — scans1–15,17–75**
@@ -105,7 +105,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - Part001 Pass2A reviewed — **75/75 — COMPLETE**
 - Part001 Pass2A corrections — **31**
 - Part001 Pass2A unresolved textual questions — **0**
-- Part001 Pass2B reviewed — **50/75 — scans1–50**
+- Part001 Pass2B reviewed — **60/75 — scans1–60**
 - Part001 Pass2B corrections — **6**
 - Part001 Pass2B unresolved textual questions — **0**
 - outgoing Part001 75→76 — **PENDING Part002 direct witness**
@@ -115,6 +115,6 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — scans51–60 / local pages51–60** as the next independent lexical / historical-glyph reread against rendered source pixels.
+Proceed with **Part001 Pass 2B — scans61–70 / local pages61–70** as the next independent lexical / historical-glyph reread against rendered source pixels.
 
 Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the appropriate later gates. Keep **75→76** pending until Part002 is supplied and directly checked.
