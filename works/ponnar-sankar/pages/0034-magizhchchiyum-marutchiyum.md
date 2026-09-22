@@ -4,7 +4,7 @@ part: 1
 part_page: 34
 printed_page: null
 work: "ponnar-sankar"
-section: "மச்சக்காரியும் மருமகளும்"
+section: "மகிழ்ச்சியும் மருட்சியும்"
 page_type: "chapter-opening"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 4"
 ---
 
-# 3 — மச்சக்காரியும் மருமகளும்
+# 3 — மகிழ்ச்சியும் மருட்சியும்
 
 ## Source transcription
 
@@ -34,7 +34,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 4
 ## Pass 1 notes
 
 - decorative chapter opening with displayed chapter number **3**;
-- source-visible chapter title: மச்சக்காரியும் மருமகளும்;
+- source-visible chapter title: மகிழ்ச்சியும் மருட்சியும்;
 - no running printed-page value is inferred for this chapter-opening scan;
 - final sentence continues directly on scan35;
 - status and visual fidelity remain needs-review.
@@ -61,7 +61,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 4
 ## Formal Part001 Pass 3 review
 
 - meaningful full-page visual / structural verification completed directly against rendered source pixels;
-- large decorative blue chapter title `மச்சக்காரியும் மருமகளும்` fills the upper field with ornamental flourishes and displayed chapter number `3` below;
+- large decorative blue chapter title `மகிழ்ச்சியும் மருட்சியும்` fills the upper field with ornamental flourishes and displayed chapter number `3` below;
 - chapter prose begins beneath the display treatment; no running header or printed page number is present;
 - chapter-opening classification and deliberate pagination omission are structurally correct;
 - structural corrections in Pass 3: **0**;
@@ -69,10 +69,10 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 4
 - Pass 3 result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
 
-## Post-audit source-title correction
+## User-confirmed source chapter-title correction
 
-- source-backed defect reported after the first whole-Part audit;
-- chapter-title artwork on source scan34 was re-read directly from rendered source pixels;
-- incorrect repository title `மச்சசாமியும் மருமகியும்` corrected to source-visible `மச்சக்காரியும் மருமகளும்`;
-- opening dialogue `“எங்கே அந்த மச்சசாமி?”` is body text and remains unchanged;
-- this correction affects chapter-title / section metadata only; no narrative Tamil was altered.
+- exact chapter title supplied by the user from the controlling source: `மகிழ்ச்சியும் மருட்சியும்`;
+- previous repository chapter-title readings were incorrect and are superseded;
+- chapter-title / section metadata and maintained chapter headings corrected accordingly;
+- the source body dialogue `“எங்கே அந்த மச்சசாமி?”` remains unchanged because it is narrative text, not the chapter title;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending final metadata/status synchronization.
