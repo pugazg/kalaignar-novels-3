@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 WHOLE-PART AUDIT PASS / COMPLETE — FINAL METADATA SYNC NEXT**
+**PART001 TAMIL ARCHIVAL-READY PASS / COMPLETE — ASSEMBLED TAMIL NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -29,7 +29,10 @@
 - Part001 whole-Part audit: **PASS / COMPLETE**
 - chapter-title source revalidation: **PASS / USER-CONFIRMED — chapters1–4 corrected to `மணவிழாவில் மசச்சாமி`, `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`, `மகிழ்ச்சியும் மருட்சியும்`, `இனிய சூழலும் புதிய சோகமும்`; chapters5–7 unchanged**
 - Part001 audit blockers: **0**
-- verified pages: **0 — promotion pending final metadata/status synchronization**
+- final metadata/status synchronization: **COMPLETE**
+- verified pages: **75/75**
+- visual-fidelity verified pages: **75/75**
+- Tamil archival-ready: **PASS / COMPLETE**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
@@ -69,4 +72,4 @@
 
 ## Exact next activity
 
-Proceed with **Part001 final metadata/status synchronization**: promote all canonical records to verified without Tamil changes, synchronize controls, and run the Tamil archival-ready checkpoint. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only. Keep outgoing **75→76** pending until Part002 is supplied.
