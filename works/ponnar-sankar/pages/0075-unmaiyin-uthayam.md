@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 8
 
 “அதற்குப் பிறகு ஏற்பட்ட விபரீதங்கள் பிடிக்காமல்தான் நான் தலையூரை விட்டு வெளியேற நேர்ந்தது” என்றார் மாயவர்!
 
-“இன்னமும் தாங்கள்; இருபது இருபத்தி ஐந்து ஆண்டு களுக்கு முன் தலையூர்க்காளியிடம் கோபங்கொண்டு வெளியூர் களுக்குக் கிளம்பிய அந்தக் காரணத்தைக் கூறுகிற கட்டத்திற்கே வரவில்லையே!” என்றார் ராக்கியண்ணன் கிண்டலாக!
+“இன்னமும் தாங்கள்; இருபது இருபத்தி ஐந்து ஆண்டுகளுக்கு முன் தலையூர்க்காளியிடம் கோபங்கொண்டு வெளியூர்களுக்குக் கிளம்பிய அந்தக் காரணத்தைக் கூறுகிற கட்டத்திற்கே வரவில்லையே!” என்றார் ராக்கியண்ணன் கிண்டலாக!
 
 “வந்துவிட்டேன்! நான் இப்போது தலையூருக்குத் திரும்பி வந்தும் விட்டேன். தாங்கள் அறிய விரும்புகிற காரணத்தின் பக்கமும் வந்துவிட்டேன்” என மாயவர் தனது தாடியைத் தடவிக் கொண்டே குளிர்ந்த ஒரு பார்வையை ராக்கியண்ணன்மீது வீசினார்.
 
@@ -47,4 +47,16 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 8
 - source-text corrections: **0**;
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 2B review
+
+- independent lexical / historical-glyph reread completed directly against rendered source pixels;
+- word boundaries, spacing, punctuation-sensitive readings, historical/source-visible glyph identity and compounds were rechecked without modernization;
+- rejoined physical line-wrap split **`ஆண்டு களுக்கு` → `ஆண்டுகளுக்கு`**;
+- rejoined physical line-wrap split **`வெளியூர் களுக்குக்` → `வெளியூர்களுக்குக்`**;
+
+- source-text corrections in Pass 2B: **2**;
+- unresolved textual questions: **0**;
+- Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
