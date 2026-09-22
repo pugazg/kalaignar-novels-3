@@ -96,6 +96,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
 - Part001 Pass 3: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 0 structural corrections; 0 unresolved**
-- Part001 Part audit: **NOT STARTED**
+- Part001 Part audit: **PASS / COMPLETE — 0 blockers**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 whole-Part audit — continuous scan coverage, duplicate/missing canonical records, Pass evidence, printed-page mapping, boundaries and unresolved-count reconciliation**
+- exact next activity: **Part001 final metadata/status synchronization — promote all canonical records to verified without Tamil changes**
