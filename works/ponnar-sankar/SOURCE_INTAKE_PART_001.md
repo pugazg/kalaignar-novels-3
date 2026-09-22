@@ -117,9 +117,11 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - durable Pass2A progress — `PART_001_PASS2A_PROGRESS.md`
 - durable Pass2B progress — `PART_001_PASS2B_PROGRESS.md`
 - durable Pass3 progress — `PART_001_PASS3_PROGRESS.md`
+- durable Part audit — `PART_001_AUDIT.md`
+- Part001 whole-Part audit — **PASS / COMPLETE / 0 blockers**
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit** as the next gate, checking coverage, duplication, Pass evidence, printed-page mapping, boundaries and unresolved-issue counts.
+Proceed with **Part001 final metadata/status synchronization**. Promote `status` / `visual_fidelity` only; do not alter canonical Tamil.
 
 Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the appropriate later gates. Keep **75→76** pending until Part002 is supplied and directly checked.
