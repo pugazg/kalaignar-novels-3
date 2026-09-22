@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans11–20
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans26–40
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,9 +42,10 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass2B corrections — **8**
 - Pass2B unresolved textual questions — **0**
-- Pass 3 — **IN PROGRESS / scans1–10 REVIEWED / PASS**
+- Pass 3 — **IN PROGRESS / scans1–25 REVIEWED / PASS**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
+- Pass3 working cadence — **15 pages per iteration** (final remainder may be smaller)
 - records promoted to verified — **0**
 - all page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 - assembled Tamil — **NOT STARTED**
@@ -52,32 +53,32 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 3 Batch 1 — scans1–10
+## Pass 3 Batch 2 — scans11–25
 
-Batch completed **10/10 REVIEWED / PASS** with **0 structural corrections** and **0 unresolved visual / structural questions**.
+Batch completed **15/15 REVIEWED / PASS** with **0 structural corrections** and **0 unresolved visual / structural questions**.
 
 Direct full-page verification confirmed:
 
-- scan1 — full-colour outer cover, two mounted warriors, display title / author hierarchy;
-- scan2 — ornate framed title/publisher page, lower publisher emblem, upper-right copy-specific circular stamp;
-- scan3 — `நூல் அளவை` bibliographic layout with copy-specific handwritten accession/classification marks;
-- scan4 — ornate preface frame, small two-warrior illustration, upper-right library stamp, lower-right handwritten signature/mark;
-- scans5 and 7 — intentional blank pages with faint reverse/show-through only;
-- scan6 — circular title-divider emblem with ornamental bar;
-- scan8 — decorative `நுழைவாயில்` heading / architectural ornament and enlarged opening initial;
-- scans9–10 — centered Roman pagination above horizontal rules;
-- scan10 — displayed eight-line quoted song visually separated from prose.
+- scans11–14 — Roman pagination `x`–`xiii`, horizontal rules, continuous `நுழைவாயில்` prose, displayed short quotations / குறள் where source-visible;
+- scan15 — Roman page `xiv`, closing prose in the upper field and substantial intentional blank lower field;
+- scan16 — sideways landscape map plate visually verified; live asset relationship to `assets/scan-0016-map.png` confirmed; map labels were not reconstructed label-by-label as Unicode;
+- scan17 — intentional blank with faint reverse/show-through of the map;
+- scan18 — decorative chapter1 opener `மண விழாவில் மச்சான்`, displayed chapter number `1`, and separate lower-left numeral `2` retained as unclassified rather than inferred pagination;
+- scans19–24 — alternating running author/work headers and printed pages **2–7** verified;
+- scan25 — printed page **8**, chapter-closing prose in upper field, blue two-warrior illustration in substantial lower field.
 
 No lexical reopening was required. No status promotion was performed.
 
 ## Exact next activity
 
-Continue **Part001 Pass 3 — global scans11–20 / local pages11–20**.
+Continue **Part001 Pass 3 — global scans26–40 / local pages26–40**.
+
+The user has set the Pass3 working cadence to **15 pages per iteration**. Process this full 15-page batch in one iteration.
 
 Pass 3 remains the **meaningful full-page visual / structural verification** gate. For each page:
 
 1. inspect rendered source pixels directly;
-2. verify headings, page type, printed-page visibility, blank fields, illustrations, recurring furniture and full-page structure;
+2. verify headings, page type, printed-page visibility, blank fields, illustrations, recurring running furniture and full-page structure;
 3. verify canonical structural classification against the source;
 4. do not reopen lexical wording unless a separate source-backed defect is discovered;
 5. add exactly one formal Pass3 review section per page;
@@ -85,14 +86,7 @@ Pass 3 remains the **meaningful full-page visual / structural verification** gat
 7. update `PART_001_PASS3_PROGRESS.md` and synchronize all maintained controls after the batch;
 8. do not begin Part audit until Pass3 closes for all 75 scans.
 
-### Special scan16 rule
-
-Scan16 is the image-preserved map page. In this batch:
-
-- verify the preserved map image against the rendered source page as visual evidence;
-- verify page type, image extent/layout and the maintained asset relationship;
-- **do not** reconstruct or verify map labels label-by-label as Unicode text;
-- do not replace the image-preserved archival treatment with inferred text.
+After scans26–40, the next 15-page iteration should be scans41–55.
 
 ## Mandatory archive rules
 
@@ -100,6 +94,7 @@ Scan16 is the image-preserved map page. In this batch:
 - source pixels are authoritative
 - no OCR-based Tamil verification
 - preserve source spelling, spacing, punctuation, historical forms and page structure
+- scan16 remains image-preserved and must not be reconstructed label-by-label as Unicode
 - no future Part ranges/page counts may be invented
 - Part002 may only be used as a future boundary witness after it is supplied
 - no Part002 canonical transcription until Part001 completes the full maintained workflow and is frozen
