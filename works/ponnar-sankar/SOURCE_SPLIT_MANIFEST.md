@@ -30,10 +30,11 @@
 - Part001 Pass 1 pending physical scans: **0/75**
 - unresolved Pass1 source-reading holds: **0**
 - Part001 Pass 2A: **COMPLETE — 75/75 reviewed; 31 corrections recorded; 0 unresolved**
-- Part001 Pass 2B: **IN PROGRESS — 70/75 reviewed; 6 corrections; 0 unresolved**
+- Part001 Pass 2B: **COMPLETE / PASS — 75/75 reviewed; 8 corrections; 0 unresolved**
+- Part001 Pass 3: **NOT STARTED**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 Pass 2B — FINAL scans71–75 / local pages71–75 — independent lexical / historical-glyph reread.**
+**Part001 Pass 3 — scans1–10 / local pages1–10 — meaningful full-page visual / structural verification.**
