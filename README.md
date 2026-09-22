@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 WHOLE-PART AUDIT PASS / COMPLETE — 75/75 coverage reconciled; 0 in-scope blockers; final metadata/status synchronization next**
+- current state: **Part001 WHOLE-PART AUDIT PASS / COMPLETE / REVALIDATED — chapter3 title corrected to source-visible `மச்சக்காரியும் மருமகளும்`; final metadata/status synchronization next**
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
 ## Workflow
