@@ -68,7 +68,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 2B source-text corrections — **8**
 - Part001 Pass 2B unresolved textual questions — **0**
-- verified pages — **0**
+- verified pages — **0 — promotion is the next gate**
+- Part001 whole-Part audit — **PASS / COMPLETE**
+- Part001 audit blockers — **0**
+- durable Part audit — `works/ponnar-sankar/PART_001_AUDIT.md`
 - assembled Tamil — **NOT STARTED**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
@@ -76,8 +79,8 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part001 whole-Part audit next**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — final metadata/status synchronization next**
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit** as the next gate. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the audit passes and final metadata/status synchronization is completed. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 final metadata/status synchronization**. Promote all 75 canonical records to `status: "verified"` / `visual_fidelity: "verified"` without changing canonical Tamil, synchronize controls, and run the archival-ready checkpoint. Keep **75→76** pending until Part002 is supplied.
