@@ -49,3 +49,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 2
 - unresolved textual questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 3 review
+
+- meaningful full-page visual / structural verification completed directly against rendered source pixels;
+- decorative chapter-opening artwork and large blue title `மண விழாவில் மச்சான்` occupy the upper field with displayed chapter number `1` below;
+- body text begins beneath the decorative opener; a separate small numeral `2` is visible at the lower-left foot and remains intentionally unclassified rather than inferred as ordinary pagination;
+- chapter-opening classification and no ordinary running printed-page value are structurally correct;
+- structural corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
