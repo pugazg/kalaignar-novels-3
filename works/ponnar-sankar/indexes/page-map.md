@@ -95,6 +95,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
-- Part001 Pass 3: **NOT STARTED**
+- Part001 Pass 3: **IN PROGRESS — scans1–10 REVIEWED / PASS; 0 structural corrections; 0 unresolved**
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 Pass 3 scans1–10 / local pages1–10 — meaningful full-page visual / structural verification**
+- exact next activity: **Part001 Pass 3 scans11–20 / local pages11–20 — meaningful full-page visual / structural verification**
