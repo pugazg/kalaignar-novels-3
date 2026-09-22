@@ -75,7 +75,7 @@ Active Part:
 | 31 | chapter2 continuation | 14 | 0 | REVIEWED / PASS |
 | 32 | chapter2 continuation | 15 | 0 | REVIEWED / PASS |
 | 33 | chapter2 close | 16 | 0 | REVIEWED / PASS |
-| 34 | chapter3 `மச்சசாமியும் மருமகியும்` opening | — | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மச்சக்காரியும் மருமகளும்` opening | — | 0 | REVIEWED / PASS |
 | 35 | chapter3 continuation | 18 | 0 | REVIEWED / PASS |
 | 36 | chapter3 continuation | 19 | 0 | REVIEWED / PASS |
 | 37 | chapter3 continuation | 20 | 0 | REVIEWED / PASS |
@@ -534,7 +534,7 @@ Action:
 ### Batch 4 verification notes
 
 - scans31–33: chapter2 continuation/closure, printed pages **14–16**, page-end boundaries and rescue/confrontation sequence checked directly with no source-text corrections;
-- scan34: chapter3 number/title `மச்சசாமியும் மருமகியும்`, opening dialogue and open continuation into scan35 checked directly; no running page number inferred;
+- scan34: chapter3 number/title `மச்சக்காரியும் மருமகளும்`, opening dialogue and open continuation into scan35 checked directly; no running page number inferred;
 - scans35–37: printed pages **18–20**, dialogue punctuation, source-visible forms including `குதுவது`, `மணியக்குறிச்சிக் கவுண்டர்`, `எமகிங்கரன்` and split `தலை யிட்டாள்` checked directly;
 - scan38: printed page **21** and dense ceremonial vocabulary checked directly, including `முப்பரித்தாலி`, `குப்பாரிகொட்டித்`, `பொன் பூட்டிக் குலம் ஓதுதல்` and `புதுக்கலத்துண்ணல்`;
 - scan39: printed page **22**, `பட்டுப் பீதாம்பரம்`, `மங்கல நாண்`, dialogue and marriage-decision paragraph checked directly;
