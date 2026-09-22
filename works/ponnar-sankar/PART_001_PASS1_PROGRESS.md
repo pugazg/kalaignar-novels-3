@@ -216,6 +216,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Part001 Pass 1 is closed. Current repository frontier is the **Part001 whole-Part audit**; Pass2A, Pass2B and Pass3 are complete, with Pass3 at 75/75 REVIEWED / PASS, 0 structural corrections and 0 unresolved visual / structural questions. See `PART_001_PASS2A_PROGRESS.md` and `PART_001_PASS2B_PROGRESS.md`.
+Part001 Pass 1 is closed. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Current repository frontier is **final metadata/status synchronization**; Pass2A, Pass2B and Pass3 are complete, with Pass3 at 75/75 REVIEWED / PASS, 0 structural corrections and 0 unresolved visual / structural questions. See `PART_001_PASS2A_PROGRESS.md` and `PART_001_PASS2B_PROGRESS.md`.
 
 For scan16, the map page is an **image-preserved non-text page** and must be visually verified as an image asset rather than Unicode label transcription. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
