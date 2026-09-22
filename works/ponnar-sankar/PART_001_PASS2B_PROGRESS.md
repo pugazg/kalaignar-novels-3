@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / scans1–70 REVIEWED / PASS**
+**PASS 2B — COMPLETE / 75/75 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2B accounting
 
-- reviewed: **70/75 — scans1–70**
-- pending: **5/75 — scans71–75**
-- source-text corrections applied in Pass 2B: **6**
+- reviewed: **75/75 — scans1–75 — COMPLETE**
+- pending: **0/75**
+- source-text corrections applied in Pass 2B: **8**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
 - all reviewed records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
@@ -127,6 +127,16 @@ Active Part:
 | 68 | chapter6 continuation / மாயவர்–ராக்கியண்ணன் reunion | 51 | 0 | REVIEWED / PASS |
 | 69 | chapter6 close | 52 | 0 | REVIEWED / PASS |
 | 70 | chapter7 `உண்மையின் உதயம்` opening | — | 0 | REVIEWED / PASS |
+
+## Batch 8 — FINAL scans71–75
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 71 | chapter7 continuation | 54 | 0 | REVIEWED / PASS |
+| 72 | chapter7 continuation | 55 | 0 | REVIEWED / PASS |
+| 73 | chapter7 continuation / historical-background exposition | 56 | 0 | REVIEWED / PASS |
+| 74 | chapter7 continuation | 57 | 0 | REVIEWED / PASS |
+| 75 | chapter7 continuation / Part001 outgoing edge | 58 | **2** | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -250,6 +260,42 @@ Action:
 - no status promotion performed
 - Pass3 not started
 
+### P2B-007 — scan75
+
+Pass2B entry-state canonical:
+- `இருபது இருபத்தி ஐந்து ஆண்டு களுக்கு முன்`
+
+Independent direct source-pixel reading:
+- the printed word is split only by the physical line ending: `ஆண்டு` / `களுக்கு`;
+- lexical reading is `ஆண்டுகளுக்கு`.
+
+Action:
+- canonical scan75 rejoined the line-wrap-only split **`ஆண்டு களுக்கு` → `ஆண்டுகளுக்கு`**;
+- no modernization or wording substitution was introduced.
+
+### P2B-008 — scan75
+
+Pass2B entry-state canonical:
+- `கோபங்கொண்டு வெளியூர் களுக்குக் கிளம்பிய`
+
+Independent direct source-pixel reading:
+- the printed word is split only by the physical line ending: `வெளியூர்` / `களுக்குக்`;
+- lexical reading is `வெளியூர்களுக்குக்`.
+
+Action:
+- canonical scan75 rejoined the line-wrap-only split **`வெளியூர் களுக்குக்` → `வெளியூர்களுக்குக்`**;
+- no modernization or wording substitution was introduced.
+
+## Batch 8 result
+
+- scans71–75: **5/5 REVIEWED / PASS**
+- Pass2B corrections in this batch: **2**
+- unresolved textual questions: **0**
+- source-visible lexical and historical forms retained; only two physical line-wrap-only word splits were rejoined
+- no status promotion performed
+- Pass2B closes **COMPLETE / PASS**
+- Pass3 not started
+
 ## Batch 7 result
 
 - scans61–70: **10/10 REVIEWED / PASS**
@@ -261,8 +307,8 @@ Action:
 
 ## Cumulative result
 
-- scans1–70: **70/70 REVIEWED / PASS**
-- cumulative Pass2B corrections: **6**
+- scans1–75: **75/75 REVIEWED / PASS — COMPLETE**
+- cumulative Pass2B corrections: **8**
 - unresolved textual questions: **0**
 - source-visible historical / lexical forms retained without silent normalization
 - no status promotion performed
@@ -270,6 +316,4 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — FINAL global scans71–75 / local pages71–75**.
-
-Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Pass3.
+Proceed with **Part001 Pass 3 — scans1–10 / local pages1–10** as the next meaningful full-page visual / structural verification batch. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`.
