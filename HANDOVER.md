@@ -68,8 +68,12 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 2B source-text corrections — **8**
 - Part001 Pass 2B unresolved textual questions — **0**
-- verified pages — **0 — promotion is the next gate**
+- verified pages — **75/75 — COMPLETE**
 - Part001 whole-Part audit — **PASS / COMPLETE**
+- Part001 final metadata/status synchronization — **COMPLETE**
+- Part001 canonical `status: verified` — **75/75**
+- Part001 canonical `visual_fidelity: verified` — **75/75**
+- Part001 Tamil archival-ready — **PASS / COMPLETE**
 - chapter-title source revalidation — **PASS / USER-CONFIRMED**
 - chapter1 / scan18 — **`மணவிழாவில் மசச்சாமி`**
 - chapter2 / scan26 — **`விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`**
@@ -80,15 +84,15 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - chapter7 / scan70 — `உண்மையின் உதயம்`
 - Part001 audit blockers — **0**
 - durable Part audit — `works/ponnar-sankar/PART_001_AUDIT.md`
-- assembled Tamil — **NOT STARTED**
+- assembled Tamil — **NOT STARTED / NEXT**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — final metadata/status synchronization next**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — assembled Tamil construction + audit next**
 
 ## Exact next activity
 
-Proceed with **Part001 final metadata/status synchronization**. Promote all 75 canonical records to `status: "verified"` / `visual_fidelity: "verified"` without changing canonical Tamil, synchronize controls, and run the archival-ready checkpoint. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only. Keep **75→76** pending until Part002 is supplied.
