@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — COMPLETE / PASS 2B IN PROGRESS**
+**PASS 2A — COMPLETE / PASS 2B COMPLETE / PASS 3 NEXT**
 
 Active Part:
 - Part001
@@ -598,6 +598,6 @@ All reviewed pages remain:
 
 Part001 Pass 2A is **COMPLETE / 75/75 REVIEWED / PASS**.
 
-Pass2B is now **IN PROGRESS — scans1–70 REVIEWED / PASS** with **6 cumulative Pass2B corrections**. Proceed next with **Part001 Pass 2B — FINAL scans71–75 / local pages71–75**, continuing the independent lexical / historical-glyph reread. P2B-001 on scan3 supersedes P2A-001.
+Pass2B is now **COMPLETE / PASS — 75/75 REVIEWED** with **8 cumulative Pass2B corrections** and **0 unresolved**. Proceed next with **Part001 Pass 3 — scans1–10 / local pages1–10**, beginning the meaningful full-page visual / structural verification. P2B-001 on scan3 supersedes P2A-001.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
