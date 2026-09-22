@@ -121,6 +121,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - Part001 whole-Part audit — **PASS / COMPLETE / 0 blockers**
 - Part001 final metadata/status synchronization — **COMPLETE / 75/75 promoted**
 - Part001 Tamil archival-ready — **PASS / COMPLETE**
+- durable Tamil archival-ready checkpoint — `PART_001_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
