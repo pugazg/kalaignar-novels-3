@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PART AUDIT — PASS / COMPLETE**
+**PART AUDIT — PASS / COMPLETE — REVALIDATED AFTER CHAPTER-TITLE CORRECTION**
 
 Audit scope:
 - active Part — **Part001**
