@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans41–50
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans51–60
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,7 +39,7 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–40 REVIEWED / PASS**
+- Pass 2B — **IN PROGRESS / scans1–50 REVIEWED / PASS**
 - Pass2B corrections — **6**
 - Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
@@ -49,22 +49,20 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 4 — scans31–40
+## Pass 2B Batch 5 — scans41–50
 
-Batch completed **10/10 REVIEWED / PASS** with **3 corrections**.
+Batch completed **10/10 REVIEWED / PASS** with **0 corrections**.
 
-- scan32 — `ஆதிசெட்டியப் பாளையத்தில்` → **`ஆதிசெட்டிப் பாளையத்தில்`**
-- scan32 — `ஆதிசெட்டியப்பாளையத்தில்` → **`ஆதிசெட்டிப்பாளையத்தில்`**
-- scan37 — physical line-wrap-only split `தலை யிட்டாள்` → **`தலையிட்டாள்`**
-- scans31, 33–36, 38–40 — **0 corrections**
+- scans41–50 — **0 corrections**
 - unresolved textual questions — **0**
-- cumulative Pass2B state — **40/75 reviewed / 6 corrections / 0 unresolved**
+- source-visible lexical forms, compounds, punctuation and ritual terminology were retained without silent normalization
+- cumulative Pass2B state — **50/75 reviewed / 6 corrections / 0 unresolved**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — global scans41–50 / local pages41–50**.
+Continue **Part001 Pass 2B — global scans51–60 / local pages51–60**.
 
 Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
