@@ -224,6 +224,8 @@ Post-audit promotion completed after the revalidated audit:
 
 **Tamil archival-ready checkpoint: PASS / COMPLETE**
 
+Durable checkpoint: `PART_001_TAMIL_ARCHIVAL_READY.md`
+
 ## Exact next activity
 
 Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only.
