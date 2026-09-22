@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 Pass3 IN PROGRESS — scans1–25 reviewed / PASS; 0 structural corrections; 0 unresolved; scans26–40 next; cadence 15 pages/iteration**
+- current state: **Part001 Pass3 IN PROGRESS — scans1–40 reviewed / PASS; 0 structural corrections; 0 unresolved; scans41–55 next; cadence 15 pages/iteration**
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
 ## Workflow
@@ -42,6 +42,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — global scans26–40 / local pages26–40** as the next meaningful full-page visual / structural verification batch, continuing the **15-page iteration cadence**.
+Proceed with **Part001 Pass 3 — global scans41–55 / local pages41–55** as the next meaningful full-page visual / structural verification batch, continuing the **15-page iteration cadence**.
 
 Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
