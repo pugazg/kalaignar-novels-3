@@ -598,6 +598,6 @@ All reviewed pages remain:
 
 Part001 Pass 2A is **COMPLETE / 75/75 REVIEWED / PASS**.
 
-Pass2B is now **COMPLETE / PASS — 75/75 REVIEWED** with **8 cumulative Pass2B corrections** and **0 unresolved**. Pass3 is now **IN PROGRESS — scans1–10 REVIEWED / PASS** with **0 structural corrections / 0 unresolved visual-structural questions**. Proceed next with **Part001 Pass 3 — scans11–20 / local pages11–20**. P2B-001 on scan3 supersedes P2A-001.
+Pass2B is now **COMPLETE / PASS — 75/75 REVIEWED** with **8 cumulative Pass2B corrections** and **0 unresolved**. Pass3 is now **IN PROGRESS — scans1–25 REVIEWED / PASS** with **0 structural corrections / 0 unresolved visual-structural questions**. Continue at a **15-page iteration cadence**; proceed next with **Part001 Pass 3 — scans26–40 / local pages26–40**. P2B-001 on scan3 supersedes P2A-001.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
