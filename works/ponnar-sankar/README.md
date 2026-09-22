@@ -27,6 +27,7 @@
 - Pass3 structural corrections: **0**
 - Pass3 unresolved visual / structural questions: **0**
 - Part001 whole-Part audit: **PASS / COMPLETE**
+- chapter-title source revalidation: **PASS — chapter3 corrected to `மச்சக்காரியும் மருமகளும்`; chapters1,2,4 rechecked and match source**
 - Part001 audit blockers: **0**
 - verified pages: **0 — promotion pending final metadata/status synchronization**
 - source PDFs in Git: **0 / prohibited by archive policy**
