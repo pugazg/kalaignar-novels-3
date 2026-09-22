@@ -56,3 +56,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 5
 - unresolved textual questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 3 review
+
+- meaningful full-page visual / structural verification completed directly against rendered source pixels;
+- running work header `பொன்னர் - சங்கர்` appears at upper left and printed page number `25` at upper right above the horizontal rule;
+- chapter-closing prose occupies the upper field, followed by a substantial intentional blank lower field;
+- chapter-closing classification, running furniture, printed pagination and blank lower field are structurally correct;
+- structural corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
