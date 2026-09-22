@@ -67,6 +67,7 @@
 - `PART_001_PASS2B_PROGRESS.md`
 - `PART_001_PASS3_PROGRESS.md`
 - `PART_001_AUDIT.md`
+- `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
 
