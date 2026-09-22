@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans61–70
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 FINAL Pass 2B scans71–75
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,7 +39,7 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–60 REVIEWED / PASS**
+- Pass 2B — **IN PROGRESS / scans1–70 REVIEWED / PASS**
 - Pass2B corrections — **6**
 - Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
@@ -49,20 +49,20 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 6 — scans51–60
+## Pass 2B Batch 7 — scans61–70
 
 Batch completed **10/10 REVIEWED / PASS** with **0 corrections**.
 
-- scans51–60 — **0 corrections**
+- scans61–70 — **0 corrections**
 - unresolved textual questions — **0**
-- source-visible lexical forms, occurrence-specific compounds, letter punctuation, ritual vocabulary and the central sibling-vow wording were retained without silent normalization
-- cumulative Pass2B state — **60/75 reviewed / 6 corrections / 0 unresolved**
+- source-visible lexical forms, dialogue diction, place/name forms, compounds and punctuation retained without silent normalization
+- cumulative Pass2B state — **70/75 reviewed / 6 corrections / 0 unresolved**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — global scans61–70 / local pages61–70**.
+Continue **Part001 Pass 2B — FINAL global scans71–75 / local pages71–75**.
 
 Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
@@ -73,9 +73,10 @@ Pass 2B remains an **independent lexical / historical-glyph reread**. For each p
 5. apply only source-supported canonical corrections;
 6. add exactly one formal Pass2B review section per page;
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-8. do not begin Pass3.
+8. after scan75 closes, mark Pass2B **COMPLETE / PASS** only if all 75/75 are reviewed with unresolved count 0;
+9. do not begin Pass3 in the same batch unless the next explicit activity is requested.
 
-After the batch, update `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`, synchronize all maintained controls, `HANDOVER.md`, and this file.
+After the final batch, update `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`, synchronize all maintained controls, `HANDOVER.md`, and this file.
 
 ## Mandatory archive rules
 
