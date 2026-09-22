@@ -188,5 +188,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- Part001 Part audit — **NOT STARTED**
-- exact next gate — **Part001 whole-Part audit**
+- Part001 Part audit — **PASS / COMPLETE**
+- Part001 audit blockers — **0**
+- durable audit — `PART_001_AUDIT.md`
+- exact next gate — **Part001 final metadata/status synchronization**
