@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / scans1–25 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / scans1–40 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -17,8 +17,8 @@ Active Part:
 
 ## Pass 3 accounting
 
-- reviewed: **25/75 — scans1–25**
-- pending: **50/75 — scans26–75**
+- reviewed: **40/75 — scans1–40**
+- pending: **35/75 — scans41–75**
 - working cadence: **15 pages per iteration** (final remainder may be smaller)
 - structural corrections applied in Pass 3: **0**
 - unresolved visual / structural questions: **0**
@@ -42,7 +42,7 @@ Active Part:
 
 ## Batch 1 result
 
-- scans1–25: **25/25 REVIEWED / PASS**
+- scans1–10: **10/10 REVIEWED / PASS**
 - structural corrections in this batch: **0**
 - unresolved visual / structural questions: **0**
 - cover/title/front-matter hierarchy, decorative frames/emblems, copy-specific library/handwritten marks, intentional blank pages, introductory heading treatment, Roman pagination, horizontal rules and displayed quotation structure were directly verified
@@ -81,9 +81,39 @@ Active Part:
 - no status promotion performed
 - Part audit not started
 
+## Batch 3 — scans26–40
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---|---:|---|
+| 26 | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` decorative opening | — | 0 | REVIEWED / PASS |
+| 27 | chapter2 body | 10 | 0 | REVIEWED / PASS |
+| 28 | chapter2 body | 11 | 0 | REVIEWED / PASS |
+| 29 | chapter2 body | 12 | 0 | REVIEWED / PASS |
+| 30 | chapter2 body | 13 | 0 | REVIEWED / PASS |
+| 31 | chapter2 body | 14 | 0 | REVIEWED / PASS |
+| 32 | chapter2 body | 15 | 0 | REVIEWED / PASS |
+| 33 | chapter2 close / substantial blank lower field | 16 | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மச்சசாமியும் மருமகியும்` decorative opening | — | 0 | REVIEWED / PASS |
+| 35 | chapter3 body | 18 | 0 | REVIEWED / PASS |
+| 36 | chapter3 body | 19 | 0 | REVIEWED / PASS |
+| 37 | chapter3 body | 20 | 0 | REVIEWED / PASS |
+| 38 | chapter3 body / dense ceremonial prose | 21 | 0 | REVIEWED / PASS |
+| 39 | chapter3 body | 22 | 0 | REVIEWED / PASS |
+| 40 | chapter3 body | 23 | 0 | REVIEWED / PASS |
+
+## Batch 3 result
+
+- scans26–40: **15/15 REVIEWED / PASS**
+- structural corrections in this batch: **0**
+- unresolved visual / structural questions: **0**
+- decorative chapter openers for chapters2 and3, deliberate pagination omissions on opener scans, alternating running author/work headers, printed pages 10–16 and 18–23, ordinary single-column body structure, and the substantial chapter-closing blank field on scan33 were directly verified
+- no lexical reopening was required
+- no status promotion performed
+- Part audit not started
+
 ## Cumulative result
 
-- scans1–10: **10/10 REVIEWED / PASS**
+- scans1–40: **40/40 REVIEWED / PASS**
 - cumulative Pass3 structural corrections: **0**
 - unresolved visual / structural questions: **0**
 - no status promotion performed
@@ -91,6 +121,6 @@ Active Part:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — global scans26–40 / local pages26–40**.
+Proceed with **Part001 Pass 3 — global scans41–55 / local pages41–55**.
 
 Continue meaningful full-page visual / structural verification against rendered source pixels in **15-page iterations**. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Part audit.
