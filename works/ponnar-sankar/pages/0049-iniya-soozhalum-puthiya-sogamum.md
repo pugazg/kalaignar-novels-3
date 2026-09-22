@@ -4,7 +4,7 @@ part: 1
 part_page: 49
 printed_page: 32
 work: "ponnar-sankar"
-section: "இனிய சூழலும் புதிய கோலமும்"
+section: "இனிய சூழலும் புதிய சோகமும்"
 page_type: "body"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 5"
 ---
 
-# இனிய சூழலும் புதிய கோலமும் — தொடர்ச்சி
+# இனிய சூழலும் புதிய சோகமும் — தொடர்ச்சி
 
 ## Source transcription
 
