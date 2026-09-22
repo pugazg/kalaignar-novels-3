@@ -84,6 +84,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - chapter7 / scan70 — `உண்மையின் உதயம்`
 - Part001 audit blockers — **0**
 - durable Part audit — `works/ponnar-sankar/PART_001_AUDIT.md`
+- durable Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_001_TAMIL_ARCHIVAL_READY.md`
 - assembled Tamil — **NOT STARTED / NEXT**
 - English — **BLOCKED pending Tamil closure**
 - Parts002–Part008 — **not registered**
