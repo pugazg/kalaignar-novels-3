@@ -73,7 +73,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PASS 2B — COMPLETE / 75/75 REVIEWED / PASS.**
+**PART001 PART AUDIT — PASS / COMPLETE.**
 
 - canonical page records — **75/75 — scans1–75**
 - Pass1 textual transcriptions — **74/75 — scans1–15,17–75**
