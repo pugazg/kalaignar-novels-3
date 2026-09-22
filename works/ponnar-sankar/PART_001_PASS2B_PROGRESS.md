@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / scans1–60 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / scans1–70 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -16,8 +16,8 @@ Active Part:
 
 ## Pass 2B accounting
 
-- reviewed: **60/75 — scans1–60**
-- pending: **15/75 — scans61–75**
+- reviewed: **70/75 — scans1–70**
+- pending: **5/75 — scans71–75**
 - source-text corrections applied in Pass 2B: **6**
 - unresolved textual questions: **0**
 - records promoted to verified: **0 — prohibited before Part audit + final metadata sync**
@@ -112,6 +112,21 @@ Active Part:
 | 58 | chapter5 continuation / expulsion-dowry declaration | 41 | 0 | REVIEWED / PASS |
 | 59 | chapter5 continuation / central sibling vow | 42 | 0 | REVIEWED / PASS |
 | 60 | chapter5 close | 43 | 0 | REVIEWED / PASS |
+
+## Batch 7 — scans61–70
+
+| Scan | Page type / section | Printed page | Corrections | Result |
+|---:|---|---|---:|---|
+| 61 | chapter6 `பெயர் சொல்லாப் பட்டணம்` opening | — | 0 | REVIEWED / PASS |
+| 62 | chapter6 continuation | 45 | 0 | REVIEWED / PASS |
+| 63 | chapter6 continuation / வாங்கலாயி dialogue | 46 | 0 | REVIEWED / PASS |
+| 64 | chapter6 continuation | 47 | 0 | REVIEWED / PASS |
+| 65 | chapter6 continuation / wild-boar encounter | 48 | 0 | REVIEWED / PASS |
+| 66 | chapter6 continuation / வீர வாலிபர்கள் | 49 | 0 | REVIEWED / PASS |
+| 67 | chapter6 continuation / பாசறை entrance | 50 | 0 | REVIEWED / PASS |
+| 68 | chapter6 continuation / மாயவர்–ராக்கியண்ணன் reunion | 51 | 0 | REVIEWED / PASS |
+| 69 | chapter6 close | 52 | 0 | REVIEWED / PASS |
+| 70 | chapter7 `உண்மையின் உதயம்` opening | — | 0 | REVIEWED / PASS |
 
 ## Correction ledger
 
@@ -235,9 +250,18 @@ Action:
 - no status promotion performed
 - Pass3 not started
 
+## Batch 7 result
+
+- scans61–70: **10/10 REVIEWED / PASS**
+- Pass2B corrections in this batch: **0**
+- unresolved textual questions: **0**
+- source-visible lexical forms, dialogue diction, place/name forms, compounds and punctuation retained without silent normalization
+- no status promotion performed
+- Pass3 not started
+
 ## Cumulative result
 
-- scans1–60: **60/60 REVIEWED / PASS**
+- scans1–70: **70/70 REVIEWED / PASS**
 - cumulative Pass2B corrections: **6**
 - unresolved textual questions: **0**
 - source-visible historical / lexical forms retained without silent normalization
@@ -246,6 +270,6 @@ Action:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — global scans61–70 / local pages61–70**.
+Proceed with **Part001 Pass 2B — FINAL global scans71–75 / local pages71–75**.
 
 Continue the independent lexical / historical-glyph reread against rendered source pixels. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Pass3.
