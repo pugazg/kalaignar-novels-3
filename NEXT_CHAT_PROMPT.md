@@ -1,19 +1,20 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 final metadata-status synchronization
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 assembled Tamil construction + audit
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Read first
 
 1. `HANDOVER.md`
-2. `works/ponnar-sankar/PART_001_AUDIT.md`
-3. `works/ponnar-sankar/PART_001_PASS3_PROGRESS.md`
-4. `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`
-5. `works/ponnar-sankar/PART_001_PASS2A_PROGRESS.md`
-6. `works/ponnar-sankar/PART_001_PASS1_PROGRESS.md`
-7. `works/ponnar-sankar/SOURCE_INTAKE_PART_001.md`
-8. `works/ponnar-sankar/SOURCE_SPLIT_MANIFEST.md`
-9. `works/ponnar-sankar/indexes/page-map.md`
-10. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
+2. `works/ponnar-sankar/PART_001_TAMIL_ARCHIVAL_READY.md`
+3. `works/ponnar-sankar/PART_001_AUDIT.md`
+4. `works/ponnar-sankar/PART_001_PASS3_PROGRESS.md`
+5. `works/ponnar-sankar/PART_001_PASS2B_PROGRESS.md`
+6. `works/ponnar-sankar/PART_001_PASS2A_PROGRESS.md`
+7. `works/ponnar-sankar/PART_001_PASS1_PROGRESS.md`
+8. `works/ponnar-sankar/SOURCE_INTAKE_PART_001.md`
+9. `works/ponnar-sankar/SOURCE_SPLIT_MANIFEST.md`
+10. `works/ponnar-sankar/indexes/page-map.md`
+11. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 
 Refetch live `main` before editing and again after the activity.
 
@@ -21,7 +22,7 @@ Refetch live `main` before editing and again after the activity.
 
 - source intake — **COMPLETE**
 - canonical page records — **75/75**
-- Pass 1 — **COMPLETE / 75/75**
+- Pass 1 — **COMPLETE**
 - Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass2A historical corrections — **31**
 - **P2A-001 is superseded by P2B-001**
@@ -31,78 +32,67 @@ Refetch live `main` before editing and again after the activity.
 - Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
-- whole-Part audit — **PASS / COMPLETE — REVALIDATED AFTER USER-CONFIRMED CHAPTER-TITLE CORRECTIONS**
-- audit blockers — **0**
-- durable audit — `works/ponnar-sankar/PART_001_AUDIT.md`
-- scan16 — **image-preserved map page** at `works/ponnar-sankar/assets/scan-0016-map.png`
-- page records currently remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- whole-Part audit — **PASS / COMPLETE / REVALIDATED**
+- final metadata/status synchronization — **COMPLETE**
+- canonical `status: "verified"` — **75/75**
+- canonical `visual_fidelity: "verified"` — **75/75**
+- Tamil archival-ready — **PASS / COMPLETE**
+- durable archival-ready checkpoint — `works/ponnar-sankar/PART_001_TAMIL_ARCHIVAL_READY.md`
+- scan16 — **image-backed map page**
 - assembled Tamil — **NOT STARTED**
-- English — **BLOCKED pending Tamil closure**
-- outgoing boundary **75→76 — PENDING Part002 direct witness**; this is not a Part001 audit blocker
+- English — **BLOCKED until assembled Tamil closes**
+- outgoing boundary **75→76 — PENDING Part002 direct witness**
+- Part002–Part008 — **not registered / canonical transcription blocked by Part lock**
 
-## User-confirmed chapter titles
+## Authoritative Part001 chapter titles
 
-The user supplied the exact source chapter-title readings. These supersede all earlier repository title readings/revalidations.
+Use exactly these user-confirmed source titles:
 
-1. chapter1 / scan18 — **`மணவிழாவில் மசச்சாமி`**
-2. chapter2 / scan26 — **`விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`**
-3. chapter3 / scan34 — **`மகிழ்ச்சியும் மருட்சியும்`**
-4. chapter4 / scan43 — **`இனிய சூழலும் புதிய சோகமும்`**
-5. chapter5 / scan52 — `தாமரை நாச்சியின் சபதம்`
-6. chapter6 / scan61 — `பெயர் சொல்லாப் பட்டணம்`
-7. chapter7 / scan70 — `உண்மையின் உதயம்`
+1. `மணவிழாவில் மசச்சாமி`
+2. `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`
+3. `மகிழ்ச்சியும் மருட்சியும்`
+4. `இனிய சூழலும் புதிய சோகமும்`
+5. `தாமரை நாச்சியின் சபதம்`
+6. `பெயர் சொல்லாப் பட்டணம்`
+7. `உண்மையின் உதயம்`
 
-Chapters1–4 canonical records were retitled and renamed to title-consistent slugs; chapters5–7 were already correct. All maintained controls and the page map were synchronized, and the affected audit scope was re-run **PASS / COMPLETE — REVALIDATED**. Narrative body transcription was not changed by the title corrections.
+Do not revert to any earlier repository title reading.
 
-## Audit result
+## Exact next activity — assembled Tamil construction + audit
 
-The whole-Part audit, including the user-confirmed chapter-title correction revalidation, is PASS / COMPLETE:
+Construct maintained Part001 assembled Tamil **only from verified canonical `pages/` records**.
 
-- continuous canonical coverage **1–75**
-- canonical files **75**
-- missing canonical records **0**
-- duplicate canonical records **0**
-- exactly one Pass1 / Pass2A / Pass2B / Pass3 evidence block per canonical page
-- printed-page mapping reconciled with the maintained page map
-- structural / chapter boundaries reconciled
-- scan16 maintained image asset relationship confirmed
-- unresolved in-scope blockers **0**
-- no narrative body transcription changes were introduced by the chapter-title corrections
-- chapter-title / section metadata, maintained headings and chapter1–4 filenames were corrected only as required by the user-confirmed source titles
+Requirements:
 
-The initial whole-Part audit itself made no canonical page-file changes; the later user-confirmed title correction was then re-audited and passed.
+1. determine the live repository's maintained assembly convention before creating files;
+2. derive Tamil only from canonical page records — do not use OCR, web text, another edition, or memory;
+3. preserve source wording, punctuation, paragraphing, dialogue structure, historical forms and chapter titles;
+4. exclude YAML/frontmatter, Pass notes, audit notes, HTML comments and control metadata from assembled literary text;
+5. handle front matter and all seven chapters without dropping canonical textual content;
+6. scan16 is image-backed/non-text — preserve its structural place without inventing Unicode map labels;
+7. exact canonical coverage must reconcile to **75/75 physical records**, including structural/non-text pages;
+8. missing coverage = **0**;
+9. duplicate coverage = **0**;
+10. unsupported Tamil insertion = **0**;
+11. audit-note/control-note leakage = **0**;
+12. canonical page mutations caused by assembly = **0**;
+13. next-Part body leakage = **0**;
+14. outgoing **75→76** remains pending; do not reconstruct continuation;
+15. create/update durable assembled-Tamil progress/audit controls using the live repository convention;
+16. close assembled Tamil only after direct coverage/audit checks pass as **VERIFIED / PASS / CLOSED**;
+17. synchronize README, HANDOVER, intake, manifest, audit/checkpoint, page map, guidelines and `NEXT_CHAT_PROMPT.md`.
 
-## Exact next activity — final metadata/status synchronization
-
-Perform the post-audit promotion gate.
-
-For all **75 canonical page records**:
-
-1. change frontmatter `status: "needs-review"` → `status: "verified"`;
-2. change frontmatter `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`;
-3. make **no other canonical Tamil or structural edits**;
-4. preserve all Pass evidence and page boundaries unchanged;
-5. preserve scan16 as the image-backed map record.
-
-After promotion:
-
-6. verify **75/75** records now have `status: "verified"`;
-7. verify **75/75** records now have `visual_fidelity: "verified"`;
-8. verify there are **0** remaining `needs-review` values in Part001 canonical page frontmatter;
-9. compare against the pre-promotion state and confirm no canonical text/body changes beyond the two frontmatter fields;
-10. synchronize README, HANDOVER, source intake, split manifest, Pass progress files, audit record, page map, guidelines and `NEXT_CHAT_PROMPT.md`;
-11. if all checks pass, mark **Tamil archival-ready — PASS / COMPLETE**.
-
-Do **not** begin assembled Tamil construction in the same activity unless explicitly requested.
+Do **not** begin English in the same activity unless explicitly requested.
 
 ## Mandatory archive rules
 
 - **LIVE MAIN IS AUTHORITATIVE.**
-- metadata promotion is authorized because the whole-Part audit has passed
-- change only the two status fields in canonical page records
-- do not alter source transcription, punctuation, historical forms, headings, notes or Pass evidence
-- no OCR-based Tamil verification
-- scan16 remains image-preserved
-- outgoing **75→76** remains pending until Part002 is supplied
-- do not begin Part002 canonical transcription
-- assembled Tamil starts only after Tamil archival-ready closes
+- canonical `pages/` are the controlling Tamil authority
+- verified canonical Tamil must not be altered during assembly
+- no silent modernization
+- no OCR-based Tamil reconstruction
+- user-confirmed chapter titles above are authoritative
+- scan16 remains image-backed
+- no Part002 body text may enter Part001
+- no Part002 canonical transcription until Part001 final closure
+- English remains blocked until assembled Tamil closes
