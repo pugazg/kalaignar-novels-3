@@ -30,7 +30,7 @@ Source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_0
 - scan 2 is the title/publisher page;
 - scan 3 carries publication metadata;
 - preliminary/front-matter material precedes the numbered novel body;
-- scan 18 visibly opens chapter **1**, `மண விழாவில் மச்சான்`; the chapter-opener page does not receive an inferred running printed-page value;
+- scan 18 visibly opens chapter **1**, `மணவிழாவில் மசச்சாமி`; the chapter-opener page does not receive an inferred running printed-page value;
 - scan 19 visibly carries running printed page **2** and scan 20 carries **3**;
 - scan 75 visibly carries printed page **58**;
 - detailed page-type, text and printed-page mapping remain a **Pass 1** responsibility.
@@ -87,12 +87,12 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - scans11–15 — **நுழைவாயில் continuation/close**
 - scan16 — **map plate preserved as image asset `assets/scan-0016-map.png`; no label-by-label transcription required**
 - scan17 — **blank reverse/show-through page**
-- scans18–25 — **chapter1 `மண விழாவில் மச்சான்` begins, continues and closes**
-- scan26 — **chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opens; running page not inferred**
+- scans18–25 — **chapter1 `மணவிழாவில் மசச்சாமி` begins, continues and closes**
+- scan26 — **chapter2 `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` opens; running page not inferred**
 - scans27–33 — **chapter2 continues and closes / printed pages10–16**
-- scan34 — **chapter3 `மச்சக்காரியும் மருமகளும்` opens; running page not inferred**
+- scan34 — **chapter3 `மகிழ்ச்சியும் மருட்சியும்` opens; running page not inferred**
 - scans35–42 — **chapter3 continues and closes / printed pages18–25**
-- scan43 — **chapter4 `இனிய சூழலும் புதிய கோலமும்` opens; running page not inferred**
+- scan43 — **chapter4 `இனிய சூழலும் புதிய சோகமும்` opens; running page not inferred**
 - scans44–51 — **chapter4 continues and closes / printed pages27–34**
 - scan52 — **chapter5 `தாமரை நாச்சியின் சபதம்` opens; running page not inferred**
 - scans53–60 — **chapter5 continues and closes / printed pages36–43**
