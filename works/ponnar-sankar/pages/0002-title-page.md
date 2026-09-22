@@ -52,3 +52,14 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 1
 - unresolved textual questions: **0**;
 - Pass 2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part001 Pass 3 review
+
+- meaningful full-page visual / structural verification completed directly against rendered source pixels;
+- ornate framed title/publisher composition verified, with title/subtitle/author centered in the main panel;
+- publisher line and emblem occupy the lower field; partial circular library stamp overlaps the upper-right area as copy-specific matter;
+- title-page classification and absence of printed pagination are structurally correct;
+- structural corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
