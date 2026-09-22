@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans41–55
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 3 scans56–70
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,7 +42,7 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass2B corrections — **8**
 - Pass2B unresolved textual questions — **0**
-- Pass 3 — **IN PROGRESS / scans1–40 REVIEWED / PASS**
+- Pass 3 — **IN PROGRESS / scans1–55 REVIEWED / PASS**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Pass3 working cadence — **15 pages per iteration** (final remainder may be smaller)
@@ -53,28 +53,31 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 3 Batch 3 — scans26–40
+## Pass 3 Batch 4 — scans41–55
 
 Batch completed **15/15 REVIEWED / PASS** with **0 structural corrections** and **0 unresolved visual / structural questions**.
 
 Direct full-page verification confirmed:
 
-- scan26 — decorative chapter2 opener `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்`, displayed chapter number **2**, no running header or printed-page number;
-- scans27–32 — alternating running author/work headers with printed pages **10–15**;
-- scan33 — printed page **16**, chapter-closing prose followed by a substantial intentional blank lower field;
-- scan34 — decorative chapter3 opener `மச்சசாமியும் மருமகியும்`, displayed chapter number **3**, no running header or printed-page number;
-- scans35–40 — alternating running author/work headers with printed pages **18–23**;
-- ordinary single-column body-page structure and chapter-boundary treatment were consistent throughout.
+- scan41 — chapter3 body, printed page **24**, running author header;
+- scan42 — chapter3 close, printed page **25**, substantial intentional blank lower field;
+- scan43 — decorative chapter4 opener `இனிய சூழலும் புதிய கோலமும்`, displayed chapter number **4**, no running header or printed page number;
+- scans44–50 — alternating running work/author headers with printed pages **27–33**;
+- scan50 — separate small source-visible numeral **3** at lower-left foot, distinct from running pagination;
+- scan51 — chapter4 close, printed page **34**;
+- scan52 — decorative chapter5 opener `தாமரை நாச்சியின் சபதம்`, displayed chapter number **5**, no running header or printed page number;
+- scans53–55 — alternating running author/work headers with printed pages **36–38**;
+- ordinary single-column body structure and chapter-boundary treatment were consistent throughout.
 
 No lexical reopening was required. No status promotion was performed.
 
-The Pass3 progress control was also reconciled so Batch1 correctly reads **scans1–10: 10/10**, and cumulative Pass3 now reads **scans1–40: 40/40 REVIEWED / PASS**.
+Cumulative Pass3 state is **55/75 REVIEWED / PASS**, **0 structural corrections**, **0 unresolved visual / structural questions**.
 
 ## Exact next activity
 
-Continue **Part001 Pass 3 — global scans41–55 / local pages41–55**.
+Continue **Part001 Pass 3 — global scans56–70 / local pages56–70**.
 
-The user has set the Pass3 working cadence to **15 pages per iteration**. Process this full 15-page batch in one iteration.
+The working cadence remains **15 pages per iteration**. Process this full 15-page batch in one iteration.
 
 Pass 3 remains the **meaningful full-page visual / structural verification** gate. For each page:
 
@@ -87,7 +90,7 @@ Pass 3 remains the **meaningful full-page visual / structural verification** gat
 7. update `PART_001_PASS3_PROGRESS.md` and synchronize all maintained controls after the batch;
 8. do not begin Part audit until Pass3 closes for all 75 scans.
 
-After scans41–55, the next 15-page iteration should be scans56–70.
+After scans56–70, the final Pass3 remainder will be **scans71–75**.
 
 ## Mandatory archive rules
 
