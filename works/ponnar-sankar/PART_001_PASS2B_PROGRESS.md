@@ -316,4 +316,4 @@ Action:
 
 ## Exact next activity
 
-Pass3 is now **IN PROGRESS — scans1–70 REVIEWED / PASS** with **0 structural corrections / 0 unresolved visual-structural questions**. Proceed with the **FINAL Part001 Pass 3 — scans71–75 / local pages71–75** remainder. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. See `PART_001_PASS3_PROGRESS.md`.
+Pass3 is now **COMPLETE / PASS — 75/75 REVIEWED** with **0 structural corrections / 0 unresolved visual-structural questions**. Proceed with the **Part001 whole-Part audit**. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. See `PART_001_PASS3_PROGRESS.md`.
