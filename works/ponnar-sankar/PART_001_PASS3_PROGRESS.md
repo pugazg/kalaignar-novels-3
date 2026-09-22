@@ -61,7 +61,7 @@ Active Part:
 | 15 | `நுழைவாயில்` close / substantial blank lower field | xiv | 0 | REVIEWED / PASS |
 | 16 | image-preserved sideways map plate | — | 0 | REVIEWED / PASS |
 | 17 | intentional blank / map show-through | — | 0 | REVIEWED / PASS |
-| 18 | chapter1 `மண விழாவில் மச்சான்` decorative opening | — | 0 | REVIEWED / PASS |
+| 18 | chapter1 `மணவிழாவில் மசச்சாமி` decorative opening | — | 0 | REVIEWED / PASS |
 | 19 | chapter1 body | 2 | 0 | REVIEWED / PASS |
 | 20 | chapter1 body | 3 | 0 | REVIEWED / PASS |
 | 21 | chapter1 body | 4 | 0 | REVIEWED / PASS |
@@ -85,7 +85,7 @@ Active Part:
 
 | Scan | Page type / section | Printed page | Structural corrections | Result |
 |---:|---|---|---:|---|
-| 26 | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` decorative opening | — | 0 | REVIEWED / PASS |
+| 26 | chapter2 `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` decorative opening | — | 0 | REVIEWED / PASS |
 | 27 | chapter2 body | 10 | 0 | REVIEWED / PASS |
 | 28 | chapter2 body | 11 | 0 | REVIEWED / PASS |
 | 29 | chapter2 body | 12 | 0 | REVIEWED / PASS |
@@ -93,7 +93,7 @@ Active Part:
 | 31 | chapter2 body | 14 | 0 | REVIEWED / PASS |
 | 32 | chapter2 body | 15 | 0 | REVIEWED / PASS |
 | 33 | chapter2 close / substantial blank lower field | 16 | 0 | REVIEWED / PASS |
-| 34 | chapter3 `மச்சக்காரியும் மருமகளும்` decorative opening | — | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மகிழ்ச்சியும் மருட்சியும்` decorative opening | — | 0 | REVIEWED / PASS |
 | 35 | chapter3 body | 18 | 0 | REVIEWED / PASS |
 | 36 | chapter3 body | 19 | 0 | REVIEWED / PASS |
 | 37 | chapter3 body | 20 | 0 | REVIEWED / PASS |
@@ -117,7 +117,7 @@ Active Part:
 |---:|---|---|---:|---|
 | 41 | chapter3 body | 24 | 0 | REVIEWED / PASS |
 | 42 | chapter3 close / substantial blank lower field | 25 | 0 | REVIEWED / PASS |
-| 43 | chapter4 `இனிய சூழலும் புதிய கோலமும்` decorative opening | — | 0 | REVIEWED / PASS |
+| 43 | chapter4 `இனிய சூழலும் புதிய சோகமும்` decorative opening | — | 0 | REVIEWED / PASS |
 | 44 | chapter4 body | 27 | 0 | REVIEWED / PASS |
 | 45 | chapter4 body | 28 | 0 | REVIEWED / PASS |
 | 46 | chapter4 body | 29 | 0 | REVIEWED / PASS |
