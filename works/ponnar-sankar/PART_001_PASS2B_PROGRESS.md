@@ -49,7 +49,7 @@ Active Part:
 | 15 | `நுழைவாயில்` close | xiv | 0 | REVIEWED / PASS |
 | 16 | image-preserved map plate | — | 0 / N/A | REVIEWED / PASS |
 | 17 | blank / map show-through | — | 0 | REVIEWED / PASS |
-| 18 | chapter1 `மண விழாவில் மச்சான்` opening | — | **2** | REVIEWED / PASS |
+| 18 | chapter1 `மணவிழாவில் மசச்சாமி` opening | — | **2** | REVIEWED / PASS |
 | 19 | chapter1 continuation | 2 | 0 | REVIEWED / PASS |
 | 20 | chapter1 continuation | 3 | 0 | REVIEWED / PASS |
 
@@ -62,7 +62,7 @@ Active Part:
 | 23 | chapter1 continuation | 6 | 0 | REVIEWED / PASS |
 | 24 | chapter1 continuation | 7 | 0 | REVIEWED / PASS |
 | 25 | chapter1 close + illustration | 8 | 0 | REVIEWED / PASS |
-| 26 | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opening | — | 0 | REVIEWED / PASS |
+| 26 | chapter2 `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` opening | — | 0 | REVIEWED / PASS |
 | 27 | chapter2 continuation | 10 | 0 | REVIEWED / PASS |
 | 28 | chapter2 continuation | 11 | 0 | REVIEWED / PASS |
 | 29 | chapter2 continuation | 12 | 0 | REVIEWED / PASS |
@@ -75,7 +75,7 @@ Active Part:
 | 31 | chapter2 continuation | 14 | 0 | REVIEWED / PASS |
 | 32 | chapter2 continuation | 15 | **2** | REVIEWED / PASS |
 | 33 | chapter2 close | 16 | 0 | REVIEWED / PASS |
-| 34 | chapter3 `மச்சக்காரியும் மருமகளும்` opening | — | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மகிழ்ச்சியும் மருட்சியும்` opening | — | 0 | REVIEWED / PASS |
 | 35 | chapter3 continuation | 18 | 0 | REVIEWED / PASS |
 | 36 | chapter3 continuation | 19 | 0 | REVIEWED / PASS |
 | 37 | chapter3 continuation | 20 | **1** | REVIEWED / PASS |
@@ -89,7 +89,7 @@ Active Part:
 |---:|---|---|---:|---|
 | 41 | chapter3 continuation | 24 | 0 | REVIEWED / PASS |
 | 42 | chapter3 close | 25 | 0 | REVIEWED / PASS |
-| 43 | chapter4 `இனிய சூழலும் புதிய கோலமும்` opening | — | 0 | REVIEWED / PASS |
+| 43 | chapter4 `இனிய சூழலும் புதிய சோகமும்` opening | — | 0 | REVIEWED / PASS |
 | 44 | chapter4 continuation | 27 | 0 | REVIEWED / PASS |
 | 45 | chapter4 continuation | 28 | 0 | REVIEWED / PASS |
 | 46 | chapter4 continuation | 29 | 0 | REVIEWED / PASS |
