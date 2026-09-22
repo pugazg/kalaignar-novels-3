@@ -316,4 +316,4 @@ Action:
 
 ## Exact next activity
 
-Pass3 is now **COMPLETE / PASS — 75/75 REVIEWED** with **0 structural corrections / 0 unresolved visual-structural questions**. Proceed with the **Part001 whole-Part audit**. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. See `PART_001_PASS3_PROGRESS.md`.
+Pass3 is **COMPLETE / PASS — 75/75 REVIEWED** with **0 structural corrections / 0 unresolved visual-structural questions**. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Proceed with **final metadata/status synchronization**; until that promotion runs, records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. See `PART_001_AUDIT.md`.
