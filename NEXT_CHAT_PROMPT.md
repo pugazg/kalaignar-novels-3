@@ -31,7 +31,7 @@ Refetch live `main` before editing and again after the activity.
 - Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
-- whole-Part audit — **PASS / COMPLETE — REVALIDATED AFTER CHAPTER-TITLE CORRECTION**
+- whole-Part audit — **PASS / COMPLETE — REVALIDATED AFTER USER-CONFIRMED CHAPTER-TITLE CORRECTIONS**
 - audit blockers — **0**
 - durable audit — `works/ponnar-sankar/PART_001_AUDIT.md`
 - scan16 — **image-preserved map page** at `works/ponnar-sankar/assets/scan-0016-map.png`
@@ -40,21 +40,23 @@ Refetch live `main` before editing and again after the activity.
 - English — **BLOCKED pending Tamil closure**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**; this is not a Part001 audit blocker
 
-## Chapter-title correction after audit
+## User-confirmed chapter titles
 
-A source-backed title defect was found after the initial audit and has been corrected/revalidated.
+The user supplied the exact source chapter-title readings. These supersede all earlier repository title readings/revalidations.
 
-Direct source opener verification:
-- chapter1 / scan18 — `மண விழாவில் மச்சான்` — repository already matched source;
-- chapter2 / scan26 — `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` — repository already matched source;
-- chapter3 / scan34 — corrected from `மச்சசாமியும் மருமகியும்` to source-visible **`மச்சக்காரியும் மருமகளும்`**;
-- chapter4 / scan43 — `இனிய சூழலும் புதிய கோலமும்` — repository already matched source.
+1. chapter1 / scan18 — **`மணவிழாவில் மசச்சாமி`**
+2. chapter2 / scan26 — **`விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`**
+3. chapter3 / scan34 — **`மகிழ்ச்சியும் மருட்சியும்`**
+4. chapter4 / scan43 — **`இனிய சூழலும் புதிய சோகமும்`**
+5. chapter5 / scan52 — `தாமரை நாச்சியின் சபதம்`
+6. chapter6 / scan61 — `பெயர் சொல்லாப் பட்டணம்`
+7. chapter7 / scan70 — `உண்மையின் உதயம்`
 
-Chapter3 canonical records scans34–42 were retitled, canonical filenames were renamed to `*-machchakkaariyum-marumagalum.md`, all maintained controls/page-map references were synchronized, and the affected audit scope was re-run **PASS**. The body dialogue `“எங்கே அந்த மச்சசாமி?”` remains unchanged because it is source body text, not the chapter title.
+Chapters1–4 canonical records were retitled and renamed to title-consistent slugs; chapters5–7 were already correct. All maintained controls and the page map were synchronized, and the affected audit scope was re-run **PASS / COMPLETE — REVALIDATED**. Narrative body transcription was not changed by the title corrections.
 
 ## Audit result
 
-The whole-Part audit, including the post-audit chapter-title correction revalidation, is PASS / COMPLETE:
+The whole-Part audit, including the user-confirmed chapter-title correction revalidation, is PASS / COMPLETE:
 
 - continuous canonical coverage **1–75**
 - canonical files **75**
@@ -65,9 +67,10 @@ The whole-Part audit, including the post-audit chapter-title correction revalida
 - structural / chapter boundaries reconciled
 - scan16 maintained image asset relationship confirmed
 - unresolved in-scope blockers **0**
-- no canonical Tamil changes made during audit
+- no narrative body transcription changes were introduced by the chapter-title corrections
+- chapter-title / section metadata, maintained headings and chapter1–4 filenames were corrected only as required by the user-confirmed source titles
 
-Three documentation-only inconsistencies were corrected during audit; no canonical page files were changed.
+The initial whole-Part audit itself made no canonical page-file changes; the later user-confirmed title correction was then re-audited and passed.
 
 ## Exact next activity — final metadata/status synchronization
 
