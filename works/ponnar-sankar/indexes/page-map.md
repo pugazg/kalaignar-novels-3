@@ -23,40 +23,40 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 15 | 15 | xiv | `நுழைவாயில்` close; substantial blank lower field | needs-review | `pages/0015-nuzhaivaayil.md` |
 | 001 | 16 | 16 | — | landscape map plate preserved as image asset; no label transcription required | needs-review | `pages/0016-map.md` |
 | 001 | 17 | 17 | — | blank physical page; map show-through only | needs-review | `pages/0017-blank.md` |
-| 001 | 18 | 18 | — | chapter1 `மண விழாவில் மச்சான்` opening; running page not inferred | needs-review | `pages/0018-mana-vizhaavil-machchaan.md` |
-| 001 | 19 | 19 | 2 | chapter1 continuation | needs-review | `pages/0019-mana-vizhaavil-machchaan.md` |
-| 001 | 20 | 20 | 3 | chapter1 continuation; open ending | needs-review | `pages/0020-mana-vizhaavil-machchaan.md` |
-| 001 | 21 | 21 | 4 | chapter1 continuation | needs-review | `pages/0021-mana-vizhaavil-machchaan.md` |
-| 001 | 22 | 22 | 5 | chapter1 continuation | needs-review | `pages/0022-mana-vizhaavil-machchaan.md` |
-| 001 | 23 | 23 | 6 | chapter1 continuation | needs-review | `pages/0023-mana-vizhaavil-machchaan.md` |
-| 001 | 24 | 24 | 7 | chapter1 continuation; open quoted ending | needs-review | `pages/0024-mana-vizhaavil-machchaan.md` |
-| 001 | 25 | 25 | 8 | chapter1 close; two-warrior illustration in lower field | needs-review | `pages/0025-mana-vizhaavil-machchaan.md` |
-| 001 | 26 | 26 | — | chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` opening; running page not inferred | needs-review | `pages/0026-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 27 | 27 | 10 | chapter2 continuation | needs-review | `pages/0027-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 28 | 28 | 11 | chapter2 continuation | needs-review | `pages/0028-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 29 | 29 | 12 | chapter2 continuation; open ending | needs-review | `pages/0029-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 30 | 30 | 13 | chapter2 continuation | needs-review | `pages/0030-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 31 | 31 | 14 | chapter2 continuation | needs-review | `pages/0031-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 32 | 32 | 15 | chapter2 continuation | needs-review | `pages/0032-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 33 | 33 | 16 | chapter2 close; substantial blank lower field | needs-review | `pages/0033-virundhinar-vidudiyum-vengai-thottiyum.md` |
-| 001 | 34 | 34 | — | chapter3 `மச்சக்காரியும் மருமகளும்` opening; running page not inferred | needs-review | `pages/0034-machchakkaariyum-marumagalum.md` |
-| 001 | 35 | 35 | 18 | chapter3 continuation | needs-review | `pages/0035-machchakkaariyum-marumagalum.md` |
-| 001 | 36 | 36 | 19 | chapter3 continuation | needs-review | `pages/0036-machchakkaariyum-marumagalum.md` |
-| 001 | 37 | 37 | 20 | chapter3 continuation; open ending | needs-review | `pages/0037-machchakkaariyum-marumagalum.md` |
-| 001 | 38 | 38 | 21 | chapter3 continuation; ceremonial-detail page | needs-review | `pages/0038-machchakkaariyum-marumagalum.md` |
-| 001 | 39 | 39 | 22 | chapter3 continuation; marriage decision | needs-review | `pages/0039-machchakkaariyum-marumagalum.md` |
-| 001 | 40 | 40 | 23 | chapter3 continuation; open dialogue into scan41 | needs-review | `pages/0040-machchakkaariyum-marumagalum.md` |
-| 001 | 41 | 41 | 24 | chapter3 continuation | needs-review | `pages/0041-machchakkaariyum-marumagalum.md` |
-| 001 | 42 | 42 | 25 | chapter3 close; substantial blank lower field | needs-review | `pages/0042-machchakkaariyum-marumagalum.md` |
-| 001 | 43 | 43 | — | chapter4 `இனிய சூழலும் புதிய கோலமும்` opening; running page not inferred | needs-review | `pages/0043-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 44 | 44 | 27 | chapter4 continuation | needs-review | `pages/0044-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 45 | 45 | 28 | chapter4 continuation | needs-review | `pages/0045-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 46 | 46 | 29 | chapter4 continuation; open ending | needs-review | `pages/0046-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 47 | 47 | 30 | chapter4 continuation; departure preparations | needs-review | `pages/0047-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 48 | 48 | 31 | chapter4 continuation; wedding-preparation transition | needs-review | `pages/0048-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 49 | 49 | 32 | chapter4 continuation; wedding ritual detail begins | needs-review | `pages/0049-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 50 | 50 | 33 | chapter4 continuation; ritual detail; open ending | needs-review | `pages/0050-iniya-soozhalum-puthiya-kolamum.md` |
-| 001 | 51 | 51 | 34 | chapter4 close | needs-review | `pages/0051-iniya-soozhalum-puthiya-kolamum.md` |
+| 001 | 18 | 18 | — | chapter1 `மணவிழாவில் மசச்சாமி` opening; running page not inferred | needs-review | `pages/0018-manavizhaavil-masachchaami.md` |
+| 001 | 19 | 19 | 2 | chapter1 continuation | needs-review | `pages/0019-manavizhaavil-masachchaami.md` |
+| 001 | 20 | 20 | 3 | chapter1 continuation; open ending | needs-review | `pages/0020-manavizhaavil-masachchaami.md` |
+| 001 | 21 | 21 | 4 | chapter1 continuation | needs-review | `pages/0021-manavizhaavil-masachchaami.md` |
+| 001 | 22 | 22 | 5 | chapter1 continuation | needs-review | `pages/0022-manavizhaavil-masachchaami.md` |
+| 001 | 23 | 23 | 6 | chapter1 continuation | needs-review | `pages/0023-manavizhaavil-masachchaami.md` |
+| 001 | 24 | 24 | 7 | chapter1 continuation; open quoted ending | needs-review | `pages/0024-manavizhaavil-masachchaami.md` |
+| 001 | 25 | 25 | 8 | chapter1 close; two-warrior illustration in lower field | needs-review | `pages/0025-manavizhaavil-masachchaami.md` |
+| 001 | 26 | 26 | — | chapter2 `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` opening; running page not inferred | needs-review | `pages/0026-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 27 | 27 | 10 | chapter2 continuation | needs-review | `pages/0027-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 28 | 28 | 11 | chapter2 continuation | needs-review | `pages/0028-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 29 | 29 | 12 | chapter2 continuation; open ending | needs-review | `pages/0029-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 30 | 30 | 13 | chapter2 continuation | needs-review | `pages/0030-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 31 | 31 | 14 | chapter2 continuation | needs-review | `pages/0031-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 32 | 32 | 15 | chapter2 continuation | needs-review | `pages/0032-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 33 | 33 | 16 | chapter2 close; substantial blank lower field | needs-review | `pages/0033-virundhinar-vidudiyum-vedhanai-kottadiyum.md` |
+| 001 | 34 | 34 | — | chapter3 `மகிழ்ச்சியும் மருட்சியும்` opening; running page not inferred | needs-review | `pages/0034-magizhchchiyum-marutchiyum.md` |
+| 001 | 35 | 35 | 18 | chapter3 continuation | needs-review | `pages/0035-magizhchchiyum-marutchiyum.md` |
+| 001 | 36 | 36 | 19 | chapter3 continuation | needs-review | `pages/0036-magizhchchiyum-marutchiyum.md` |
+| 001 | 37 | 37 | 20 | chapter3 continuation; open ending | needs-review | `pages/0037-magizhchchiyum-marutchiyum.md` |
+| 001 | 38 | 38 | 21 | chapter3 continuation; ceremonial-detail page | needs-review | `pages/0038-magizhchchiyum-marutchiyum.md` |
+| 001 | 39 | 39 | 22 | chapter3 continuation; marriage decision | needs-review | `pages/0039-magizhchchiyum-marutchiyum.md` |
+| 001 | 40 | 40 | 23 | chapter3 continuation; open dialogue into scan41 | needs-review | `pages/0040-magizhchchiyum-marutchiyum.md` |
+| 001 | 41 | 41 | 24 | chapter3 continuation | needs-review | `pages/0041-magizhchchiyum-marutchiyum.md` |
+| 001 | 42 | 42 | 25 | chapter3 close; substantial blank lower field | needs-review | `pages/0042-magizhchchiyum-marutchiyum.md` |
+| 001 | 43 | 43 | — | chapter4 `இனிய சூழலும் புதிய சோகமும்` opening; running page not inferred | needs-review | `pages/0043-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 44 | 44 | 27 | chapter4 continuation | needs-review | `pages/0044-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 45 | 45 | 28 | chapter4 continuation | needs-review | `pages/0045-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 46 | 46 | 29 | chapter4 continuation; open ending | needs-review | `pages/0046-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 47 | 47 | 30 | chapter4 continuation; departure preparations | needs-review | `pages/0047-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 48 | 48 | 31 | chapter4 continuation; wedding-preparation transition | needs-review | `pages/0048-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 49 | 49 | 32 | chapter4 continuation; wedding ritual detail begins | needs-review | `pages/0049-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 50 | 50 | 33 | chapter4 continuation; ritual detail; open ending | needs-review | `pages/0050-iniya-soozhalum-puthiya-sogamum.md` |
+| 001 | 51 | 51 | 34 | chapter4 close | needs-review | `pages/0051-iniya-soozhalum-puthiya-sogamum.md` |
 | 001 | 52 | 52 | — | chapter5 `தாமரை நாச்சியின் சபதம்` opening; running page not inferred | needs-review | `pages/0052-thaamarai-naachchiyin-sapatham.md` |
 | 001 | 53 | 53 | 36 | chapter5 continuation; parental-foot-washing ritual | needs-review | `pages/0053-thaamarai-naachchiyin-sapatham.md` |
 | 001 | 54 | 54 | 37 | chapter5 continuation; urgent letter introduced | needs-review | `pages/0054-thaamarai-naachchiyin-sapatham.md` |
