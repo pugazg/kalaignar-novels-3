@@ -80,4 +80,4 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Proceed with the **Part001 whole-Part audit** as the next gate. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the audit passes and final metadata/status synchronization is completed. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the maintained promotion gates. Keep **75→76** pending until Part002 is supplied.
+Proceed with the **Part001 whole-Part audit** as the next gate. Keep all records at `status: "needs-review"` and `visual_fidelity: "needs-review"` until the audit passes and final metadata/status synchronization is completed. Keep **75→76** pending until Part002 is supplied.
