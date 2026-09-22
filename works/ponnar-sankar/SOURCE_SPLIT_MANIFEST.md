@@ -37,4 +37,4 @@
 
 ## Current frontier
 
-**Part001 whole-Part audit — continuous coverage / duplicate-missing / Pass-evidence / printed-page / boundary / unresolved-count audit.**
+**Part001 final metadata/status synchronization — Part audit PASS / COMPLETE; promote canonical records to verified without Tamil changes.**
