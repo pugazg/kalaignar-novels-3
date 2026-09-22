@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / scans1–55 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / scans1–70 REVIEWED / PASS**
 
 Active Part:
 - Part001
@@ -17,8 +17,8 @@ Active Part:
 
 ## Pass 3 accounting
 
-- reviewed: **55/75 — scans1–55**
-- pending: **20/75 — scans56–75**
+- reviewed: **70/75 — scans1–70**
+- pending: **5/75 — scans71–75**
 - working cadence: **15 pages per iteration** (final remainder may be smaller)
 - structural corrections applied in Pass 3: **0**
 - unresolved visual / structural questions: **0**
@@ -141,9 +141,39 @@ Active Part:
 - no status promotion performed
 - Part audit not started
 
+## Batch 5 — scans56–70
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---|---:|---|
+| 56 | chapter5 body / letter closes | 39 | 0 | REVIEWED / PASS |
+| 57 | chapter5 body | 40 | 0 | REVIEWED / PASS |
+| 58 | chapter5 body / dowry inventory | 41 | 0 | REVIEWED / PASS |
+| 59 | chapter5 body / central vow exchange | 42 | 0 | REVIEWED / PASS |
+| 60 | chapter5 close / substantial blank lower field | 43 | 0 | REVIEWED / PASS |
+| 61 | chapter6 `பெயர் சொல்லாப் பட்டணம்` decorative opening | — | 0 | REVIEWED / PASS |
+| 62 | chapter6 body | 45 | 0 | REVIEWED / PASS |
+| 63 | chapter6 body | 46 | 0 | REVIEWED / PASS |
+| 64 | chapter6 body / dialogue-heavy | 47 | 0 | REVIEWED / PASS |
+| 65 | chapter6 body | 48 | 0 | REVIEWED / PASS |
+| 66 | chapter6 body | 49 | 0 | REVIEWED / PASS |
+| 67 | chapter6 body | 50 | 0 | REVIEWED / PASS |
+| 68 | chapter6 body | 51 | 0 | REVIEWED / PASS |
+| 69 | chapter6 close / substantial blank lower field | 52 | 0 | REVIEWED / PASS |
+| 70 | chapter7 `உண்மையின் உதயம்` decorative opening | — | 0 | REVIEWED / PASS |
+
+## Batch 5 result
+
+- scans56–70: **15/15 REVIEWED / PASS**
+- structural corrections in this batch: **0**
+- unresolved visual / structural questions: **0**
+- chapter5 closing structure, chapter6 and chapter7 decorative openers, deliberate opener pagination omissions, alternating running author/work headers, printed pages 39–43 and 45–52, substantial closing blank fields on scans60 and69, and ordinary single-column body structure were directly verified
+- no lexical reopening was required
+- no status promotion performed
+- Part audit not started
+
 ## Cumulative result
 
-- scans1–55: **55/55 REVIEWED / PASS**
+- scans1–70: **70/70 REVIEWED / PASS**
 - cumulative Pass3 structural corrections: **0**
 - unresolved visual / structural questions: **0**
 - no status promotion performed
@@ -151,6 +181,6 @@ Active Part:
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 3 — global scans56–70 / local pages56–70**.
+Proceed with **Part001 Pass 3 — FINAL global scans71–75 / local pages71–75**.
 
 Continue meaningful full-page visual / structural verification against rendered source pixels in **15-page iterations**. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not begin Part audit.
