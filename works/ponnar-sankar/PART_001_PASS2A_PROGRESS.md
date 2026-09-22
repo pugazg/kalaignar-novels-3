@@ -598,6 +598,6 @@ All reviewed pages remain:
 
 Part001 Pass 2A is **COMPLETE / 75/75 REVIEWED / PASS**.
 
-Pass2B is now **IN PROGRESS — scans1–60 REVIEWED / PASS** with **6 cumulative Pass2B corrections**. Proceed next with **Part001 Pass 2B — scans61–70 / local pages61–70**, continuing the independent lexical / historical-glyph reread. P2B-001 on scan3 supersedes P2A-001.
+Pass2B is now **IN PROGRESS — scans1–70 REVIEWED / PASS** with **6 cumulative Pass2B corrections**. Proceed next with **Part001 Pass 2B — FINAL scans71–75 / local pages71–75**, continuing the independent lexical / historical-glyph reread. P2B-001 on scan3 supersedes P2A-001.
 
 Scan16 Pass 2A is complete as an image-map record; no label-by-label Unicode verification is required.
