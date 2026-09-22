@@ -27,7 +27,7 @@
 - Pass3 structural corrections: **0**
 - Pass3 unresolved visual / structural questions: **0**
 - Part001 whole-Part audit: **PASS / COMPLETE**
-- chapter-title source revalidation: **PASS — chapter3 corrected to `மச்சக்காரியும் மருமகளும்`; chapters1,2,4 rechecked and match source**
+- chapter-title source revalidation: **PASS / USER-CONFIRMED — chapters1–4 corrected to `மணவிழாவில் மசச்சாமி`, `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`, `மகிழ்ச்சியும் மருட்சியும்`, `இனிய சூழலும் புதிய சோகமும்`; chapters5–7 unchanged**
 - Part001 audit blockers: **0**
 - verified pages: **0 — promotion pending final metadata/status synchronization**
 - source PDFs in Git: **0 / prohibited by archive policy**
