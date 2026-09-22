@@ -179,9 +179,10 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 Pass 2A — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 2A corrections — **31 recorded historically; P2A-001 superseded by P2B-001**
 - Part001 Pass 2A unresolved — **0**
-- Part001 Pass 2B — **IN PROGRESS / 70/75 REVIEWED / PASS**
-- Part001 Pass 2B corrections — **6**
+- Part001 Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
+- Part001 Pass 2B corrections — **8**
 - Part001 Pass 2B unresolved — **0**
 - Part002–Part008 — **pending intake / blocked by mandatory Part lock**
 - outgoing boundary 75→76 — **PENDING Part002 direct witness**
-- exact next gate — **Part001 Pass 2B FINAL scans71–75**
+- Part001 Pass 3 — **NOT STARTED**
+- exact next gate — **Part001 Pass 3 scans1–10**
