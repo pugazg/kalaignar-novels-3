@@ -75,7 +75,7 @@ Active Part:
 | 31 | chapter2 continuation | 14 | 0 | REVIEWED / PASS |
 | 32 | chapter2 continuation | 15 | **2** | REVIEWED / PASS |
 | 33 | chapter2 close | 16 | 0 | REVIEWED / PASS |
-| 34 | chapter3 `மச்சசாமியும் மருமகியும்` opening | — | 0 | REVIEWED / PASS |
+| 34 | chapter3 `மச்சக்காரியும் மருமகளும்` opening | — | 0 | REVIEWED / PASS |
 | 35 | chapter3 continuation | 18 | 0 | REVIEWED / PASS |
 | 36 | chapter3 continuation | 19 | 0 | REVIEWED / PASS |
 | 37 | chapter3 continuation | 20 | **1** | REVIEWED / PASS |
