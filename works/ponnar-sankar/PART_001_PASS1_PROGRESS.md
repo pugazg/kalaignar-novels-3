@@ -25,9 +25,14 @@ Active Part:
 - Pass 2A: **NOT STARTED / NEXT**
 - Part002 canonical records: **0**
 
-All completed/captured Part001 records remain non-final:
+At Pass1 closure, completed/captured Part001 records remained non-final pending later gates:
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
+
+Post-audit promotion status:
+- `status: "verified"` — **75/75**
+- `visual_fidelity: "verified"` — **75/75**
+- Tamil archival-ready — **PASS / COMPLETE**
 
 ## Batch accounting
 
@@ -216,6 +221,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Part001 Pass 1 is closed. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Current repository frontier is **final metadata/status synchronization**; Pass2A, Pass2B and Pass3 are complete, with Pass3 at 75/75 REVIEWED / PASS, 0 structural corrections and 0 unresolved visual / structural questions. See `PART_001_PASS2A_PROGRESS.md` and `PART_001_PASS2B_PROGRESS.md`.
+Part001 Pass 1 is closed. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**, final metadata/status synchronization is **COMPLETE**, and Tamil archival-ready is **PASS / COMPLETE**. Current repository frontier is **Part001 assembled Tamil construction + exact canonical-coverage audit**. See `PART_001_PASS2A_PROGRESS.md`, `PART_001_PASS2B_PROGRESS.md`, `PART_001_PASS3_PROGRESS.md`, and `PART_001_AUDIT.md`.
 
 For scan16, the map page is an **image-preserved non-text page** and must be visually verified as an image asset rather than Unicode label transcription. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
