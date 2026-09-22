@@ -92,7 +92,7 @@ Maintained structural ranges are internally consistent with the canonical record
 - scan17 — blank reverse/show-through
 - scans18–25 — chapter1 `மண விழாவில் மச்சான்`
 - scans26–33 — chapter2 `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்`
-- scans34–42 — chapter3 `மச்சசாமியும் மருமகியும்`
+- scans34–42 — chapter3 `மச்சக்காரியும் மருமகளும்`
 - scans43–51 — chapter4 `இனிய சூழலும் புதிய கோலமும்`
 - scans52–60 — chapter5 `தாமரை நாச்சியின் சபதம்`
 - scans61–69 — chapter6 `பெயர் சொல்லாப் பட்டணம்`
@@ -164,6 +164,33 @@ These were documentation-only corrections. Canonical page records and canonical 
 - boundary accounting — **PASS with 75→76 external witness pending**
 - unresolved in-scope blockers — **0**
 - page status promotion performed — **NO**
+
+## Post-audit chapter-title defect correction and revalidation
+
+A source-backed chapter-title defect was reported after the initial audit PASS. The four chapter-opening source scans were re-read directly from rendered source pixels:
+
+- chapter1 / scan18 — `மண விழாவில் மச்சான்` — repository title already matched the source; no title change required;
+- chapter2 / scan26 — `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` — repository title already matched the source; no title change required;
+- chapter3 / scan34 — source-visible `மச்சக்காரியும் மருமகளும்` — repository had the incorrect `மச்சசாமியும் மருமகியும்`; corrected;
+- chapter4 / scan43 — `இனிய சூழலும் புதிய கோலமும்` — repository title already matched the source; no title change required.
+
+Chapter3 correction scope:
+- canonical chapter3 records scans34–42 had their `section` / maintained chapter headings corrected;
+- chapter3 canonical filenames were renamed from `*-machchasaamiyum-marumagiyum.md` to `*-machchakkaariyum-marumagalum.md`;
+- scan34 Pass1/Pass3 title statements were corrected;
+- page-map and all maintained Pass/control references were corrected;
+- opening body dialogue `“எங்கே அந்த மச்சசாமி?”` was **not** changed;
+- narrative Tamil outside the chapter-title metadata was **not** changed.
+
+Re-audit of affected scope:
+- chapter1–4 opener titles checked directly against source pixels — **PASS**;
+- chapter3 scans34–42 continuous canonical coverage — **PASS**;
+- chapter3 printed-page mapping 18–25 — **PASS**;
+- chapter3 page-type boundaries opener/body/closing — **PASS**;
+- renamed canonical file references in page map — **PASS**;
+- unresolved title defects — **0**.
+
+**Audit status after correction: PASS / COMPLETE — REVALIDATED.**
 
 ## Exact next activity
 
