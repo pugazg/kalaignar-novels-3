@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 Pass2B IN PROGRESS — scans1–70 reviewed / PASS; 6 cumulative Pass2B corrections; 0 unresolved; FINAL scans71–75 next**
+- current state: **Part001 Pass2B COMPLETE / PASS — 75/75 reviewed; 8 cumulative Pass2B corrections; 0 unresolved; Pass3 scans1–10 next**
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
 ## Workflow
@@ -42,6 +42,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Proceed with **Part001 Pass 2B — FINAL global scans71–75 / local pages71–75** as the next independent lexical / historical-glyph reread. Scan16 remains an image-preserved map record.
+Proceed with **Part001 Pass 3 — global scans1–10 / local pages1–10** as the next meaningful full-page visual / structural verification batch. Scan16 remains an image-preserved map record for its later Pass3 handling.
 
 Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
