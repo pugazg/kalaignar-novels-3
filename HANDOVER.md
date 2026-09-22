@@ -70,6 +70,11 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 2B unresolved textual questions — **0**
 - verified pages — **0 — promotion is the next gate**
 - Part001 whole-Part audit — **PASS / COMPLETE**
+- chapter-title source revalidation — **PASS**
+- chapter1 / scan18 — `மண விழாவில் மச்சான்` — source match confirmed
+- chapter2 / scan26 — `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` — source match confirmed
+- chapter3 / scan34 — **corrected to `மச்சக்காரியும் மருமகளும்`**
+- chapter4 / scan43 — `இனிய சூழலும் புதிய கோலமும்` — source match confirmed
 - Part001 audit blockers — **0**
 - durable Part audit — `works/ponnar-sankar/PART_001_AUDIT.md`
 - assembled Tamil — **NOT STARTED**
