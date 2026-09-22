@@ -73,7 +73,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 PART AUDIT — PASS / COMPLETE.**
+**PART001 TAMIL ARCHIVAL-READY — PASS / COMPLETE.**
 
 - canonical page records — **75/75 — scans1–75**
 - Pass1 textual transcriptions — **74/75 — scans1–15,17–75**
@@ -81,7 +81,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - Pass1 canonical completion — **75/75 — COMPLETE**
 - Pass1 pending physical scans — **0/75**
 - Pass1 source-reading holds — **0**
-- all completed records — `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- all canonical records — `status: "verified"` / `visual_fidelity: "verified"` — **75/75**
 - scan8→9 internal continuation — **captured without reconstruction**
 - scan10→11 continuation — **captured directly**
 - scans11–15 — **நுழைவாயில் continuation/close**
@@ -119,9 +119,11 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - durable Pass3 progress — `PART_001_PASS3_PROGRESS.md`
 - durable Part audit — `PART_001_AUDIT.md`
 - Part001 whole-Part audit — **PASS / COMPLETE / 0 blockers**
+- Part001 final metadata/status synchronization — **COMPLETE / 75/75 promoted**
+- Part001 Tamil archival-ready — **PASS / COMPLETE**
 
 ## Exact next activity
 
-Proceed with **Part001 final metadata/status synchronization**. Promote `status` / `visual_fidelity` only; do not alter canonical Tamil.
+Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only.
 
-Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep all records at `status: "needs-review"` / `visual_fidelity: "needs-review"` until the appropriate later gates. Keep **75→76** pending until Part002 is supplied and directly checked.
+Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep **75→76** pending until Part002 is supplied and directly checked.
