@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans51–60
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 Pass 2B scans61–70
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,7 +39,7 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Pass2A corrections recorded historically — **31**
 - Pass2A unresolved textual questions — **0**
 - **P2A-001 is superseded by P2B-001**
-- Pass 2B — **IN PROGRESS / scans1–50 REVIEWED / PASS**
+- Pass 2B — **IN PROGRESS / scans1–60 REVIEWED / PASS**
 - Pass2B corrections — **6**
 - Pass2B unresolved textual questions — **0**
 - records promoted to verified — **0**
@@ -49,20 +49,20 @@ If the exact Part001 PDF is unavailable in the runtime, ask the user to attach i
 - Part002–Part008 — **not registered**
 - outgoing boundary **75→76 — PENDING Part002 direct witness**
 
-## Pass 2B Batch 5 — scans41–50
+## Pass 2B Batch 6 — scans51–60
 
 Batch completed **10/10 REVIEWED / PASS** with **0 corrections**.
 
-- scans41–50 — **0 corrections**
+- scans51–60 — **0 corrections**
 - unresolved textual questions — **0**
-- source-visible lexical forms, compounds, punctuation and ritual terminology were retained without silent normalization
-- cumulative Pass2B state — **50/75 reviewed / 6 corrections / 0 unresolved**
+- source-visible lexical forms, occurrence-specific compounds, letter punctuation, ritual vocabulary and the central sibling-vow wording were retained without silent normalization
+- cumulative Pass2B state — **60/75 reviewed / 6 corrections / 0 unresolved**
 - no status promotion
 - Pass3 not started
 
 ## Exact next activity
 
-Continue **Part001 Pass 2B — global scans51–60 / local pages51–60**.
+Continue **Part001 Pass 2B — global scans61–70 / local pages61–70**.
 
 Pass 2B remains an **independent lexical / historical-glyph reread**. For each page:
 
