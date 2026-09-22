@@ -4,7 +4,7 @@ part: 1
 part_page: 26
 printed_page: null
 work: "ponnar-sankar"
-section: "விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்"
+section: "விருந்தினர் விடுதியும் வேதனை கொட்டடியும்"
 page_type: "chapter-opening"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3"
 ---
 
-# 2 — விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்
+# 2 — விருந்தினர் விடுதியும் வேதனை கொட்டடியும்
 
 ## Source transcription
 
@@ -34,7 +34,7 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3
 ## Pass 1 notes
 
 - decorative chapter opening with displayed chapter number **2**;
-- chapter title is source-visible as விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்;
+- chapter title is source-visible as விருந்தினர் விடுதியும் வேதனை கொட்டடியும்;
 - no running printed-page value is inferred for this chapter-opening scan;
 - final quoted sentence continues on scan27;
 - status and visual fidelity remain needs-review.
@@ -61,10 +61,18 @@ transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3
 ## Formal Part001 Pass 3 review
 
 - meaningful full-page visual / structural verification completed directly against rendered source pixels;
-- decorative blue chapter title `விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்` occupies the upper field with ornamental flourishes and displayed chapter number `2` below;
+- decorative blue chapter title `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` occupies the upper field with ornamental flourishes and displayed chapter number `2` below;
 - chapter prose begins beneath the display treatment and continues to the physical page bottom; no running header or printed page number is present;
 - chapter-opening classification and deliberate pagination omission are structurally correct;
 - structural corrections in Pass 3: **0**;
 - unresolved visual / structural questions: **0**;
 - Pass 3 result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending whole-Part audit and final metadata promotion.
+
+## User-confirmed source chapter-title correction
+
+- exact chapter title supplied by the user from the controlling source: `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`;
+- previous repository chapter-title reading was incorrect and is superseded;
+- chapter-title / section metadata and maintained chapter headings corrected accordingly;
+- narrative body transcription was not altered by this title correction;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending final metadata/status synchronization.

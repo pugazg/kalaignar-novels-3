@@ -4,7 +4,7 @@ part: 1
 part_page: 27
 printed_page: 10
 work: "ponnar-sankar"
-section: "விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும்"
+section: "விருந்தினர் விடுதியும் வேதனை கொட்டடியும்"
 page_type: "body"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part001 Pass 1 batch 3"
 ---
 
-# விருந்தினர் விடுதியும் வேங்கைத் தோட்டியும் — தொடர்ச்சி
+# விருந்தினர் விடுதியும் வேதனை கொட்டடியும் — தொடர்ச்சி
 
 ## Source transcription
 
