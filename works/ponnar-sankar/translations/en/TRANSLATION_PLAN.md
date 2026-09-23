@@ -235,8 +235,26 @@ Part002 canonical transcription remains blocked until Part001 final closure.
 - assembled Tamil edits caused by planning — **0**
 - Part002 leakage — **0**
 
+## Processing cadence and current checkpoint
+
+User-set English processing cadence: **15 physical scans per iteration**.
+
+First translation iteration:
+- scans1–7 / E1 — **SOURCE-CHECKED / COMPLETE**
+- scans8–15 / E2 — **DRAFTED + DIRECTLY CHECKED / IN PROGRESS**
+- scans16–17 / E2 — **PENDING**
+- total physical scans processed — **15/15**
+- E2 whole-batch source-check record — **not yet created**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+
+The original E-batch boundaries remain authoritative; the iteration cadence may stop inside a batch. A durable `E#_SOURCE_CHECK.md` is created only when the whole E-batch closes.
+
 ## Exact next gate
 
-**E1 draft + source-check — front matter / scans1–7.**
+Continue **scans16–30** under the 15-page cadence:
+1. finish E2 scans16–17 and close E2;
+2. process E3 scans18–25 and close E3;
+3. begin E4 scans26–30 only.
 
-Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
+Do not mark E4 complete until scans31–33 are processed.
