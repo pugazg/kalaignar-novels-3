@@ -320,8 +320,41 @@ Durable report — `GLOSSARY_RECONCILIATION.md`
 - canonical / assembled Tamil edits — **0 / 0**
 - Part002 leakage — **0**
 
+## English editorial review checkpoint
+
+Durable report — `TRANSLATION_REVIEW.md`
+
+- result — **PASS / CLOSED**
+- English files reviewed — **9/9**
+- files with English-only editorial edits — **3/9**
+- substantive English-only corrections — **3**
+- unresolved editorial holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+
+## Whole-Part bilingual review checkpoint
+
+Durable report — `BILINGUAL_REVIEW.md`
+
+- result — **PASS / CLOSED**
+- Tamil/English pairs reviewed — **9/9**
+- new English corrections required — **0**
+- unresolved bilingual holds — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+
+## Release/readiness checkpoint
+
+Durable report — `RELEASE_REPORT.md`
+
+- result — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+- source PDFs under active work tree — **0**
+- release/readiness English body edits — **0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
 ## Exact next activity
 
-**English editorial review — all 9 maintained English files / scans1–75.**
+**Release-ready synchronization → final Part001 closure.**
 
-Do not begin Part002 canonical transcription.
+Part002 canonical transcription remains blocked until final closure passes.
