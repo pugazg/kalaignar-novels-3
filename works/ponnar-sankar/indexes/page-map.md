@@ -121,6 +121,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 38 | 113 | 96 | chapter11 continuation; மாயவர்–குன்றுடையான் dialogue | needs-review | `pages/0113-aasaiyil-arukkaani-thangam.md` |
 | 002 | 39 | 114 | 97 | chapter11 continuation; தனக்கோடி introduced to மாயவர் | needs-review | `pages/0114-aasaiyil-arukkaani-thangam.md` |
 | 002 | 40 | 115 | 98 | chapter11 continuation; painted-panel narrative; open into scan116 | needs-review | `pages/0115-aasaiyil-arukkaani-thangam.md` |
+| 002 | 41 | 116 | 99 | chapter11 continuation; மாயவர்–குன்றுடையான் / தாமரை discussion | needs-review | `pages/0116-aasaiyil-arukkaani-thangam.md` |
+| 002 | 42 | 117 | 100 | chapter11 continuation; மாந்தியப்பன் discussion / sudden alarm | needs-review | `pages/0117-aasaiyil-arukkaani-thangam.md` |
+| 002 | 43 | 118 | 101 | chapter11 close; அருக்காணி falls into river / horseman departs; substantial blank lower field | needs-review | `pages/0118-aasaiyil-arukkaani-thangam.md` |
+| 002 | 44 | 119 | — | chapter12 `பூனையில் போர்க்கோலம்` opening; running page not inferred | needs-review | `pages/0119-poonaiyil-porkkolam.md` |
+| 002 | 45 | 120 | 103 | chapter12 continuation; அருக்காணி rescued / regains consciousness | needs-review | `pages/0120-poonaiyil-porkkolam.md` |
+| 002 | 46 | 121 | 104 | chapter12 continuation; flashback begins inside temple precinct | needs-review | `pages/0121-poonaiyil-porkkolam.md` |
+| 002 | 47 | 122 | 105 | chapter12 continuation; மாந்தியப்பன் watches அருக்காணி | needs-review | `pages/0122-poonaiyil-porkkolam.md` |
+| 002 | 48 | 123 | 106 | chapter12 continuation; மாந்தியப்பன் identifies himself / confrontation | needs-review | `pages/0123-poonaiyil-porkkolam.md` |
+| 002 | 49 | 124 | 107 | chapter12 continuation; அருக்காணி rebukes மாந்தியப்பன் | needs-review | `pages/0124-poonaiyil-porkkolam.md` |
+| 002 | 50 | 125 | 108 | chapter12 continuation; pursuit ends with river leap / family reflection | needs-review | `pages/0125-poonaiyil-porkkolam.md` |
 
 ## Split accounting
 
@@ -132,7 +142,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **2/8**
 - registered physical scan rows: **145**
-- canonical page records: **115 total — Part001 75/75 frozen + Part002 40/70 needs-review**
+- canonical page records: **125 total — Part001 75/75 frozen + Part002 50/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -164,7 +174,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- Part002 Pass1: **IN PROGRESS — 40/70 TEXT-COMPLETE — scans76–115**
-- Part002 Pass1 pending: **30/70 — scans116–145**
+- Part002 Pass1: **IN PROGRESS — 50/70 TEXT-COMPLETE — scans76–125**
+- Part002 Pass1 pending: **20/70 — scans126–145**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass1 Batch5 — scans116–125 / local pages41–50**
+- exact next activity: **Part002 Pass1 Batch6 — scans126–135 / local pages51–60**
