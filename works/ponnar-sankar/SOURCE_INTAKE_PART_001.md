@@ -40,7 +40,7 @@ No transcription has been created in this intake gate.
 ## Boundary state
 
 - incoming split boundary: **NONE — Part001 begins the work**
-- outgoing split boundary: **75→76 — PENDING direct audit when Part002 is supplied**
+- outgoing split boundary: **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 
 No text is reconstructed across the split boundary. Part002 content must not be imported into Part001; its first scan may be inspected later only as the adjacent boundary witness.
 
@@ -69,7 +69,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - [x] manifest row synchronized
 - [x] page-map physical range registered
 - [x] incoming boundary recorded as NONE
-- [x] outgoing boundary left pending until Part002 witness is supplied
+- [x] outgoing boundary directly audited from supplied Part002 local page1
 
 ## Current gate
 
@@ -112,7 +112,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - Part001 Pass3 cadence — **15 pages per iteration**
 - Part001 Pass3 structural corrections — **0**
 - Part001 Pass3 unresolved visual / structural questions — **0**
-- outgoing Part001 75→76 — **PENDING Part002 direct witness**
+- outgoing Part001 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - durable Pass1 progress — `PART_001_PASS1_PROGRESS.md`
 - durable Pass2A progress — `PART_001_PASS2A_PROGRESS.md`
 - durable Pass2B progress — `PART_001_PASS2B_PROGRESS.md`
@@ -132,9 +132,10 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 - release-ready synchronization — **PASS / CLOSED**
 - final closure — **PASS / CLOSED / FROZEN**
-- Part002–Part008 — **NOT REGISTERED**
-- outgoing 75→76 — **PENDING Part002 direct witness**
+- Part002 — **REGISTERED / COMPLETE — scans76–145**
+- Part003–Part008 — **NOT REGISTERED**
+- outgoing 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 
 ## Exact next activity
 
-When Part002 is supplied, perform **Part002 source intake + direct 75→76 boundary audit** before any canonical transcription. Do not infer its global range or text.
+Part001 remains **FINAL CLOSED / FROZEN**. Continue active work with **Part002 Pass1 Batch2 — scans86–95 / local pages11–20**.
