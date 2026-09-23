@@ -226,19 +226,20 @@ Post-audit promotion completed after the revalidated audit:
 
 Durable checkpoint: `PART_001_TAMIL_ARCHIVAL_READY.md`
 
+## Downstream assembled-Tamil closure
+
+- assembled Tamil — **VERIFIED / PASS / CLOSED**
+- maintained section files — **9/9**
+- exact canonical coverage — **75/75**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit/control-note leakage into literary text — **0**
+- canonical page mutations caused by assembly — **0**
+- Part002 body leakage — **0**
+- scan16 — **image-backed map preserved; no Unicode label reconstruction**
+- durable validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- outgoing **75→76** — **PENDING Part002 direct witness**
+
 ## Exact next activity
 
-Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only.
-
-Assembly requirements:
-- exact canonical coverage **75/75**
-- missing coverage **0**
-- duplicate coverage **0**
-- unsupported Tamil insertion **0**
-- audit-note leakage **0**
-- canonical page mutations caused by assembly **0**
-- next-Part body leakage **0**
-- preserve scan16 as an image-backed/non-text structural record rather than inventing map-label Unicode
-- keep outgoing **75→76** pending until Part002 is supplied
-
-Do not begin English until assembled Tamil closes **VERIFIED / PASS / CLOSED**.
+Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer. Do not begin Part002 canonical transcription before Part001 final closure.
