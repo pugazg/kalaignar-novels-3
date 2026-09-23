@@ -101,10 +101,12 @@ In all these ways, he set out the qualities of what is called God.
 
 He believed that a person should live in this world possessing all this greatness said to belong to the divine.
 
-That is why, through the Kural carrying the meaning, “So many rare virtues are spoken of as belonging to the divine. One who lives in the world standing in the path of virtue by which life ought to be lived will be esteemed on a par with the deity said to dwell in heaven,” he makes it clear:
+That is why he presents the idea: “So many rare virtues are spoken of as belonging to the divine. One who lives in the world standing in the path of virtue by which life ought to be lived will be esteemed on a par with the deity said to dwell in heaven,” in the following Kural:
 
 “One who lives in this world as life ought to be lived  
 will be placed among the gods who dwell in heaven.”
+
+Through this Kural, he makes it clear.
 
 It is my assessment that Ponnar - Sankar, who are called “Annanmar Saami,” are people who came to be esteemed in that way.
 
