@@ -117,4 +117,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - whole-Part glossary reconciliation: **RECONCILED / PASS**
 - glossary reconciliation English section edits: **0**
 - unresolved glossary holds: **0**
-- exact next activity: **English editorial review — all 9 maintained English files / scans1–75**
+- English editorial review: **PASS / CLOSED**
+- whole-Part bilingual review: **PASS / CLOSED**
+- release/readiness: **PASS / CLOSED**
+- unresolved release/readiness blockers: **0**
+- exact next activity: **release-ready synchronization → final Part001 closure**
