@@ -200,6 +200,10 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 English planning/setup — **COMPLETE / PASS**
 - Part001 English batches — **E1–E9 reserved / 9**
 - Part001 English planned coverage — **scans1–75 / 0 missing / 0 duplicate**
-- Part001 translated/source-checked files — **0/9 / 0/9**
+- Part001 complete translated/source-checked files — **1/9 / 1/9**
+- E1 — **SOURCE-CHECKED / COMPLETE — scans1–7**
+- E2 — **IN PROGRESS — scans8–15 checked / scans16–17 pending**
+- English physical processing coverage — **scans1–15 / 15 of 75**
+- user-set English cadence — **15 physical scans per iteration**
 - active English controls — `translations/en/TRANSLATION_PLAN.md`, `translations/en/GLOSSARY.md`, `translations/en/PROGRESS.md`
-- exact next gate — **E1 draft + source-check / front matter / scans1–7**
+- exact next activity — **scans16–30: finish E2, complete E3, begin E4 through scan30**
