@@ -115,14 +115,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - durable bilingual review — `works/ponnar-sankar/translations/en/BILINGUAL_REVIEW.md`
 - release/readiness — **PASS / CLOSED — 0 blockers**
 - durable release report — `works/ponnar-sankar/translations/en/RELEASE_REPORT.md`
-- English exact next activity — **release-ready synchronization → final Part001 closure**
-- Parts002–Part008 — **not registered**
+- release-ready synchronization — **PASS / CLOSED**
+- durable release-ready sync — `works/ponnar-sankar/PART_001_RELEASE_READY_SYNC.md`
+- Part001 final closure — **PASS / CLOSED / FROZEN**
+- durable final closure — `works/ponnar-sankar/PART_001_FINAL_CLOSURE.md`
+- maintained English — **9/9 FROZEN**
+- Part001 canonical / assembled Tamil — **FROZEN**
+- English exact next activity — **Part002 source intake + direct 75→76 boundary audit when source is supplied**
+- Parts002–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — release-ready synchronization / final closure**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to Part002 source-intake frontier**
 
 ## Exact next activity
 
-Proceed with **release-ready synchronization**, verify no post-release textual drift, and close Part001 **PASS / CLOSED / FROZEN**. Keep **75→76** pending; Part002 remains unregistered and must not be inferred.
+Part001 is **FINAL CLOSED / FROZEN**. Next activity requires a supplied Part002 source: perform source intake and direct **75→76** boundary audit before any Part002 canonical transcription.
