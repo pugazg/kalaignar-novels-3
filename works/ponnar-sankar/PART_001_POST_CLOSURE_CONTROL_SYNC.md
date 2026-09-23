@@ -107,3 +107,20 @@ When the user supplies the Part002 PDF:
 5. begin Part002 Pass1 only after source-backed intake and boundary handling.
 
 If Part002 is not supplied, stop without inventing source facts.
+
+
+## Post-closure Part002 boundary addendum
+
+After this Part001 closure record was established, the user supplied Part002 source:
+
+`TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
+
+Direct adjacent-source inspection has now closed the formerly pending boundary:
+
+- **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
+- split-word reconstruction — **0**
+- frozen Part001 Tamil/body changes caused by the audit — **0**
+- Part002 global range — **76–145 / 70 physical pages**
+- durable audit — `PART_002_BOUNDARY_AUDIT_75_76.md`
+
+This addendum does not reopen Part001. Part001 remains **FINAL CLOSED / FROZEN**.
