@@ -197,5 +197,9 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - durable Tamil archival-ready checkpoint — `PART_001_TAMIL_ARCHIVAL_READY.md`
 - Part001 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
 - Part001 assembled-Tamil validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-- Part001 English — **NOT STARTED**
-- exact next gate — **Part001 English translation planning/setup**
+- Part001 English planning/setup — **COMPLETE / PASS**
+- Part001 English batches — **E1–E9 reserved / 9**
+- Part001 English planned coverage — **scans1–75 / 0 missing / 0 duplicate**
+- Part001 translated/source-checked files — **0/9 / 0/9**
+- active English controls — `translations/en/TRANSLATION_PLAN.md`, `translations/en/GLOSSARY.md`, `translations/en/PROGRESS.md`
+- exact next gate — **E1 draft + source-check / front matter / scans1–7**
