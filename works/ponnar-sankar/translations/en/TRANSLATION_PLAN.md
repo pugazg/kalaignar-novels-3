@@ -1,6 +1,6 @@
 # English Translation Plan — பொன்னர் சங்கர் / Part001
 
-Status: **PLANNING/SETUP COMPLETE / PASS**
+Status: **E1–E9 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -275,11 +275,28 @@ The original E-batch boundaries remain authoritative; the 15-scan iteration cade
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - Part002 leakage — **0**
 
+### Iteration 4 — scans46–75 / user-directed 30-page override
+
+- user instruction for this iteration — **process 30 pages**
+- scans processed — **46–75 / exactly 30 physical scans**
+- E6 scans46–51 — **completed; whole E6 SOURCE-CHECKED / COMPLETE**
+- E7 scans52–60 — **SOURCE-CHECKED / COMPLETE**
+- E8 scans61–69 — **SOURCE-CHECKED / COMPLETE**
+- E9 scans70–75 — **SOURCE-CHECKED / COMPLETE**
+- cumulative physical English coverage — **scans1–75 / 75 of 75**
+- complete translated/source-checked files — **9/9 / 9/9**
+- partial translated files — **0**
+- cross-batch block-accounting mismatches — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
+The 30-page instruction overrides the earlier 15-page iteration limit for this iteration only. No scan76 content was used.
+
 ## Exact next gate
 
-Continue **scans46–60** under the 15-page cadence:
+**Whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files.**
 
-1. finish E6 scans46–51 and close E6;
-2. process E7 scans52–60 and close E7.
+After reconciliation: English editorial review → whole-Part bilingual review → release/readiness → release-ready synchronization → no-post-release textual-drift verification → Part001 final closure/freeze.
 
-That is exactly **15 scans**. Do not process scan61.
+Part002 canonical transcription remains blocked until Part001 final closure.
