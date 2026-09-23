@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 3 COMPLETE — 30/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 4 COMPLETE — 40/70 TEXT-COMPLETE**
 
 Active Part:
 - Part002
@@ -14,9 +14,9 @@ Active Part:
 ## Current accounting
 
 - Part002 physical scans: **70**
-- canonical Part002 records present: **30/70 — scans76–105**
-- Pass1 text-complete: **30/70**
-- Pass1 pending: **40/70 — scans106–145**
+- canonical Part002 records present: **40/70 — scans76–115**
+- Pass1 text-complete: **40/70**
+- Pass1 pending: **30/70 — scans116–145**
 - unresolved Pass1 source-reading holds: **0**
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
@@ -34,8 +34,8 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 | 1 | 76–85 | 1–10 | 59–63; scan81 chapter opener; 65–68 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 2 | 86–95 | 11–20 | 69–72; scan90 chapter opener; 74–78 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 3 | 96–105 | 21–30 | 79–81; scan99 chapter opener; 83–88 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 4 | 106–115 | 31–40 | pending direct capture | **NEXT** |
-| 5 | 116–125 | 41–50 | pending direct capture | NOT STARTED |
+| 4 | 106–115 | 31–40 | 89–91; scan109 chapter opener; 93–98 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 5 | 116–125 | 41–50 | pending direct capture | **NEXT** |
 | 6 | 126–135 | 51–60 | pending direct capture | NOT STARTED |
 | 7 | 136–145 | 61–70 | pending direct capture | NOT STARTED |
 
@@ -77,6 +77,18 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - chapter10 shifts to சிலம்பாயி, முத்தாயி, பவளாயி and வையம்பெருமான் arranging temple `அர்ச்சனை`, then reveals that குன்றுடையார் is நெல்லியங்கோடர் and தாமரைநாச்சியார் is the siblings' aunt;
 - scan105 remains open after introducing an ornamented man standing near குன்றுடையான் and தாமரைநாச்சியார்; scan106 is not imported.
 
+## Batch 4 source-structure observations
+
+- scans106–108 continue and close chapter10 **`அர்ச்சனை- யார் வயிறுக்கு?`** / printed pages **89–91**;
+- scan106 continues directly from scan105's final `அவர்தான்` into `ஆதிசெட்டிப் பாளையம் தனக்கோடி செட்டியார்`;
+- scan108 / printed91 closes chapter10 and leaves a substantial intentional blank lower field;
+- scan109 opens chapter **11 / `ஆசையில் அருக்காணித் தங்கம்`** with displayed chapter number **11**;
+- scan109 has no running printed-page value and no value is inferred;
+- scans110–115 continue chapter11 / printed pages **93–98**;
+- chapter11 recalls தாமரைநாச்சியாரின் earlier vow, then brings மாயவர் into the festival pavilion and into conversation with குன்றுடையான்;
+- scan115 continues with the painted-panel description of the பெரியகாண்டி / செல்லாண்டியம்மன் tradition and remains open into scan116;
+- scan116 is not imported.
+
 ## Continuation integrity
 
 - scan75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -95,11 +107,17 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan100→101 — dialogue continues from `ஆமாம் அம்மா! நான் கூட / சொல்ல வேண்டுமென்று...`
 - scan101→102 — dialogue continues `நன்றாக இருக்க / வேண்டுமென்பதற்காக...`
 - scan103→104 — physical prose continues `அதற்குள் பதறிப்போன / சிலம்பாயி...`
-- scan105 remains open into scan106; scan106 text is not imported
+- scan105→106 — direct continuation retained: `அவர்தான் / ஆதிசெட்டிப் பாளையம் தனக்கோடி செட்டியார்`
+- scan106→107 — குன்றுடையான் dialogue continues physically across the page break
+- scan108 closes chapter10 before chapter11 opens on scan109
+- scan109→110 — vow quotation continues `தந்தை மேல் / ஆணையாகச் சொல்கிறேன்`
+- scan111→112 — prose continues after `குன்றுடையான், / குளம்படியோசை...`
+- scan112→113 — மாயவர் dialogue continues `ஆனைப்படை குதிரைப்படை முன்னால் வரவும் - / காலாட்படை...`
+- scan115 remains open into scan116; scan116 text is not imported
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch4 — global scans106–115 / local pages31–40**.
+Process **Part002 Pass1 Batch5 — global scans116–125 / local pages41–50**.
 
 Requirements:
 - direct source-pixel transcription only;
