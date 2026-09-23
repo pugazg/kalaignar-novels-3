@@ -242,4 +242,4 @@ Durable checkpoint: `PART_001_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer. Do not begin Part002 canonical transcription before Part001 final closure.
+Part001 is **FINAL CLOSED / FROZEN**. When Part002 is supplied, perform source intake and direct **75→76** boundary audit before canonical transcription.
