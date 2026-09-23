@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ENGLISH GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
+**PART001 RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -48,6 +48,9 @@
 - whole-Part glossary reconciliation: **RECONCILED / PASS**
 - glossary reconciliation section edits: **0**
 - unresolved glossary holds: **0**
+- English editorial review: **PASS / CLOSED — 3 English-only corrections**
+- whole-Part bilingual review: **PASS / CLOSED — 9/9 pairs**
+- release/readiness: **PASS / CLOSED — 0 blockers**
 - English cross-batch block mismatches: **0**
 - English Part002 leakage: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
@@ -95,4 +98,4 @@
 
 ## Exact next activity
 
-Proceed with **English editorial review — all 9 maintained English files / scans1–75**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **release-ready synchronization**, then verify no post-release textual drift and close **Part001 FINAL / FROZEN**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until final closure.
