@@ -91,6 +91,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 8 | 83 | 66 | chapter8 continuation; boatman introduces கரகம் விழா | needs-review | `pages/0083-karagam-vidum-thiruvizha.md` |
 | 002 | 9 | 84 | 67 | chapter8 continuation; boat journey / displayed song | needs-review | `pages/0084-karagam-vidum-thiruvizha.md` |
 | 002 | 10 | 85 | 68 | chapter8 continuation; boatman's mythic narrative / displayed verses | needs-review | `pages/0085-karagam-vidum-thiruvizha.md` |
+| 002 | 11 | 86 | 69 | chapter8 continuation; கரகம் contest explanation | needs-review | `pages/0086-karagam-vidum-thiruvizha.md` |
+| 002 | 12 | 87 | 70 | chapter8 continuation; festival setting / ritual explanation | needs-review | `pages/0087-karagam-vidum-thiruvizha.md` |
+| 002 | 13 | 88 | 71 | chapter8 continuation; பெரியகாண்டி / செல்லாண்டி festival boats | needs-review | `pages/0088-karagam-vidum-thiruvizha.md` |
+| 002 | 14 | 89 | 72 | chapter8 close; storm drives decorated boats downstream; substantial blank lower field | needs-review | `pages/0089-karagam-vidum-thiruvizha.md` |
+| 002 | 15 | 90 | — | chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` opening; running page not inferred | needs-review | `pages/0090-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 16 | 91 | 74 | chapter9 continuation; storm / drifting boats / parents on bank | needs-review | `pages/0091-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 17 | 92 | 75 | chapter9 continuation; rescue attempt / மாந்தியப்பன் enters | needs-review | `pages/0092-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 18 | 93 | 76 | chapter9 continuation; family/background exposition | needs-review | `pages/0093-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 19 | 94 | 77 | chapter9 continuation; பொன்னர் encounters மலைப்பாம்பு | needs-review | `pages/0094-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 20 | 95 | 78 | chapter9 continuation; சங்கர் seized by முதலை; open ending into scan96 | needs-review | `pages/0095-maniyangurichchi-kurinji-maangal.md` |
 
 ## Split accounting
 
@@ -102,7 +112,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **2/8**
 - registered physical scan rows: **145**
-- canonical page records: **85 total — Part001 75/75 frozen + Part002 10/70 needs-review**
+- canonical page records: **95 total — Part001 75/75 frozen + Part002 20/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -134,7 +144,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- Part002 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans76–85**
-- Part002 Pass1 pending: **60/70 — scans86–145**
+- Part002 Pass1: **IN PROGRESS — 20/70 TEXT-COMPLETE — scans76–95**
+- Part002 Pass1 pending: **50/70 — scans96–145**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass1 Batch2 — scans86–95 / local pages11–20**
+- exact next activity: **Part002 Pass1 Batch3 — scans96–105 / local pages21–30**
