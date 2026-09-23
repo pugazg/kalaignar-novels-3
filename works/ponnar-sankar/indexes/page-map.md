@@ -114,5 +114,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - English E9: **SOURCE-CHECKED / COMPLETE — scans70–75**
 - English processing coverage: **scans1–75 / 75 of 75**
 - latest page iteration: **30 scans / scans46–75**
-- whole-Part glossary reconciliation: **READY / NEXT**
-- exact next activity: **whole-Part English glossary reconciliation — scans1–75 / 9 files**
+- whole-Part glossary reconciliation: **RECONCILED / PASS**
+- glossary reconciliation English section edits: **0**
+- unresolved glossary holds: **0**
+- exact next activity: **English editorial review — all 9 maintained English files / scans1–75**
