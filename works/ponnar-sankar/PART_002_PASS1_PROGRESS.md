@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 4 COMPLETE — 40/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 5 COMPLETE — 50/70 TEXT-COMPLETE**
 
 Active Part:
 - Part002
@@ -14,9 +14,9 @@ Active Part:
 ## Current accounting
 
 - Part002 physical scans: **70**
-- canonical Part002 records present: **40/70 — scans76–115**
-- Pass1 text-complete: **40/70**
-- Pass1 pending: **30/70 — scans116–145**
+- canonical Part002 records present: **50/70 — scans76–125**
+- Pass1 text-complete: **50/70**
+- Pass1 pending: **20/70 — scans126–145**
 - unresolved Pass1 source-reading holds: **0**
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
@@ -35,8 +35,8 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 | 2 | 86–95 | 11–20 | 69–72; scan90 chapter opener; 74–78 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 3 | 96–105 | 21–30 | 79–81; scan99 chapter opener; 83–88 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 4 | 106–115 | 31–40 | 89–91; scan109 chapter opener; 93–98 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 5 | 116–125 | 41–50 | pending direct capture | **NEXT** |
-| 6 | 126–135 | 51–60 | pending direct capture | NOT STARTED |
+| 5 | 116–125 | 41–50 | 99–101; scan119 chapter opener; 103–108 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 6 | 126–135 | 51–60 | pending direct capture | **NEXT** |
 | 7 | 136–145 | 61–70 | pending direct capture | NOT STARTED |
 
 ## Batch 1 source-structure observations
@@ -89,6 +89,19 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan115 continues with the painted-panel description of the பெரியகாண்டி / செல்லாண்டியம்மன் tradition and remains open into scan116;
 - scan116 is not imported.
 
+## Batch 5 source-structure observations
+
+- scans116–118 continue and close chapter11 **`ஆசையில் அருக்காணித் தங்கம்`** / printed pages **99–101**;
+- scan116 continues the painted-panel / மாயவர்–குன்றுடையான் discussion from scan115;
+- scan118 / printed101 closes chapter11 after அருக்காணித் தங்கம் falls into the river and a horseman rides away;
+- scan118 leaves a substantial intentional blank lower field after the chapter close;
+- scan119 opens chapter **12 / `பூனையில் போர்க்கோலம்`** with displayed chapter number **12**;
+- scan119 has no running printed-page value and no value is inferred;
+- scans120–125 continue chapter12 / printed pages **103–108**;
+- chapter12 first shows மாயவர் rescuing அருக்காணி, then reconstructs her encounter with மாந்தியப்பன் inside the temple precinct from her perspective;
+- scan125 closes the immediate pursuit/river-fall episode and leaves the family reflecting on செல்லாத்தாக் கவுண்டர் குடும்பத்தின் continuing hostility;
+- scan126 is not imported.
+
 ## Continuation integrity
 
 - scan75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -113,11 +126,19 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan109→110 — vow quotation continues `தந்தை மேல் / ஆணையாகச் சொல்கிறேன்`
 - scan111→112 — prose continues after `குன்றுடையான், / குளம்படியோசை...`
 - scan112→113 — மாயவர் dialogue continues `ஆனைப்படை குதிரைப்படை முன்னால் வரவும் - / காலாட்படை...`
-- scan115 remains open into scan116; scan116 text is not imported
+- scan115→116 — direct physical continuation retained from the painted-panel description
+- scan117→118 — physical prose continues into the river-fall alarm
+- scan118 closes chapter11 before chapter12 opens on scan119
+- scan119→120 — sentence continues from `விளங்குகிறார் / என்பதை...`
+- scan120→121 — மாயவர்'s question continues `அழாமல் / சொல்லம்மா...`
+- scan121→122 — descriptive paragraph continues from `என்ற / நினைவுடனோ...`
+- scan122→123 — மாந்தியப்பன்'s reply continues from `அதற்கு பதில் / சொல்லாமல் இருப்பது...`
+- scan124→125 — threat/action continues from `மூர்க்கத்தனமாகக் / கூறிக்கொண்டே...`
+- scan125 closes its physical page without importing scan126
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch5 — global scans116–125 / local pages41–50**.
+Process **Part002 Pass1 Batch6 — global scans126–135 / local pages51–60**.
 
 Requirements:
 - direct source-pixel transcription only;
