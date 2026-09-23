@@ -272,16 +272,63 @@ The following handling is active for the checked E4 partial draft:
 
 E4 remains **IN PROGRESS**; scans31–33 are pending, so these decisions remain subject to whole-batch E4 source-check.
 
+## E4 closure additions — scans31–33
+
+E4 is now **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `ஆதிசெட்டிப் பாளையம்` | **Adisettip Paalayam** | source-facing place form |
+| `கருவேலமுள்` | ***karuvelam* thorn** | source-facing plant term; no external botanical identification |
+| `அத்தை` | **Aththai** | retained in relationship-active dialogue |
+| `அத்தான்` | **Aththaan** | retained in relationship-active dialogue |
+
+E4 whole-batch source/English blocks — **48/48**; physical boundaries — **7/7**.
+
+## E5 source-check additions — scans34–42
+
+E5 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `மாமா` | **Maama** | retained in relationship-active dialogue |
+| `அருமைப்பெரியோர்` | ***arumaip periyor*** | wedding-role term retained |
+| `முப்பரித்தாலி` | ***muppari thaali*** | source-facing ritual object term |
+| `இருபத்தி நாலு நாடு` | **twenty-four *naadu*** | source administrative/social unit retained |
+| `உருமாலை` | ***urumaalai*** | source-facing wedding term |
+| `குப்பாரி கொட்டுதல்` | ***kuppaari kottuthal*** | source-facing announcement/custom term |
+| `பொன் பூட்டிக் குலம் ஓதுதல்` | ***pon poottik kulam othuthal*** | source-facing wedding custom |
+| `புதுக்கலத்துண்ணல்` | ***pudukkalath unnal*** | source-facing feast/custom term |
+| `தலையூர்க்காளி` | **Thalaiyur Kaali** | source-facing personal/title form |
+| `மேனாடு` | **Menaadu** | source-facing territorial form |
+
+Authoritative Tamil title `மகிழ்ச்சியும் மருட்சியும்` remains unchanged upstream.
+
+## E6 partial additions — scans43–45
+
+The following handling is active for the checked E6 partial draft:
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `தலையூர்த் தம்பி` | **Thalaiyur Thambi** | source-facing address |
+| `நவரத்தினங்கள்` | **navaratna gems** | source-facing term; no added gem list |
+| `நெருஞ்சில்` | ***nerunjil*** | metaphor retained without external botanical gloss |
+| `கொடுவாள்` | **heavy sword** | minimal functional rendering in immediate scene |
+
+E6 remains **IN PROGRESS**; scans46–51 are pending.
+
 ## Current glossary frontier
 
 - E1 — **SOURCE-CHECKED / COMPLETE**
 - E2 — **SOURCE-CHECKED / COMPLETE**
 - E3 — **SOURCE-CHECKED / COMPLETE**
-- E4 — **IN PROGRESS — scans26–30 checked; scans31–33 pending**
+- E4 — **SOURCE-CHECKED / COMPLETE**
+- E5 — **SOURCE-CHECKED / COMPLETE**
+- E6 — **IN PROGRESS — scans43–45 checked; scans46–51 pending**
 - scan16 map rule — **LOCKED / SATISFIED**
 - external-source normalization — **0**
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 
 ## Exact next gate
 
-Continue the 15-page cadence with **scans31–45**: finish E4 scans31–33, complete E5 scans34–42, then begin E6 scans43–45.
+Continue the 15-page cadence with **scans46–60**: finish E6 scans46–51, then process and close E7 scans52–60.
