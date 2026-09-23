@@ -5,11 +5,10 @@ layer: "translation"
 section_order: 3
 section_title: "The Guest Lodge and the Shed of Suffering"
 language: "en"
-translation_status: "in-progress"
+translation_status: "source-checked"
 batch: "E4"
 source_section: "../../../sections/03-virundhinar-vidudiyum-vedhanai-kottadiyum.md"
-source_scans: "26-30"
-planned_source_scans: "26-33"
+source_scans: "26-33"
 canonical_source: "../../../pages/"
 working_title: "Ponnar Sankar"
 ---
@@ -84,4 +83,42 @@ As the treatment slowly began to work, Thamarai opened her eyes gently. Seeing t
 
 Locked inside the shed, Nelliyangodan writhed in exhaustion, unable to find even enough space to place one foot where there were no *karaiyaan* or *sellu* insects. It was as if all the flowers in a garden had been plucked and all the pollen gathered from them had been poured over a man from head to foot: *karaiyaan* and *sellu* spread all over Nelliyangodan's body. They crawled. They bit. To the eye it looked like an anointing with pollen, but under the attack of those wretched insects Nelliyangodan twisted and bent in torment. He could not stand. He could not sit. He could not lie down.
 
-<!-- E4 iteration stop: scan 30 processed; scans31–33 pending -->
+<!-- source boundary: scan 30 → scan 31 -->
+
+He looked up at the shed. A crossbeam ran across it. Thinking that if he hung from it the *karaiyaan* and *sellu* insects would not be able to swarm over him, he sprang upward, gripped the beam with both hands and hung there.
+
+Within a short while, the *karaiyaan* and *sellu* began swarming thickly over his hands. He let go of the beam and jumped down.
+
+He thought intensely about how he might escape the attack of those hundreds of thousands of insects.
+
+So many worms and insects swarm over corpses and eat them. Birds such as eagles, vultures and crows peck at corpses. Even dogs, foxes and wolves tear corpses apart for food. So, he thought, if he himself became a corpse, however much these wretched *karaiyaan* and *sellu* bit him, there would be no trouble for him at all. He concluded that this was the right way.
+
+He untied his *veshti* and tore it lengthwise into two halves. He wrapped one half around his waist. He tied the other half into a noose that could tighten around his neck and fastened one end to the crossbeam.
+
+There was a damaged stone mortar there. He rolled it over, climbed onto it, determined to become a corpse by hanging from the beam, and stood upon it. He placed the noose around his neck. If he pushed the mortar away with his feet, he would hang from the beam as a corpse. He raised his feet to roll it away.
+
+At that moment he felt someone rush up and seize him tightly, and he was startled. “Aththaan! What have you done?” Thamarai cried in anguish. With the end of her upper cloth she brushed away the *karaiyaan* and *sellu* swarming over his body, embraced him and brought him out.
+
+<!-- source boundary: scan 31 → scan 32 -->
+
+Only Perumayi Ammal was in Thamarai's room. Seeing Thamarai bring Nelliyangodan in, she hurried to the door, shut it, bolted it from inside, and dimmed the brightly burning lamp.
+
+Knowing that, along with Thamarai, his aunt Perumayi Ammal too was on his side gave Nelliyangodan renewed energy and hope.
+
+“Nelliyangoda! Where have you been all these days? Your uncle said you had run off somewhere because you were mentally unwell, and on that basis he arranged Thamarai's marriage to his own son!”
+
+Perumayi said this with tears in her eyes.
+
+“Aththai! You do not know the whole story of what happened! Unable to bear my uncle Chellaatha Gounder's torture, I ran away from Valanaadu itself. My uncle also drove Chozhan Thotti, who had been speaking in my support, out of the village. Chozhan Thotti searched for me in many places, but when he could not find me he came and entered your service; only later did I learn of that. Deprived of land, authority and possessions and left with nothing, I went from living in a mansion to spending some time herding goats and cattle. I also worked as a general servant in a Chettiar's house at Adisettip Paalayam near Karur. I lived there in poverty because I feared that if my uncle learned I was alive, he would have me killed. When Chozhan Thotti, who was working here in your Maniyangurichi, learned that a plot was under way to arrange a marriage between Thamarai and Maanthiyappan, he struggled hard to find me and bring me the news. I set out without a moment's delay. It was on Chozhan Thotti's advice that I came in the disguise of a beggar and met Thamarai.”
+
+<!-- source boundary: scan 32 → scan 33 -->
+
+After giving these details, Nelliyangodan continued, “Whatever else may be said, Aththai, Chozhan Thotti's love, gratitude and affection toward my father and me cannot be measured! My uncle has not even a mustard seed's worth of such affection for me. Ayyo, do you know how many times he has tied me up and thrashed me with branches of *karuvelam* thorn? If he had simply asked, ‘I want everything for myself and my son Maanthiyappan,’ I would have signed it all over and left! Aththai, I want none of the country or land my father left behind! It is enough if I have my Thamarai,” he said, his eyes filling like pools.
+
+“First eat, child,” Perumayi said affectionately.
+
+“Amma! His whole body is covered in insect bites! He is writhing in pain! Let him bathe in hot water first, Amma! Come, Aththaan!” Thamarai called tenderly. Filled with happiness, he rose to bathe. Just then came a rapid pounding on the door.
+
+Perumayi Ammal and Thamarai started in shock.
+
+The door broke and fell under a powerful kick. Breaking through it, Malaikkozhundha Gounder stood before them like an enraged tiger.
