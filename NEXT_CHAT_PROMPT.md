@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass1 Batch3 — scans96–105
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass1 Batch4 — scans106–115
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -40,23 +40,24 @@ Durable controls:
 
 ## Current Part002 Pass1 state
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 3 COMPLETE — 30/70 TEXT-COMPLETE**
 
-- canonical Part002 records — **20/70 — scans76–95**
-- Pass1 pending — **50/70 — scans96–145**
+- canonical Part002 records — **30/70 — scans76–105**
+- Pass1 pending — **40/70 — scans106–145**
 - unresolved Pass1 source-reading holds — **0**
 - all Part002 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 - Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
 
-Batch2 structure:
+Batch3 structure:
 
-- scans86–89 continue and close chapter8 **`கரகம் விடும் திருவிழா`**
-- scan89 / printed72 closes chapter8 after the storm sequence
-- scan90 opens chapter **9 / `மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
-- scans91–95 continue chapter9 / printed pages74–78
-- scan95 remains open mid-action after `முதலை, உடனே தண்ணீரில் ஒரு தரம்`; scan96 has not been imported
+- scans96–98 continue and close chapter9 **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`** / printed pages79–81
+- scan98 / printed81 closes chapter9 and leaves a substantial intentional blank lower field
+- scan99 opens chapter **10 / `அர்ச்சனை- யார் வயிறுக்கு?`**
+- scan99 has no running printed-page value and no value is inferred
+- scans100–105 continue chapter10 / printed pages83–88
+- scan105 remains open after introducing an ornamented man near குன்றுடையான் and தாமரைநாச்சியார்; scan106 has not been imported
 
 ## Read first
 
@@ -71,7 +72,7 @@ Refetch live `main` before editing and after the activity.
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass1 Batch4 — global scans106–115 / local pages31–40**.
 
 Requirements:
 
@@ -80,12 +81,12 @@ Requirements:
 - preserve source-visible printed pagination only when actually visible; do not infer a number for chapter-opening pages;
 - create canonical records with:
   - `part: 2`
-  - `part_page: 21–30`
-  - global `scan_page: 96–105`
+  - `part_page: 31–40`
+  - global `scan_page: 106–115`
   - exact Part002 `source_filename`
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-  - `transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3"`
+  - `transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4"`
 - update `PART_002_PASS1_PROGRESS.md`, page map, handover and other active frontier controls;
 - keep Part001 body layers frozen;
 - keep **145→146 PENDING Part003 direct audit**;
@@ -95,9 +96,9 @@ Requirements:
 
 Stop after Batch3 reaches:
 
-**30/70 TEXT-COMPLETE — scans76–105**
+**40/70 TEXT-COMPLETE — scans76–115**
 
-Do not process scan106 in this activity unless the user explicitly asks for a larger batch.
+Do not process scan116 in this activity unless the user explicitly asks for a larger batch.
 
 ## Mandatory locks
 
