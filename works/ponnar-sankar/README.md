@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ENGLISH ACTIVE — E1–E3 CLOSED / E4 IN PROGRESS THROUGH SCAN30**
+**PART001 ENGLISH ACTIVE — E1–E5 CLOSED / E6 IN PROGRESS THROUGH SCAN45**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -40,14 +40,16 @@
 - English planning/setup: **COMPLETE / PASS**
 - English batches reserved: **E1–E9 / 9**
 - English planned coverage: **scans1–75 / 0 missing / 0 duplicate**
-- English complete translated/source-checked files: **3/9 / 3/9**
-- English partial translated files: **1 — E4 scans26–30**
-- English physical processing coverage: **scans1–30 / 30 of 75**
+- English complete translated/source-checked files: **5/9 / 5/9**
+- English partial translated files: **1 — E6 scans43–45**
+- English physical processing coverage: **scans1–45 / 45 of 75**
 - English cadence: **15 physical scans per iteration**
 - E1: **SOURCE-CHECKED / COMPLETE**
 - E2: **SOURCE-CHECKED / COMPLETE**
 - E3: **SOURCE-CHECKED / COMPLETE**
-- E4: **IN PROGRESS — scans26–30 checked / scans31–33 pending**
+- E4: **SOURCE-CHECKED / COMPLETE**
+- E5: **SOURCE-CHECKED / COMPLETE**
+- E6: **IN PROGRESS — scans43–45 checked / scans46–51 pending**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
@@ -93,4 +95,4 @@
 
 ## Exact next activity
 
-Continue the **15-physical-page English cadence** with **scans31–45**: finish E4 scans31–33, complete E5 scans34–42, then process E6 scans43–45 only. Do not process scan46. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Continue the **15-physical-page English cadence** with **scans46–60**: finish E6 scans46–51, then process and close E7 scans52–60. Do not process scan61. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
