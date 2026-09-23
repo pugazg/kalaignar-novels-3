@@ -1,63 +1,59 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 release-ready synchronization + final closure
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 source intake + 75→76 boundary audit
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable closed gates
+## Durable frozen state
 
-Tamil:
+Part001 is **FINAL CLOSED / FROZEN**.
 
-- source intake — **COMPLETE**
-- canonical records — **75/75 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- whole-Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **COMPLETE**
-- Tamil archival-ready — **PASS / COMPLETE**
-- assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9**
+Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
 
-English:
+Part001 final state:
 
-- E1–E9 — **SOURCE-CHECKED / COMPLETE**
-- maintained English files — **9/9**
+- canonical Tamil — **75/75 verified / frozen**
+- visual fidelity — **75/75 verified / frozen**
+- assembled Tamil — **9/9 VERIFIED / frozen**
+- English E1–E9 — **9/9 SOURCE-CHECKED / COMPLETE / frozen**
 - glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED — 3 English-only corrections**
-- whole-Part bilingual review — **PASS / CLOSED — 9/9 pairs**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
-- unresolved release/readiness blockers — **0**
-
-Durable records:
-
-- `translations/en/GLOSSARY_RECONCILIATION.md`
-- `translations/en/TRANSLATION_REVIEW.md`
-- `translations/en/BILINGUAL_REVIEW.md`
-- `translations/en/RELEASE_REPORT.md`
-
-## Exact activity
-
-1. close **release-ready synchronization** in `PART_001_RELEASE_READY_SYNC.md`;
-2. verify no unauthorized textual drift after release/readiness:
-   - canonical `pages/` body changes — **0**
-   - assembled Tamil section-body changes — **0**
-   - maintained English section-body changes except the already-recorded 3 editorial edits made before release/readiness — **0**
-   - Part002 canonical/body creation — **0**
-3. create `PART_001_FINAL_CLOSURE.md`;
-4. mark Part001 **PASS / CLOSED / FROZEN**;
-5. synchronize repository controls to frozen Part001 state;
-6. keep Part002–Part008 **NOT REGISTERED / pending source intake**.
-
-## Mandatory boundary lock
-
-- final Part001 scan — **75**
-- final Tamil — `ஆனால் அந்த மகிழ்ச்சி நீடிக்கவில்லை!”`
-- final English — **“But that happiness did not last!”**
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- unresolved Part001 Tamil / English / release blockers — **0**
 - outgoing **75→76 — PENDING Part002 direct witness**
-- scan76 content imported/inferred — **0**
 
-Do not invent a Part002 source range or boundary classification.
+Durable final records:
 
-## Post-closure frontier
+- `works/ponnar-sankar/PART_001_RELEASE_READY_SYNC.md`
+- `works/ponnar-sankar/PART_001_FINAL_CLOSURE.md`
+- `works/ponnar-sankar/PART_001_POST_CLOSURE_CONTROL_SYNC.md` if present on live main
 
-After final closure, the next allowed activity is:
+## Part002 state
 
-**Part002 source intake + direct 75→76 boundary audit when the Part002 source PDF is supplied.**
+- Part002 — **NOT REGISTERED / source not yet supplied in the active workflow**
+- global scan range — **NOT ASSIGNED**
+- canonical records — **0**
+- incoming **75→76 — PENDING direct source audit**
 
-Do not begin Part002 canonical transcription without that source.
+Do not invent Part002 page count, scan range, printed pagination, boundary classification or text.
+
+## Exact next activity
+
+When the user supplies the Part002 PDF:
+
+1. perform Part002 source intake from the exact supplied file;
+2. record exact filename, byte size, SHA-256 and local page count;
+3. assign the continuous global scan range beginning at **scan76** from the supplied page count only;
+4. directly inspect Part001 scan75 and Part002 first scan to classify **75→76**;
+5. create/update Part002 source-intake and boundary-audit controls;
+6. begin Part002 Pass1 only after intake and boundary handling are source-backed.
+
+If Part002 is not supplied, stop without inventing source facts.
+
+## Mandatory locks
+
+- **LIVE MAIN IS AUTHORITATIVE**
+- Part001 body layers are **FROZEN**
+- outgoing **75→76 remains pending** until direct Part002 witness
+- source PDFs remain outside Git
