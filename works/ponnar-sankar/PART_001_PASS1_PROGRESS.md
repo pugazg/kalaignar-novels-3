@@ -221,6 +221,6 @@ The controlling source is the user-supplied Part001 PDF rendered to page images 
 
 ## Exact next activity
 
-Part001 Pass 1 is closed. The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**, final metadata/status synchronization is **COMPLETE**, and Tamil archival-ready is **PASS / COMPLETE**. Current repository frontier is **Part001 assembled Tamil construction + exact canonical-coverage audit**. See `PART_001_PASS2A_PROGRESS.md`, `PART_001_PASS2B_PROGRESS.md`, `PART_001_PASS3_PROGRESS.md`, and `PART_001_AUDIT.md`.
+Part001 assembled Tamil is now **VERIFIED / PASS / CLOSED** with **9/9** maintained section files and exact canonical coverage **75/75**. Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
 
-For scan16, the map page is an **image-preserved non-text page** and must be visually verified as an image asset rather than Unicode label transcription. Keep Part002 canonical transcription blocked and keep outgoing **75→76** pending until Part002 is supplied and directly checked.
+Proceed with **Part001 English translation planning/setup**. Keep outgoing **75→76** pending and keep Part002 canonical transcription blocked until Part001 final closure.
