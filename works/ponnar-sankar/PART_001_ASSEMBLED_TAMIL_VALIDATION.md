@@ -141,10 +141,8 @@ Outgoing **75→76** remains **PENDING Part002 direct witness**.
 
 **ASSEMBLED TAMIL MASTER — VERIFIED / PASS / CLOSED**
 
-Part001 assembled Tamil is closed. This does **not** constitute final Part001 release/freeze: the English and later release/readiness gates remain pending.
-
-English literary drafting was **not started** during Tamil assembly. The later English planning/setup gate is now **COMPLETE / PASS**, reserving **E1–E9** with **E1 / scans1–7** next.
+Part001 assembled Tamil is closed and frozen under **PART001 FINAL CLOSURE — PASS / CLOSED / FROZEN**. All downstream English, bilingual, release/readiness and release-ready synchronization gates are closed.
 
 ## Exact next activity
 
-Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer. Keep Part002 canonical transcription blocked until Part001 completes the maintained English, release/readiness and final-closure workflow.
+Part001 is **FINAL CLOSED / FROZEN**. When Part002 is supplied, perform source intake and direct **75→76** boundary audit before any Part002 canonical transcription.
