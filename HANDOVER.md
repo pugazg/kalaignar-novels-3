@@ -105,14 +105,18 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - latest user-directed page iteration — **30 scans / scans46–75**
 - cross-batch block-accounting mismatches — **0**
 - active English controls — `works/ponnar-sankar/translations/en/TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
-- English exact next activity — **whole-Part glossary reconciliation — scans1–75 / 9 files**
+- whole-Part English glossary reconciliation — **RECONCILED / PASS**
+- durable glossary reconciliation — `works/ponnar-sankar/translations/en/GLOSSARY_RECONCILIATION.md`
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- English exact next activity — **English editorial review — all 9 maintained English files / scans1–75**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — whole-Part English glossary reconciliation**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to English editorial review**
 
 ## Exact next activity
 
-Proceed with **whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files**. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **English editorial review — all 9 maintained English files / scans1–75**. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
