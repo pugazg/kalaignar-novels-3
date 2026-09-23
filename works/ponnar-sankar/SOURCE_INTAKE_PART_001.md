@@ -73,7 +73,7 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Current gate
 
-**PART001 TAMIL ARCHIVAL-READY — PASS / COMPLETE.**
+**PART001 ASSEMBLED TAMIL — VERIFIED / PASS / CLOSED.**
 
 - canonical page records — **75/75 — scans1–75**
 - Pass1 textual transcriptions — **74/75 — scans1–15,17–75**
@@ -122,9 +122,14 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - Part001 final metadata/status synchronization — **COMPLETE / 75/75 promoted**
 - Part001 Tamil archival-ready — **PASS / COMPLETE**
 - durable Tamil archival-ready checkpoint — `PART_001_TAMIL_ARCHIVAL_READY.md`
+- Part001 assembled Tamil — **VERIFIED / PASS / CLOSED**
+- assembled section files — **9/9**
+- assembled canonical coverage — **75/75 / 0 missing / 0 duplicate**
+- assembled unsupported Tamil / control-note leakage / canonical mutations / Part002 body leakage — **0 / 0 / 0 / 0**
+- durable assembled-Tamil validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Exact next activity
 
-Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only.
+Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer.
 
-Scan16 is an image-preserved non-text map page and will be handled by visual verification of the image asset rather than label-by-label Unicode comparison. Keep **75→76** pending until Part002 is supplied and directly checked.
+Keep **75→76** pending until Part002 is supplied and directly checked. Do not begin Part002 canonical transcription before Part001 final closure.
