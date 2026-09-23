@@ -210,4 +210,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - English block-accounting mismatches — **0**
 - English Part002 leakage — **0**
 - active English controls — `translations/en/TRANSLATION_PLAN.md`, `translations/en/GLOSSARY.md`, `translations/en/PROGRESS.md`
-- exact next activity — **English editorial review — all 9 maintained English files / scans1–75**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- unresolved release blockers — **0**
+- exact next activity — **release-ready synchronization → final Part001 closure**
