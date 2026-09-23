@@ -106,7 +106,9 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - English E1: **SOURCE-CHECKED / COMPLETE — scans1–7**
 - English E2: **SOURCE-CHECKED / COMPLETE — scans8–17**
 - English E3: **SOURCE-CHECKED / COMPLETE — scans18–25**
-- English E4: **IN PROGRESS — scans26–30 checked / scans31–33 pending**
-- English processing coverage: **scans1–30 / 30 of 75**
+- English E4: **SOURCE-CHECKED / COMPLETE — scans26–33**
+- English E5: **SOURCE-CHECKED / COMPLETE — scans34–42**
+- English E6: **IN PROGRESS — scans43–45 checked / scans46–51 pending**
+- English processing coverage: **scans1–45 / 45 of 75**
 - English cadence: **15 physical scans per iteration**
-- exact next activity: **scans31–45 — finish E4, complete E5, begin E6 through scan45**
+- exact next activity: **scans46–60 — finish E6, complete E7**
