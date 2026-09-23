@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 TAMIL ARCHIVAL-READY PASS / COMPLETE — ASSEMBLED TAMIL NEXT**
+**PART001 ASSEMBLED TAMIL VERIFIED / PASS / CLOSED — ENGLISH PLANNING/SETUP NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -33,6 +33,10 @@
 - verified pages: **75/75**
 - visual-fidelity verified pages: **75/75**
 - Tamil archival-ready: **PASS / COMPLETE**
+- assembled Tamil: **VERIFIED / PASS / CLOSED**
+- assembled section files: **9/9 — scans1–75 / exact canonical coverage 75/75**
+- assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part002 body leakage**
+- assembled validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
@@ -68,9 +72,11 @@
 - `PART_001_PASS3_PROGRESS.md`
 - `PART_001_AUDIT.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
+- `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
 
 ## Exact next activity
 
-Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only. Keep outgoing **75→76** pending until Part002 is supplied.
+Proceed with **Part001 English translation planning/setup** from the closed verified `sections/` layer. Keep outgoing **75→76** pending until Part002 is supplied, and keep Part002 canonical transcription blocked until Part001 final closure.
