@@ -90,17 +90,21 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - English planning/setup — **COMPLETE / PASS**
 - English batches — **E1–E9 reserved / 9**
 - English planned coverage — **scans1–75 / 0 missing / 0 duplicate**
-- English translated/source-checked — **0/9 / 0/9**
-- English literary prose drafted during setup — **0**
+- English complete translated/source-checked — **1/9 / 1/9**
+- E1 — **SOURCE-CHECKED / COMPLETE — scans1–7**
+- E1 durable check — `works/ponnar-sankar/translations/en/E1_SOURCE_CHECK.md`
+- E2 — **IN PROGRESS — scans8–15 drafted + checked / scans16–17 pending**
+- English physical processing coverage — **scans1–15 / 15 of 75**
+- English cadence — **15 physical scans per iteration**
 - active English controls — `works/ponnar-sankar/translations/en/TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
-- English exact next gate — **E1 draft + source-check / front matter / scans1–7**
+- English exact next activity — **scans16–30: finish E2, complete E3, begin E4 through scan30**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — assembled Tamil construction + audit next**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to English scans16–30 frontier**
 
 ## Exact next activity
 
-Proceed with **E1 draft + source-check — front matter / scans1–7** from `works/ponnar-sankar/sections/00-front-matter.md`. Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Continue the user-set **15-physical-page cadence** with **scans16–30**: finish E2 scans16–17, complete E3 scans18–25, and begin E4 scans26–30. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
