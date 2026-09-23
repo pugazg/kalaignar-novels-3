@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART001 ENGLISH SOURCE BATCHES — E1–E9 SOURCE-CHECKED / COMPLETE**
+**PART001 WHOLE-PART GLOSSARY — RECONCILED / PASS**
 
 English literary translation is active under the maintained 15-physical-scan iteration cadence.
 
@@ -17,7 +17,7 @@ English literary translation is active under the maintained 15-physical-scan ite
 | **E7** | section06 — `தாமரை நாச்சியின் சபதம்` | 52–60 | **SOURCE-CHECKED / COMPLETE** |
 | **E8** | section07 — `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **SOURCE-CHECKED / COMPLETE** |
 | **E9** | section08 — `உண்மையின் உதயம்` / Part001 terminal continuation | 70–75 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part001 whole-Part English | 1–75 | **NEXT / READY** |
+| Glossary reconciliation | Part001 whole-Part English | 1–75 | **RECONCILED / PASS** |
 | Editorial review | Part001 whole-Part English | 1–75 | **BLOCKED** |
 | Bilingual review | English against verified Tamil | 1–75 | **BLOCKED** |
 | Release/readiness | Part001 | 1–75 | **BLOCKED** |
@@ -304,8 +304,24 @@ Whole-Part English source-batch accounting:
 - Part002 leakage — **0**
 - outgoing 75→76 — **PENDING Part002 direct witness**
 
+## Whole-Part glossary reconciliation checkpoint
+
+Durable report — `GLOSSARY_RECONCILIATION.md`
+
+- English files reviewed together — **9/9**
+- source-check records already closed — **9/9**
+- accidental English spelling/romanization drift requiring section edits — **0**
+- English section files changed — **0**
+- deliberate source-derived variants retained — **PASS**
+- unresolved glossary holds — **0**
+- scan16 map English reconstruction — **0**
+- scans5/7/17 invented English literary text — **0**
+- outgoing 75→76 remains **PENDING Part002 direct witness**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+
 ## Exact next activity
 
-**Whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files.**
+**English editorial review — all 9 maintained English files / scans1–75.**
 
 Do not begin Part002 canonical transcription.
