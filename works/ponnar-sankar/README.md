@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ENGLISH SOURCE BATCHES CLOSED — E1–E9 COMPLETE / GLOSSARY RECONCILIATION NEXT**
+**PART001 ENGLISH GLOSSARY RECONCILED / PASS — EDITORIAL REVIEW NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -45,7 +45,9 @@
 - English physical processing coverage: **scans1–75 / 75 of 75**
 - latest user-directed page iteration: **30 scans — scans46–75**
 - E1–E9: **SOURCE-CHECKED / COMPLETE**
-- whole-Part glossary reconciliation: **READY / NEXT**
+- whole-Part glossary reconciliation: **RECONCILED / PASS**
+- glossary reconciliation section edits: **0**
+- unresolved glossary holds: **0**
 - English cross-batch block mismatches: **0**
 - English Part002 leakage: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
@@ -93,4 +95,4 @@
 
 ## Exact next activity
 
-Proceed with **whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **English editorial review — all 9 maintained English files / scans1–75**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
