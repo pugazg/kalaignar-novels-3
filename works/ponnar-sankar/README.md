@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ENGLISH ACTIVE — E1–E5 CLOSED / E6 IN PROGRESS THROUGH SCAN45**
+**PART001 ENGLISH SOURCE BATCHES CLOSED — E1–E9 COMPLETE / GLOSSARY RECONCILIATION NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -40,16 +40,14 @@
 - English planning/setup: **COMPLETE / PASS**
 - English batches reserved: **E1–E9 / 9**
 - English planned coverage: **scans1–75 / 0 missing / 0 duplicate**
-- English complete translated/source-checked files: **5/9 / 5/9**
-- English partial translated files: **1 — E6 scans43–45**
-- English physical processing coverage: **scans1–45 / 45 of 75**
-- English cadence: **15 physical scans per iteration**
-- E1: **SOURCE-CHECKED / COMPLETE**
-- E2: **SOURCE-CHECKED / COMPLETE**
-- E3: **SOURCE-CHECKED / COMPLETE**
-- E4: **SOURCE-CHECKED / COMPLETE**
-- E5: **SOURCE-CHECKED / COMPLETE**
-- E6: **IN PROGRESS — scans43–45 checked / scans46–51 pending**
+- English complete translated/source-checked files: **9/9 / 9/9**
+- English partial translated files: **0**
+- English physical processing coverage: **scans1–75 / 75 of 75**
+- latest user-directed page iteration: **30 scans — scans46–75**
+- E1–E9: **SOURCE-CHECKED / COMPLETE**
+- whole-Part glossary reconciliation: **READY / NEXT**
+- English cross-batch block mismatches: **0**
+- English Part002 leakage: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
@@ -95,4 +93,4 @@
 
 ## Exact next activity
 
-Continue the **15-physical-page English cadence** with **scans46–60**: finish E6 scans46–51, then process and close E7 scans52–60. Do not process scan61. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
