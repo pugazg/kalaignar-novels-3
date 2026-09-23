@@ -143,8 +143,8 @@ Outgoing **75→76** remains **PENDING Part002 direct witness**.
 
 Part001 assembled Tamil is closed. This does **not** constitute final Part001 release/freeze: the English and later release/readiness gates remain pending.
 
-English work was **not started** in this activity.
+English literary drafting was **not started** during Tamil assembly. The later English planning/setup gate is now **COMPLETE / PASS**, reserving **E1–E9** with **E1 / scans1–7** next.
 
 ## Exact next activity
 
-Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer. Keep Part002 canonical transcription blocked until Part001 completes the maintained English, release/readiness and final-closure workflow.
+Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer. Keep Part002 canonical transcription blocked until Part001 completes the maintained English, release/readiness and final-closure workflow.
