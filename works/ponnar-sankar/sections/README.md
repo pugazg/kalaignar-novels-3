@@ -55,4 +55,4 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 
 Part001 assembled Tamil is **VERIFIED / PASS / CLOSED**.
 
-Downstream English planning/setup is now **COMPLETE / PASS** with **E1–E9** reserved over scans1–75. No English literary prose was drafted during setup. Exact next gate: **E1 draft + source-check — front matter / scans1–7**.
+Downstream English E1–E9, glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are all closed. **Part001 FINAL CLOSURE — PASS / CLOSED / FROZEN.** This assembled Tamil layer is frozen. Exact next activity: **Part002 source intake + direct 75→76 boundary audit when the Part002 source is supplied**.
