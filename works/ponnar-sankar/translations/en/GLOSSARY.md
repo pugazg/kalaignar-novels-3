@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part001
 
-Status: **WHOLE-PART RECONCILED / PASS — DOWNSTREAM EDITORIAL/BILINGUAL/RELEASE GATES CLOSED**
+Status: **PART001 FINAL CLOSED / FROZEN — GLOSSARY RECONCILED / PASS**
 
 This glossary is derived only from verified Part001 Tamil and the closed assembled Tamil reading layer.
 
@@ -433,6 +433,11 @@ Protected distinctions include **Masachchaami / Machchasaami / Machcha Gounder**
 - whole-Part bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
 
+## Final state
+
+- release-ready synchronization — **PASS / CLOSED**
+- Part001 final closure — **PASS / CLOSED / FROZEN**
+
 ## Exact next gate
 
-**Release-ready synchronization → Part001 final closure.**
+**Part002 source intake + direct 75→76 boundary audit when source is supplied.**
