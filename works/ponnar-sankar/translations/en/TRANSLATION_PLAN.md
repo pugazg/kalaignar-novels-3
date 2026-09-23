@@ -1,6 +1,6 @@
 # English Translation Plan — பொன்னர் சங்கர் / Part001
 
-Status: **WHOLE-PART GLOSSARY RECONCILED / PASS — ENGLISH EDITORIAL REVIEW NEXT**
+Status: **RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -307,10 +307,17 @@ The 30-page instruction overrides the earlier 15-page iteration limit for this i
 - Part002 leakage — **0**
 - outgoing 75→76 — **PENDING Part002 direct witness**
 
+## Downstream English/release gates closed
+
+- English editorial review — **PASS / CLOSED — 9/9 files**
+- editorial English-only corrections — **3**
+- whole-Part bilingual review — **PASS / CLOSED — 9/9 pairs**
+- bilingual new English corrections — **0**
+- release/readiness report — **PASS / CLOSED**
+- unresolved release/readiness blockers — **0**
+
 ## Exact next gate
 
-**English editorial review — all 9 maintained English files / scans1–75.**
-
-After editorial review: whole-Part bilingual review → release/readiness → release-ready synchronization → no-post-release textual-drift verification → Part001 final closure/freeze.
+**Release-ready synchronization**, followed by no-post-release textual-drift verification and **Part001 final closure / freeze**.
 
 Part002 canonical transcription remains blocked until Part001 final closure.
