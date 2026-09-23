@@ -90,25 +90,29 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - English planning/setup — **COMPLETE / PASS**
 - English batches — **E1–E9 reserved / 9**
 - English planned coverage — **scans1–75 / 0 missing / 0 duplicate**
-- English complete translated/source-checked — **5/9 / 5/9**
+- English complete translated/source-checked — **9/9 / 9/9**
 - E1 — **SOURCE-CHECKED / COMPLETE — scans1–7**
 - E2 — **SOURCE-CHECKED / COMPLETE — scans8–17**
 - E3 — **SOURCE-CHECKED / COMPLETE — scans18–25**
 - E4 — **SOURCE-CHECKED / COMPLETE — scans26–33**
 - E5 — **SOURCE-CHECKED / COMPLETE — scans34–42**
-- durable source checks — `works/ponnar-sankar/translations/en/E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.md`, `E4_SOURCE_CHECK.md`, `E5_SOURCE_CHECK.md`
-- E6 — **IN PROGRESS — scans43–45 drafted + checked / scans46–51 pending**
-- English physical processing coverage — **scans1–45 / 45 of 75**
-- English cadence — **15 physical scans per iteration**
+- E6 — **SOURCE-CHECKED / COMPLETE — scans43–51**
+- E7 — **SOURCE-CHECKED / COMPLETE — scans52–60**
+- E8 — **SOURCE-CHECKED / COMPLETE — scans61–69**
+- E9 — **SOURCE-CHECKED / COMPLETE — scans70–75**
+- durable source checks — **E1_SOURCE_CHECK.md through E9_SOURCE_CHECK.md**
+- English physical processing coverage — **scans1–75 / 75 of 75**
+- latest user-directed page iteration — **30 scans / scans46–75**
+- cross-batch block-accounting mismatches — **0**
 - active English controls — `works/ponnar-sankar/translations/en/TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
-- English exact next activity — **scans46–60: finish E6, complete E7**
+- English exact next activity — **whole-Part glossary reconciliation — scans1–75 / 9 files**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — English scans46–60 frontier / 15-page cadence**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to whole-Part English glossary reconciliation**
 
 ## Exact next activity
 
-Continue the user-set **15-physical-page cadence** with **scans46–60**: finish E6 scans46–51, then process and close E7 scans52–60. Do not process scan61. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files**. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
