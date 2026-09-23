@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 2 COMPLETE — 20/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 3 COMPLETE — 30/70 TEXT-COMPLETE**
 
 Active Part:
 - Part002
@@ -14,9 +14,9 @@ Active Part:
 ## Current accounting
 
 - Part002 physical scans: **70**
-- canonical Part002 records present: **20/70 — scans76–95**
-- Pass1 text-complete: **20/70**
-- Pass1 pending: **50/70 — scans96–145**
+- canonical Part002 records present: **30/70 — scans76–105**
+- Pass1 text-complete: **30/70**
+- Pass1 pending: **40/70 — scans106–145**
 - unresolved Pass1 source-reading holds: **0**
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
@@ -33,8 +33,8 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 |---|---:|---:|---|---|
 | 1 | 76–85 | 1–10 | 59–63; scan81 chapter opener; 65–68 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 2 | 86–95 | 11–20 | 69–72; scan90 chapter opener; 74–78 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 3 | 96–105 | 21–30 | pending direct capture | **NEXT** |
-| 4 | 106–115 | 31–40 | pending direct capture | NOT STARTED |
+| 3 | 96–105 | 21–30 | 79–81; scan99 chapter opener; 83–88 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 4 | 106–115 | 31–40 | pending direct capture | **NEXT** |
 | 5 | 116–125 | 41–50 | pending direct capture | NOT STARTED |
 | 6 | 126–135 | 51–60 | pending direct capture | NOT STARTED |
 | 7 | 136–145 | 61–70 | pending direct capture | NOT STARTED |
@@ -65,6 +65,18 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scans94–95 shift into the rescue sequence: பொன்னர் faces a `மலைப்பாம்பு`; சங்கர் is seized by a `முதலை`;
 - scan95 remains open mid-action after `முதலை, உடனே தண்ணீரில் ஒரு தரம்`; scan96 is not imported.
 
+## Batch 3 source-structure observations
+
+- scans96–98 continue and close chapter9 **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`** / printed pages **79–81**;
+- scan96 continues the சங்கர்–முதலை struggle from scan95 and closes the rescue sequence with வீரமலைச் சாம்புவன்'s spear intervention;
+- scan98 / printed81 closes chapter9 after மாந்தியப்பன் secretly follows the returning women;
+- scan98 leaves a substantial intentional blank lower field after the chapter close;
+- scan99 opens chapter **10 / `அர்ச்சனை- யார் வயிறுக்கு?`** with displayed chapter number **10**;
+- scan99 has no running printed-page value and no value is inferred;
+- scans100–105 continue chapter10 / printed pages **83–88**;
+- chapter10 shifts to சிலம்பாயி, முத்தாயி, பவளாயி and வையம்பெருமான் arranging temple `அர்ச்சனை`, then reveals that குன்றுடையார் is நெல்லியங்கோடர் and தாமரைநாச்சியார் is the siblings' aunt;
+- scan105 remains open after introducing an ornamented man standing near குன்றுடையான் and தாமரைநாச்சியார்; scan106 is not imported.
+
 ## Continuation integrity
 
 - scan75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -78,11 +90,16 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan89 closes chapter8 before chapter9 opens on scan90
 - scan92→93 — physical sentence continues `தாங்கள் தாமரை / நாச்சியின் மக்கள்...`
 - scan93→94 — physical sentence continues `தனது அண்ணன் பெண்களைக் காப்பாற்றத் / தனது மக்கள் இருவரும்தான்...`
-- scan95 remains open into scan96; scan96 text is not imported
+- scan95→96 — direct physical continuation retained; scan96 begins `புரண்டெழுந்து மீண்டும்...`
+- scan98 closes chapter9 before chapter10 opens on scan99
+- scan100→101 — dialogue continues from `ஆமாம் அம்மா! நான் கூட / சொல்ல வேண்டுமென்று...`
+- scan101→102 — dialogue continues `நன்றாக இருக்க / வேண்டுமென்பதற்காக...`
+- scan103→104 — physical prose continues `அதற்குள் பதறிப்போன / சிலம்பாயி...`
+- scan105 remains open into scan106; scan106 text is not imported
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass1 Batch4 — global scans106–115 / local pages31–40**.
 
 Requirements:
 - direct source-pixel transcription only;
