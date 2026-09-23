@@ -222,14 +222,66 @@ The following forms are active for the checked E2 partial draft:
 
 E2 scans8–15 also retain source-facing work-title transliterations rather than importing external title translations.
 
+## E2 closure additions — scans16–17
+
+E2 is now **SOURCE-CHECKED / COMPLETE** for scans8–17.
+
+- scan16 — verified image-backed map plate; English literary text **0**; labels translated/transcribed **0**;
+- scan17 — blank/reverse-show-through page; invented English literary text **0**;
+- E2 textual source/English blocks excluding the map image — **43/43**;
+- E2 physical-boundary comments — **9/9**;
+- unresolved E2 holds — **0**.
+
+## E3 source-check additions — scans18–25
+
+E3 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `சோழன் தோட்டி` | **Chozhan Thotti** | source-facing personal/community label; no external gloss |
+| `வீரமலை` | **Veeramalai** | source-facing personal name |
+| `மாதியப்பக் கவுண்டர்` | **Mathiyappa Gounder** | preserve this source occurrence |
+| `மாந்தியப்பன்` | **Maanthiyappan** | preserve distinct source occurrence; do not collapse into Mathiyappa upstream |
+| `அத்தான்` | **Aththaan** | retained source-facing kinship address in this scene |
+| title `மசச்சாமி` | **Masachchaami** | authoritative chapter-title form |
+| body `மச்சசாமி` | **Machchasaami** | preserve occurrence-sensitive body form |
+| `மச்சக்கவுண்டன்` | **Machcha Gounder** | preserve source play/form |
+| `கரையான்` / `செல்லு` | ***karaiyaan* / *sellu*** | retained because Part001 does not establish a safer biological identification |
+| `பேரிகை` | ***perigai* drum** | source-facing instrument term |
+| `கம்பு` / `வரகு` / `சோளம்` | **kambu / varagu / cholam** | retained in distribution dialogue where useful |
+
+E3 title/body source-form distinctions are locked and do not authorize Tamil normalization.
+
+## E4 partial additions — scans26–30
+
+The following handling is active for the checked E4 partial draft:
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `சொக்கட்டான்` | ***sokkattan*** | game name retained; no external identification |
+| `கோளாத்தாக் கவுண்டர்` | **Kolaatha Gounder** | source-facing personal name |
+| `பவளாத்தாள்` | **Pavalaathaal** | source-facing personal name |
+| `நெல்லியங்கோடன்` | **Nelliyangodan** | source-facing personal name |
+| `நெல்லி வள நாடு` | **Nelli Valanaadu** | source-facing territorial name |
+| `சிற்றாலைப் பட்டணம்` | **Sirraalai Pattinam** | source-facing place name |
+| `வெள்ளாங்குளம்` | **Vellaangulam** | source-facing place name |
+| `மணியம்` | **Maniyam** | source honorific retained |
+| `வள்ளம்` | ***vallam*** | source land-measure term retained; no outside conversion |
+| `நெல்லியம்மன்` | **Nelliyamman** | source-facing deity/name form |
+| `சகுனி` / `விபீஷணன்` | **Shakuni / Vibhishana** | source comparison retained without added explanation |
+
+E4 remains **IN PROGRESS**; scans31–33 are pending, so these decisions remain subject to whole-batch E4 source-check.
+
 ## Current glossary frontier
 
 - E1 — **SOURCE-CHECKED / COMPLETE**
-- E2 — **IN PROGRESS — scans8–15 checked; scans16–17 pending**
-- scan16 map rule — **LOCKED / NOT YET PROCESSED**
+- E2 — **SOURCE-CHECKED / COMPLETE**
+- E3 — **SOURCE-CHECKED / COMPLETE**
+- E4 — **IN PROGRESS — scans26–30 checked; scans31–33 pending**
+- scan16 map rule — **LOCKED / SATISFIED**
 - external-source normalization — **0**
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 
 ## Exact next gate
 
-Continue **E2 scans16–17**, then proceed within the user-set **15-physical-page iteration cadence**.
+Continue the 15-page cadence with **scans31–45**: finish E4 scans31–33, complete E5 scans34–42, then begin E6 scans43–45.
