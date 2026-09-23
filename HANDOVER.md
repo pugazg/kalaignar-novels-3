@@ -128,19 +128,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 local pages — **70**
 - Part002 global scans — **76–145**
 - Part002 incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
-- Part002 Pass1 — **IN PROGRESS — 10/70 TEXT-COMPLETE — scans76–85**
-- Part002 pending Pass1 — **60/70 — scans86–145**
+- Part002 Pass1 — **IN PROGRESS — 20/70 TEXT-COMPLETE — scans76–95**
+- Part002 pending Pass1 — **50/70 — scans96–145**
 - Part002 outgoing 145→146 — **PENDING Part003 direct witness**
-- Part002 exact next activity — **Pass1 Batch2 / scans86–95 / local pages11–20**
+- Part002 chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
+- Part002 exact next activity — **Pass1 Batch3 / scans96–105 / local pages21–30**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass1 Batch2 frontier**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to Part002 Pass1 Batch3 frontier**
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch2 — global scans86–95 / local pages11–20**.
+Process **Part002 Pass1 Batch3 — global scans96–105 / local pages21–30**.
 
 Keep Part001 **FINAL CLOSED / FROZEN**. Do not begin Part002 Pass2A before full Part002 Pass1 completion.
