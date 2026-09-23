@@ -4,7 +4,7 @@ part: 2
 part_page: 24
 printed_page: null
 work: "ponnar-sankar"
-section: "அர்ச்சனை-யார் வயிறுக்கு?"
+section: "அர்ச்சனை- யார் வயிறுக்கு?"
 page_type: "chapter-opening"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -13,7 +13,7 @@ source_filename: "TVA_BOK_0065560_பொன்னர்_சங்கர்_20
 transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3"
 ---
 
-# 10 — அர்ச்சனை-யார் வயிறுக்கு?
+# 10 — அர்ச்சனை- யார் வயிறுக்கு?
 
 ## Source transcription
 
