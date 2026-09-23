@@ -103,4 +103,4 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part001 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part002 body leakage**
 - assembled validation: `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
-- exact next activity: **Part001 English translation planning/setup**
+- exact next activity: **E1 draft + source-check — front matter / scans1–7**
