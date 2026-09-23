@@ -182,8 +182,12 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 Pass 2B — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 2B corrections — **8**
 - Part001 Pass 2B unresolved — **0**
-- Part002–Part008 — **pending intake / NOT REGISTERED**
-- outgoing boundary 75→76 — **PENDING Part002 direct witness**
+- Part002 — **REGISTERED / COMPLETE — 70 pages / scans76–145**
+- Part002 Pass1 — **IN PROGRESS — 10/70 TEXT-COMPLETE — scans76–85**
+- Part002 Pass1 pending — **60/70 — scans86–145**
+- Part003–Part008 — **pending intake / NOT REGISTERED**
+- boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing Part002 boundary 145→146 — **PENDING Part003 direct witness**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
@@ -216,4 +220,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - unresolved release blockers — **0**
 - release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
-- exact next activity — **Part002 source intake + direct 75→76 boundary audit when source is supplied**
+- exact next activity — **Part002 Pass1 Batch2 — scans86–95 / local pages11–20**
