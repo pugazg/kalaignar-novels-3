@@ -239,22 +239,35 @@ Part002 canonical transcription remains blocked until Part001 final closure.
 
 User-set English processing cadence: **15 physical scans per iteration**.
 
-First translation iteration:
-- scans1–7 / E1 — **SOURCE-CHECKED / COMPLETE**
-- scans8–15 / E2 — **DRAFTED + DIRECTLY CHECKED / IN PROGRESS**
-- scans16–17 / E2 — **PENDING**
-- total physical scans processed — **15/15**
-- E2 whole-batch source-check record — **not yet created**
-- canonical / assembled Tamil edits — **0 / 0**
+Completed translation iterations:
+
+### Iteration 1 — scans1–15
+
+- E1 scans1–7 — **SOURCE-CHECKED / COMPLETE**
+- E2 scans8–15 — **drafted + directly checked**
+- physical scans processed — **15/15**
+
+### Iteration 2 — scans16–30
+
+- E2 scans16–17 — **completed; whole E2 SOURCE-CHECKED / COMPLETE**
+- E3 scans18–25 — **SOURCE-CHECKED / COMPLETE**
+- E4 scans26–30 — **drafted + directly checked / IN PROGRESS**
+- E4 scans31–33 — **PENDING**
+- physical scans processed this iteration — **15/15**
+- cumulative physical English coverage — **scans1–30 / 30 of 75**
+- complete translated/source-checked files — **3/9 / 3/9**
+- partial translated files — **1**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
 - Part002 leakage — **0**
 
-The original E-batch boundaries remain authoritative; the iteration cadence may stop inside a batch. A durable `E#_SOURCE_CHECK.md` is created only when the whole E-batch closes.
+The original E-batch boundaries remain authoritative; the 15-scan iteration cadence may stop inside a batch. A durable `E#_SOURCE_CHECK.md` is created only when the whole E-batch closes.
 
 ## Exact next gate
 
-Continue **scans16–30** under the 15-page cadence:
-1. finish E2 scans16–17 and close E2;
-2. process E3 scans18–25 and close E3;
-3. begin E4 scans26–30 only.
+Continue **scans31–45** under the 15-page cadence:
 
-Do not mark E4 complete until scans31–33 are processed.
+1. finish E4 scans31–33 and close E4;
+2. process E5 scans34–42 and close E5;
+3. begin E6 scans43–45 only.
+
+Do not process scan46 in that iteration.
