@@ -16,7 +16,8 @@
 - supplied-source design: **8 split PDF files**, each <= **50 MB**
 - split basis: **file size**, not a fixed page count
 - source family / archive identifier: **TVA_BOK_0065560**
-- total physical scan count: **pending intake of Parts002–008**
+- registered physical scan extent: **1–145 across Parts001–002**
+- complete-work physical scan count: **pending intake of Parts003–008**
 - source PDFs remain outside Git
 
 ## Canonical numbering rule
@@ -46,13 +47,13 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - source-visible edition: **ஒன்பதாம் பதிப்பு 2017**
 - source-visible publication month: **ஏப்ரல் 2017**
 - incoming boundary: **NONE**
-- outgoing 75→76: **PENDING Part002 direct witness**
+- outgoing 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - durable intake: `works/ponnar-sankar/SOURCE_INTAKE_PART_001.md`
 
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **1/8**
+- registered Parts — **2/8**
 - Part001 source intake — **COMPLETE**
 - Part001 canonical page records — **75/75 — scans1–75**
 - Part001 Pass 1 — **COMPLETE**
@@ -121,14 +122,25 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - durable final closure — `works/ponnar-sankar/PART_001_FINAL_CLOSURE.md`
 - maintained English — **9/9 FROZEN**
 - Part001 canonical / assembled Tamil — **FROZEN**
-- English exact next activity — **Part002 source intake + direct 75→76 boundary audit when source is supplied**
-- Parts002–Part008 — **NOT REGISTERED / pending source intake**
+- Part002 source intake — **REGISTERED / COMPLETE**
+- Part002 source — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
+- Part002 SHA-256 — `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd`
+- Part002 local pages — **70**
+- Part002 global scans — **76–145**
+- Part002 incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- Part002 Pass1 — **IN PROGRESS — 10/70 TEXT-COMPLETE — scans76–85**
+- Part002 pending Pass1 — **60/70 — scans86–145**
+- Part002 outgoing 145→146 — **PENDING Part003 direct witness**
+- Part002 exact next activity — **Pass1 Batch2 / scans86–95 / local pages11–20**
+- Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 source-intake frontier**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to Part002 Pass1 Batch2 frontier**
 
 ## Exact next activity
 
-Part001 is **FINAL CLOSED / FROZEN**. Next activity requires a supplied Part002 source: perform source intake and direct **75→76** boundary audit before any Part002 canonical transcription.
+Process **Part002 Pass1 Batch2 — global scans86–95 / local pages11–20**.
+
+Keep Part001 **FINAL CLOSED / FROZEN**. Do not begin Part002 Pass2A before full Part002 Pass1 completion.
