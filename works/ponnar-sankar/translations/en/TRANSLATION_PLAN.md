@@ -262,12 +262,24 @@ Completed translation iterations:
 
 The original E-batch boundaries remain authoritative; the 15-scan iteration cadence may stop inside a batch. A durable `E#_SOURCE_CHECK.md` is created only when the whole E-batch closes.
 
+### Iteration 3 — scans31–45
+
+- E4 scans31–33 — **completed; whole E4 SOURCE-CHECKED / COMPLETE**
+- E5 scans34–42 — **SOURCE-CHECKED / COMPLETE**
+- E6 scans43–45 — **drafted + directly checked / IN PROGRESS**
+- E6 scans46–51 — **PENDING**
+- physical scans processed this iteration — **15/15**
+- cumulative physical English coverage — **scans1–45 / 45 of 75**
+- complete translated/source-checked files — **5/9 / 5/9**
+- partial translated files — **1**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+- Part002 leakage — **0**
+
 ## Exact next gate
 
-Continue **scans31–45** under the 15-page cadence:
+Continue **scans46–60** under the 15-page cadence:
 
-1. finish E4 scans31–33 and close E4;
-2. process E5 scans34–42 and close E5;
-3. begin E6 scans43–45 only.
+1. finish E6 scans46–51 and close E6;
+2. process E7 scans52–60 and close E7.
 
-Do not process scan46 in that iteration.
+That is exactly **15 scans**. Do not process scan61.
