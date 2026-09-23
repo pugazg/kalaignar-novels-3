@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART001 ENGLISH ACTIVE — E1–E5 SOURCE-CHECKED / COMPLETE; E6 IN PROGRESS**
+**PART001 ENGLISH SOURCE BATCHES — E1–E9 SOURCE-CHECKED / COMPLETE**
 
 English literary translation is active under the maintained 15-physical-scan iteration cadence.
 
@@ -13,11 +13,11 @@ English literary translation is active under the maintained 15-physical-scan ite
 | **E3** | section02 — `மணவிழாவில் மசச்சாமி` | 18–25 | **SOURCE-CHECKED / COMPLETE** |
 | **E4** | section03 — `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **SOURCE-CHECKED / COMPLETE** |
 | **E5** | section04 — `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **SOURCE-CHECKED / COMPLETE** |
-| **E6** | section05 — `இனிய சூழலும் புதிய சோகமும்` | 43–51 | **IN PROGRESS — scans43–45 drafted + checked; scans46–51 pending** |
-| **E7** | section06 — `தாமரை நாச்சியின் சபதம்` | 52–60 | **NOT STARTED** |
-| **E8** | section07 — `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **NOT STARTED** |
-| **E9** | section08 — `உண்மையின் உதயம்` / Part001 terminal continuation | 70–75 | **NOT STARTED** |
-| Glossary reconciliation | Part001 whole-Part English | 1–75 | **BLOCKED pending E1–E9** |
+| **E6** | section05 — `இனிய சூழலும் புதிய சோகமும்` | 43–51 | **SOURCE-CHECKED / COMPLETE** |
+| **E7** | section06 — `தாமரை நாச்சியின் சபதம்` | 52–60 | **SOURCE-CHECKED / COMPLETE** |
+| **E8** | section07 — `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **SOURCE-CHECKED / COMPLETE** |
+| **E9** | section08 — `உண்மையின் உதயம்` / Part001 terminal continuation | 70–75 | **SOURCE-CHECKED / COMPLETE** |
+| Glossary reconciliation | Part001 whole-Part English | 1–75 | **NEXT / READY** |
 | Editorial review | Part001 whole-Part English | 1–75 | **BLOCKED** |
 | Bilingual review | English against verified Tamil | 1–75 | **BLOCKED** |
 | Release/readiness | Part001 | 1–75 | **BLOCKED** |
@@ -32,12 +32,13 @@ English literary translation is active under the maintained 15-physical-scan ite
 - Tamil assembled files — **9/9 VERIFIED / PASS / CLOSED**
 - Part001 English planned batches — **E1–E9 / 9**
 - Part001 English planned files — **9**
-- Part001 English complete translated files — **5/9**
-- Part001 English partial translated files — **1** (E6 scans43–45)
-- Part001 English source-checked complete files — **5/9**
-- physical English processing coverage — **scans1–45 / 45 of 75**
-- E6 partial checked coverage — **scans43–45 / 3 of 9 E6 scans**
-- user-set processing cadence — **15 physical scans per iteration**
+- Part001 English complete translated files — **9/9**
+- Part001 English partial translated files — **0**
+- Part001 English source-checked complete files — **9/9**
+- physical English processing coverage — **scans1–75 / 75 of 75**
+- current page-processing instruction — **30 physical scans processed in this iteration**
+- historical earlier iterations — **15 physical scans each**
+- glossary reconciliation — **READY / NEXT**
 - planned source coverage — **scans1–75**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
@@ -256,11 +257,55 @@ Canonical Tamil edits caused by this iteration — **0**.
 Assembled Tamil edits caused by this iteration — **0**.  
 Part002 leakage — **0**.
 
+## Iteration checkpoint — scans46–75
+
+**30/30 physical scans processed under the user's current 30-page instruction.**
+
+E6:
+- scans43–51 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/05-a-pleasant-setting-and-a-new-sorrow.md`
+- durable check — `E6_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **45 / 45**
+- source-boundary comments — **8 / 8**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+
+E7:
+- scans52–60 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/06-thamarai-naachchis-vow.md`
+- durable check — `E7_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **39 / 39**
+- source-boundary comments — **8 / 8**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+
+E8:
+- scans61–69 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/07-the-town-not-to-be-named.md`
+- durable check — `E8_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **52 / 52**
+- source-boundary comments — **8 / 8**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+
+E9:
+- scans70–75 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/08-the-dawn-of-truth.md`
+- durable check — `E9_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **29 / 29**
+- internal source-boundary comments — **5 / 5**
+- outgoing 75→76 pending marker — **retained**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+
+Whole-Part English source-batch accounting:
+- maintained files — **9/9**
+- source-checked files — **9/9**
+- physical coverage — **75/75**
+- cross-batch Tamil/English block mismatches — **0**
+- Tamil-script leakage in maintained English literary files — **0**
+- canonical / assembled Tamil edits caused by this iteration — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
 ## Exact next activity
 
-Continue the **15-physical-page cadence** with **scans46–60**:
+**Whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files.**
 
-1. finish E6 — scans46–51;
-2. process and close E7 — scans52–60.
-
-That is exactly **15 scans**. Do not process scan61.
+Do not begin Part002 canonical transcription.
