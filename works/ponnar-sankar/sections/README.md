@@ -17,7 +17,7 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 - Part002 body leakage — **0**
 - canonical Part001 page mutations caused by assembly — **0**
 - scan16 — **image-backed map plate preserved as `../assets/scan-0016-map.png`; no Unicode map-label reconstruction**
-- outgoing **75→76** — **PENDING Part002 direct witness**
+- outgoing **75→76** — **GENUINE CONTINUATION / AUDITED / PASS**
 - validation — `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 
 ## Section inventory
@@ -51,8 +51,8 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 - incoming boundary — **NONE**
 - outgoing **75→76** — **PENDING Part002 direct witness**
 - scan75 remains terminal at `ஆனால் அந்த மகிழ்ச்சி நீடிக்கவில்லை!”`
-- no scan76 / Part002 continuation is present in this assembled layer
+- no scan76 / Part002 continuation is present in this frozen Part001 assembled layer; the boundary is now audited separately
 
 Part001 assembled Tamil is **VERIFIED / PASS / CLOSED**.
 
-Downstream English E1–E9, glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are all closed. **Part001 FINAL CLOSURE — PASS / CLOSED / FROZEN.** This assembled Tamil layer is frozen. Exact next activity: **Part002 source intake + direct 75→76 boundary audit when the Part002 source is supplied**.
+Downstream English E1–E9, glossary reconciliation, editorial review, bilingual review, release/readiness and release-ready synchronization are all closed. **Part001 FINAL CLOSURE — PASS / CLOSED / FROZEN.** This assembled Tamil layer is frozen. Part002 is now registered and active in Pass1; this frozen Part001 assembled layer remains unchanged. Exact next activity: **Part002 Pass1 Batch2 — scans86–95 / local pages11–20**.
