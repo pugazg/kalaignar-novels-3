@@ -8,8 +8,8 @@ No English literary prose has been drafted.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E1** | section00 — front matter | 1–7 | **NOT STARTED / NEXT** |
-| **E2** | section01 — `நுழைவாயில்` | 8–17 | **NOT STARTED** |
+| **E1** | section00 — front matter | 1–7 | **SOURCE-CHECKED / COMPLETE** |
+| **E2** | section01 — `நுழைவாயில்` | 8–17 | **IN PROGRESS — scans8–15 drafted + checked; scans16–17 pending** |
 | **E3** | section02 — `மணவிழாவில் மசச்சாமி` | 18–25 | **NOT STARTED** |
 | **E4** | section03 — `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **NOT STARTED** |
 | **E5** | section04 — `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **NOT STARTED** |
@@ -32,8 +32,12 @@ No English literary prose has been drafted.
 - Tamil assembled files — **9/9 VERIFIED / PASS / CLOSED**
 - Part001 English planned batches — **E1–E9 / 9**
 - Part001 English planned files — **9**
-- Part001 English translated files — **0/9**
-- Part001 English source-checked files — **0/9**
+- Part001 English complete translated files — **1/9**
+- Part001 English partial translated files — **1** (E2 scans8–15)
+- Part001 English source-checked complete files — **1/9**
+- physical English processing coverage — **scans1–15 / 15 of 75**
+- E2 partial checked coverage — **scans8–15 / 8 of 10 E2 scans**
+- user-set processing cadence — **15 physical scans per iteration**
 - planned source coverage — **scans1–75**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
@@ -132,10 +136,38 @@ Created:
 
 No Part001 English literary prose was drafted in this planning/setup gate.
 
+## Iteration checkpoint — scans1–15
+
+**15/15 physical scans processed in this iteration.**
+
+E1:
+- scans1–7 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/00-front-matter.md`
+- durable check — `E1_SOURCE_CHECK.md`
+- source blocks / English blocks — **14 / 14**
+- source-boundary comments — **6 / 6**
+- unresolved E1 holds — **0**
+
+E2 partial:
+- scans8–15 — **DRAFTED + DIRECTLY CHECKED / IN PROGRESS**
+- maintained partial file — `sections/01-entrance.md`
+- planned E2 whole-batch coverage — scans8–17
+- Tamil / English content blocks through scan15 — **43 / 43**
+- source-boundary comments through scan15 — **7 / 7**
+- omissions / duplicates / unsupported English insertion through scan15 — **0 / 0 / 0**
+- scans16–17 — **PENDING**
+- `E2_SOURCE_CHECK.md` — **NOT CREATED; whole E2 is not yet closed**
+
+Canonical Tamil edits caused by this iteration — **0**.  
+Assembled Tamil edits caused by this iteration — **0**.  
+Part002 leakage — **0**.
+
 ## Exact next activity
 
-**E1 draft + source-check — front matter / scans1–7.**
+Continue the **15-physical-page cadence** with **scans16–30**:
 
-Create the maintained English section only from `../../sections/00-front-matter.md`, with canonical `pages/` available as final Tamil authority when needed.
+1. finish E2 — scans16–17;
+2. process E3 — scans18–25;
+3. begin E4 — scans26–30 only.
 
-Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
+Do not mark E4 complete until its remaining scans31–33 are processed.
