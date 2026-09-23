@@ -128,8 +128,13 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 - assembled unsupported Tamil / control-note leakage / canonical mutations / Part002 body leakage — **0 / 0 / 0 / 0**
 - durable assembled-Tamil validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Final Part001 lifecycle state
+
+- release-ready synchronization — **PASS / CLOSED**
+- final closure — **PASS / CLOSED / FROZEN**
+- Part002–Part008 — **NOT REGISTERED**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
 ## Exact next activity
 
-Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer.
-
-Keep **75→76** pending until Part002 is supplied and directly checked. Do not begin Part002 canonical transcription before Part001 final closure.
+When Part002 is supplied, perform **Part002 source intake + direct 75→76 boundary audit** before any canonical transcription. Do not infer its global range or text.
