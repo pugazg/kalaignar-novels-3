@@ -183,6 +183,53 @@ Scan16 is an image-backed map page.
 
 This glossary is a translation-control aid, not an authority over Tamil.
 
+## E1 source-check additions
+
+E1 closed **SOURCE-CHECKED / COMPLETE** for scans1–7.
+
+| Tamil source | English handling | Source-check note |
+|---|---|---|
+| `பூம்புகார் பதிப்பகம்` | **Poompuhar Publications** | retained as publisher name |
+| `தமிழ்க்கனி பதிப்பகம்` | **Tamilkkani Publications** | retained as publisher/rightsholder name |
+| `குங்குமம்` | **Kungumam** | source-facing periodical title |
+| `அண்ணன்மார் வரலாறு` | **Annanmar Varalaru** | retained as source-facing subtitle rather than forcing an explanatory gloss |
+| `எட்டாம் பதிப்பின் முன்னுரை` | **Preface to the Eighth Edition** | functional heading |
+| `நூல் அளவை` | **Book Details** | functional bibliographic heading |
+
+E1 preserves the source's edition statements as printed; no outside reconciliation was attempted.
+
+## E2 partial source-check additions — scans8–15
+
+The following forms are active for the checked E2 partial draft:
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `முரசொலி மாறன்` | **Murasoli Maran** | source-facing personal name |
+| `தென்னரசு` | **Thennarasu** | source-facing personal name |
+| `குன்றுடையான்` / `குன்றுடையக் கவுண்டர்` | **Kundrudaiyaan / Kundrudaiya Gounder** | preserve title/name distinction by occurrence |
+| `அண்ணன்மார் சாமி` | **Annanmar Saami** | source-facing cultural/title form |
+| `சக்திக்கனல்` | **Sakthikkanal** | source-facing personal name |
+| `சிலம்பொலி செல்லப்பன்` | **Silamboli Chellappan** | source-facing personal name |
+| `தியாகராசன் (சின்னக் குத்தூசி)` | **Thiagarasan (Chinna Kuthoosi)** | preserve parenthetical source label |
+| `பாவைச்சந்திரன்` | **Pavaichandran** | source-facing personal name |
+| `சுப்புலட்சுமி ஜெகதீசன்` | **Subbulakshmi Jagadeesan** | source-facing personal name |
+| `உடுக்கடிப் பாட்டு` | ***udukkadi* song** | retain source term; no outside cultural gloss |
+| `பங்காளி` | ***pangali*** | retain source-facing kin/group term during E2; no external sociological gloss |
+| `வாலறிவன்` | **Vaal-arivan** | source term followed only by the source's own explanation |
+| `வேண்டுதல் வேண்டாமை இலான்` | **Venduthal vendaamai ilaan** | source term followed only by the source's own explanation |
+| `அறவாழி அந்தணன்` | **Aravaazhi Anthanan** | source-facing retention; no external theological gloss |
+| `பிருந்தா இ. எப். பெக்` | **Brenda E. F. Beck** | source-supplied personal name form |
+
+E2 scans8–15 also retain source-facing work-title transliterations rather than importing external title translations.
+
+## Current glossary frontier
+
+- E1 — **SOURCE-CHECKED / COMPLETE**
+- E2 — **IN PROGRESS — scans8–15 checked; scans16–17 pending**
+- scan16 map rule — **LOCKED / NOT YET PROCESSED**
+- external-source normalization — **0**
+- canonical / assembled Tamil edits caused by English — **0 / 0**
+
 ## Exact next gate
 
-**E1 draft + source-check — front matter / scans1–7.**
+Continue **E2 scans16–17**, then proceed within the user-set **15-physical-page iteration cadence**.
