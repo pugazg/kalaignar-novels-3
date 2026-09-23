@@ -53,4 +53,6 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 - scan75 remains terminal at `ஆனால் அந்த மகிழ்ச்சி நீடிக்கவில்லை!”`
 - no scan76 / Part002 continuation is present in this assembled layer
 
-Part001 assembled Tamil is **VERIFIED / PASS / CLOSED**. English remains a separate later gate.
+Part001 assembled Tamil is **VERIFIED / PASS / CLOSED**.
+
+Downstream English planning/setup is now **COMPLETE / PASS** with **E1–E9** reserved over scans1–75. No English literary prose was drafted during setup. Exact next gate: **E1 draft + source-check — front matter / scans1–7**.
