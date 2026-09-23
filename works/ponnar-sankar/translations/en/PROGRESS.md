@@ -9,9 +9,9 @@ No English literary prose has been drafted.
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E1** | section00 — front matter | 1–7 | **SOURCE-CHECKED / COMPLETE** |
-| **E2** | section01 — `நுழைவாயில்` | 8–17 | **IN PROGRESS — scans8–15 drafted + checked; scans16–17 pending** |
-| **E3** | section02 — `மணவிழாவில் மசச்சாமி` | 18–25 | **NOT STARTED** |
-| **E4** | section03 — `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **NOT STARTED** |
+| **E2** | section01 — `நுழைவாயில்` | 8–17 | **SOURCE-CHECKED / COMPLETE** |
+| **E3** | section02 — `மணவிழாவில் மசச்சாமி` | 18–25 | **SOURCE-CHECKED / COMPLETE** |
+| **E4** | section03 — `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **IN PROGRESS — scans26–30 drafted + checked; scans31–33 pending** |
 | **E5** | section04 — `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **NOT STARTED** |
 | **E6** | section05 — `இனிய சூழலும் புதிய சோகமும்` | 43–51 | **NOT STARTED** |
 | **E7** | section06 — `தாமரை நாச்சியின் சபதம்` | 52–60 | **NOT STARTED** |
@@ -32,11 +32,11 @@ No English literary prose has been drafted.
 - Tamil assembled files — **9/9 VERIFIED / PASS / CLOSED**
 - Part001 English planned batches — **E1–E9 / 9**
 - Part001 English planned files — **9**
-- Part001 English complete translated files — **1/9**
-- Part001 English partial translated files — **1** (E2 scans8–15)
-- Part001 English source-checked complete files — **1/9**
-- physical English processing coverage — **scans1–15 / 15 of 75**
-- E2 partial checked coverage — **scans8–15 / 8 of 10 E2 scans**
+- Part001 English complete translated files — **3/9**
+- Part001 English partial translated files — **1** (E4 scans26–30)
+- Part001 English source-checked complete files — **3/9**
+- physical English processing coverage — **scans1–30 / 30 of 75**
+- E4 partial checked coverage — **scans26–30 / 5 of 8 E4 scans**
 - user-set processing cadence — **15 physical scans per iteration**
 - planned source coverage — **scans1–75**
 - missing planned source coverage — **0**
@@ -171,3 +171,51 @@ Continue the **15-physical-page cadence** with **scans16–30**:
 3. begin E4 — scans26–30 only.
 
 Do not mark E4 complete until its remaining scans31–33 are processed.
+
+
+## Iteration checkpoint — scans16–30
+
+**15/15 physical scans processed in this iteration.**
+
+E2:
+- scans8–17 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/01-entrance.md`
+- durable check — `E2_SOURCE_CHECK.md`
+- textual source / English blocks excluding scan16 map image — **43 / 43**
+- source-boundary comments — **9 / 9**
+- scan16 map English literary body — **0**
+- scan17 blank English literary body — **0**
+- unresolved E2 holds — **0**
+
+E3:
+- scans18–25 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/02-masachchaami-at-the-wedding.md`
+- durable check — `E3_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **44 / 44**
+- source-boundary comments — **7 / 7**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E3 holds — **0**
+
+E4 partial:
+- scans26–30 — **DRAFTED + DIRECTLY CHECKED / IN PROGRESS**
+- maintained partial file — `sections/03-the-guest-lodge-and-the-shed-of-suffering.md`
+- planned E4 whole-batch coverage — scans26–33
+- Tamil / English content blocks through scan30 — **31 / 31**
+- source-boundary comments through scan30 — **4 / 4**
+- omissions / duplicates / unsupported insertion through scan30 — **0 / 0 / 0**
+- scans31–33 — **PENDING**
+- `E4_SOURCE_CHECK.md` — **NOT CREATED; whole E4 is not yet closed**
+
+Canonical Tamil edits caused by this iteration — **0**.  
+Assembled Tamil edits caused by this iteration — **0**.  
+Part002 leakage — **0**.
+
+## Exact next activity
+
+Continue the **15-physical-page cadence** with **scans31–45**:
+
+1. finish E4 — scans31–33;
+2. process and close E5 — scans34–42;
+3. begin E6 — scans43–45 only.
+
+Do not process scan46 in that iteration.
