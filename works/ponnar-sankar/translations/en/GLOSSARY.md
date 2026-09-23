@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part001
 
-Status: **PLANNING/SETUP COMPLETE / ACTIVE FOR E1–E9**
+Status: **WHOLE-PART RECONCILED / PASS — ENGLISH EDITORIAL REVIEW NEXT**
 
 This glossary is derived only from verified Part001 Tamil and the closed assembled Tamil reading layer.
 
@@ -406,6 +406,27 @@ E9 preserves the open scan75 continuation and imports **0** wording from Part002
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - outgoing 75→76 — **PENDING Part002 direct witness**
 
+## Whole-Part reconciliation closure
+
+Durable report: `GLOSSARY_RECONCILIATION.md`
+
+Result: **WHOLE-PART GLOSSARY — RECONCILED / PASS**
+
+- English files reviewed together — **9/9**
+- source-check records — **9/9**
+- physical coverage — **scans1–75 / 75 of 75**
+- accidental English spelling/romanization drift requiring section edits — **0**
+- English section files changed by reconciliation — **0**
+- deliberate source-derived variants retained — **PASS**
+- unresolved glossary holds — **0**
+- blank scans5/7/17 literary insertion — **0**
+- scan16 map-label reconstruction/translation — **0**
+- canonical / assembled Tamil edits caused by reconciliation — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
+Protected distinctions include **Masachchaami / Machchasaami / Machcha Gounder**, **Mathiyappa Gounder / Maanthiyappan**, **Thamarai Naachchi / Thamarai Naachchiyar**, source grammatical/vocative forms, and the source-derived **Thiruvalur (Thiruvarur)**, **Sambuvar / Sambuvan**, **Vellala / Vellalar**, and **Vettuva / Vettuvar** distinctions.
+
 ## Exact next gate
 
-**Whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files.**
+**English editorial review — all 9 maintained English files / scans1–75.**
