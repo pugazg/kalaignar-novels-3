@@ -44,6 +44,10 @@ The physical Part split falls between complete sentences, not inside a word. The
 
 **BOUNDARY AUDIT 75→76 — PASS / CLOSED**
 
-Part002 Pass1 may begin.
+Part002 Pass1 was subsequently activated and Batch1 scans76–85 completed **10/70 TEXT-COMPLETE**.
 
 Outgoing Part002 **145→146 remains PENDING Part003 direct witness**.
+
+## Current next activity
+
+**Part002 Pass1 Batch2 — scans86–95 / local pages11–20.**
