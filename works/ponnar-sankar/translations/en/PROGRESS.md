@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART001 WHOLE-PART GLOSSARY — RECONCILED / PASS**
+**PART001 FINAL CLOSED / FROZEN — ENGLISH COMPLETE**
 
 English literary translation is active under the maintained 15-physical-scan iteration cadence.
 
@@ -353,8 +353,16 @@ Durable report — `RELEASE_REPORT.md`
 - release/readiness English body edits — **0**
 - outgoing 75→76 — **PENDING Part002 direct witness**
 
+## Final Part001 English state
+
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **PASS / CLOSED / FROZEN**
+- maintained English files — **9/9 FROZEN**
+- post-release unauthorized English body drift — **0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
 ## Exact next activity
 
-**Release-ready synchronization → final Part001 closure.**
+**Part002 source intake + direct 75→76 boundary audit when the Part002 source is supplied.**
 
-Part002 canonical transcription remains blocked until final closure passes.
+Do not invent Part002 range or text.
