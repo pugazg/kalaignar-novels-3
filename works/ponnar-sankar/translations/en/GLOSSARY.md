@@ -317,18 +317,95 @@ The following handling is active for the checked E6 partial draft:
 
 E6 remains **IN PROGRESS**; scans46–51 are pending.
 
-## Current glossary frontier
+## E6 closure additions — scans46–51
+
+E6 is now **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `குப்பாரி கொட்டுதல்` | ***kuppaari kottuthal*** | source-facing announcement/custom term |
+| `முகூர்த்தக் கால்` | ***muhurtha kaal*** | source-facing wedding term |
+| `அருமைக்காரர்` | ***arumaikkarar*** | source-facing wedding-role term |
+| `நாட்டார் சபை` | ***naattaar sabai*** | source-facing assembly term |
+| `நாழி` | ***naazhi*** | source measure retained; no outside conversion |
+| `கரகம்` | ***karagam*** | source-facing ritual object term |
+| `குடிமகன்` | ***kudimagan*** | source role retained in wedding context |
+| `மங்கல நாண்` | ***mangala naan*** | source-facing marriage-cord term |
+| `தங்கணம்` | ***thanganam*** | source-facing ritual term |
+
+E6 whole-batch source/English blocks — **45/45**; physical boundaries — **8/8**.
+
+## E7 source-check additions — scans52–60
+
+E7 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `மொய்க்காளரி` | ***moikkaalari*** | wedding custom retained |
+| `அருகுமணம்` | ***arugumanam*** | blessing/custom term retained |
+| `பாதபூசை` | ***paadha poosai*** | source-facing ritual term |
+| `நலங்கிடுதல்` | ***nalangiduthal*** | source-facing wedding custom |
+| `சீர்வரிசை` | ***seervarisai*** | retained throughout expulsion/vow scene |
+| `அண்ணா` | **Anna** | retained in emotionally active sibling dialogue |
+| `தம்பி` | **Thambi** | retained where the source uses the kin/address form |
+
+The long Thalaiyur Kaali letter is translated as an in-source letter; its claims and threat remain source framing.
+
+## E8 source-check additions — scans61–69
+
+E8 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `மாயவர்` | **Maayavar** | source-facing personal/title form |
+| `ராக்கியண்ணன்` | **Raakkiyannan** | source-facing personal name |
+| `வாங்கலாயி` | **Vaangalayi** | source-facing personal name |
+| `ஒத்தமாந்துறை` | **Oththamaanthurai** | source-facing place form |
+| `மாரிக்கவுண்டன் பாளையம்` | **Maarikkavundan Paalayam** | source-facing place form |
+| `கெண்டை` | ***kendai*** | fish term retained; no outside species identification |
+| `குடமுழுக்கு` | ***kudamuzhukku*** | source-facing temple ceremony term |
+| `காணி` | ***kaani*** | source land-right term retained |
+| `கல்` | ***kal*** | source distance unit retained; no outside conversion |
+| `கட்டாரி` | ***kattari*** | source weapon term retained |
+| `சிலம்பம்` | ***silambam*** | source martial-training term retained |
+
+The source's Vettuvar/Vellalar discussion remains narrator/character framing without added social explanation.
+
+## E9 source-check additions — scans70–75
+
+E9 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `வேங்கை` | ***vengai*** | source metaphor retained |
+| `விகாரம்` | ***vihara*** | source religious-institution term |
+| `பள்ளி` | ***palli*** | retained in the source's Jain context |
+| `சீமை` | **Seemai** | source-facing territorial term |
+| `கோனாடு` | ***Konaadu*** | retained inside the quoted source praise |
+| `மசை` | ***masai*** | source label retained without outside gloss |
+| `மச்சசாமி` | **Machchasaami** | preserve the source body form |
+
+E9 preserves the open scan75 continuation and imports **0** wording from Part002.
+
+## Whole-Part source-batch frontier
 
 - E1 — **SOURCE-CHECKED / COMPLETE**
 - E2 — **SOURCE-CHECKED / COMPLETE**
 - E3 — **SOURCE-CHECKED / COMPLETE**
 - E4 — **SOURCE-CHECKED / COMPLETE**
 - E5 — **SOURCE-CHECKED / COMPLETE**
-- E6 — **IN PROGRESS — scans43–45 checked; scans46–51 pending**
-- scan16 map rule — **LOCKED / SATISFIED**
+- E6 — **SOURCE-CHECKED / COMPLETE**
+- E7 — **SOURCE-CHECKED / COMPLETE**
+- E8 — **SOURCE-CHECKED / COMPLETE**
+- E9 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **9/9**
+- physical English source coverage — **scans1–75 / 75 of 75**
+- source/English block-accounting mismatches — **0**
+- English files containing Tamil-script leakage — **0**
 - external-source normalization — **0**
 - canonical / assembled Tamil edits caused by English — **0 / 0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
 
 ## Exact next gate
 
-Continue the 15-page cadence with **scans46–60**: finish E6 scans46–51, then process and close E7 scans52–60.
+**Whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files.**
