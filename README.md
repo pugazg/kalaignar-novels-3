@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 ENGLISH SOURCE BATCHES CLOSED — E1–E9 SOURCE-CHECKED / COMPLETE; glossary reconciliation next; Tamil assembled 9/9 closed**
+- current state: **Part001 WHOLE-PART GLOSSARY RECONCILED / PASS; English editorial review next; Tamil assembled 9/9 closed**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
@@ -43,6 +43,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-The latest user-directed page iteration processed **30 scans — scans46–75**, closing E6–E9 and all Part001 English source batches. Next: **whole-Part English glossary reconciliation — scans1–75 / 9 files**.
+All Part001 English source batches E1–E9 are closed, and whole-Part glossary reconciliation is **RECONCILED / PASS** with **0 English section edits** and **0 unresolved holds**. Next: **English editorial review — all 9 maintained English files / scans1–75**.
 
 Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
