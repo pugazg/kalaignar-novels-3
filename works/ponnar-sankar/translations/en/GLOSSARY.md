@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part001
 
-Status: **WHOLE-PART RECONCILED / PASS — ENGLISH EDITORIAL REVIEW NEXT**
+Status: **WHOLE-PART RECONCILED / PASS — DOWNSTREAM EDITORIAL/BILINGUAL/RELEASE GATES CLOSED**
 
 This glossary is derived only from verified Part001 Tamil and the closed assembled Tamil reading layer.
 
@@ -427,6 +427,12 @@ Result: **WHOLE-PART GLOSSARY — RECONCILED / PASS**
 
 Protected distinctions include **Masachchaami / Machchasaami / Machcha Gounder**, **Mathiyappa Gounder / Maanthiyappan**, **Thamarai Naachchi / Thamarai Naachchiyar**, source grammatical/vocative forms, and the source-derived **Thiruvalur (Thiruvarur)**, **Sambuvar / Sambuvan**, **Vellala / Vellalar**, and **Vettuva / Vettuvar** distinctions.
 
+## Downstream gate state
+
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+
 ## Exact next gate
 
-**English editorial review — all 9 maintained English files / scans1–75.**
+**Release-ready synchronization → Part001 final closure.**
