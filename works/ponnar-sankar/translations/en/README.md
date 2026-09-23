@@ -2,9 +2,9 @@
 
 ## State
 
-**BLOCKED — Tamil source workflow has not started.**
+**READY FOR PART001 ENGLISH PLANNING/SETUP — translation drafting has not started.**
 
-English work begins only after the active Part has:
+The Part001 Tamil prerequisites are now closed:
 
 - complete canonical Tamil coverage;
 - Pass 1 / Pass 2A / Pass 2B / Pass 3 closed;
@@ -29,3 +29,11 @@ English work begins only after the active Part has:
 11. final closure / freeze.
 
 No English activity may silently modify canonical Tamil or normalize source-sensitive names and variants.
+
+## Current frontier
+
+- Part001 assembled Tamil — **VERIFIED / PASS / CLOSED**
+- validation — `../../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- English translation planning/setup — **NEXT**
+- English draft batches — **NOT STARTED**
+- Part002 canonical transcription — **BLOCKED until Part001 final closure**
