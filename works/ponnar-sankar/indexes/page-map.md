@@ -81,17 +81,28 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 73 | 73 | 56 | chapter7 continuation; historical/background exposition | verified | `pages/0073-unmaiyin-uthayam.md` |
 | 001 | 74 | 74 | 57 | chapter7 continuation | verified | `pages/0074-unmaiyin-uthayam.md` |
 | 001 | 75 | 75 | 58 | chapter7 continuation; Part001 ends mid-chapter; 75→76 pending witness | verified | `pages/0075-unmaiyin-uthayam.md` |
+| 002 | 1 | 76 | 59 | chapter7 `உண்மையின் உதயம்` continuation; incoming 75→76 genuine continuation | needs-review | `pages/0076-unmaiyin-uthayam.md` |
+| 002 | 2 | 77 | 60 | chapter7 continuation; physical prose continuation | needs-review | `pages/0077-unmaiyin-uthayam.md` |
+| 002 | 3 | 78 | 61 | chapter7 continuation; historical/background exposition | needs-review | `pages/0078-unmaiyin-uthayam.md` |
+| 002 | 4 | 79 | 62 | chapter7 continuation | needs-review | `pages/0079-unmaiyin-uthayam.md` |
+| 002 | 5 | 80 | 63 | chapter7 close; substantial blank lower field | needs-review | `pages/0080-unmaiyin-uthayam.md` |
+| 002 | 6 | 81 | — | chapter8 `கரகம் விடும் திருவிழா` opening; running page not inferred | needs-review | `pages/0081-karagam-vidum-thiruvizha.md` |
+| 002 | 7 | 82 | 65 | chapter8 continuation; வாங்கலம்மன் கோயில் discussion | needs-review | `pages/0082-karagam-vidum-thiruvizha.md` |
+| 002 | 8 | 83 | 66 | chapter8 continuation; boatman introduces கரகம் விழா | needs-review | `pages/0083-karagam-vidum-thiruvizha.md` |
+| 002 | 9 | 84 | 67 | chapter8 continuation; boat journey / displayed song | needs-review | `pages/0084-karagam-vidum-thiruvizha.md` |
+| 002 | 10 | 85 | 68 | chapter8 continuation; boatman's mythic narrative / displayed verses | needs-review | `pages/0085-karagam-vidum-thiruvizha.md` |
 
 ## Split accounting
 
 - Part001: local **1–75** → global **1–75** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf`
-- Part002–Part008: **pending intake; no global ranges assigned**
+- Part002: local **1–70** → global **76–145** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
+- Part003–Part008: **pending intake; no global ranges assigned**
 
 ## Current state
 
-- registered Parts: **1/8**
-- registered physical scan rows: **75**
-- canonical page records: **75/75 — scans1–75**
+- registered Parts: **2/8**
+- registered physical scan rows: **145**
+- canonical page records: **85 total — Part001 75/75 frozen + Part002 10/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -102,7 +113,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part001 assembled Tamil: **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
 - Part001 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part002 body leakage**
 - assembled validation: `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-- outgoing Part001 boundary 75→76: **PENDING Part002 witness**
+- Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - English E1: **SOURCE-CHECKED / COMPLETE — scans1–7**
 - English E2: **SOURCE-CHECKED / COMPLETE — scans8–17**
 - English E3: **SOURCE-CHECKED / COMPLETE — scans18–25**
@@ -123,4 +134,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- exact next activity: **Part002 source intake + direct 75→76 boundary audit when source is supplied**
+- Part002 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans76–85**
+- Part002 Pass1 pending: **60/70 — scans86–145**
+- outgoing Part002 boundary 145→146: **PENDING Part003 witness**
+- exact next activity: **Part002 Pass1 Batch2 — scans86–95 / local pages11–20**
