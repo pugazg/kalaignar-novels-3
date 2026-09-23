@@ -195,4 +195,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 final metadata/status synchronization — **COMPLETE / 75/75 status verified / 75/75 visual verified**
 - Part001 Tamil archival-ready — **PASS / COMPLETE**
 - durable Tamil archival-ready checkpoint — `PART_001_TAMIL_ARCHIVAL_READY.md`
-- exact next gate — **Part001 assembled Tamil construction + exact canonical-coverage audit**
+- Part001 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
+- Part001 assembled-Tamil validation — `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part001 English — **NOT STARTED**
+- exact next gate — **Part001 English translation planning/setup**
