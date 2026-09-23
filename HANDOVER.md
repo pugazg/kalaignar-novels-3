@@ -109,14 +109,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - durable glossary reconciliation — `works/ponnar-sankar/translations/en/GLOSSARY_RECONCILIATION.md`
 - English section files changed by reconciliation — **0**
 - unresolved glossary holds — **0**
-- English exact next activity — **English editorial review — all 9 maintained English files / scans1–75**
+- English editorial review — **PASS / CLOSED — 3 English-only corrections**
+- durable editorial review — `works/ponnar-sankar/translations/en/TRANSLATION_REVIEW.md`
+- whole-Part bilingual review — **PASS / CLOSED — 9/9 pairs**
+- durable bilingual review — `works/ponnar-sankar/translations/en/BILINGUAL_REVIEW.md`
+- release/readiness — **PASS / CLOSED — 0 blockers**
+- durable release report — `works/ponnar-sankar/translations/en/RELEASE_REPORT.md`
+- English exact next activity — **release-ready synchronization → final Part001 closure**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — English editorial review**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to release-ready synchronization / final closure**
 
 ## Exact next activity
 
-Proceed with **English editorial review — all 9 maintained English files / scans1–75**. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **release-ready synchronization**, verify no post-release textual drift, and close Part001 **PASS / CLOSED / FROZEN**. Keep **75→76** pending; Part002 remains unregistered and must not be inferred.
