@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+**PART001 PART001 FINAL CLOSED / FROZEN**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -51,11 +51,13 @@
 - English editorial review: **PASS / CLOSED — 3 English-only corrections**
 - whole-Part bilingual review: **PASS / CLOSED — 9/9 pairs**
 - release/readiness: **PASS / CLOSED — 0 blockers**
+- release-ready synchronization: **PASS / CLOSED**
+- Part001 final closure: **PASS / CLOSED / FROZEN**
 - English cross-batch block mismatches: **0**
 - English Part002 leakage: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
-- Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
+- Part002–Part008: **pending intake / NOT REGISTERED**
 - Part001 outgoing boundary 75→76: **PENDING Part002 witness**
 
 ## Authority
@@ -98,4 +100,4 @@
 
 ## Exact next activity
 
-Proceed with **release-ready synchronization**, then verify no post-release textual drift and close **Part001 FINAL / FROZEN**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until final closure.
+Part001 is **FINAL CLOSED / FROZEN**. Next: **Part002 source intake + direct 75→76 boundary audit when the Part002 PDF is supplied**. Do not infer a Part002 range or text.
