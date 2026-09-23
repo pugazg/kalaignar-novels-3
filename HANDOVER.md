@@ -85,8 +85,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 audit blockers — **0**
 - durable Part audit — `works/ponnar-sankar/PART_001_AUDIT.md`
 - durable Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_001_TAMIL_ARCHIVAL_READY.md`
-- assembled Tamil — **NOT STARTED / NEXT**
-- English — **BLOCKED pending Tamil closure**
+- assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
+- assembled-Tamil validation — `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- English — **NOT STARTED / NEXT — translation planning/setup**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
@@ -96,4 +97,4 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only. Keep **75→76** pending until Part002 is supplied.
+Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer. Keep **75→76** pending until Part002 is supplied and keep Part002 canonical transcription blocked until Part001 final closure.
