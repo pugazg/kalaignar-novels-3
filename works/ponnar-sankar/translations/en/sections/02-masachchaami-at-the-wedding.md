@@ -67,7 +67,7 @@ The sound of several horse-drawn carriages entering the village at the same time
 
 All the carriages were covered with gleaming silk curtains. There could not have been fewer than a hundred. In those carriages came Chellaatha Gounder of Nelli Valanaadu and his close relatives for the wedding. Only the carriage carrying the groom Maanthiyappan had been decorated almost like a chariot and was drawn by four horses. Wearing a turban of gold zari, with an ornament set beautifully at its edge with diamonds, pearls and coral, and covered in priceless jewellery, the groom Maanthiyappan sat in that chariot-like carriage, smiling grandly as he thought of the wedding to take place the next day.
 
-At the entrance to the village, with பேரிகை drums, war drums, conches, trumpets and other drums sounding, Chinnamalaik Kozhundhu, on behalf of Malaikkozhundha Gounder, gave all those decorated carriages a lavish welcome. Chellaatha Gounder introduced his son Maanthiyappan to Chinnamalaik Kozhundhu, and the two embraced warmly. The carriages then moved in procession through the streets of Maniyangurichi.
+At the entrance to the village, with *perigai* drums, war drums, conches, trumpets and other drums sounding, Chinnamalaik Kozhundhu, on behalf of Malaikkozhundha Gounder, gave all those decorated carriages a lavish welcome. Chellaatha Gounder introduced his son Maanthiyappan to Chinnamalaik Kozhundhu, and the two embraced warmly. The carriages then moved in procession through the streets of Maniyangurichi.
 
 <!-- source boundary: scan 22 → scan 23 -->
 
@@ -79,7 +79,7 @@ At the pavilion where Thamarai Naachchiyar was distributing food grain, it could
 
 a mischievous friend asked softly.
 
-In her distress, Thamarai could not enjoy her friend's teasing. She flared up sharply: “Just keep quiet!”
+In her distress, Thamarai could not enjoy her friend's teasing. She flared up sharply, and “Just keep quiet!” sprang from her.
 
 Young men came one by one between elderly men and women to receive grain from Thamarai. Because they did not move away quickly, the distribution was proceeding only slowly.
 
@@ -111,10 +111,10 @@ this Machcha Gounder's trick?”
 
 He laughed foolishly. Paying no heed to the presence of her mother, the friends surrounding her or the people gathered to receive grain, Thamarai Naachchiyar cried aloud, “Aththaan!” and embraced him.
 
-For the first time in his life, the young man was experiencing a pleasure he had never known in Thamarai's embrace when whip lashes fell across his back with sharp cracks. “Appa! Let him go!” Thamarai cried and tried to intervene, but she could not. “Hey, Nelliyangodan! Have you come by a crooked route to ruin my family? If I don't rip out your guts and wear them as a garland, my name isn't Malaikkozhundha Gounder!” roared the major landholder of Maniyangurichi, lunging at the young man and thrashing him with the whip. Unable to bear the sight, Thamarai fainted, crying, “Aththaan! Aththaan!”
+For the first time in his life, the young man was experiencing a pleasure he had never known in Thamarai's embrace when whip lashes fell across his back with sharp cracks. “Appa! Let him go!” Thamarai cried and tried to intervene, but she could not. “Hey, Nelliyangodan! Have you come by a crooked route to ruin my family? If I don't rip out your guts and wear them as a garland, my name isn't Malaikkozhundha Gounder!” roared the major landholder of Maniyangurichi, lunging at the young man and thrashing him with the whip. Unable to bear the sight, Thamarai fainted with “Aththaan! Aththaan!”, 
 
 <!-- source boundary: scan 24 → scan 25 -->
 
-The young man lay on the ground like a withered lily stalk. Still crying out, Thamarai watched as Malaikkozhundha Gounder ordered that he be taken away and locked in a shed where *karaiyaan* and *sellu* insects could bite him. Four men carried the unconscious young man away and shut him inside that dreadful shed.
+ringing out in her scream! The young man lay on the ground like a withered lily stalk. Still crying out, Thamarai watched as Malaikkozhundha Gounder ordered that he be taken away and locked in a shed where *karaiyaan* and *sellu* insects could bite him. Four men carried the unconscious young man away and shut him inside that dreadful shed.
 
 “Chellaatha Gounder need not know any of this. Take Thamarai away at once and have her treated,” Malaikkozhundha Gounder told his wife, and hurried out.
