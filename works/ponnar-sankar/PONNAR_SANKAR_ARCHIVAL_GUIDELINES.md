@@ -183,8 +183,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part001 Pass 2B corrections — **8**
 - Part001 Pass 2B unresolved — **0**
 - Part002 — **REGISTERED / COMPLETE — 70 pages / scans76–145**
-- Part002 Pass1 — **IN PROGRESS — 20/70 TEXT-COMPLETE — scans76–95**
-- Part002 Pass1 pending — **50/70 — scans96–145**
+- Part002 Pass1 — **IN PROGRESS — 30/70 TEXT-COMPLETE — scans76–105**
+- Part002 Pass1 pending — **40/70 — scans106–145**
 - Part003–Part008 — **pending intake / NOT REGISTERED**
 - boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part002 boundary 145→146 — **PENDING Part003 direct witness**
@@ -221,4 +221,5 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - release-ready synchronization — **PASS / CLOSED**
 - Part001 final closure — **PASS / CLOSED / FROZEN**
 - chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
-- exact next activity — **Part002 Pass1 Batch3 — scans96–105 / local pages21–30**
+- chapter10 / scan99 — **`அர்ச்சனை- யார் வயிறுக்கு?`**
+- exact next activity — **Part002 Pass1 Batch4 — scans106–115 / local pages31–40**
