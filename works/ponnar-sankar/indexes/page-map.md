@@ -104,7 +104,9 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - assembled validation: `../PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - outgoing Part001 boundary 75→76: **PENDING Part002 witness**
 - English E1: **SOURCE-CHECKED / COMPLETE — scans1–7**
-- English E2: **IN PROGRESS — scans8–15 checked / scans16–17 pending**
-- English processing coverage: **scans1–15 / 15 of 75**
+- English E2: **SOURCE-CHECKED / COMPLETE — scans8–17**
+- English E3: **SOURCE-CHECKED / COMPLETE — scans18–25**
+- English E4: **IN PROGRESS — scans26–30 checked / scans31–33 pending**
+- English processing coverage: **scans1–30 / 30 of 75**
 - English cadence: **15 physical scans per iteration**
-- exact next activity: **scans16–30 — finish E2, complete E3, begin E4 through scan30**
+- exact next activity: **scans31–45 — finish E4, complete E5, begin E6 through scan45**
