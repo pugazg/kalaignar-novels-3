@@ -2,7 +2,7 @@
 
 ## State
 
-**PART001 ENGLISH PLANNING/SETUP — COMPLETE / PASS — E1 NEXT.**
+**E1 SOURCE-CHECKED / COMPLETE — E2 IN PROGRESS THROUGH SCAN15.**
 
 The Part001 Tamil prerequisites are now closed:
 
@@ -38,10 +38,13 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - reserved batches — **E1–E9 / 9**
 - planned English files — **9**
 - planned source coverage — **scans1–75 / 0 missing / 0 duplicate**
-- translated/source-checked files — **0/9 / 0/9**
+- complete translated/source-checked files — **1/9 / 1/9**
+- partial translated files — **1** (E2 scans8–15)
+- physical English processing coverage — **scans1–15 / 15 of 75**
+- user-set cadence — **15 physical scans per iteration**
 - active controls — `TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
-- English literary prose drafted in setup — **0**
-- exact next gate — **E1 draft + source-check / front matter / scans1–7**
+- E1 durable check — `E1_SOURCE_CHECK.md`
+- exact next activity — **scans16–30: finish E2 scans16–17, complete E3 scans18–25, begin E4 scans26–30**
 - Part002 canonical transcription — **BLOCKED until Part001 final closure**
 
 
@@ -49,8 +52,8 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 
 | Batch | Source | Scans | Status |
 |---|---|---:|---|
-| E1 | front matter | 1–7 | **NOT STARTED / NEXT** |
-| E2 | `நுழைவாயில்` | 8–17 | **NOT STARTED** |
+| E1 | front matter | 1–7 | **SOURCE-CHECKED / COMPLETE** |
+| E2 | `நுழைவாயில்` | 8–17 | **IN PROGRESS — scans8–15 checked; scans16–17 pending** |
 | E3 | `மணவிழாவில் மசச்சாமி` | 18–25 | **NOT STARTED** |
 | E4 | `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **NOT STARTED** |
 | E5 | `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **NOT STARTED** |
@@ -59,4 +62,4 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 | E8 | `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **NOT STARTED** |
 | E9 | `உண்மையின் உதயம்` | 70–75 | **NOT STARTED** |
 
-Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
+E2 is now active. Do not mark E2 **SOURCE-CHECKED / COMPLETE** until scans16–17 are processed and whole-batch checking passes.
