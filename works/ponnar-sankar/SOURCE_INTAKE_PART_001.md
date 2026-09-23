@@ -130,6 +130,6 @@ Canonical `scan_page` is the global physical scan number **1–75**.
 
 ## Exact next activity
 
-Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer.
+Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer.
 
 Keep **75→76** pending until Part002 is supplied and directly checked. Do not begin Part002 canonical transcription before Part001 final closure.
