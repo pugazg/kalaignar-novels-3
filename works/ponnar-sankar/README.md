@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 ASSEMBLED TAMIL VERIFIED / PASS / CLOSED — ENGLISH PLANNING/SETUP NEXT**
+**PART001 ENGLISH PLANNING/SETUP COMPLETE / PASS — E1 NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -37,6 +37,11 @@
 - assembled section files: **9/9 — scans1–75 / exact canonical coverage 75/75**
 - assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part002 body leakage**
 - assembled validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- English planning/setup: **COMPLETE / PASS**
+- English batches reserved: **E1–E9 / 9**
+- English planned coverage: **scans1–75 / 0 missing / 0 duplicate**
+- English translated/source-checked files: **0/9 / 0/9**
+- English literary prose drafted in planning: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002–Part008: **pending intake / canonical transcription blocked by mandatory Part lock**
@@ -76,7 +81,10 @@
 - `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
+- `translations/en/TRANSLATION_PLAN.md`
+- `translations/en/GLOSSARY.md`
+- `translations/en/PROGRESS.md`
 
 ## Exact next activity
 
-Proceed with **Part001 English translation planning/setup** from the closed verified `sections/` layer. Keep outgoing **75→76** pending until Part002 is supplied, and keep Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **E1 draft + source-check — front matter / scans1–7** from `sections/00-front-matter.md`. Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**. Keep outgoing **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
