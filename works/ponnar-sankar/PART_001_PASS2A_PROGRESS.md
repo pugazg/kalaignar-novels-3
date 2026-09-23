@@ -600,6 +600,4 @@ Post-audit promotion completed later:
 
 ## Exact next activity
 
-Part001 assembled Tamil is now **VERIFIED / PASS / CLOSED** with **9/9** maintained section files and exact canonical coverage **75/75**. Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
-
-Proceed with **E1 draft + source-check — front matter / scans1–7**. Keep outgoing **75→76** pending and keep Part002 canonical transcription blocked until Part001 final closure.
+Part001 is **FINAL CLOSED / FROZEN**. Next activity is **Part002 source intake + direct 75→76 boundary audit when the Part002 source is supplied**. Do not infer Part002 text or range.
