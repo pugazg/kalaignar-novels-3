@@ -2,7 +2,7 @@
 
 ## State
 
-**RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT.**
+**PART001 FINAL CLOSED / FROZEN.**
 
 The Part001 Tamil prerequisites are now closed:
 
@@ -52,7 +52,10 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - whole-Part bilingual review — **PASS / CLOSED — 9/9 pairs / 0 new corrections**
 - release/readiness — **PASS / CLOSED / 0 blockers**
 - durable review records — `TRANSLATION_REVIEW.md`, `BILINGUAL_REVIEW.md`, `RELEASE_REPORT.md`
-- exact next activity — **release-ready synchronization → final Part001 closure**
+- release-ready synchronization — **PASS / CLOSED**
+- final Part001 closure — **PASS / CLOSED / FROZEN**
+- maintained English — **9/9 FROZEN**
+- exact next activity — **Part002 source intake + direct 75→76 boundary audit when source is supplied**
 - Part002 canonical transcription — **BLOCKED until Part001 final closure**
 
 
@@ -70,4 +73,4 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 | E8 | `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **SOURCE-CHECKED / COMPLETE** |
 | E9 | `உண்மையின் உதயம்` | 70–75 | **SOURCE-CHECKED / COMPLETE** |
 
-All E1–E9 source batches, glossary reconciliation, editorial review, bilingual review and release/readiness are closed. Next is release-ready synchronization and final Part001 closure; Part002 remains blocked until closure passes.
+All Part001 English and release gates are closed. Part001 is **FINAL CLOSED / FROZEN**. Part002 is not registered; next activity requires the supplied Part002 source.
