@@ -93,6 +93,4 @@ Assembled Tamil subsequently closed **VERIFIED / PASS / CLOSED** with **9/9** ma
 
 ## Exact next activity
 
-Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer.
-
-Do not begin Part002 canonical transcription until Part001 final closure.
+Part001 is **FINAL CLOSED / FROZEN**. Part002 remains **NOT REGISTERED**; source intake and direct **75→76** boundary audit are required when its PDF is supplied.
