@@ -2,18 +2,18 @@
 
 ## Overall state
 
-**PART001 ENGLISH PLANNING/SETUP — COMPLETE / PASS**
+**PART001 ENGLISH ACTIVE — E1–E5 SOURCE-CHECKED / COMPLETE; E6 IN PROGRESS**
 
-No English literary prose has been drafted.
+English literary translation is active under the maintained 15-physical-scan iteration cadence.
 
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
 | **E1** | section00 — front matter | 1–7 | **SOURCE-CHECKED / COMPLETE** |
 | **E2** | section01 — `நுழைவாயில்` | 8–17 | **SOURCE-CHECKED / COMPLETE** |
 | **E3** | section02 — `மணவிழாவில் மசச்சாமி` | 18–25 | **SOURCE-CHECKED / COMPLETE** |
-| **E4** | section03 — `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **IN PROGRESS — scans26–30 drafted + checked; scans31–33 pending** |
-| **E5** | section04 — `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **NOT STARTED** |
-| **E6** | section05 — `இனிய சூழலும் புதிய சோகமும்` | 43–51 | **NOT STARTED** |
+| **E4** | section03 — `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **SOURCE-CHECKED / COMPLETE** |
+| **E5** | section04 — `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **SOURCE-CHECKED / COMPLETE** |
+| **E6** | section05 — `இனிய சூழலும் புதிய சோகமும்` | 43–51 | **IN PROGRESS — scans43–45 drafted + checked; scans46–51 pending** |
 | **E7** | section06 — `தாமரை நாச்சியின் சபதம்` | 52–60 | **NOT STARTED** |
 | **E8** | section07 — `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **NOT STARTED** |
 | **E9** | section08 — `உண்மையின் உதயம்` / Part001 terminal continuation | 70–75 | **NOT STARTED** |
@@ -32,11 +32,11 @@ No English literary prose has been drafted.
 - Tamil assembled files — **9/9 VERIFIED / PASS / CLOSED**
 - Part001 English planned batches — **E1–E9 / 9**
 - Part001 English planned files — **9**
-- Part001 English complete translated files — **3/9**
-- Part001 English partial translated files — **1** (E4 scans26–30)
-- Part001 English source-checked complete files — **3/9**
-- physical English processing coverage — **scans1–30 / 30 of 75**
-- E4 partial checked coverage — **scans26–30 / 5 of 8 E4 scans**
+- Part001 English complete translated files — **5/9**
+- Part001 English partial translated files — **1** (E6 scans43–45)
+- Part001 English source-checked complete files — **5/9**
+- physical English processing coverage — **scans1–45 / 45 of 75**
+- E6 partial checked coverage — **scans43–45 / 3 of 9 E6 scans**
 - user-set processing cadence — **15 physical scans per iteration**
 - planned source coverage — **scans1–75**
 - missing planned source coverage — **0**
@@ -219,3 +219,48 @@ Continue the **15-physical-page cadence** with **scans31–45**:
 3. begin E6 — scans43–45 only.
 
 Do not process scan46 in that iteration.
+
+## Iteration checkpoint — scans31–45
+
+**15/15 physical scans processed in this iteration.**
+
+E4:
+- scans26–33 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/03-the-guest-lodge-and-the-shed-of-suffering.md`
+- durable check — `E4_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **48 / 48**
+- source-boundary comments — **7 / 7**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E4 holds — **0**
+
+E5:
+- scans34–42 — **SOURCE-CHECKED / COMPLETE**
+- maintained file — `sections/04-joy-and-bewilderment.md`
+- durable check — `E5_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **63 / 63**
+- source-boundary comments — **8 / 8**
+- omissions / duplicates / unsupported insertion — **0 / 0 / 0**
+- unresolved E5 holds — **0**
+
+E6 partial:
+- scans43–45 — **DRAFTED + DIRECTLY CHECKED / IN PROGRESS**
+- maintained partial file — `sections/05-a-pleasant-setting-and-a-new-sorrow.md`
+- planned E6 whole-batch coverage — scans43–51
+- Tamil / English content blocks through scan45 — **20 / 20**
+- source-boundary comments through scan45 — **2 / 2**
+- omissions / duplicates / unsupported insertion through scan45 — **0 / 0 / 0**
+- scans46–51 — **PENDING**
+- `E6_SOURCE_CHECK.md` — **NOT CREATED; whole E6 is not yet closed**
+
+Canonical Tamil edits caused by this iteration — **0**.  
+Assembled Tamil edits caused by this iteration — **0**.  
+Part002 leakage — **0**.
+
+## Exact next activity
+
+Continue the **15-physical-page cadence** with **scans46–60**:
+
+1. finish E6 — scans46–51;
+2. process and close E7 — scans52–60.
+
+That is exactly **15 scans**. Do not process scan61.
