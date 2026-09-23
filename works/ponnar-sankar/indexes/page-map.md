@@ -101,6 +101,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 18 | 93 | 76 | chapter9 continuation; family/background exposition | needs-review | `pages/0093-maniyangurichchi-kurinji-maangal.md` |
 | 002 | 19 | 94 | 77 | chapter9 continuation; பொன்னர் encounters மலைப்பாம்பு | needs-review | `pages/0094-maniyangurichchi-kurinji-maangal.md` |
 | 002 | 20 | 95 | 78 | chapter9 continuation; சங்கர் seized by முதலை; open ending into scan96 | needs-review | `pages/0095-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 21 | 96 | 79 | chapter9 continuation; சங்கர்–முதலை struggle / rescue resolution | needs-review | `pages/0096-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 22 | 97 | 80 | chapter9 continuation; aftermath / names requested / return arrangements | needs-review | `pages/0097-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 23 | 98 | 81 | chapter9 close; மாந்தியப்பன் follows returning women; substantial blank lower field | needs-review | `pages/0098-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 24 | 99 | — | chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` opening; running page not inferred | needs-review | `pages/0099-archchanai-yaar-vayirukku.md` |
+| 002 | 25 | 100 | 83 | chapter10 continuation; temple archchanai discussion begins | needs-review | `pages/0100-archchanai-yaar-vayirukku.md` |
+| 002 | 26 | 101 | 84 | chapter10 continuation; names of rescuers sought | needs-review | `pages/0101-archchanai-yaar-vayirukku.md` |
+| 002 | 27 | 102 | 85 | chapter10 continuation; வையம்பெருமான் joins conversation | needs-review | `pages/0102-archchanai-yaar-vayirukku.md` |
+| 002 | 28 | 103 | 86 | chapter10 continuation; substitute-name idea / தனக்கோடி செட்டியார் mentioned | needs-review | `pages/0103-archchanai-yaar-vayirukku.md` |
+| 002 | 29 | 104 | 87 | chapter10 continuation; குன்றுடையார் identified as நெல்லியங்கோடர் | needs-review | `pages/0104-archchanai-yaar-vayirukku.md` |
+| 002 | 30 | 105 | 88 | chapter10 continuation; family approaches / open introduction into scan106 | needs-review | `pages/0105-archchanai-yaar-vayirukku.md` |
 
 ## Split accounting
 
@@ -112,7 +122,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **2/8**
 - registered physical scan rows: **145**
-- canonical page records: **95 total — Part001 75/75 frozen + Part002 20/70 needs-review**
+- canonical page records: **105 total — Part001 75/75 frozen + Part002 30/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -144,7 +154,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- Part002 Pass1: **IN PROGRESS — 20/70 TEXT-COMPLETE — scans76–95**
-- Part002 Pass1 pending: **50/70 — scans96–145**
+- Part002 Pass1: **IN PROGRESS — 30/70 TEXT-COMPLETE — scans76–105**
+- Part002 Pass1 pending: **40/70 — scans106–145**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass1 Batch3 — scans96–105 / local pages21–30**
+- exact next activity: **Part002 Pass1 Batch4 — scans106–115 / local pages31–40**
