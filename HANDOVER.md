@@ -90,21 +90,23 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - English planning/setup — **COMPLETE / PASS**
 - English batches — **E1–E9 reserved / 9**
 - English planned coverage — **scans1–75 / 0 missing / 0 duplicate**
-- English complete translated/source-checked — **1/9 / 1/9**
+- English complete translated/source-checked — **3/9 / 3/9**
 - E1 — **SOURCE-CHECKED / COMPLETE — scans1–7**
-- E1 durable check — `works/ponnar-sankar/translations/en/E1_SOURCE_CHECK.md`
-- E2 — **IN PROGRESS — scans8–15 drafted + checked / scans16–17 pending**
-- English physical processing coverage — **scans1–15 / 15 of 75**
+- E2 — **SOURCE-CHECKED / COMPLETE — scans8–17**
+- E3 — **SOURCE-CHECKED / COMPLETE — scans18–25**
+- durable source checks — `works/ponnar-sankar/translations/en/E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.md`
+- E4 — **IN PROGRESS — scans26–30 drafted + checked / scans31–33 pending**
+- English physical processing coverage — **scans1–30 / 30 of 75**
 - English cadence — **15 physical scans per iteration**
 - active English controls — `works/ponnar-sankar/translations/en/TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
-- English exact next activity — **scans16–30: finish E2, complete E3, begin E4 through scan30**
+- English exact next activity — **scans31–45: finish E4, complete E5, begin E6 through scan45**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — English scans16–30 frontier / 15-page cadence**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to English scans31–45 frontier / 15-page cadence**
 
 ## Exact next activity
 
-Continue the user-set **15-physical-page cadence** with **scans16–30**: finish E2 scans16–17, complete E3 scans18–25, and begin E4 scans26–30. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
+Continue the user-set **15-physical-page cadence** with **scans31–45**: finish E4 scans31–33, complete E5 scans34–42, and begin E6 scans43–45. Do not process scan46. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
