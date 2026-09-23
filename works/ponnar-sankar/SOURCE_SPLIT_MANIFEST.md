@@ -11,7 +11,7 @@
 
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
-| 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **RELEASE/READINESS PASS / FINAL CLOSURE PENDING** |
+| 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
 | 002 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -51,9 +51,11 @@
 - whole-Part bilingual review: **PASS / CLOSED**
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
+- release-ready synchronization: **PASS / CLOSED**
+- Part001 final closure: **PASS / CLOSED / FROZEN**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Release-ready synchronization → final Part001 closure — next activity.**
+**Part002 source intake + direct 75→76 boundary audit when source is supplied — next activity.**
