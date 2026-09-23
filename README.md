@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 ASSEMBLED TAMIL — VERIFIED / PASS / CLOSED — 75/75 canonical coverage; 9/9 assembled section files; English planning/setup next**
+- current state: **Part001 ENGLISH PLANNING/SETUP — COMPLETE / PASS — E1 draft + source-check next; Tamil assembled 9/9 closed**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
@@ -43,6 +43,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer. Do not alter canonical or assembled Tamil during English setup.
+Proceed with **E1 draft + source-check — front matter / scans1–7** from the closed verified assembled Tamil layer. Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**.
 
 Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
