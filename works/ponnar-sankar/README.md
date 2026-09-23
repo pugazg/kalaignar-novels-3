@@ -58,8 +58,8 @@
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002: **REGISTERED / COMPLETE — 70 local pages / scans76–145**
-- Part002 Pass1: **IN PROGRESS — 20/70 TEXT-COMPLETE — scans76–95**
-- Part002 Pass1 pending: **50/70 — scans96–145**
+- Part002 Pass1: **IN PROGRESS — 30/70 TEXT-COMPLETE — scans76–105**
+- Part002 Pass1 pending: **40/70 — scans106–145**
 - Part003–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 outgoing boundary 145→146: **PENDING Part003 witness**
@@ -104,6 +104,6 @@
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass1 Batch4 — global scans106–115 / local pages31–40**.
 
 Keep Part001 frozen, keep new Part002 records `needs-review`, and do not begin Pass2A until all **70/70** Part002 scans are text-complete.
