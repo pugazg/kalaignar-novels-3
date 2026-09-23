@@ -9,12 +9,14 @@
 - working source: **8 split PDFs**, each **not more than 50 MB**
 - split method: **file-size based**, therefore page counts per Part are not assumed
 - source family / archive identifier: **TVA_BOK_0065560**
-- Part001: **REGISTERED / 75 local pages / global scans1–75**
+- Part001: **FINAL CLOSED / FROZEN — 75 local pages / global scans1–75**
+- Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 FINAL CLOSED / FROZEN; Tamil assembled 9/9 frozen; English 9/9 frozen**
+- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass1 ACTIVE — 10/70 TEXT-COMPLETE**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-- outgoing Part001 boundary **75→76**: **pending Part002 witness**
+- Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing Part002 boundary **145→146**: **PENDING Part003 witness**
 
 ## Workflow
 
@@ -43,6 +45,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Part001 is **FINAL CLOSED / FROZEN** after release-ready synchronization and no-post-release-drift verification. Next: **Part002 source intake + direct 75→76 boundary audit when the Part002 source is supplied**.
+Process **Part002 Pass1 Batch2 — scans86–95 / local pages11–20**.
 
-Part002 has not yet been registered. When supplied, its first scan will be used as the direct witness for the pending **75→76** boundary before canonical transcription begins.
+Part001 remains frozen. Pass2A remains blocked until Part002 Pass1 covers all 70 physical scans.
