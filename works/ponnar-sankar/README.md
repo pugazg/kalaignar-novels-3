@@ -2,14 +2,14 @@
 
 ## Archive state
 
-**PART001 PART001 FINAL CLOSED / FROZEN**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS1 ACTIVE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
 - each split: **<=50 MB**
 - source family: **TVA_BOK_0065560**
 - total physical scans for complete work: **pending remaining Part intakes**
-- registered physical scans: **75**
+- registered physical scans: **145 — Parts001–002**
 - canonical page records: **75/75 — scans1–75**
 - Pass1 textual transcriptions: **74/75 — scans1–15,17–75**
 - Pass1 image-preserved page: **1/75 — scan16 map plate**
@@ -57,8 +57,12 @@
 - English Part002 leakage: **0**
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
-- Part002–Part008: **pending intake / NOT REGISTERED**
-- Part001 outgoing boundary 75→76: **PENDING Part002 witness**
+- Part002: **REGISTERED / COMPLETE — 70 local pages / scans76–145**
+- Part002 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans76–85**
+- Part002 Pass1 pending: **60/70 — scans86–145**
+- Part003–Part008: **pending intake / NOT REGISTERED**
+- Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
+- Part002 outgoing boundary 145→146: **PENDING Part003 witness**
 
 ## Authority
 
@@ -100,4 +104,6 @@
 
 ## Exact next activity
 
-Part001 is **FINAL CLOSED / FROZEN**. Next: **Part002 source intake + direct 75→76 boundary audit when the Part002 PDF is supplied**. Do not infer a Part002 range or text.
+Process **Part002 Pass1 Batch2 — global scans86–95 / local pages11–20**.
+
+Keep Part001 frozen, keep new Part002 records `needs-review`, and do not begin Pass2A until all **70/70** Part002 scans are text-complete.
