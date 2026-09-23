@@ -5,10 +5,10 @@ layer: "translation"
 section_order: 1
 section_title: "Entrance"
 language: "en"
-translation_status: "in-progress"
+translation_status: "source-checked"
 batch: "E2"
 source_section: "../../../sections/01-nuzhaivaayil.md"
-source_scans: "8-15"
+source_scans: "8-17"
 planned_source_scans: "8-17"
 canonical_source: "../../../pages/"
 working_title: "Ponnar Sankar"
@@ -122,4 +122,10 @@ Though we lie divided into so many castes that one can only wonder—and grieve�
 
 With that heartfelt feeling, and with the confidence that I will receive the support of all the people of the great Tamil community, I begin this historical serial story.
 
-<!-- E2 iteration stop: scan 15 processed; scans16–17 pending -->
+<!-- source boundary: scan 15 → scan 16 -->
+
+<!-- scan 16: verified image-backed map plate; no English literary text; map labels not reconstructed -->
+
+<!-- source boundary: scan 16 → scan 17 -->
+
+<!-- scan 17: blank/reverse-show-through structural page; no English literary text -->
