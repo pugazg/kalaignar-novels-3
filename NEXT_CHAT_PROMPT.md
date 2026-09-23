@@ -1,16 +1,6 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / English scans46–60 — finish E6 + complete E7
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part001 whole-Part English glossary reconciliation
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
-
-## User-set cadence
-
-Process **15 physical source scans per iteration**.
-
-Completed physical English coverage: **scans1–45 / 45 scans**.
-
-This iteration must process exactly **scans46–60 / 15 scans**.
-
-Do not process scan61 in this iteration.
 
 ## Read first
 
@@ -19,141 +9,135 @@ Do not process scan61 in this iteration.
 3. `works/ponnar-sankar/translations/en/GLOSSARY.md`
 4. `works/ponnar-sankar/translations/en/PROGRESS.md`
 5. `works/ponnar-sankar/translations/en/README.md`
-6. `works/ponnar-sankar/translations/en/E4_SOURCE_CHECK.md`
-7. `works/ponnar-sankar/translations/en/E5_SOURCE_CHECK.md`
-8. `works/ponnar-sankar/translations/en/sections/05-a-pleasant-setting-and-a-new-sorrow.md`
-9. `works/ponnar-sankar/sections/05-iniya-soozhalum-puthiya-sogamum.md`
-10. `works/ponnar-sankar/sections/06-thaamarai-naachchiyin-sapatham.md`
-11. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
+6. `works/ponnar-sankar/translations/en/E1_SOURCE_CHECK.md` through `E9_SOURCE_CHECK.md`
+7. all **9/9** maintained English files under `works/ponnar-sankar/translations/en/sections/`
+8. all **9/9** verified assembled Tamil files under `works/ponnar-sankar/sections/`
+9. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 
 Refetch live `main` before editing and again after the activity.
 
 ## Durable current state
 
+Tamil:
+
 - canonical Tamil — **75/75 verified**
 - visual fidelity — **75/75 verified**
 - Tamil archival-ready — **PASS / COMPLETE**
 - assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9**
-- English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E1–E9**
-- user-set English cadence — **15 physical scans per iteration**
-- E1 / scans1–7 — **SOURCE-CHECKED / COMPLETE**
-- E2 / scans8–17 — **SOURCE-CHECKED / COMPLETE**
-- E3 / scans18–25 — **SOURCE-CHECKED / COMPLETE**
-- E4 / scans26–33 — **SOURCE-CHECKED / COMPLETE**
-- E5 / scans34–42 — **SOURCE-CHECKED / COMPLETE**
-- E6 / scans43–51 — **IN PROGRESS**
-- E6 scans43–45 — **DRAFTED + DIRECTLY CHECKED**
-- E6 Tamil/English content blocks through scan45 — **20/20**
-- E6 source-boundary comments through scan45 — **2/2**
-- E6 scans46–51 — **PENDING**
-- E6 source-check record — **NOT YET CREATED**
-- English physical processing coverage — **scans1–45 / 45 of 75**
-- complete translated/source-checked files — **5/9 / 5/9**
-- canonical / assembled Tamil edits caused by English — **0 / 0**
+- canonical / assembled Tamil mutations caused by English work — **0 / 0**
+
+English:
+
+- translation planning/setup — **COMPLETE / PASS**
+- batches — **E1–E9**
+- E1–E9 — **SOURCE-CHECKED / COMPLETE**
+- maintained English files — **9/9**
+- source-check records — **9/9**
+- physical English source coverage — **scans1–75 / 75 of 75**
+- partial English files — **0**
+- cross-batch Tamil/English block-accounting mismatches — **0**
+- maintained English files with Tamil-script leakage — **0**
 - Part002 leakage — **0**
+- latest user-directed page iteration — **scans46–75 / 30 physical scans**
 - outgoing **75→76 — PENDING Part002 direct witness**
-- Part002 canonical transcription — **BLOCKED until Part001 final closure**
 
-## Authoritative chapter titles
+The page-translation stage is now complete for Part001.
 
-Use these exact Tamil source titles in controls:
+## Exact activity — whole-Part English glossary reconciliation
 
-1. `மணவிழாவில் மசச்சாமி`
-2. `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்`
-3. `மகிழ்ச்சியும் மருட்சியும்`
-4. `இனிய சூழலும் புதிய சோகமும்`
-5. `தாமரை நாச்சியின் சபதம்`
-6. `பெயர் சொல்லாப் பட்டணம்`
-7. `உண்மையின் உதயம்`
+Create:
 
-Do not reintroduce superseded title readings.
+`works/ponnar-sankar/translations/en/GLOSSARY_RECONCILIATION.md`
 
-# Exact activity — process scans46–60
+Result may be marked **RECONCILED / PASS** only after all **9/9** English files have been checked together.
 
-## A. Finish E6 — scans46–51
+### Authority
 
-Tamil authority:
+1. `works/ponnar-sankar/pages/` — canonical verified Tamil; controlling authority.
+2. `works/ponnar-sankar/sections/` — closed verified assembled Tamil.
+3. `works/ponnar-sankar/translations/en/sections/` — derived source-checked English.
+4. `works/ponnar-sankar/translations/en/GLOSSARY.md` — active English handling record.
 
-`works/ponnar-sankar/sections/05-iniya-soozhalum-puthiya-sogamum.md`
+No web, published translation, remembered wording, external historical spelling, modern geographic normalization or outside cultural glossary is an authority.
 
-Current maintained English:
+### Reconciliation scope
 
-`works/ponnar-sankar/translations/en/sections/05-a-pleasant-setting-and-a-new-sorrow.md`
+Check all nine English files together for:
 
-Requirements:
+- recurring personal names;
+- place-name spelling;
+- titles, offices and honorifics;
+- kinship terms;
+- source-specific name and lexical variants;
+- wedding/ritual terminology;
+- social/community terminology;
+- recurring historical/political vocabulary;
+- literary/work titles;
+- transliteration drift;
+- accidental English spelling variants;
+- source-facing retained terms;
+- scan16 non-text map integrity;
+- scans5, 7 and17 blank-page integrity;
+- Part001 terminal boundary integrity at scan75.
 
-- process **scans46–51 only** to finish E6;
-- preserve existing scans43–45 English unless a direct source-check defect is found;
-- preserve physical source order and source-boundary provenance;
-- translate the remaining E6 text only from verified assembled Tamil;
-- preserve source-presented political/social/historical claims as source voice;
-- use the active glossary for names, kinship and source-sensitive wedding/ritual terminology;
-- compare the whole E6 file against assembled Tamil scans43–51;
-- require omissions / duplicates / unsupported English insertion — **0 / 0 / 0**;
-- require canonical / assembled Tamil edits — **0 / 0**;
-- create `translations/en/E6_SOURCE_CHECK.md` only after whole E6 passes;
-- promote E6 to **SOURCE-CHECKED / COMPLETE**.
+### Deliberate source distinctions that must not be silently collapsed
 
-## B. Process and close E7 — scans52–60
+At minimum protect and re-check:
 
-Tamil authority:
+- title `மசச்சாமி` → **Masachchaami**
+- body `மச்சசாமி` → **Machchasaami**
+- body `மச்சக்கவுண்டன்` → **Machcha Gounder**
+- `மாதியப்பக் கவுண்டர்` / `மாந்தியப்பன்` → **Mathiyappa Gounder / Maanthiyappan** by source occurrence
+- `நாச்சி` / `நாச்சியார்` distinctions where meaningful
+- `அத்தை`, `அத்தான்`, `மாமா`, `அண்ணா`, `தம்பி` — context-sensitive handling
+- source-facing personal/place forms such as **Malaikkozhundha Gounder**, **Chinnamalaik Kozhundhu**, **Nelliyangodan**, **Kolaatha Gounder**, **Pavalaathaal**, **Chellaatha Gounder**, **Thalaiyur Kaali**, **Maayavar**, **Raakkiyannan**, **Vaangalayi**, **Nelli Valanaadu**, **Sirraalai Pattinam**, **Oththamaanthurai**, **Maarikkavundan Paalayam**
+- source-facing retained vocabulary such as *karaiyaan*, *sellu*, *vallam*, *naazhi*, *kal*, *sokkattan*, *udukkadi*, *pangali*, *perigai*, *muhurtha kaal*, *arumaikkarar*, *arumaip periyor*, *naattaar sabai*, *karagam*, *mangala naan*, *moikkaalari*, *arugumanam*, *paadha poosai*, *nalangiduthal*, *seervarisai*, *kattari*, *silambam*, *kudamuzhukku*, *kaani*, *vihara*, *palli*.
 
-`works/ponnar-sankar/sections/06-thaamarai-naachchiyin-sapatham.md`
+Deliberate source variation is not an error merely because cosmetic English uniformity is possible.
 
-Planned English file:
+### Reconciliation standard
 
-`works/ponnar-sankar/translations/en/sections/06-thamarai-naachchis-vow.md`
+For each recurring form:
 
-Batch: **E7**
+1. identify every English occurrence across the nine files;
+2. compare with the immediate Tamil source occurrence;
+3. distinguish accidental English drift from deliberate source-derived variation;
+4. correct only genuine English inconsistency or typo;
+5. do not feed any reconciliation change back into canonical or assembled Tamil;
+6. do not import outside standardized spelling;
+7. record every English-only textual correction in `GLOSSARY_RECONCILIATION.md`;
+8. if no English section change is justified, record **English section files changed — 0** rather than polishing for its own sake.
 
-Physical coverage: **scans52–60 / 9 scans**
+### Whole-Part structural checks
 
-Requirements:
+Require:
 
-- translate the complete section from verified assembled Tamil only;
-- authoritative Tamil chapter title remains `தாமரை நாச்சியின் சபதம்`;
-- use the glossary and source-facing names/kinship/cultural terminology;
-- preserve paragraph/dialogue/display order and physical source-boundary provenance;
-- do not silently normalize source-sensitive forms;
-- source-check the complete E7 section;
-- create `translations/en/E7_SOURCE_CHECK.md` only after the complete batch passes;
-- require omissions / duplicates / unsupported English insertion — **0 / 0 / 0**;
-- require canonical / assembled Tamil edits — **0 / 0**;
-- mark E7 **SOURCE-CHECKED / COMPLETE**.
+- English files checked — **9/9**
+- source-check records already closed — **9/9**
+- unresolved glossary holds — **0**
+- accidental English spelling/romanization drift unresolved — **0**
+- canonical Tamil edits caused by reconciliation — **0**
+- assembled Tamil edits caused by reconciliation — **0**
+- Part002 imported content — **0**
 
-## Translation discipline
+Reconfirm scan16:
 
-For all translated text:
+- map remains non-text in English;
+- reconstructed/translated map labels — **0**.
 
-- derive English only from closed verified assembled Tamil;
-- canonical `pages/` remain final Tamil authority if a source-reading issue arises;
-- no OCR, web text, alternate edition, remembered text or published translation;
-- preserve narrator and speaker agency;
-- preserve source claims as source claims;
-- preserve names, titles, kinship distinctions and culturally specific forms according to the glossary;
-- no explanatory history, religion, geography, caste/community background or folklore absent from Tamil;
-- no silent Tamil correction through English;
-- no Part002 content.
+Reconfirm scans5, 7 and17:
 
-## Iteration closure accounting
+- invented English literary text — **0**.
 
-At the end of this iteration, expected cumulative English physical coverage is:
+Reconfirm scan75:
 
-**scans1–60 / 60 of 75**
+- English ends at the verified Part001 continuation point;
+- outgoing **75→76 remains PENDING Part002 direct witness**;
+- scan76 English imported/inferred — **0**.
 
-Expected batch state:
+## Documentation synchronization
 
-- E1 — **SOURCE-CHECKED / COMPLETE**
-- E2 — **SOURCE-CHECKED / COMPLETE**
-- E3 — **SOURCE-CHECKED / COMPLETE**
-- E4 — **SOURCE-CHECKED / COMPLETE**
-- E5 — **SOURCE-CHECKED / COMPLETE**
-- E6 — **SOURCE-CHECKED / COMPLETE**
-- E7 — **SOURCE-CHECKED / COMPLETE**
-- E8–E9 — **NOT STARTED**
-
-Synchronize:
+After reconciliation closes, synchronize:
 
 - `translations/en/GLOSSARY.md`
 - `translations/en/PROGRESS.md`
@@ -165,23 +149,20 @@ Synchronize:
 - manifest/page-map current frontier where applicable
 - `NEXT_CHAT_PROMPT.md`
 
-## Next iteration after successful closure
+## Next gate after reconciliation
 
-With the 15-page cadence, the final Part001 English source range will be **scans61–75**:
+**English editorial review — all 9 English files / scans1–75.**
 
-- complete E8 scans61–69;
-- complete E9 scans70–75.
+Do not begin the editorial review in the same activity unless explicitly requested.
 
-That is exactly **15 scans**.
-
-The outgoing **75→76** boundary remains **PENDING Part002 direct witness**; do not import or infer scan76.
-
-After E8 and E9 close, move to whole-Part English glossary reconciliation and the remaining maintained release gates. Do not begin Part002 canonical transcription.
+Do not begin bilingual review, release/readiness, final Part closure or Part002 canonical transcription before the required preceding gates close.
 
 ## Mandatory locks
 
 - **LIVE MAIN IS AUTHORITATIVE**
 - canonical Tamil remains controlling
 - assembled Tamil remains frozen
+- English reconciliation must not normalize deliberate source variants
+- scan16 remains image-backed/non-text in English
 - outgoing **75→76 remains pending**
 - Part002 canonical transcription remains blocked until Part001 final closure
