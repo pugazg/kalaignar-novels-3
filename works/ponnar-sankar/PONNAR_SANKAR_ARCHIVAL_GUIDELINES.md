@@ -204,8 +204,10 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - E1–E9 — **SOURCE-CHECKED / COMPLETE**
 - English physical processing coverage — **scans1–75 / 75 of 75**
 - latest user-directed page iteration — **30 scans / scans46–75**
-- whole-Part glossary reconciliation — **READY / NEXT**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary reconciliation section edits — **0**
+- unresolved glossary holds — **0**
 - English block-accounting mismatches — **0**
 - English Part002 leakage — **0**
 - active English controls — `translations/en/TRANSLATION_PLAN.md`, `translations/en/GLOSSARY.md`, `translations/en/PROGRESS.md`
-- exact next activity — **whole-Part English glossary reconciliation — scans1–75 / 9 files**
+- exact next activity — **English editorial review — all 9 maintained English files / scans1–75**
