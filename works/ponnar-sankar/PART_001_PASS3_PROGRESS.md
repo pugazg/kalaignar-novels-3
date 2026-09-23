@@ -204,4 +204,6 @@ Active Part:
 
 ## Exact next activity
 
-The **Part001 whole-Part audit is PASS / COMPLETE with 0 blockers**. Final metadata/status synchronization is **COMPLETE — 75/75 promoted**, and Tamil archival-ready is **PASS / COMPLETE**. Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit**. See `PART_001_AUDIT.md`.
+Part001 assembled Tamil is now **VERIFIED / PASS / CLOSED** with **9/9** maintained section files and exact canonical coverage **75/75**. Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+Proceed with **Part001 English translation planning/setup**. Keep outgoing **75→76** pending and keep Part002 canonical transcription blocked until Part001 final closure.
