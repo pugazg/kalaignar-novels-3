@@ -22,6 +22,7 @@ Source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_0
 - first source-visible running printed page: **59** on local page1 / scan76
 - chapter7 `உண்மையின் உதயம்` continues from Part001 into Part002
 - chapter8 `கரகம் விடும் திருவிழா` opens at local page6 / global scan81
+- chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` opens at local page15 / global scan90
 
 ## Boundary state
 
@@ -59,11 +60,13 @@ Canonical `scan_page` remains the global physical scan number.
 ## Pass1 activation result
 
 - Batch1 / scans76–85 — **COMPLETE / 10 TEXT-COMPLETE**
-- pending — **60/70 — scans86–145**
+- Batch2 / scans86–95 — **COMPLETE / 10 TEXT-COMPLETE**
+- cumulative Pass1 — **20/70 TEXT-COMPLETE**
+- pending — **50/70 — scans96–145**
 - Pass2A — **BLOCKED**
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch2 — global scans86–95 / local pages11–20**.
+Process **Part002 Pass1 Batch3 — global scans96–105 / local pages21–30**.
 
 Do not begin Pass2A until Pass1 covers all **70/70** Part002 physical pages.
