@@ -36,9 +36,12 @@
 - Part001 final metadata/status synchronization: **COMPLETE — 75/75 status verified / 75/75 visual verified**
 - Part001 Tamil archival-ready: **PASS / COMPLETE**
 - durable Tamil archival-ready checkpoint: `PART_001_TAMIL_ARCHIVAL_READY.md`
+- Part001 assembled Tamil: **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
+- Part001 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical page mutations / 0 Part002 body leakage**
+- durable assembled-Tamil validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 assembled Tamil construction + exact canonical-coverage audit — next gate.**
+**Part001 English translation planning/setup — next gate.**
