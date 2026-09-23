@@ -2,7 +2,7 @@
 
 ## State
 
-**E1 SOURCE-CHECKED / COMPLETE — E2 IN PROGRESS THROUGH SCAN15.**
+**E1–E3 SOURCE-CHECKED / COMPLETE — E4 IN PROGRESS THROUGH SCAN30.**
 
 The Part001 Tamil prerequisites are now closed:
 
@@ -38,13 +38,13 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - reserved batches — **E1–E9 / 9**
 - planned English files — **9**
 - planned source coverage — **scans1–75 / 0 missing / 0 duplicate**
-- complete translated/source-checked files — **1/9 / 1/9**
-- partial translated files — **1** (E2 scans8–15)
-- physical English processing coverage — **scans1–15 / 15 of 75**
+- complete translated/source-checked files — **3/9 / 3/9**
+- partial translated files — **1** (E4 scans26–30)
+- physical English processing coverage — **scans1–30 / 30 of 75**
 - user-set cadence — **15 physical scans per iteration**
 - active controls — `TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
-- E1 durable check — `E1_SOURCE_CHECK.md`
-- exact next activity — **scans16–30: finish E2 scans16–17, complete E3 scans18–25, begin E4 scans26–30**
+- durable source checks — `E1_SOURCE_CHECK.md`, `E2_SOURCE_CHECK.md`, `E3_SOURCE_CHECK.md`
+- exact next activity — **scans31–45: finish E4 scans31–33, complete E5 scans34–42, begin E6 scans43–45**
 - Part002 canonical transcription — **BLOCKED until Part001 final closure**
 
 
@@ -53,13 +53,13 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 | Batch | Source | Scans | Status |
 |---|---|---:|---|
 | E1 | front matter | 1–7 | **SOURCE-CHECKED / COMPLETE** |
-| E2 | `நுழைவாயில்` | 8–17 | **IN PROGRESS — scans8–15 checked; scans16–17 pending** |
-| E3 | `மணவிழாவில் மசச்சாமி` | 18–25 | **NOT STARTED** |
-| E4 | `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **NOT STARTED** |
+| E2 | `நுழைவாயில்` | 8–17 | **SOURCE-CHECKED / COMPLETE** |
+| E3 | `மணவிழாவில் மசச்சாமி` | 18–25 | **SOURCE-CHECKED / COMPLETE** |
+| E4 | `விருந்தினர் விடுதியும் வேதனை கொட்டடியும்` | 26–33 | **IN PROGRESS — scans26–30 checked; scans31–33 pending** |
 | E5 | `மகிழ்ச்சியும் மருட்சியும்` | 34–42 | **NOT STARTED** |
 | E6 | `இனிய சூழலும் புதிய சோகமும்` | 43–51 | **NOT STARTED** |
 | E7 | `தாமரை நாச்சியின் சபதம்` | 52–60 | **NOT STARTED** |
 | E8 | `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **NOT STARTED** |
 | E9 | `உண்மையின் உதயம்` | 70–75 | **NOT STARTED** |
 
-E2 is now active. Do not mark E2 **SOURCE-CHECKED / COMPLETE** until scans16–17 are processed and whole-batch checking passes.
+E4 is now active. Do not mark E4 **SOURCE-CHECKED / COMPLETE** until scans31–33 are processed and whole-batch checking passes.
