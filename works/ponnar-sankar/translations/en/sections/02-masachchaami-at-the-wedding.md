@@ -75,7 +75,7 @@ Seeing the wedding celebration blaze into splendour beyond anything one could ig
 
 At the pavilion where Thamarai Naachchiyar was distributing food grain, it could be said that nearly three-fourths of the crowd had already dispersed. She too had become extremely tired and weary.
 
-“What is this, Thamarai! You're already so tired today? There is still everything that comes after tomorrow's wedding. They say the bridegroom is terribly rough—what are you going to do then?”
+“What is this, Thamarai! You're already so tired today? Tomorrow's wedding is still ahead—and so is everything that comes after it. They say the bridegroom is terribly rough—what are you going to do then?”
 
 a mischievous friend asked softly.
 
