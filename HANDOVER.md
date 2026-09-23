@@ -138,7 +138,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **to be synchronized to Part002 Pass1 Batch3 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass1 Batch3 frontier**
 
 ## Exact next activity
 
