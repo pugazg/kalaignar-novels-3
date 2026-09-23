@@ -87,7 +87,13 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - durable Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_001_TAMIL_ARCHIVAL_READY.md`
 - assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
 - assembled-Tamil validation — `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
-- English — **NOT STARTED / NEXT — translation planning/setup**
+- English planning/setup — **COMPLETE / PASS**
+- English batches — **E1–E9 reserved / 9**
+- English planned coverage — **scans1–75 / 0 missing / 0 duplicate**
+- English translated/source-checked — **0/9 / 0/9**
+- English literary prose drafted during setup — **0**
+- active English controls — `works/ponnar-sankar/translations/en/TRANSLATION_PLAN.md`, `GLOSSARY.md`, `PROGRESS.md`
+- English exact next gate — **E1 draft + source-check / front matter / scans1–7**
 - Parts002–Part008 — **not registered**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
@@ -97,4 +103,4 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 
 ## Exact next activity
 
-Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer. Keep **75→76** pending until Part002 is supplied and keep Part002 canonical transcription blocked until Part001 final closure.
+Proceed with **E1 draft + source-check — front matter / scans1–7** from `works/ponnar-sankar/sections/00-front-matter.md`. Do not begin E2 until E1 is **SOURCE-CHECKED / COMPLETE**. Keep **75→76** pending and Part002 canonical transcription blocked until Part001 final closure.
