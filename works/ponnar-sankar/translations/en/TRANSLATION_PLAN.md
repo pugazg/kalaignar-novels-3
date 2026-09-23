@@ -1,6 +1,6 @@
 # English Translation Plan — பொன்னர் சங்கர் / Part001
 
-Status: **E1–E9 SOURCE-CHECKED / COMPLETE — GLOSSARY RECONCILIATION NEXT**
+Status: **WHOLE-PART GLOSSARY RECONCILED / PASS — ENGLISH EDITORIAL REVIEW NEXT**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -293,10 +293,24 @@ The original E-batch boundaries remain authoritative; the 15-scan iteration cade
 
 The 30-page instruction overrides the earlier 15-page iteration limit for this iteration only. No scan76 content was used.
 
+## Whole-Part glossary reconciliation result
+
+**RECONCILED / PASS**
+
+- durable report — `GLOSSARY_RECONCILIATION.md`
+- English files reconciled — **9/9**
+- English section files changed — **0**
+- unresolved glossary holds — **0**
+- accidental recurring-term drift unresolved — **0**
+- deliberate source variants normalized away — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part002 leakage — **0**
+- outgoing 75→76 — **PENDING Part002 direct witness**
+
 ## Exact next gate
 
-**Whole-Part English glossary reconciliation — scans1–75 / 9 maintained English files.**
+**English editorial review — all 9 maintained English files / scans1–75.**
 
-After reconciliation: English editorial review → whole-Part bilingual review → release/readiness → release-ready synchronization → no-post-release textual-drift verification → Part001 final closure/freeze.
+After editorial review: whole-Part bilingual review → release/readiness → release-ready synchronization → no-post-release textual-drift verification → Part001 final closure/freeze.
 
 Part002 canonical transcription remains blocked until Part001 final closure.
