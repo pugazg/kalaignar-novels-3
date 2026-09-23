@@ -39,9 +39,11 @@
 - Part001 assembled Tamil: **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 75/75**
 - Part001 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical page mutations / 0 Part002 body leakage**
 - durable assembled-Tamil validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part001 English planning/setup: **COMPLETE / PASS — E1–E9 reserved**
+- Part001 English translated/source-checked: **0/9 / 0/9**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Part001 English translation planning/setup — next gate.**
+**E1 draft + source-check — front matter / scans1–7 — next gate.**
