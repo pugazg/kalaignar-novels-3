@@ -2,7 +2,7 @@
 
 ## State
 
-**WHOLE-PART GLOSSARY RECONCILED / PASS — ENGLISH EDITORIAL REVIEW NEXT.**
+**RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT.**
 
 The Part001 Tamil prerequisites are now closed:
 
@@ -48,7 +48,11 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - canonical / assembled Tamil edits caused by English — **0 / 0**
 - whole-Part glossary reconciliation — **RECONCILED / PASS — 9/9 files / 0 section edits / 0 unresolved holds**
 - durable reconciliation — `GLOSSARY_RECONCILIATION.md`
-- exact next activity — **English editorial review — all 9 maintained English files / scans1–75**
+- English editorial review — **PASS / CLOSED — 3 English-only corrections**
+- whole-Part bilingual review — **PASS / CLOSED — 9/9 pairs / 0 new corrections**
+- release/readiness — **PASS / CLOSED / 0 blockers**
+- durable review records — `TRANSLATION_REVIEW.md`, `BILINGUAL_REVIEW.md`, `RELEASE_REPORT.md`
+- exact next activity — **release-ready synchronization → final Part001 closure**
 - Part002 canonical transcription — **BLOCKED until Part001 final closure**
 
 
@@ -66,4 +70,4 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 | E8 | `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **SOURCE-CHECKED / COMPLETE** |
 | E9 | `உண்மையின் உதயம்` | 70–75 | **SOURCE-CHECKED / COMPLETE** |
 
-All E1–E9 source batches are closed and the whole-Part glossary is **RECONCILED / PASS**. Next is English editorial review; Part002 remains blocked until Part001 final closure.
+All E1–E9 source batches, glossary reconciliation, editorial review, bilingual review and release/readiness are closed. Next is release-ready synchronization and final Part001 closure; Part002 remains blocked until closure passes.
