@@ -1,6 +1,6 @@
 # English Translation Plan — பொன்னர் சங்கர் / Part001
 
-Status: **RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+Status: **PART001 FINAL CLOSED / FROZEN**
 
 This is the control plan for the project-created English translation of **Part001 only**.
 
@@ -316,8 +316,14 @@ The 30-page instruction overrides the earlier 15-page iteration limit for this i
 - release/readiness report — **PASS / CLOSED**
 - unresolved release/readiness blockers — **0**
 
+## Final lifecycle state
+
+- release-ready synchronization — **PASS / CLOSED**
+- no-post-release textual drift — **0**
+- Part001 final closure — **PASS / CLOSED / FROZEN**
+- Part001 maintained English — **FROZEN**
+- Part002 — **NOT REGISTERED / awaiting source intake**
+
 ## Exact next gate
 
-**Release-ready synchronization**, followed by no-post-release textual-drift verification and **Part001 final closure / freeze**.
-
-Part002 canonical transcription remains blocked until Part001 final closure.
+**Part002 source intake + direct 75→76 boundary audit when source is supplied.**
