@@ -2,7 +2,7 @@
 
 ## State
 
-**E1–E9 SOURCE-CHECKED / COMPLETE — WHOLE-PART GLOSSARY RECONCILIATION NEXT.**
+**WHOLE-PART GLOSSARY RECONCILED / PASS — ENGLISH EDITORIAL REVIEW NEXT.**
 
 The Part001 Tamil prerequisites are now closed:
 
@@ -46,7 +46,9 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 - durable source checks — **E1_SOURCE_CHECK.md through E9_SOURCE_CHECK.md**
 - cross-batch block-accounting mismatches — **0**
 - canonical / assembled Tamil edits caused by English — **0 / 0**
-- exact next activity — **whole-Part English glossary reconciliation — scans1–75 / 9 files**
+- whole-Part glossary reconciliation — **RECONCILED / PASS — 9/9 files / 0 section edits / 0 unresolved holds**
+- durable reconciliation — `GLOSSARY_RECONCILIATION.md`
+- exact next activity — **English editorial review — all 9 maintained English files / scans1–75**
 - Part002 canonical transcription — **BLOCKED until Part001 final closure**
 
 
@@ -64,4 +66,4 @@ No English activity may silently modify canonical Tamil or normalize source-sens
 | E8 | `பெயர் சொல்லாப் பட்டணம்` | 61–69 | **SOURCE-CHECKED / COMPLETE** |
 | E9 | `உண்மையின் உதயம்` | 70–75 | **SOURCE-CHECKED / COMPLETE** |
 
-All E1–E9 source batches are closed. Next is whole-Part glossary reconciliation; Part002 remains blocked until Part001 final closure.
+All E1–E9 source batches are closed and the whole-Part glossary is **RECONCILED / PASS**. Next is English editorial review; Part002 remains blocked until Part001 final closure.
