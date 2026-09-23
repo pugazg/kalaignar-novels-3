@@ -56,8 +56,14 @@ Canonical `scan_page` remains the global physical scan number.
 - [x] incoming boundary directly audited
 - [x] outgoing boundary left pending until Part003 adjacent witness
 
+## Pass1 activation result
+
+- Batch1 / scans76–85 — **COMPLETE / 10 TEXT-COMPLETE**
+- pending — **60/70 — scans86–145**
+- Pass2A — **BLOCKED**
+
 ## Exact next activity
 
-Begin **Part002 Pass1 Batch1 — global scans76–85 / local pages1–10**.
+Process **Part002 Pass1 Batch2 — global scans86–95 / local pages11–20**.
 
 Do not begin Pass2A until Pass1 covers all **70/70** Part002 physical pages.
