@@ -40,13 +40,13 @@
 - Part001 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical page mutations / 0 Part002 body leakage**
 - durable assembled-Tamil validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001 English planning/setup: **COMPLETE / PASS — E1–E9 reserved**
-- Part001 English complete translated/source-checked: **1/9 / 1/9**
-- Part001 English partial: **E2 scans8–15 drafted + checked; scans16–17 pending**
-- English physical processing coverage: **scans1–15 / 15 of 75**
+- Part001 English complete translated/source-checked: **3/9 / 3/9**
+- Part001 English partial: **E4 scans26–30 drafted + checked; scans31–33 pending**
+- English physical processing coverage: **scans1–30 / 30 of 75**
 - English cadence: **15 physical scans per iteration**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**English scans16–30 — finish E2, complete E3, begin E4 through scan30 — next activity.**
+**English scans31–45 — finish E4, complete E5, begin E6 through scan45 — next activity.**
