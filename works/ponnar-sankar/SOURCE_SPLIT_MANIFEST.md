@@ -44,10 +44,12 @@
 - Part001 English partial: **0**
 - English physical processing coverage: **scans1–75 / 75 of 75**
 - latest user-directed page iteration: **30 scans / scans46–75**
-- whole-Part glossary reconciliation: **READY / NEXT**
+- whole-Part glossary reconciliation: **RECONCILED / PASS**
+- glossary reconciliation English section edits: **0**
+- unresolved glossary holds: **0**
 - Part002–Part008: **pending source intake**
 - outgoing Part001 boundary **75→76**: **PENDING Part002 witness**
 
 ## Current frontier
 
-**Whole-Part English glossary reconciliation — scans1–75 / 9 files — next activity.**
+**English editorial review — all 9 maintained English files / scans1–75 — next activity.**
