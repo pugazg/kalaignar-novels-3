@@ -12,7 +12,7 @@
 - Part001: **REGISTERED / 75 local pages / global scans1–75**
 - remaining complete physical scan extent: **pending Parts002–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 RELEASE/READINESS PASS / CLOSED; release-ready synchronization and final closure next; Tamil assembled 9/9 closed**
+- current state: **Part001 FINAL CLOSED / FROZEN; Tamil assembled 9/9 frozen; English 9/9 frozen**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - outgoing Part001 boundary **75→76**: **pending Part002 witness**
 
@@ -43,6 +43,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Part001 English editorial review and whole-Part bilingual review are **PASS / CLOSED**, and release/readiness is **PASS / CLOSED** with **0 blockers**. Next: **release-ready synchronization → no-post-release drift verification → Part001 final closure/freeze**.
+Part001 is **FINAL CLOSED / FROZEN** after release-ready synchronization and no-post-release-drift verification. Next: **Part002 source intake + direct 75→76 boundary audit when the Part002 source is supplied**.
 
-Part002 may be supplied later. Its first scan will be used as the direct witness for the pending **75→76** boundary; no Part002 canonical transcription begins until Part001 final closure.
+Part002 has not yet been registered. When supplied, its first scan will be used as the direct witness for the pending **75→76** boundary before canonical transcription begins.
