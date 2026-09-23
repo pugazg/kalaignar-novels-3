@@ -121,4 +121,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - whole-Part bilingual review: **PASS / CLOSED**
 - release/readiness: **PASS / CLOSED**
 - unresolved release/readiness blockers: **0**
-- exact next activity: **release-ready synchronization → final Part001 closure**
+- release-ready synchronization: **PASS / CLOSED**
+- Part001 final closure: **PASS / CLOSED / FROZEN**
+- exact next activity: **Part002 source intake + direct 75→76 boundary audit when source is supplied**
