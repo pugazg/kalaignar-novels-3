@@ -78,19 +78,21 @@ Promotion checks:
 
 Canonical Tamil and visual-fidelity metadata are verified for all **75/75** Part001 records with **0 in-scope blockers**.
 
-Assembled Tamil remains **NOT STARTED**.
+Assembled Tamil subsequently closed **VERIFIED / PASS / CLOSED** with **9/9** maintained section files and exact canonical coverage **75/75**. Durable validation: `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`.
+
+## Assembled-Tamil downstream result
+
+- exact canonical coverage — **75/75**
+- missing coverage — **0**
+- duplicate coverage — **0**
+- unsupported Tamil insertion — **0**
+- audit/control-note leakage into literary text — **0**
+- canonical page mutations caused by assembly — **0**
+- next-Part body leakage — **0**
+- assembled Tamil — **VERIFIED / PASS / CLOSED**
 
 ## Exact next activity
 
-Proceed with **Part001 assembled Tamil construction + exact canonical-coverage audit** from verified canonical `pages/` only.
+Proceed with **Part001 English translation planning/setup** from the closed verified assembled Tamil layer.
 
-Assembly must close with:
-- exact canonical coverage **75/75**
-- missing coverage **0**
-- duplicate coverage **0**
-- unsupported Tamil insertion **0**
-- audit-note leakage **0**
-- canonical page mutations caused by assembly **0**
-- next-Part body leakage **0**
-
-Do not begin English until assembled Tamil closes **VERIFIED / PASS / CLOSED**.
+Do not begin Part002 canonical transcription until Part001 final closure.
