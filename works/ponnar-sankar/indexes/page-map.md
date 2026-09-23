@@ -111,6 +111,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 28 | 103 | 86 | chapter10 continuation; substitute-name idea / தனக்கோடி செட்டியார் mentioned | needs-review | `pages/0103-archchanai-yaar-vayirukku.md` |
 | 002 | 29 | 104 | 87 | chapter10 continuation; குன்றுடையார் identified as நெல்லியங்கோடர் | needs-review | `pages/0104-archchanai-yaar-vayirukku.md` |
 | 002 | 30 | 105 | 88 | chapter10 continuation; family approaches / open introduction into scan106 | needs-review | `pages/0105-archchanai-yaar-vayirukku.md` |
+| 002 | 31 | 106 | 89 | chapter10 continuation; family reunion / தனக்கோடி செட்டியார் introduced | needs-review | `pages/0106-archchanai-yaar-vayirukku.md` |
+| 002 | 32 | 107 | 90 | chapter10 continuation; reunion / rescuer-name question | needs-review | `pages/0107-archchanai-yaar-vayirukku.md` |
+| 002 | 33 | 108 | 91 | chapter10 close; names still unknown; substantial blank lower field | needs-review | `pages/0108-archchanai-yaar-vayirukku.md` |
+| 002 | 34 | 109 | — | chapter11 `ஆசையில் அருக்காணித் தங்கம்` opening; running page not inferred | needs-review | `pages/0109-aasaiyil-arukkaani-thangam.md` |
+| 002 | 35 | 110 | 93 | chapter11 continuation; தாமரை vow recollection | needs-review | `pages/0110-aasaiyil-arukkaani-thangam.md` |
+| 002 | 36 | 111 | 94 | chapter11 continuation; தாமரை grief / தனக்கோடி ஆறுதல் | needs-review | `pages/0111-aasaiyil-arukkaani-thangam.md` |
+| 002 | 37 | 112 | 95 | chapter11 continuation; மாயவர் arrives at festival pavilion | needs-review | `pages/0112-aasaiyil-arukkaani-thangam.md` |
+| 002 | 38 | 113 | 96 | chapter11 continuation; மாயவர்–குன்றுடையான் dialogue | needs-review | `pages/0113-aasaiyil-arukkaani-thangam.md` |
+| 002 | 39 | 114 | 97 | chapter11 continuation; தனக்கோடி introduced to மாயவர் | needs-review | `pages/0114-aasaiyil-arukkaani-thangam.md` |
+| 002 | 40 | 115 | 98 | chapter11 continuation; painted-panel narrative; open into scan116 | needs-review | `pages/0115-aasaiyil-arukkaani-thangam.md` |
 
 ## Split accounting
 
@@ -122,7 +132,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **2/8**
 - registered physical scan rows: **145**
-- canonical page records: **105 total — Part001 75/75 frozen + Part002 30/70 needs-review**
+- canonical page records: **115 total — Part001 75/75 frozen + Part002 40/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -154,7 +164,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- Part002 Pass1: **IN PROGRESS — 30/70 TEXT-COMPLETE — scans76–105**
-- Part002 Pass1 pending: **40/70 — scans106–145**
+- Part002 Pass1: **IN PROGRESS — 40/70 TEXT-COMPLETE — scans76–115**
+- Part002 Pass1 pending: **30/70 — scans116–145**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass1 Batch4 — scans106–115 / local pages31–40**
+- exact next activity: **Part002 Pass1 Batch5 — scans116–125 / local pages41–50**
