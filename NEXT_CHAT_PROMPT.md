@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass1 Batch7 FINAL — scans136–145
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2A Batch1 — scans76–85
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -32,32 +32,28 @@ Registered intake:
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
 
-Durable controls:
+## Part002 Pass1 closure
 
-- `works/ponnar-sankar/SOURCE_INTAKE_PART_002.md`
-- `works/ponnar-sankar/PART_002_BOUNDARY_AUDIT_75_76.md`
-- `works/ponnar-sankar/PART_002_PASS1_PROGRESS.md`
+**PASS 1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
 
-## Current Part002 Pass1 state
-
-**PASS 1 — IN PROGRESS / BATCH 6 COMPLETE — 60/70 TEXT-COMPLETE**
-
-- canonical Part002 records — **60/70 — scans76–135**
-- Pass1 pending — **10/70 — scans136–145**
+- canonical Part002 records — **70/70 — scans76–145**
+- Pass1 pending — **0/70**
 - unresolved Pass1 source-reading holds — **0**
 - all Part002 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-- Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
+- Pass2A — **READY / NEXT**
+- Pass2B — **BLOCKED UNTIL FULL-PART PASS2A COMPLETE**
 
-Batch6 structure:
+Part002 chapter openings captured in Pass1:
 
-- scans126–127 continue and close chapter12 **`பூனையில் போர்க்கோலம்`** / printed pages109–110
-- scan127 closes chapter12 with தாமரைநாச்சியார் asking whether பொன்னர் and சங்கர் are alive
-- scan128 opens chapter **13 / `வழியில் வந்த விபரீதம்`**
-- scan128 has no running printed-page value and no value is inferred
-- scans129–135 continue chapter13 / printed pages112–118
-- scan135 closes the current physical page during the guarded chariot journey; scan136 has not been imported
+- scan81 — chapter8 **`கரகம் விடும் திருவிழா`**
+- scan90 — chapter9 **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
+- scan99 — chapter10 **`அர்ச்சனை- யார் வயிறுக்கு?`**
+- scan109 — chapter11 **`ஆசையில் அருக்காணித் தங்கம்`**
+- scan119 — chapter12 **`பூனையில் போர்க்கோலம்`**
+- scan128 — chapter13 **`வழியில் வந்த விபரீதம்`**
+- scan138 — chapter14 **`ராச்சாண்டார் மலைநோக்கி...`**
 
 ## Read first
 
@@ -67,38 +63,81 @@ Batch6 structure:
 4. `works/ponnar-sankar/PART_002_PASS1_PROGRESS.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 6. `works/ponnar-sankar/indexes/page-map.md`
+7. canonical records `works/ponnar-sankar/pages/0076-*.md` through `0085-*.md`
 
-Refetch live `main` before editing and after the activity.
+Refetch live `main` before editing and again after the activity.
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — global scans136–145 / local pages61–70**.
+Begin **Part002 Pass2A Batch1 — global scans76–85 / local pages1–10**.
 
-Requirements:
+Create and maintain:
 
-- transcribe only from direct rendered source pixels;
-- preserve exact source-visible spelling, punctuation, paragraph/dialogue structure, displayed verse/song blocks, chapter hierarchy and physical page-end state;
-- preserve source-visible printed pagination only when actually visible; do not infer a number for chapter-opening pages;
-- create canonical records with:
-  - `part: 2`
-  - `part_page: 61–70`
-  - global `scan_page: 136–145`
-  - exact Part002 `source_filename`
-  - `status: "needs-review"`
-  - `visual_fidelity: "needs-review"`
-  - `transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 7"`
-- update `PART_002_PASS1_PROGRESS.md`, page map, handover and other active frontier controls;
-- keep Part001 body layers frozen;
-- keep **145→146 PENDING Part003 direct audit**;
-- do not begin Pass2A.
+`works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
+
+### Pass2A method
+
+For each scan76–85, compare the canonical Pass1 record directly against the rendered controlling source pixels and verify:
+
+1. every source-visible Tamil word;
+2. word boundaries / spacing;
+3. punctuation;
+4. quotation/dialogue boundaries;
+5. paragraph/display structure;
+6. source-visible printed pagination;
+7. chapter/page type;
+8. exact physical page-end state;
+9. no next-page wording imported backward;
+10. no source wording omitted or modernized.
+
+Apply only source-backed corrections. Every correction must be durably logged with:
+
+- scan;
+- Pass1 wording;
+- direct source-pixel reading;
+- action taken.
+
+If a Pass1 reading is already source-faithful, record **0 corrections / REVIEWED / PASS**.
+
+### Batch1 structural facts
+
+- scan76 / printed59 directly continues chapter7 **`உண்மையின் உதயம்`** from frozen Part001 scan75;
+- incoming 75→76 is already **GENUINE CONTINUATION / AUDITED / PASS**;
+- scans76–80 continue and close chapter7;
+- scan80 / printed63 closes chapter7 with a substantial intentional blank lower field;
+- scan81 opens chapter8 **`கரகம் விடும் திருவிழா`** and has no running printed-page number;
+- scans82–85 continue chapter8 / printed pages65–68;
+- scan85 remains open into scan86; do not import scan86 wording during Batch1.
+
+## Pass2A status rules
+
+During Pass2A:
+
+- keep canonical `status: "needs-review"`;
+- keep `visual_fidelity: "needs-review"`;
+- do not promote metadata to verified;
+- do not begin Pass2B;
+- do not edit Part001 body layers;
+- keep outgoing **145→146 PENDING Part003 direct witness**.
 
 ## Stop condition
 
-Stop after Batch3 reaches:
+Stop after:
 
-**70/70 TEXT-COMPLETE — scans76–145**
+**Part002 Pass2A Batch1 — scans76–85 — REVIEWED**
 
-This is the final Part002 Pass1 batch. After scan145, close Pass1 at **70/70 TEXT-COMPLETE** and set **Part002 Pass2A** as the exact next gate. Do not begin Pass2A in the same activity unless explicitly requested.
+Then synchronize:
+
+- `PART_002_PASS2A_PROGRESS.md`
+- page map
+- source intake
+- work/root README
+- HANDOVER
+- archival guidelines
+- source split manifest
+- `NEXT_CHAT_PROMPT.md`
+
+The next gate after Batch1 should be **Part002 Pass2A Batch2 — scans86–95 / local pages11–20**, unless Batch1 produces an unresolved source-reading hold.
 
 ## Mandatory locks
 
@@ -106,6 +145,6 @@ This is the final Part002 Pass1 batch. After scan145, close Pass1 at **70/70 TEX
 - direct rendered Part002 source pixels are authoritative
 - no OCR / web / alternate edition / remembered text
 - Part001 remains **FINAL CLOSED / FROZEN**
-- Part002 Pass1 records remain `needs-review`
-- Pass2A remains blocked until full Part002 Pass1 completion
+- Part002 records stay `needs-review`
+- Pass2B remains blocked until Pass2A closes across all **70/70** scans
 - outgoing **145→146 remains pending**
