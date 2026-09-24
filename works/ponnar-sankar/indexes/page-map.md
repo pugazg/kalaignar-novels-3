@@ -141,6 +141,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 58 | 133 | 116 | chapter13 continuation; mutual attraction / temple prayer recalled | needs-review | `pages/0133-vazhiyil-vandha-vibareetham.md` |
 | 002 | 59 | 134 | 117 | chapter13 continuation; chariot journey / சிலம்பாயி family reflections | needs-review | `pages/0134-vazhiyil-vandha-vibareetham.md` |
 | 002 | 60 | 135 | 118 | chapter13 continuation; journey south / road-side brush sequence | needs-review | `pages/0135-vazhiyil-vandha-vibareetham.md` |
+| 002 | 61 | 136 | 119 | chapter13 continuation; ambush begins / வையம்பெருமான் draws sword | needs-review | `pages/0136-vazhiyil-vandha-vibareetham.md` |
+| 002 | 62 | 137 | 120 | chapter13 close; armed riders tighten encirclement | needs-review | `pages/0137-vazhiyil-vandha-vibareetham.md` |
+| 002 | 63 | 138 | — | chapter14 `ராச்சாண்டார் மலைநோக்கி...` opening; running page not inferred | needs-review | `pages/0138-raachchaandaar-malai-nokki.md` |
+| 002 | 64 | 139 | 122 | chapter14 continuation; வையம்பெருமான் trapped / திருமலை appears | needs-review | `pages/0139-raachchaandaar-malai-nokki.md` |
+| 002 | 65 | 140 | 123 | chapter14 continuation; திருமலை identifies orders / abduction plan | needs-review | `pages/0140-raachchaandaar-malai-nokki.md` |
+| 002 | 66 | 141 | 124 | chapter14 continuation; மாந்தியப்பன் / தலையூர்க்காளி rationale | needs-review | `pages/0141-raachchaandaar-malai-nokki.md` |
+| 002 | 67 | 142 | 125 | chapter14 continuation; forced-marriage ultimatum | needs-review | `pages/0142-raachchaandaar-malai-nokki.md` |
+| 002 | 68 | 143 | 126 | chapter14 continuation; self-harm attempt prevented / convoy order | needs-review | `pages/0143-raachchaandaar-malai-nokki.md` |
+| 002 | 69 | 144 | 127 | chapter14 continuation; route diverted toward ராச்சாண்டார் மலை | needs-review | `pages/0144-raachchaandaar-malai-nokki.md` |
+| 002 | 70 | 145 | 128 | chapter14 continuation; wounded ஆரிச்சம்பட்டி வீரன் reaches palace; Part002 final page / 145→146 pending | needs-review | `pages/0145-raachchaandaar-malai-nokki.md` |
 
 ## Split accounting
 
@@ -152,7 +162,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **2/8**
 - registered physical scan rows: **145**
-- canonical page records: **135 total — Part001 75/75 frozen + Part002 60/70 needs-review**
+- canonical page records: **145 total — Part001 75/75 frozen + Part002 70/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -184,7 +194,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- Part002 Pass1: **IN PROGRESS — 60/70 TEXT-COMPLETE — scans76–135**
-- Part002 Pass1 pending: **10/70 — scans136–145**
+- Part002 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
+- Part002 Pass1 pending: **0/70**
+- Part002 Pass2A: **READY / NEXT**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass1 Batch7 — FINAL Pass1 batch — scans136–145 / local pages61–70**
+- exact next activity: **Part002 Pass2A Batch1 — scans76–85 / local pages1–10**
