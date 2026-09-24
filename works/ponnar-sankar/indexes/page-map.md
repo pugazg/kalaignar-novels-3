@@ -131,6 +131,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 48 | 123 | 106 | chapter12 continuation; மாந்தியப்பன் identifies himself / confrontation | needs-review | `pages/0123-poonaiyil-porkkolam.md` |
 | 002 | 49 | 124 | 107 | chapter12 continuation; அருக்காணி rebukes மாந்தியப்பன் | needs-review | `pages/0124-poonaiyil-porkkolam.md` |
 | 002 | 50 | 125 | 108 | chapter12 continuation; pursuit ends with river leap / family reflection | needs-review | `pages/0125-poonaiyil-porkkolam.md` |
+| 002 | 51 | 126 | 109 | chapter12 continuation; மாயவர் responds to family crisis | needs-review | `pages/0126-poonaiyil-porkkolam.md` |
+| 002 | 52 | 127 | 110 | chapter12 close; அருக்காணி seeks permission to fight / தாமரை asks about sons | needs-review | `pages/0127-poonaiyil-porkkolam.md` |
+| 002 | 53 | 128 | — | chapter13 `வழியில் வந்த விபரீதம்` opening; running page not inferred | needs-review | `pages/0128-vazhiyil-vandha-vibareetham.md` |
+| 002 | 54 | 129 | 112 | chapter13 continuation; மணியங்குறிச்சி hospitality / ராம–லட்சுமண comparison | needs-review | `pages/0129-vazhiyil-vandha-vibareetham.md` |
+| 002 | 55 | 130 | 113 | chapter13 continuation; meal / names withheld | needs-review | `pages/0130-vazhiyil-vandha-vibareetham.md` |
+| 002 | 56 | 131 | 114 | chapter13 continuation; departure debate / ஆசான் concern | needs-review | `pages/0131-vazhiyil-vandha-vibareetham.md` |
+| 002 | 57 | 132 | 115 | chapter13 continuation; வீரமலை mediates / attraction implied | needs-review | `pages/0132-vazhiyil-vandha-vibareetham.md` |
+| 002 | 58 | 133 | 116 | chapter13 continuation; mutual attraction / temple prayer recalled | needs-review | `pages/0133-vazhiyil-vandha-vibareetham.md` |
+| 002 | 59 | 134 | 117 | chapter13 continuation; chariot journey / சிலம்பாயி family reflections | needs-review | `pages/0134-vazhiyil-vandha-vibareetham.md` |
+| 002 | 60 | 135 | 118 | chapter13 continuation; journey south / road-side brush sequence | needs-review | `pages/0135-vazhiyil-vandha-vibareetham.md` |
 
 ## Split accounting
 
@@ -142,7 +152,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **2/8**
 - registered physical scan rows: **145**
-- canonical page records: **125 total — Part001 75/75 frozen + Part002 50/70 needs-review**
+- canonical page records: **135 total — Part001 75/75 frozen + Part002 60/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -174,7 +184,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - unresolved release/readiness blockers: **0**
 - release-ready synchronization: **PASS / CLOSED**
 - Part001 final closure: **PASS / CLOSED / FROZEN**
-- Part002 Pass1: **IN PROGRESS — 50/70 TEXT-COMPLETE — scans76–125**
-- Part002 Pass1 pending: **20/70 — scans126–145**
+- Part002 Pass1: **IN PROGRESS — 60/70 TEXT-COMPLETE — scans76–135**
+- Part002 Pass1 pending: **10/70 — scans136–145**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass1 Batch6 — scans126–135 / local pages51–60**
+- exact next activity: **Part002 Pass1 Batch7 — FINAL Pass1 batch — scans136–145 / local pages61–70**
