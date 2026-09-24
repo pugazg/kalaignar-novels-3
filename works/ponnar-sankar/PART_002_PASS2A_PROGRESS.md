@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
+**PASS 2A — CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
 
 Active Part:
 - Part002
@@ -24,7 +24,7 @@ Active Part:
 - all Part002 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-- Pass2B — **NOT ACTIVATED — full-part Pass2A closure / activation checkpoint next**
+- Pass2B — **ACTIVATED / READY — 0/70 REVIEWED; Batch1 not started**
 - outgoing **145→146 — PENDING Part003 direct witness**
 
 ## Batch 1 — scans76–85
@@ -886,6 +886,37 @@ canonical scan137 removed the unsupported terminal full stop; the rendered sourc
 - outgoing 145→146 — **PENDING Part003 direct witness**
 - Pass2B — **NOT YET ACTIVATED**
 
+## Full-part closure / Pass2B activation checkpoint
+
+**CHECKPOINT — PASS / CLOSED**
+
+Reconciliation performed against live `main`:
+
+- Part002 canonical census — **70/70 records present**
+- local-page sequence — **1–70 continuous / 70 unique**
+- global-scan sequence — **76–145 continuous / 70 unique**
+- canonical page paths — **70 unique / 0 duplicate**
+- formal `## Formal Part002 Pass 2A review` sections — **70/70 present exactly once**
+- `status: "needs-review"` — **70/70 retained**
+- `visual_fidelity: "needs-review"` — **70/70 retained**
+- correction ledger — **P2A-001 through P2A-047 continuous / 47 entries**
+- cumulative source-backed corrections — **47**
+- unresolved Pass2A textual questions — **0**
+- Part001 body layers — **UNCHANGED / FINAL CLOSED / FROZEN**
+- incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+- scan146 wording inferred/imported — **0**
+- metadata/status promotions during checkpoint — **0**
+- canonical Tamil body edits during checkpoint — **0**
+
+Checkpoint decision:
+
+- Part002 Pass2A — **CLOSED / COMPLETE / PASS — 70/70**
+- Part002 Pass2B — **ACTIVATED / READY**
+- Pass2B Batch1 source reread — **NOT STARTED in this checkpoint**
+- maintained Pass2B cadence — **10 scans per batch**
+- next batch — **scans76–85 / local pages1–10**
+
 ## Exact next activity
 
-Run the **Part002 Pass2A full-part closure / Pass2B activation checkpoint**. Reconcile the 70/70 review census and P2A-001–P2A-047 ledger, confirm all locks and outgoing 145→146 pending state, then activate Pass2B without starting its first reread batch unless that is separately authorized.
+Process **Part002 Pass2B Batch1 — global scans76–85 / local pages1–10**. Perform a fresh independent lexical / historical-glyph reread directly from rendered source pixels; do not promote status or visual_fidelity; keep 145→146 pending.
