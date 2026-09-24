@@ -30,11 +30,11 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 “முந்தி முந்தி விநாயகனே
 முக்கண்ணார் தன் மகனே
 சக்திக் கணபதியே
-தயவாய் நல்லாள் புத்திரனே
+தையல் நல்லாள் புத்திரனே
 ஆனை முகத்தோனே
 அரனார் திருமகனே”
 
-பாட்டோடு கேட்டதும்; சங்கர் ஓடக்காரனை தொட்டிழுத்து, “அய்யா! நீ கணபதி ஸ்தோத்திரத்திலேயிருந்து கதையை ஆரம்பிச்சா பொழுது விடிஞ்சு விடும். சுருக்கமாக கரகம் விடுகிற விழாக் கதையைச் சொல்லு!” என்றான்.
+பாட்டொலி கேட்டதும்; சங்கர் ஓடக்காரனை தொட்டிழுத்து, “அய்யா! நீ கணபதி ஸ்தோத்திரத்திலேயிருந்து கதையை ஆரம்பிச்சா பொழுது விடிஞ்சு விடும். சுருக்கமாக கரகம் விடுகிற விழாக் கதையைச் சொல்லு!” என்றான்.
 
 ## Pass 1 notes
 
@@ -45,3 +45,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 84; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 67; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected verse source reading: `தயவாய் நல்லாள் புத்திரனே` → `தையல் நல்லாள் புத்திரனே`;
+- corrected lexical source reading: `பாட்டோடு கேட்டதும்;` → `பாட்டொலி கேட்டதும்;`;
+- source-text corrections: **2**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
