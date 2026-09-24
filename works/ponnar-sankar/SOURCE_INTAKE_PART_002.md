@@ -27,6 +27,7 @@ Source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_0
 - chapter11 `ஆசையில் அருக்காணித் தங்கம்` opens at local page34 / global scan109
 - chapter12 `பூனையில் போர்க்கோலம்` opens at local page44 / global scan119
 - chapter13 `வழியில் வந்த விபரீதம்` opens at local page53 / global scan128
+- chapter14 `ராச்சாண்டார் மலைநோக்கி...` opens at local page63 / global scan138
 
 ## Boundary state
 
@@ -69,12 +70,13 @@ Canonical `scan_page` remains the global physical scan number.
 - Batch4 / scans106–115 — **COMPLETE / 10 TEXT-COMPLETE**
 - Batch5 / scans116–125 — **COMPLETE / 10 TEXT-COMPLETE**
 - Batch6 / scans126–135 — **COMPLETE / 10 TEXT-COMPLETE**
-- cumulative Pass1 — **60/70 TEXT-COMPLETE**
-- pending — **10/70 — scans136–145**
-- Pass2A — **BLOCKED**
+- Batch7 / scans136–145 — **COMPLETE / 10 TEXT-COMPLETE**
+- cumulative Pass1 — **70/70 TEXT-COMPLETE / COMPLETE / PASS**
+- pending — **0/70**
+- Pass2A — **READY / NEXT**
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — global scans136–145 / local pages61–70**.
+Begin **Part002 Pass2A Batch1 — global scans76–85 / local pages1–10**.
 
-Do not begin Pass2A until Pass1 covers all **70/70** Part002 physical pages.
+Pass1 is closed at **70/70 TEXT-COMPLETE**. Do not begin Pass2B until all Part002 scans complete Pass2A.
