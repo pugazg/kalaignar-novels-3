@@ -11,9 +11,9 @@
 - source family / archive identifier: **TVA_BOK_0065560**
 - Part001: **FINAL CLOSED / FROZEN — 75 local pages / global scans1–75**
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
-- remaining complete physical scan extent: **pending Parts002–008 intake**
+- remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass1 ACTIVE — 60/70 TEXT-COMPLETE**
+- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass1 COMPLETE / PASS — 70/70; Pass2A NEXT**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part002 boundary **145→146**: **PENDING Part003 witness**
@@ -45,6 +45,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — scans136–145 / local pages61–70**.
+Begin **Part002 Pass2A Batch1 — scans76–85 / local pages1–10**.
 
-Part001 remains frozen. After this batch, close Part002 Pass1 at **70/70 TEXT-COMPLETE** and make Pass2A the next gate.
+Part001 remains frozen. Part002 Pass1 is complete at **70/70**; Pass2B remains blocked until the full Part002 Pass2A gate closes.
