@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 5
 
 “கூட்டம் போடாதீர்கள். எல்லோரும் போய் விடுங்கள். நல்ல காற்று வரட்டும்” என்று மாயவர், அந்த மண்டபத்துக்குள் குழுமியிருந்தவர்களை வெளியே போகச் செய்தார். அவரும் குன்றுடையானும் தாமரையும் மட்டுமே அருக்காணியின் அருகில் இருந்தனர்.
 
-“உனக்குத்தான் நீந்தத் தெரியாதே அம்மா - பின் எதற்காக இந்த வேலை செய்தாய்! அதுவும் ஆற்றுச் சூழலில் போய் யாராவது நீந்துவார்களா? ஏ, அப்பா! எவ்வளவு பெரிய மடு அது!” என்று குன்றுடையான், தனது மகளைப் பார்த்து உருக்கத்துடன் கேட்டார்.
+“உனக்குத்தான் நீந்தத் தெரியாதே அம்மா - பின் எதற்காக இந்த வேலை செய்தாய்! அதுவும் ஆற்றுச் சுழலில் போய் யாராவது நீந்துவார்களா? ஏ, அப்பா! எவ்வளவு பெரிய மடு அது!” என்று குன்றுடையான், தனது மகளைப் பார்த்து உருக்கத்துடன் கேட்டார்.
 
 “மசைச்சாமி என்பது சரியாக இருக்கிறது பார்! நீந்துவதற்கா அவள் ஆற்றில் குதித்தாள்?” என்று மாயவர், தனக்குத்தானே கேட்டுக் கொண்டு குன்றுடையானின் வெள்ளை மனத்தை எண்ணி உள்ளூரச் சிரித்துக் கொண்டார்.
 
@@ -38,3 +38,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 5
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 120; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 45; அச்சுப் பக்கம்: 103; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter12 continuation, source-visible printed page **103**, and exact open physical page-end `அழாமல்` into scan121 confirmed;
+- corrected source-visible lexical reading: `ஆற்றுச் சூழலில்` → `ஆற்றுச் சுழலில்`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

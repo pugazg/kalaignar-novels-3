@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 4 COMPLETE — 40/70 REVIEWED / PASS**
+**PASS 2A — IN PROGRESS / BATCH 5 COMPLETE — 50/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -15,9 +15,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **40/70 — scans76–115**
-- pending — **30/70 — scans116–145**
-- source-text corrections applied — **34**
+- reviewed — **50/70 — scans76–125**
+- pending — **20/70 — scans126–145**
+- source-text corrections applied — **42**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -583,8 +583,145 @@ canonical scan115 corrected to the source-visible word form.
 - metadata promotions — **0**
 - Pass2B activation — **NO**
 
+## Batch 5 — scans116–125
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 116 | chapter11 continuation | 99 | 0 | REVIEWED / PASS |
+| 117 | chapter11 continuation / open into scan118 | 100 | 0 | REVIEWED / PASS |
+| 118 | chapter11 close / substantial lower non-body field | 101 | 0 | REVIEWED / PASS |
+| 119 | chapter12 `பூனையில் போர்க்கோலம்` opening | — | **1** | REVIEWED / PASS |
+| 120 | chapter12 continuation / open into scan121 | 103 | **1** | REVIEWED / PASS |
+| 121 | chapter12 continuation / open into scan122 | 104 | **1** | REVIEWED / PASS |
+| 122 | chapter12 continuation / open into scan123 | 105 | **1** | REVIEWED / PASS |
+| 123 | chapter12 continuation | 106 | **3** | REVIEWED / PASS |
+| 124 | chapter12 continuation / open into scan125 | 107 | 0 | REVIEWED / PASS |
+| 125 | chapter12 continuation / open into scan126 | 108 | **1** | REVIEWED / PASS |
+
+## Batch 5 structural / boundary verification
+
+- scans116–118 continue and close chapter11 `ஆசையில் அருக்காணித் தங்கம்` — **PASS**
+- scans116–118 source-visible printed pagination 99–101 — **PASS**
+- scan118 printed chapter11 body closes in the upper field; substantial lower non-body archival field retained outside canonical body text — **PASS**
+- scan119 decorative chapter12 opening and displayed chapter number **12** — **PASS**
+- scan119 ordinary running printed-page value — **NONE / correctly null**
+- scans120–125 chapter12 continuation / source-visible printed pagination 103–108 — **PASS**
+- scan117 exact open physical ending into scan118 — **PASS**
+- scan119 exact open physical ending into scan120 — **PASS**
+- scan120 exact open ending `அழாமல்` into scan121 — **PASS**
+- scan121 exact open physical ending into scan122 — **PASS**
+- scan122 exact open ending `அதற்கு பதில்` into scan123 — **PASS**
+- scan124 exact open physical ending into scan125 — **PASS**
+- scan125 exact physical ending into scan126 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- outgoing Part002 boundary 145→146 remains **PENDING Part003 direct witness**
+
+## Batch 5 correction ledger
+
+### P2A-035 — scan119
+
+Pass1:
+`ஆற்றின் சூழலில் சிக்கித்`
+
+Direct source-pixel reading:
+`ஆற்றின் சுழலில் சிக்கித்`
+
+Action:
+canonical scan119 corrected to the source-visible lexical reading.
+
+### P2A-036 — scan120
+
+Pass1:
+`அதுவும் ஆற்றுச் சூழலில் போய்`
+
+Direct source-pixel reading:
+`அதுவும் ஆற்றுச் சுழலில் போய்`
+
+Action:
+canonical scan120 corrected to the source-visible lexical reading.
+
+### P2A-037 — scan121
+
+Pass1:
+`தூண்மறைவிலிருந்தவாறே அவன் அழகைக் கண்களால் உண்டு மகிழ்ந்தான்.`
+
+Direct source-pixel reading:
+`தூண்மறைவிலிருந்தவாறே அவள் அழகைக் கண்களால் உண்டு மகிழ்ந்தான்.`
+
+Action:
+canonical scan121 corrected the source-visible pronoun.
+
+### P2A-038 — scan122
+
+Pass1:
+`இளமையின் பூரிப்பு செழித்துக் குலுங்கிடும் வண்ணமிலாள் தூணில்`
+
+Direct source-pixel reading:
+`இளமையின் பூரிப்பு செழித்துக் குலுங்கிடும் வண்ணமயிலாள் தூணில்`
+
+Action:
+canonical scan122 corrected to the source-visible lexical reading.
+
+### P2A-039 — scan123
+
+Pass1:
+`ஏற்கனவே ஆழப் பதிந்திருந்த காரணத்தால்`
+
+Direct source-pixel reading:
+`ஏற்கனவே ஆழப்பதிந்திருந்த காரணத்தால்`
+
+Action:
+canonical scan123 corrected to the source-visible joined word.
+
+### P2A-040 — scan123
+
+Pass1:
+`இளமானைப் போலிருந்த அவளது தோற்றமும் துடிவெனப் பலியின் தோற்றங் கொண்டது.`
+
+Direct source-pixel reading:
+`இளமானைப் போலிருந்த அவளது தோற்றமும் திடீரெனப் புலியின் தோற்றங் கொண்டது.`
+
+Action:
+canonical scan123 corrected the source-visible phrase.
+
+### P2A-041 — scan123
+
+Pass1:
+`பெருமூச்சால் உப்பித் தனிந்து மீண்டும் உப்பிய`
+
+Direct source-pixel reading:
+`பெருமூச்சால் உப்பித் தணிந்து மீண்டும் உப்பிய`
+
+Action:
+canonical scan123 corrected to the source-visible lexical reading.
+
+### P2A-042 — scan125
+
+Pass1:
+`அருக்காணியைப் பிடித்து அணுவவிக்க மாந்தியப்பன்`
+
+Direct source-pixel reading:
+`அருக்காணியைப் பிடித்து அனுபவிக்க மாந்தியப்பன்`
+
+Action:
+canonical scan125 corrected to the source-visible lexical reading.
+
+## Batch 5 decision
+
+**BATCH 5 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **8**
+- cumulative reviewed — **50/70 — scans76–125**
+- cumulative source-text corrections — **42**
+- unresolved textual questions — **0**
+- Part001 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO**
+
 ## Exact next activity
 
-Process **Part002 Pass2A Batch5 — global scans116–125 / local pages41–50**.
+Process **Part002 Pass2A Batch6 — global scans126–135 / local pages51–60**.
 
 Keep all Part002 records at `needs-review` / `needs-review`, keep Part001 frozen, and keep **145→146 PENDING Part003 direct audit**.

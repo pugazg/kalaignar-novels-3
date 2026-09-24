@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 5
 
 ஓடிக் கொண்டிருந்த அருக்காணி, அங்கு நின்றிருந்த மாந்தியப்பனின் குதிரையருகே போய்க் கீழே விழுந்தாள். எழுந்தாள். பார்த்தாள். அந்தக் குதிரையின் பக்கத்திலிருந்து அவளை வாரியணைத்துத் தூக்க மாந்தியப்பன் குனிந்தான். கொஞ்சம் ஏமாந்தாலும் காரியம் கெட்டு விடும் என்றுணர்ந்த அருக்காணி, தனது உயிருக்கு மேலாக மதித்த கற்புச் செல்வத்தைக் காப்பாற்றிக் கொள்ள எழுந்து ஆற்றோரம் ஓடினாள்.
 
-கால் தரையில் படுவது கூடத் தெரியாமல் மிக வேகமாக ஓடக் கூடியது மான் எனினும் குறுக்கே ஓடி அதன் குரல் வளையைப் பிடித்துக் குதறக் கூடிய திறமை வேங்கைப் புலிக்கு உண்டல்லவா; அதுபோலத்தான் ஆற்றோரம் ஓடிக் கொண்டிருந்த அருக்காணியைப் பிடித்து அணுவவிக்க மாந்தியப்பன் குறுக்கே ஓடினான். இனித் தப்பித்துக் கொள்ள வழியில்லையென்று கண்ட அருக்காணி, ஆற்றில் குதித்து விட்டாள்.
+கால் தரையில் படுவது கூடத் தெரியாமல் மிக வேகமாக ஓடக் கூடியது மான் எனினும் குறுக்கே ஓடி அதன் குரல் வளையைப் பிடித்துக் குதறக் கூடிய திறமை வேங்கைப் புலிக்கு உண்டல்லவா; அதுபோலத்தான் ஆற்றோரம் ஓடிக் கொண்டிருந்த அருக்காணியைப் பிடித்து அனுபவிக்க மாந்தியப்பன் குறுக்கே ஓடினான். இனித் தப்பித்துக் கொள்ள வழியில்லையென்று கண்ட அருக்காணி, ஆற்றில் குதித்து விட்டாள்.
 
 ஒரு பெண் பதறிப் போய் ஓடி ஆற்றில் விழுந்ததை ஆற்றோரம் நின்ற சிலர் பார்த்துத் துடித்தனர். பழி தன்னைச் சேராமல் பாதுகாத்துக் கொள்ள மாந்தியப்பன் குதிரையிலேறிப் பறந்து விட்டான்.
 
@@ -38,3 +38,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 5
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 125; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 50; அச்சுப் பக்கம்: 108; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter12 continuation, source-visible printed page **108**, and exact physical page-end into scan126 confirmed; no scan126 wording imported backward;
+- corrected lexical source reading: `அணுவவிக்க` → `அனுபவிக்க`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
