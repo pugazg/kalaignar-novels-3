@@ -128,23 +128,24 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 local pages — **70**
 - Part002 global scans — **76–145**
 - Part002 incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
-- Part002 Pass1 — **IN PROGRESS — 50/70 TEXT-COMPLETE — scans76–125**
-- Part002 pending Pass1 — **20/70 — scans126–145**
+- Part002 Pass1 — **IN PROGRESS — 60/70 TEXT-COMPLETE — scans76–135**
+- Part002 pending Pass1 — **10/70 — scans136–145**
 - Part002 outgoing 145→146 — **PENDING Part003 direct witness**
 - Part002 chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
 - Part002 chapter10 / scan99 — **`அர்ச்சனை- யார் வயிறுக்கு?`**
 - Part002 chapter11 / scan109 — **`ஆசையில் அருக்காணித் தங்கம்`**
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
-- Part002 exact next activity — **Pass1 Batch6 / scans126–135 / local pages51–60**
+- Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
+- Part002 exact next activity — **Pass1 Batch7 FINAL / scans136–145 / local pages61–70**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass1 Batch6 frontier**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to Part002 Pass1 Batch7 FINAL frontier**
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch6 — global scans126–135 / local pages51–60**.
+Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — global scans136–145 / local pages61–70**.
 
-Keep Part001 **FINAL CLOSED / FROZEN**. Do not begin Part002 Pass2A before full Part002 Pass1 completion.
+Keep Part001 **FINAL CLOSED / FROZEN**. After scans136–145, close Part002 Pass1 at **70/70 TEXT-COMPLETE** and make Pass2A the next gate. Do not begin Pass2A in the same activity unless explicitly requested.
