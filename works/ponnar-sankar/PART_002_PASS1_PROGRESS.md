@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 5 COMPLETE — 50/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS / BATCH 6 COMPLETE — 60/70 TEXT-COMPLETE**
 
 Active Part:
 - Part002
@@ -14,9 +14,9 @@ Active Part:
 ## Current accounting
 
 - Part002 physical scans: **70**
-- canonical Part002 records present: **50/70 — scans76–125**
-- Pass1 text-complete: **50/70**
-- Pass1 pending: **20/70 — scans126–145**
+- canonical Part002 records present: **60/70 — scans76–135**
+- Pass1 text-complete: **60/70**
+- Pass1 pending: **10/70 — scans136–145**
 - unresolved Pass1 source-reading holds: **0**
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
@@ -36,8 +36,8 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 | 3 | 96–105 | 21–30 | 79–81; scan99 chapter opener; 83–88 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 4 | 106–115 | 31–40 | 89–91; scan109 chapter opener; 93–98 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 116–125 | 41–50 | 99–101; scan119 chapter opener; 103–108 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 6 | 126–135 | 51–60 | pending direct capture | **NEXT** |
-| 7 | 136–145 | 61–70 | pending direct capture | NOT STARTED |
+| 6 | 126–135 | 51–60 | 109–110; scan128 chapter opener; 112–118 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 7 | 136–145 | 61–70 | pending direct capture | **NEXT / FINAL PASS1 BATCH** |
 
 ## Batch 1 source-structure observations
 
@@ -102,6 +102,17 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan125 closes the immediate pursuit/river-fall episode and leaves the family reflecting on செல்லாத்தாக் கவுண்டர் குடும்பத்தின் continuing hostility;
 - scan126 is not imported.
 
+## Batch 6 source-structure observations
+
+- scans126–127 continue and close chapter12 **`பூனையில் போர்க்கோலம்`** / printed pages **109–110**;
+- scan127 closes chapter12 with தாமரைநாச்சியார் asking மாயவர் whether பொன்னர் and சங்கர் are alive;
+- scan128 opens chapter **13 / `வழியில் வந்த விபரீதம்`** with displayed chapter number **13**;
+- scan128 has no running printed-page value and no value is inferred;
+- scans129–135 continue chapter13 / printed pages **112–118**;
+- chapter13 shifts between மாயவர்'s withheld disclosure, பொன்னர்–சங்கர் at மணியங்குறிச்சி, and முத்தாயி–பவளாயி returning by chariot;
+- scan135 ends after the road-side brush sequence in which animals are disturbed or struck by the mounted escort;
+- scan136 is not imported.
+
 ## Continuation integrity
 
 - scan75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -134,11 +145,21 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan121→122 — descriptive paragraph continues from `என்ற / நினைவுடனோ...`
 - scan122→123 — மாந்தியப்பன்'s reply continues from `அதற்கு பதில் / சொல்லாமல் இருப்பது...`
 - scan124→125 — threat/action continues from `மூர்க்கத்தனமாகக் / கூறிக்கொண்டே...`
-- scan125 closes its physical page without importing scan126
+- scan125→126 — direct continuation into மாயவர்'s response / family discussion
+- scan126→127 — paragraph continues from `என்பதையோ / அல்லது யாரால்...`
+- scan127 closes chapter12 before chapter13 opens on scan128
+- scan128→129 — physical sentence continues from `மருத்துவர்களைக் கொண்டு / நல்ல மூலிகைச் சாறுகளை...`
+- scan129→130 — sentence continues `பொன்னர் - / சங்கர் இருவரும்...`
+- scan130→131 — physical prose continues from the தாம்பூலத் தட்டு description
+- scan131→132 — பொன்னர் dialogue continues `எங்கெல்லாம் / தேடுகிறாரோ?`
+- scan132→133 — narration continues `போக வேண்டுமென்று / இருவரும் துடித்தாலும்...`
+- scan133→134 — சிலம்பாயி's prayer continues `நன்றாக / நன்றாக இருக்க வேண்டும்...`
+- scan134→135 — prose continues from the marriage-arrangement reflection
+- scan135 closes its physical page without importing scan136
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch6 — global scans126–135 / local pages51–60**.
+Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — global scans136–145 / local pages61–70**.
 
 Requirements:
 - direct source-pixel transcription only;
@@ -147,4 +168,5 @@ Requirements:
 - update page-map and Part002 controls;
 - keep Part001 frozen;
 - keep **145→146 PENDING Part003 direct audit**;
-- do not begin Pass2A.
+- after scans136–145 are complete, close Part002 Pass1 at **70/70 TEXT-COMPLETE** and set **Pass2A as the next gate**;
+- do not begin Pass2A in the same activity unless explicitly requested.
