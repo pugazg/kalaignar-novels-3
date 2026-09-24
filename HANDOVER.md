@@ -130,7 +130,11 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
 - Part002 pending Pass1 — **0/70**
-- Part002 Pass2A — **READY / NEXT**
+- Part002 Pass2A — **IN PROGRESS — 10/70 REVIEWED / PASS — scans76–85**
+- Part002 Pass2A source-text corrections — **16**
+- Part002 Pass2A unresolved textual questions — **0**
+- Part002 Pass2A pending — **60/70 — scans86–145**
+- durable Part002 Pass2A tracker — `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
 - Part002 outgoing 145→146 — **PENDING Part003 direct witness**
 - Part002 chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
 - Part002 chapter10 / scan99 — **`அர்ச்சனை- யார் வயிறுக்கு?`**
@@ -138,16 +142,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **Pass2A Batch1 / scans76–85 / local pages1–10**
+- Part002 exact next activity — **Pass2A Batch2 / scans86–95 / local pages11–20**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2A Batch1 frontier**
+- NEXT_CHAT_PROMPT.md — **to be synchronized to Part002 Pass2A Batch2 frontier**
 
 ## Exact next activity
 
-Begin **Part002 Pass2A Batch1 — global scans76–85 / local pages1–10**.
+Process **Part002 Pass2A Batch2 — global scans86–95 / local pages11–20**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 Pass1 is **COMPLETE / PASS — 70/70**. Keep Part002 records at `needs-review`; do not begin Pass2B before full Part002 Pass2A completion.
+Part001 remains **FINAL CLOSED / FROZEN**. Keep Part002 records at `needs-review`; Pass2B remains blocked until full Part002 Pass2A completion.
