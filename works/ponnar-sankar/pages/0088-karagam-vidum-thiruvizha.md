@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 2
 
 ## Source transcription
 
-ஒரு ஓடத்தில் ஏறிக்கொள்வார்கள். அந்த ஓடங்களில் ஓடக்காரர்கள் இருக்கக் கூடாது. ஏன் என்றால் இப்போது அவர்கள் அம்மாளின் அருள் வந்தவர்கள் அல்லவா; அதனால் தனித்தனியே ஒவ்வொருவரும் ஒரு ஓடத்தில் கரகத்தை வைத்துக் கொண்டு உட்கார்ந்திருப்பார்கள். போட்டி ஆரம்பமானதும் மண் கரகத்தையும் பொன் கரகத்தையும் இரண்டு பெண்களும் ஆற்றில் போடுவார்கள். அப்போது ஆற்றுக்குள் யாருக்கும் தெரியாமல் ஆண்கள் மூழ்கி மண் கரகத்தை மட்டும் வெளியே எடுத்துக் கொண்டு வருவார்கள்” என்றான் ஓடக்காரன்!
+ஒரு ஓடத்தில் ஏறிக்கொள்வார்கள். அந்த ஓடங்களில் ஓடக்காரர்கள் இருக்கக் கூடாது. ஏன் என்றால் இப்போது அவர்கள் அம்மாளின் அருள் வந்தவர்கள் அல்லவா; அதனால் தனித்தனியே ஒவ்வொருவரும் ஒரு ஓடத்தில் கரகத்தை வைத்துக் கொண்டு உட்கார்ந்திருப்பார்கள். போட்டி ஆரம்பமானதும் மண் கரகத்தையும் பொன் கரகத்தையும் இரண்டு பெண்களும் ஆற்றில் போடுவார்கள். அப்போது ஆற்றுக்குள் யாருக்கும் தெரியாமல் ஆண்கள் மூழ்கி மண்கரகத்தை மட்டும் வெளியே எடுத்துக் கொண்டு வருவார்கள்” என்றான் ஓடக்காரன்!
 
 “அப்படியானால், பொன் கரகம் ஆற்றுக்குள் கிடக்கும். அதை யார் வேண்டுமானாலும் எடுத்துக் கொண்டு போய் விடலாமா?” என்றான் வீரமலைச் சாம்புவன்!
 
@@ -38,3 +38,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 2
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 88; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 71; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter8 continuation, source-visible printed page **71**, and exact physical page-end confirmed without importing scan89 wording;
+- corrected source-visible word boundary: `மண் கரகத்தை` → `மண்கரகத்தை`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

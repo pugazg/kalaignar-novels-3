@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 1 COMPLETE — 10/70 REVIEWED / PASS**
+**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -15,9 +15,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **10/70 — scans76–85**
-- pending — **60/70 — scans86–145**
-- source-text corrections applied — **16**
+- reviewed — **20/70 — scans76–95**
+- pending — **50/70 — scans96–145**
+- source-text corrections applied — **21**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -247,8 +247,107 @@ canonical scan85 corrected to the source-visible place/source reading.
 - metadata promotions — **0**
 - Pass2B activation — **NO**
 
+## Batch 2 — scans86–95
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 86 | chapter8 continuation | 69 | 0 | REVIEWED / PASS |
+| 87 | chapter8 continuation | 70 | 0 | REVIEWED / PASS |
+| 88 | chapter8 continuation | 71 | **1** | REVIEWED / PASS |
+| 89 | chapter8 close / substantial intentional blank lower field | 72 | 0 | REVIEWED / PASS |
+| 90 | chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` opening | — | **1** | REVIEWED / PASS |
+| 91 | chapter9 continuation | 74 | **1** | REVIEWED / PASS |
+| 92 | chapter9 continuation | 75 | 0 | REVIEWED / PASS |
+| 93 | chapter9 continuation | 76 | **2** | REVIEWED / PASS |
+| 94 | chapter9 continuation | 77 | 0 | REVIEWED / PASS |
+| 95 | chapter9 continuation / open into scan96 | 78 | 0 | REVIEWED / PASS |
+
+## Batch 2 structural / boundary verification
+
+- scans86–89 continue and close chapter8 `கரகம் விடும் திருவிழா` — **PASS**
+- scans86–89 source-visible printed pagination 69–72 — **PASS**
+- scan89 chapter8 close / substantial intentional blank lower field — **PASS**
+- scan90 decorative chapter9 opening and displayed chapter number **9** — **PASS**
+- scan90 ordinary running printed-page value — **NONE / correctly null**
+- scans91–95 chapter9 continuation / source-visible printed pagination 74–78 — **PASS**
+- scan95 remains open mid-action into scan96 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- scan95→96 remains a direct physical continuation; scan96 wording was not imported during this batch
+- outgoing Part002 boundary 145→146 remains **PENDING Part003 direct witness**
+
+## Batch 2 correction ledger
+
+### P2A-017 — scan88
+
+Pass1:
+`மண் கரகத்தை மட்டும்`
+
+Direct source-pixel reading:
+`மண்கரகத்தை மட்டும்`
+
+Action:
+canonical scan88 corrected to the source-visible joined word.
+
+### P2A-018 — scan90
+
+Pass1:
+`கைகளைத் துடுப்பாக்கிச் செலுத்திக் கொண்டு`
+
+Direct source-pixel reading:
+`கைகளைத் துடுப்பாக்கி செலுத்திக் கொண்டு`
+
+Action:
+canonical scan90 corrected to the source-visible sandhi/word-boundary reading.
+
+### P2A-019 — scan91
+
+Pass1:
+`அந்தப் படகில் இருபோர் இருவரும்`
+
+Direct source-pixel reading:
+`அந்தப் படகில் இருப்போர் இருவரும்`
+
+Action:
+canonical scan91 corrected to the source-visible lexical reading.
+
+### P2A-020 — scan93
+
+Pass1:
+`தாமரைநாச்சியை மணக்க, மணக்கோலத்துடன் வந்தபோது`
+
+Direct source-pixel reading:
+`தாமரைநாச்சியை மணக்க, மணக் கோலத்துடன் வந்தபோது`
+
+Action:
+canonical scan93 corrected to the source-visible word boundary.
+
+### P2A-021 — scan93
+
+Pass1:
+`ஆரிச்சம்பட்டி மணியங்குறிச்சியில் நடைபெற்று நல்லவை கெட்டவை`
+
+Direct source-pixel reading:
+`ஆரிச்சம்பட்டி மணியங்குறிச்சியில் நடைபெற்ற நல்லவை கெட்டவை`
+
+Action:
+canonical scan93 corrected to the source-visible lexical reading.
+
+## Batch 2 decision
+
+**BATCH 2 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **5**
+- cumulative reviewed — **20/70 — scans76–95**
+- cumulative source-text corrections — **21**
+- unresolved textual questions — **0**
+- Part001 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO**
+
 ## Exact next activity
 
-Process **Part002 Pass2A Batch2 — global scans86–95 / local pages11–20**.
+Process **Part002 Pass2A Batch3 — global scans96–105 / local pages21–30**.
 
 Keep all Part002 records at `needs-review` / `needs-review`, keep Part001 frozen, and keep **145→146 PENDING Part003 direct audit**.

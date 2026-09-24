@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 2
 
 கரை புரண்டோடும் வெள்ளம் - அத்துடன் சூறாவளிக் காற்றும் சேர்ந்து கொண்டதால் முத்தாயி, பவளாயி இருவரும் மிதந்த ஓடங்கள் வெகுவேகமாகக் காவிரியில் கிழக்கு நோக்கிப் போய்க் கொண்டிருந்தன. பெரிய காண்டியம்மனாகவும் - செல்லாண்டியம்மனாகவும் அலங்கரித்துக் கொண்டிருந்த காரணத்தாலோ என்னவோ அந்தப் பெண்மணிகள் பதட்டமடையாமல், நடப்பது நடக்கட்டும் என்ற நினைவுடன் அமைதியாக, அசைவற்று ஓடங்களில் உட்கார்ந்திருந்தனர். மண் கரகத்தையும் பொன் கரகத்தையும் ஏந்தி; பக்திப் பிரவாகமுடன் ஓடத்தில் ஏறியமர்ந்தது போலவே; சூறாவளியில் ஓடங்கள் அடித்துச் செல்லப்படும் போதும் அவர்கள் விழிகளை மூடியவாறு வீற்றிருந்தனர்.
 
-பொன்னரும் சங்கரும் தாங்கள் இருந்த ஓடத்தைத் தங்கள் கைகளைத் துடுப்பாக்கிச் செலுத்திக் கொண்டு தங்களுக்கு முன்னால் சுழன்று சுழன்று செல்லும் முத்தாயி - பவளாயி ஓடங்களைப் பிடிக்க மிக வேகமாக முயன்று பார்த்தனர்.
+பொன்னரும் சங்கரும் தாங்கள் இருந்த ஓடத்தைத் தங்கள் கைகளைத் துடுப்பாக்கி செலுத்திக் கொண்டு தங்களுக்கு முன்னால் சுழன்று சுழன்று செல்லும் முத்தாயி - பவளாயி ஓடங்களைப் பிடிக்க மிக வேகமாக முயன்று பார்த்தனர்.
 
 ## Pass 1 notes
 
@@ -32,3 +32,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 2
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 90; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 15; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- decorative chapter9 opening `மணியங்குறிச்சி குறிஞ்சி மான்கள்` confirmed; ordinary running printed-page number is absent and remains `null`;
+- corrected source-visible sandhi/spacing reading: `துடுப்பாக்கிச்` → `துடுப்பாக்கி`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
