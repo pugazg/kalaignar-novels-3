@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2A Batch1 — scans76–85
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2A Batch2 — scans86–95
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,21 +8,11 @@ Part001 is **FINAL CLOSED / FROZEN**.
 
 Do not reopen Part001 canonical Tamil, assembled Tamil or maintained English merely for stylistic polishing.
 
-Part001 remains:
-
-- canonical Tamil — **75/75 verified / frozen**
-- visual fidelity — **75/75 verified / frozen**
-- assembled Tamil — **9/9 VERIFIED / frozen**
-- maintained English — **9/9 frozen**
-- final closure — **PASS / CLOSED / FROZEN**
-
 ## Part002 source
 
 Controlling source:
 
 `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
-
-Registered intake:
 
 - bytes — **49,532,734**
 - SHA-256 — `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd`
@@ -32,52 +22,60 @@ Registered intake:
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
 
-## Part002 Pass1 closure
+## Part002 gate state
 
-**PASS 1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
+Pass1:
 
-- canonical Part002 records — **70/70 — scans76–145**
-- Pass1 pending — **0/70**
-- unresolved Pass1 source-reading holds — **0**
+**COMPLETE / PASS — 70/70 TEXT-COMPLETE**
+
+Pass2A:
+
+**IN PROGRESS — 10/70 REVIEWED / PASS — scans76–85**
+
+- Batch1 source-backed corrections — **16**
+- unresolved Pass2A textual questions — **0**
+- Pass2A pending — **60/70 — scans86–145**
 - all Part002 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-- Pass2A — **READY / NEXT**
 - Pass2B — **BLOCKED UNTIL FULL-PART PASS2A COMPLETE**
 
-Part002 chapter openings captured in Pass1:
+Durable tracker:
 
-- scan81 — chapter8 **`கரகம் விடும் திருவிழா`**
-- scan90 — chapter9 **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
-- scan99 — chapter10 **`அர்ச்சனை- யார் வயிறுக்கு?`**
-- scan109 — chapter11 **`ஆசையில் அருக்காணித் தங்கம்`**
-- scan119 — chapter12 **`பூனையில் போர்க்கோலம்`**
-- scan128 — chapter13 **`வழியில் வந்த விபரீதம்`**
-- scan138 — chapter14 **`ராச்சாண்டார் மலைநோக்கி...`**
+`works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
+
+## Batch1 correction summary
+
+Pass2A Batch1 corrected source-visible readings on scans77–79 and81–85, including:
+
+- scan77 — joined source words `கருவேலமிளாரினால்`, `புண்ணாகிப்போன`
+- scan78 — `ஆதிக்கம் செலுத்த`
+- scan79 — `பேச்சைத் தட்ட`, `குன்று சூழ்`
+- scan81 — `வாலிபர்களும்`, `கண்கொட்டாமல்`
+- scan82 — `வாயடக்கமின்றிப்`, `கதையொன்று`
+- scan83 — `கொஞ்சம் கோபம்` and source punctuation after `பார்த்து,`
+- scan84 — `தையல் நல்லாள் புத்திரனே`, `பாட்டொலி கேட்டதும்`
+- scan85 — `நாகமலையென்று`, `காடுமலை`, `தொட்டியம்`
+
+Scans76 and80 required **0 corrections**.
 
 ## Read first
 
 1. `HANDOVER.md`
 2. `works/ponnar-sankar/SOURCE_INTAKE_PART_002.md`
-3. `works/ponnar-sankar/PART_002_BOUNDARY_AUDIT_75_76.md`
-4. `works/ponnar-sankar/PART_002_PASS1_PROGRESS.md`
+3. `works/ponnar-sankar/PART_002_PASS1_PROGRESS.md`
+4. `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 6. `works/ponnar-sankar/indexes/page-map.md`
-7. canonical records `works/ponnar-sankar/pages/0076-*.md` through `0085-*.md`
+7. canonical records `works/ponnar-sankar/pages/0086-*.md` through `0095-*.md`
 
 Refetch live `main` before editing and again after the activity.
 
 ## Exact next activity
 
-Begin **Part002 Pass2A Batch1 — global scans76–85 / local pages1–10**.
+Process **Part002 Pass2A Batch2 — global scans86–95 / local pages11–20**.
 
-Create and maintain:
-
-`works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
-
-### Pass2A method
-
-For each scan76–85, compare the canonical Pass1 record directly against the rendered controlling source pixels and verify:
+For every scan86–95, compare the canonical Pass1 record directly against the rendered controlling source pixels and verify:
 
 1. every source-visible Tamil word;
 2. word boundaries / spacing;
@@ -88,32 +86,24 @@ For each scan76–85, compare the canonical Pass1 record directly against the re
 7. chapter/page type;
 8. exact physical page-end state;
 9. no next-page wording imported backward;
-10. no source wording omitted or modernized.
+10. no source wording omitted, normalized or modernized.
 
-Apply only source-backed corrections. Every correction must be durably logged with:
+Apply only source-backed corrections. Log every correction durably in `PART_002_PASS2A_PROGRESS.md` and append the formal Part002 Pass2A review to each reviewed canonical record.
 
-- scan;
-- Pass1 wording;
-- direct source-pixel reading;
-- action taken.
+## Batch2 structural facts
 
-If a Pass1 reading is already source-faithful, record **0 corrections / REVIEWED / PASS**.
+- scans86–89 continue and close chapter8 **`கரகம் விடும் திருவிழா`** / printed pages69–72;
+- scan89 closes chapter8 after the storm sequence and has a substantial intentional blank lower field;
+- scan90 opens chapter9 **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`** and has no ordinary running printed-page number;
+- scans91–95 continue chapter9 / printed pages74–78;
+- scan95 remains open mid-action into scan96;
+- do **not** import scan96 wording during Batch2.
 
-### Batch1 structural facts
-
-- scan76 / printed59 directly continues chapter7 **`உண்மையின் உதயம்`** from frozen Part001 scan75;
-- incoming 75→76 is already **GENUINE CONTINUATION / AUDITED / PASS**;
-- scans76–80 continue and close chapter7;
-- scan80 / printed63 closes chapter7 with a substantial intentional blank lower field;
-- scan81 opens chapter8 **`கரகம் விடும் திருவிழா`** and has no running printed-page number;
-- scans82–85 continue chapter8 / printed pages65–68;
-- scan85 remains open into scan86; do not import scan86 wording during Batch1.
-
-## Pass2A status rules
+## Status rules
 
 During Pass2A:
 
-- keep canonical `status: "needs-review"`;
+- keep `status: "needs-review"`;
 - keep `visual_fidelity: "needs-review"`;
 - do not promote metadata to verified;
 - do not begin Pass2B;
@@ -124,27 +114,22 @@ During Pass2A:
 
 Stop after:
 
-**Part002 Pass2A Batch1 — scans76–85 — REVIEWED**
+**Part002 Pass2A Batch2 — scans86–95 — REVIEWED**
 
-Then synchronize:
+Expected cumulative state after a clean Batch2:
 
-- `PART_002_PASS2A_PROGRESS.md`
-- page map
-- source intake
-- work/root README
-- HANDOVER
-- archival guidelines
-- source split manifest
-- `NEXT_CHAT_PROMPT.md`
+**20/70 REVIEWED / PASS — scans76–95**
 
-The next gate after Batch1 should be **Part002 Pass2A Batch2 — scans86–95 / local pages11–20**, unless Batch1 produces an unresolved source-reading hold.
+Then synchronize progress, page map, intake, READMEs, HANDOVER, guidelines, manifest and this continuation prompt.
+
+The next activity should be **Part002 Pass2A Batch3 — scans96–105 / local pages21–30**, unless Batch2 produces an unresolved direct-source hold.
 
 ## Mandatory locks
 
 - **LIVE MAIN IS AUTHORITATIVE**
-- direct rendered Part002 source pixels are authoritative
+- direct rendered source pixels are authoritative
 - no OCR / web / alternate edition / remembered text
 - Part001 remains **FINAL CLOSED / FROZEN**
 - Part002 records stay `needs-review`
-- Pass2B remains blocked until Pass2A closes across all **70/70** scans
+- Pass2B remains blocked until Pass2A closes across all **70/70**
 - outgoing **145→146 remains pending**
