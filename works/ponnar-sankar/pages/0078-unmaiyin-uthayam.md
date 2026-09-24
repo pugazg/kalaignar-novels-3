@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 
 “வாழ்க சோழன்!” என்று ராக்கியண்ணனின் உதடுகள் உச்சரித்தன! மாயவரும்; “ஆமாம்! வாழ்க! வாழ்க!” என்றார். அடுத்து அவர் என்ன சொல்லப்போகிறார் என்பதை ராக்கியண்ணன் உன்னிப்பாகக் கவனித்தார்.
 
-“கோல் பிடித்து அதிகம் செலுத்த வேண்டிய நெல்லியங்கோடன் ஏர் பிடித்து வேளாண்மை செய்யத் தொடங்கினான். தேவையான ஆட்களை வேலைகளுக்குப் பயன்படுத்திக் கொண்டு நன்செய், புன்செய் நிலங்களில் கணவனும் மனைவியும் கடும் உழைப்பை வழங்கினர். உழைப்பு உயர்வு தரும் என்பதற்கொப்ப அவர்களிட்ட பயிர் தழைத்துக் குலுங்கியது. பச்சைக் கம்பளம்
+“கோல் பிடித்து ஆதிக்கம் செலுத்த வேண்டிய நெல்லியங்கோடன் ஏர் பிடித்து வேளாண்மை செய்யத் தொடங்கினான். தேவையான ஆட்களை வேலைகளுக்குப் பயன்படுத்திக் கொண்டு நன்செய், புன்செய் நிலங்களில் கணவனும் மனைவியும் கடும் உழைப்பை வழங்கினர். உழைப்பு உயர்வு தரும் என்பதற்கொப்ப அவர்களிட்ட பயிர் தழைத்துக் குலுங்கியது. பச்சைக் கம்பளம்
 
 ## Pass 1 notes
 
@@ -36,3 +36,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 78; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 61; PASS 1 TEXT-COMPLETE / needs-review -->
+
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- corrected lexical source reading: `கோல் பிடித்து அதிகம் செலுத்த வேண்டிய` → `கோல் பிடித்து ஆதிக்கம் செலுத்த வேண்டிய`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
