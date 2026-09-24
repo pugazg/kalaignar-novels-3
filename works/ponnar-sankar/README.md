@@ -60,9 +60,9 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / scans76–145**
 - Part002 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
 - Part002 Pass1 pending: **0/70**
-- Part002 Pass2A: **IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
-- Part002 Pass2A source-text corrections: **26**
-- Part002 Pass2A pending: **40/70 — scans106–145**
+- Part002 Pass2A: **IN PROGRESS — 40/70 REVIEWED / PASS — scans76–115**
+- Part002 Pass2A source-text corrections: **34**
+- Part002 Pass2A pending: **30/70 — scans116–145**
 - Part003–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 outgoing boundary 145→146: **PENDING Part003 witness**
@@ -107,6 +107,6 @@
 
 ## Exact next activity
 
-Process **Part002 Pass2A Batch4 — global scans106–115 / local pages31–40**.
+Process **Part002 Pass2A Batch5 — global scans116–125 / local pages41–50**.
 
 Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen; do not begin Pass2B until Pass2A closes across all **70/70** scans.

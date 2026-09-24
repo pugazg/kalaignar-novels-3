@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 3 COMPLETE — 30/70 REVIEWED / PASS**
+**PASS 2A — IN PROGRESS / BATCH 4 COMPLETE — 40/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -15,9 +15,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **30/70 — scans76–105**
-- pending — **40/70 — scans106–145**
-- source-text corrections applied — **26**
+- reviewed — **40/70 — scans76–115**
+- pending — **30/70 — scans116–145**
+- source-text corrections applied — **34**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -448,8 +448,143 @@ canonical scan105 corrected to the source-visible lexical reading.
 - metadata promotions — **0**
 - Pass2B activation — **NO**
 
+## Batch 4 — scans106–115
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 106 | chapter10 continuation / open into scan107 | 89 | **1** | REVIEWED / PASS |
+| 107 | chapter10 continuation | 90 | 0 | REVIEWED / PASS |
+| 108 | chapter10 close / substantial intentional blank lower field | 91 | 0 | REVIEWED / PASS |
+| 109 | chapter11 `ஆசையில் அருக்காணித் தங்கம்` opening | — | 0 | REVIEWED / PASS |
+| 110 | chapter11 continuation | 93 | **1** | REVIEWED / PASS |
+| 111 | chapter11 continuation / open into scan112 | 94 | **2** | REVIEWED / PASS |
+| 112 | chapter11 continuation / open into scan113 | 95 | 0 | REVIEWED / PASS |
+| 113 | chapter11 continuation | 96 | **2** | REVIEWED / PASS |
+| 114 | chapter11 continuation | 97 | **1** | REVIEWED / PASS |
+| 115 | chapter11 continuation / open into scan116 | 98 | **1** | REVIEWED / PASS |
+
+## Batch 4 structural / boundary verification
+
+- scans106–108 continue and close chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` — **PASS**
+- scans106–108 source-visible printed pagination 89–91 — **PASS**
+- scan108 chapter10 close / substantial intentional blank lower field — **PASS**
+- scan109 decorative chapter11 opening and displayed chapter number **11** — **PASS**
+- scan109 ordinary running printed-page value — **NONE / correctly null**
+- scans110–115 chapter11 continuation / source-visible printed pagination 93–98 — **PASS**
+- scan106 exact open physical ending into scan107 — **PASS**
+- scan109 exact open physical ending into scan110 — **PASS**
+- scan111 exact open physical ending into scan112 — **PASS**
+- scan112 exact open ending `ஆனைப்படை குதிரைப்படை முன்னால் வரவும் -` into scan113 — **PASS**
+- scan115 exact open physical ending into scan116 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- outgoing Part002 boundary 145→146 remains **PENDING Part003 direct witness**
+
+## Batch 4 correction ledger
+
+### P2A-027 — scan106
+
+Pass1:
+`கேட்டு விட்டுப் பிறகு ஆறுதலடைந்தாளே`
+
+Direct source-pixel reading:
+`கேட்டு திடுக்கிட்டுப் பிறகு ஆறுதலடைந்தாளே`
+
+Action:
+canonical scan106 corrected to the source-visible phrase.
+
+### P2A-028 — scan110
+
+Pass1:
+`தாமரைநாச்சியின் ஏக்கம் பொதாயிற்று.`
+
+Direct source-pixel reading:
+`தாமரைநாச்சியின் ஏக்கம் பெரிதாயிற்று.`
+
+Action:
+canonical scan110 corrected to the source-visible lexical reading.
+
+### P2A-029 — scan111
+
+Pass1:
+`கவலைப்படாமல் இருங்கள்.`
+
+Direct source-pixel reading:
+`கவலைப் படாமல் இருங்கள்.`
+
+Action:
+canonical scan111 corrected to the source-visible word boundary.
+
+### P2A-030 — scan111
+
+Pass1:
+`ஆதிசெட்டிப் பாளையத்தாருக்கு ஆறுதல் கூடத் தெரியுமா?`
+
+Direct source-pixel reading:
+`ஆதிசெட்டிப் பாளையத்தாருக்கு ஆரூடம் கூடத் தெரியுமா?`
+
+Action:
+canonical scan111 corrected to the source-visible lexical reading.
+
+### P2A-031 — scan113
+
+Pass1:
+`தலையூர்ச் சிற்றரசின் மந்திரி அல்லவா?`
+
+Direct source-pixel reading:
+`தலையூர்ச் சிற்றரசின் மந்திரியார் அல்லவா?`
+
+Action:
+canonical scan113 corrected to the source-visible lexical reading.
+
+### P2A-032 — scan113
+
+Pass1:
+`தங்களின் புகழிப் பெருமைக்குத் தகுந்தவாறு`
+
+Direct source-pixel reading:
+`தங்களின் பதவிப் பெருமைக்குத் தகுந்தவாறு`
+
+Action:
+canonical scan113 corrected to the source-visible phrase.
+
+### P2A-033 — scan114
+
+Pass1:
+`நன்மையில்லாத காரியம் ஒரு கடுகளவு நடந்தாலும்`
+
+Direct source-pixel reading:
+`நன்மையல்லாத காரியம் ஒரு கடுகளவு நடந்தாலும்`
+
+Action:
+canonical scan114 corrected to the source-visible lexical reading.
+
+### P2A-034 — scan115
+
+Pass1:
+`கொண்டிருப்பது போல எழுதப்பட்டிருந்தது.`
+
+Direct source-pixel reading:
+`கொண்டிருப்பது போல் எழுதப்பட்டிருந்தது.`
+
+Action:
+canonical scan115 corrected to the source-visible word form.
+
+## Batch 4 decision
+
+**BATCH 4 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **8**
+- cumulative reviewed — **40/70 — scans76–115**
+- cumulative source-text corrections — **34**
+- unresolved textual questions — **0**
+- Part001 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO**
+
 ## Exact next activity
 
-Process **Part002 Pass2A Batch4 — global scans106–115 / local pages31–40**.
+Process **Part002 Pass2A Batch5 — global scans116–125 / local pages41–50**.
 
 Keep all Part002 records at `needs-review` / `needs-review`, keep Part001 frozen, and keep **145→146 PENDING Part003 direct audit**.

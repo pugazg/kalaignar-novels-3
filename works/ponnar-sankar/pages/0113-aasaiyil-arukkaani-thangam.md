@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 
 மாயவரின் கூற்றுக்கு, குன்றுடையான், தனக்கே இயல்பாக அமைந்த அடக்கத்துடன் பதிலளித்தான்.
 
-“நானும் என்னைப்போன்ற சிலரும் வெறும் எல்லைக் காவல் ஆட்சி புரிபவர்கள். தாங்கள் அப்படியல்லவே! தலையூர்ச் சிற்றரசின் மந்திரி அல்லவா? மந்திரி மட்டுமா? மகா மேதையுங்கூட! தங்களின் புகழிப் பெருமைக்குத் தகுந்தவாறு சுற்றுச் சூழல், பாதுகாப்பு ஏற்பாடு - எல்லாமே இருக்க வேண்டுமே என்றுதான் கேட்டேன்.”
+“நானும் என்னைப்போன்ற சிலரும் வெறும் எல்லைக் காவல் ஆட்சி புரிபவர்கள். தாங்கள் அப்படியல்லவே! தலையூர்ச் சிற்றரசின் மந்திரியார் அல்லவா? மந்திரி மட்டுமா? மகா மேதையுங்கூட! தங்களின் பதவிப் பெருமைக்குத் தகுந்தவாறு சுற்றுச் சூழல், பாதுகாப்பு ஏற்பாடு - எல்லாமே இருக்க வேண்டுமே என்றுதான் கேட்டேன்.”
 
 “என்னைப்பற்றித்தான் உனக்குத் தெரியுமே! எளிமையான வாழ்வுதான் எனக்குப் பிடிக்கும். என் போன்ற அமைச்சர்கள் வெளியில் போகும்போதெல்லாம்; ஏதோ யுத்தத்திற்குப் போவது போல ஆனை சேனைகளை அணிவகுக்கச் சொல்லிப் போக முடியுமா? நீ நினைக்கிறபடி இப்போதுகூட நான் கோயில் திருவிழாவை முன்னிட்டு வரவில்லை. முக்கியமாக உன்னைப் பார்க்கத்தான் வந்தேன்!”
 
@@ -38,3 +38,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 113; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 38; அச்சுப் பக்கம்: 96; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter11 continuation, source-visible printed page **96**, and exact physical page-end confirmed;
+- corrected lexical source reading: `மந்திரி அல்லவா?` → `மந்திரியார் அல்லவா?`;
+- corrected source phrase: `புகழிப் பெருமைக்குத்` → `பதவிப் பெருமைக்குத்`;
+- source-text corrections: **2**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

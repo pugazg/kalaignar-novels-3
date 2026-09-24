@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 
 அந்த உணர்வில் அவள் சோக பிம்பமாக நின்றாள். அன்று கூறிய சூளுரைப்படி அவளும் இரண்டு சிங்கக்குட்டிகளைப் பெற்றாள். ஆனால் அந்த சிங்கக்குட்டிகள் பிறந்து வளர்ந்த இரண்டு ஆண்டுகளுக்குள்ளே எங்கு போயின என்றே தெரியாமல் அவளும் அவள் அன்புக்கணவன் குன்றுடையானும் வேண்டாத தெய்வமில்லை - கும்பிடாத கோயில் இல்லை - ஆடாத தீர்த்தமில்லை.
 
-அண்ணன் சின்னமலைக்கொழுந்தின் பெண்களிருவரையும் பார்த்தது முதல் - தாமரைநாச்சியின் ஏக்கம் பொதாயிற்று.
+அண்ணன் சின்னமலைக்கொழுந்தின் பெண்களிருவரையும் பார்த்தது முதல் - தாமரைநாச்சியின் ஏக்கம் பெரிதாயிற்று.
 
 “அன்று சொன்னபடி அண்ணனுக்கும் இரு பெண்கள் பிறந்து விட்டனர். ஆனால் அவர்களை மணந்து கொள்ளுமாறு அண்ணன் வந்து மன்றாடிக் கேட்பதற்கு நான் பெற்ற மக்கள் இல்லையே! அம்மா தாயே! உனக்கு எத்தனை வருஷமாக பிரார்த்தனை செய்கிறோம்; உன் மனம் இரங்கவில்லையா?” என்று வாய்விட்டுக் கதறியவாறு தாமரையாள், செல்லாண்டியம்மனைத் தொழுது நின்றாள்.
 
@@ -40,3 +40,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 110; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 35; அச்சுப் பக்கம்: 93; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter11 continuation, source-visible printed page **93**, and exact physical page-end confirmed;
+- corrected lexical source reading: `ஏக்கம் பொதாயிற்று` → `ஏக்கம் பெரிதாயிற்று`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

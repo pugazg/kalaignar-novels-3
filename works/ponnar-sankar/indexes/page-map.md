@@ -196,8 +196,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part001 final closure: **PASS / CLOSED / FROZEN**
 - Part002 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
 - Part002 Pass1 pending: **0/70**
-- Part002 Pass2A: **IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
-- Part002 Pass2A source-text corrections: **26**
-- Part002 Pass2A pending: **40/70 — scans106–145**
+- Part002 Pass2A: **IN PROGRESS — 40/70 REVIEWED / PASS — scans76–115**
+- Part002 Pass2A source-text corrections: **34**
+- Part002 Pass2A pending: **30/70 — scans116–145**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 Pass2A Batch4 — scans106–115 / local pages31–40**
+- exact next activity: **Part002 Pass2A Batch5 — scans116–125 / local pages41–50**
