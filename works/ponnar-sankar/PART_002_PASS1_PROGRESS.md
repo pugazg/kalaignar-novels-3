@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS / BATCH 6 COMPLETE — 60/70 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
 
 Active Part:
 - Part002
@@ -14,13 +14,13 @@ Active Part:
 ## Current accounting
 
 - Part002 physical scans: **70**
-- canonical Part002 records present: **60/70 — scans76–135**
-- Pass1 text-complete: **60/70**
-- Pass1 pending: **10/70 — scans136–145**
+- canonical Part002 records present: **70/70 — scans76–145**
+- Pass1 text-complete: **70/70 — COMPLETE**
+- Pass1 pending: **0/70**
 - unresolved Pass1 source-reading holds: **0**
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
-- Pass2A — **BLOCKED UNTIL FULL-PART PASS1 COMPLETE**
+- Pass2A — **READY / NEXT**
 - all Part002 Pass1 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
@@ -37,7 +37,7 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 | 4 | 106–115 | 31–40 | 89–91; scan109 chapter opener; 93–98 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 116–125 | 41–50 | 99–101; scan119 chapter opener; 103–108 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 6 | 126–135 | 51–60 | 109–110; scan128 chapter opener; 112–118 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 7 | 136–145 | 61–70 | pending direct capture | **NEXT / FINAL PASS1 BATCH** |
+| 7 | 136–145 | 61–70 | 119–120; scan138 chapter opener; 122–128 | **COMPLETE / 10 TEXT-COMPLETE** |
 
 ## Batch 1 source-structure observations
 
@@ -113,6 +113,18 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan135 ends after the road-side brush sequence in which animals are disturbed or struck by the mounted escort;
 - scan136 is not imported.
 
+## Batch 7 source-structure observations
+
+- scans136–137 continue and close chapter13 **`வழியில் வந்த விபரீதம்`** / printed pages **119–120**;
+- scan136 begins the ambush around the chariot and ends with வையம்பெருமான் drawing his sword;
+- scan137 closes chapter13 with வையம்பெருமான் leaving the chariot while armed riders tighten the encirclement;
+- scan138 opens chapter **14 / `ராச்சாண்டார் மலைநோக்கி...`** with displayed chapter number **14**;
+- scan138 has no running printed-page value and no value is inferred;
+- scans139–145 continue chapter14 / printed pages **122–128**;
+- chapter14 identifies திருமலை, explains the planned abduction toward ராச்சாண்டார் மலை, binds வையம்பெருமான், diverts the convoy away from ஆரிச்சம்பட்டி, and ends with a critically wounded ஆரிச்சம்பட்டி வீரன் reaching the palace;
+- scan145 is Part002's final physical page and remains open at `கண்களோ ஒளியிழந்து கொண்டிருந்தன.`;
+- outgoing **145→146 remains PENDING Part003 direct witness**; no scan146 wording is imported or inferred.
+
 ## Continuation integrity
 
 - scan75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -155,18 +167,35 @@ Part001 remains **FINAL CLOSED / FROZEN**.
 - scan132→133 — narration continues `போக வேண்டுமென்று / இருவரும் துடித்தாலும்...`
 - scan133→134 — சிலம்பாயி's prayer continues `நன்றாக / நன்றாக இருக்க வேண்டும்...`
 - scan134→135 — prose continues from the marriage-arrangement reflection
-- scan135 closes its physical page without importing scan136
+- scan135→136 — direct physical continuation into the ambush sequence
+- scan136→137 — வையம்பெருமான் action continues directly across the page boundary
+- scan137 closes chapter13 before chapter14 opens on scan138
+- scan138→139 — chapter14 conflict continues without reconstruction
+- scan139→140 — திருமலை's self-introduction continues `தலையூர் மன்னர் காளியின் / தளகர்த்தர்களில் ஒருவன்!`
+- scan142→143 — திருமலை's marriage ultimatum continues from `அவர் திருமணத்துக்குச் / சம்மதித்தால்...`
+- scan143→144 — sentence continues `எதுவும் செய்து விட முடியாது / என்ற தைரியம்...`
+- scan144→145 — wounded வீரன் sequence continues directly
+- scan145→146 — **PENDING Part003 direct witness; no reconstruction/import**
+
+## Pass1 closure
+
+**PASS 1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
+
+- scans76–145 — **70/70 canonical records present**
+- unresolved Pass1 source-reading holds — **0**
+- all records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
+- incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+- Part001 — **FINAL CLOSED / FROZEN / unchanged**
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — global scans136–145 / local pages61–70**.
+Begin **Part002 Pass2A Batch1 — global scans76–85 / local pages1–10**.
 
-Requirements:
-- direct source-pixel transcription only;
-- preserve source-visible spelling, punctuation, paragraph/dialogue/display structure and physical page ends;
-- keep new records `needs-review` / `needs-review`;
-- update page-map and Part002 controls;
-- keep Part001 frozen;
-- keep **145→146 PENDING Part003 direct audit**;
-- after scans136–145 are complete, close Part002 Pass1 at **70/70 TEXT-COMPLETE** and set **Pass2A as the next gate**;
-- do not begin Pass2A in the same activity unless explicitly requested.
+Pass2A requirements:
+- direct source-pixel word-by-word textual verification;
+- verify punctuation, paragraph/dialogue structure, printed pagination and physical page boundary;
+- record every source-backed correction durably;
+- keep `status` and `visual_fidelity` at `needs-review`;
+- do not begin Pass2B until Pass2A covers all **70/70** Part002 scans;
+- keep outgoing **145→146 PENDING Part003 direct audit**.
