@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 PASS1 ACTIVE**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS1 COMPLETE / PASS2A NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -58,8 +58,9 @@
 - source PDFs in Git: **0 / prohibited by archive policy**
 - Part001: **REGISTERED — scans1–75 / 75 local pages**
 - Part002: **REGISTERED / COMPLETE — 70 local pages / scans76–145**
-- Part002 Pass1: **IN PROGRESS — 60/70 TEXT-COMPLETE — scans76–135**
-- Part002 Pass1 pending: **10/70 — scans136–145**
+- Part002 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
+- Part002 Pass1 pending: **0/70**
+- Part002 Pass2A: **READY / NEXT**
 - Part003–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 outgoing boundary 145→146: **PENDING Part003 witness**
@@ -104,6 +105,6 @@
 
 ## Exact next activity
 
-Process **Part002 Pass1 Batch7 — FINAL Pass1 batch — global scans136–145 / local pages61–70**.
+Begin **Part002 Pass2A Batch1 — global scans76–85 / local pages1–10**.
 
-Keep Part001 frozen, keep new Part002 records `needs-review`, and after the final 10 scans close Pass1 at **70/70 TEXT-COMPLETE**. Pass2A becomes the next gate; do not begin it in the same activity unless explicitly requested.
+Pass1 is **COMPLETE / PASS — 70/70**. Keep all Part002 records at `needs-review` through Pass2A; do not begin Pass2B until Pass2A closes across all 70 scans.
