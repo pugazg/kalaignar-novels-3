@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 6 COMPLETE — 60/70 REVIEWED / PASS**
+**PASS 2A — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
 
 Active Part:
 - Part002
@@ -15,16 +15,16 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **60/70 — scans76–135**
-- pending — **10/70 — scans136–145**
-- source-text corrections applied — **46**
+- reviewed — **70/70 — scans76–145**
+- pending — **0/70**
+- source-text corrections applied — **47**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
 - all Part002 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-- Pass2B — **BLOCKED UNTIL FULL-PART PASS2A COMPLETE**
+- Pass2B — **NOT ACTIVATED — full-part Pass2A closure / activation checkpoint next**
 - outgoing **145→146 — PENDING Part003 direct witness**
 
 ## Batch 1 — scans76–85
@@ -814,8 +814,78 @@ canonical scan133 corrected to the source-visible sandhi / word form.
 - metadata promotions — **0**
 - Pass2B activation — **NO**
 
+## Final Batch 7 — scans136–145
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 136 | chapter13 continuation / open into scan137 | 119 | 0 | REVIEWED / PASS |
+| 137 | chapter13 close / lower illustration field | 120 | **1** | REVIEWED / PASS |
+| 138 | chapter14 `ராச்சாண்டார் மலைநோக்கி...` opening | — | 0 | REVIEWED / PASS |
+| 139 | chapter14 continuation / open into scan140 | 122 | 0 | REVIEWED / PASS |
+| 140 | chapter14 continuation | 123 | 0 | REVIEWED / PASS |
+| 141 | chapter14 continuation | 124 | 0 | REVIEWED / PASS |
+| 142 | chapter14 continuation / open into scan143 | 125 | 0 | REVIEWED / PASS |
+| 143 | chapter14 continuation / open into scan144 | 126 | 0 | REVIEWED / PASS |
+| 144 | chapter14 continuation / open into scan145 | 127 | 0 | REVIEWED / PASS |
+| 145 | chapter14 continuation / Part002 final physical page | 128 | 0 | REVIEWED / PASS |
+
+## Final Batch 7 structural / boundary verification
+
+- scans136–137 continue and close chapter13 `வழியில் வந்த விபரீதம்` — **PASS**
+- scans136–137 source-visible printed pagination 119–120 — **PASS**
+- scan137 chapter13 close / substantial lower illustration field — **PASS**
+- scan137 source-final body ending `வளைத்தனர்` has **no terminal punctuation** — **PASS / CORRECTED**
+- scan138 decorative chapter14 opening and displayed chapter number **14** — **PASS**
+- scan138 ordinary running printed-page value — **NONE / correctly null**
+- scans139–145 chapter14 continuation / source-visible printed pagination 122–128 — **PASS**
+- scan136 exact open physical ending into scan137 — **PASS**
+- scan139 exact open ending `தலையூர் மன்னர் காளியின்` into scan140 — **PASS**
+- scan142 exact open ending `அவர் திருமணத்துக்குச்` into scan143 — **PASS**
+- scans143–144 exact open physical endings into the next Part002 scan — **PASS**
+- scan145 exact Part002 final physical page-end — **PASS**
+- scan146 wording inferred/imported — **0**
+- outgoing Part002 boundary **145→146 remains PENDING Part003 direct witness**
+
+## Final Batch 7 correction ledger
+
+### P2A-047 — scan137
+
+Pass1:
+`மேலும் நெருக்கமாகச் சுற்றி வளைத்தனர்.`
+
+Direct source-pixel reading:
+`மேலும் நெருக்கமாகச் சுற்றி வளைத்தனர்`
+
+Action:
+canonical scan137 removed the unsupported terminal full stop; the rendered source ends the body at `வளைத்தனர்` before the lower illustration field.
+
+## Final Batch 7 decision
+
+**FINAL BATCH 7 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **1**
+- cumulative reviewed — **70/70 — scans76–145**
+- cumulative source-text corrections — **47**
+- unresolved textual questions — **0**
+- Part001 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO / deferred to explicit closure checkpoint**
+
+## Full-Part Pass2A completion state
+
+**PART002 PASS 2A — COMPLETE / PASS — 70/70 REVIEWED**
+
+- reviewed physical scans — **70/70**
+- coverage — **scans76–145**
+- total source-backed corrections — **47**
+- unresolved textual questions — **0**
+- canonical status promotions during Pass2A — **0**
+- canonical visual-fidelity promotions during Pass2A — **0**
+- all Part002 records remain `needs-review` / `needs-review`
+- outgoing 145→146 — **PENDING Part003 direct witness**
+- Pass2B — **NOT YET ACTIVATED**
+
 ## Exact next activity
 
-Process **Part002 Pass2A Batch7 — global scans136–145 / local pages61–70**.
-
-Keep all Part002 records at `needs-review` / `needs-review`, keep Part001 frozen, and keep **145→146 PENDING Part003 direct audit**.
+Run the **Part002 Pass2A full-part closure / Pass2B activation checkpoint**. Reconcile the 70/70 review census and P2A-001–P2A-047 ledger, confirm all locks and outgoing 145→146 pending state, then activate Pass2B without starting its first reread batch unless that is separately authorized.

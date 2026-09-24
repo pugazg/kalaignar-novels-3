@@ -130,10 +130,11 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
 - Part002 pending Pass1 — **0/70**
-- Part002 Pass2A — **IN PROGRESS — 60/70 REVIEWED / PASS — scans76–135**
-- Part002 Pass2A source-text corrections — **46**
+- Part002 Pass2A — **COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
+- Part002 Pass2A source-text corrections — **47**
 - Part002 Pass2A unresolved textual questions — **0**
-- Part002 Pass2A pending — **10/70 — scans136–145**
+- Part002 Pass2A pending — **0/70**
+- Part002 Pass2B — **NOT YET ACTIVATED — closure / activation checkpoint next**
 - durable Part002 Pass2A tracker — `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
 - Part002 outgoing 145→146 — **PENDING Part003 direct witness**
 - Part002 chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
@@ -142,16 +143,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **Pass2A Batch7 / scans136–145 / local pages61–70**
+- Part002 exact next activity — **Pass2A full-part closure / Pass2B activation checkpoint**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2A Batch7 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2A closure / Pass2B activation frontier**
 
 ## Exact next activity
 
-Process **Part002 Pass2A Batch7 — global scans136–145 / local pages61–70**.
+Run the **Part002 Pass2A full-part closure / Pass2B activation checkpoint**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Keep Part002 records at `needs-review`; Pass2B remains blocked until full Part002 Pass2A completion.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 Pass2A is **COMPLETE / PASS — 70/70** with **47** source-backed corrections. Keep Part002 records at `needs-review`; Pass2B is not yet activated and must be opened only through the explicit checkpoint.
