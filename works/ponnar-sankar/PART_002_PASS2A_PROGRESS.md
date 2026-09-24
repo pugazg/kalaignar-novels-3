@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 5 COMPLETE — 50/70 REVIEWED / PASS**
+**PASS 2A — IN PROGRESS / BATCH 6 COMPLETE — 60/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -15,9 +15,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **50/70 — scans76–125**
-- pending — **20/70 — scans126–145**
-- source-text corrections applied — **42**
+- reviewed — **60/70 — scans76–135**
+- pending — **10/70 — scans136–145**
+- source-text corrections applied — **46**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -720,8 +720,102 @@ canonical scan125 corrected to the source-visible lexical reading.
 - metadata promotions — **0**
 - Pass2B activation — **NO**
 
+## Batch 6 — scans126–135
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 126 | chapter12 continuation / open into scan127 | 109 | **1** | REVIEWED / PASS |
+| 127 | chapter12 close | 110 | 0 | REVIEWED / PASS |
+| 128 | chapter13 `வழியில் வந்த விபரீதம்` opening | — | 0 | REVIEWED / PASS |
+| 129 | chapter13 continuation / open into scan130 | 112 | **1** | REVIEWED / PASS |
+| 130 | chapter13 continuation / open into scan131 | 113 | 0 | REVIEWED / PASS |
+| 131 | chapter13 continuation / open into scan132 | 114 | 0 | REVIEWED / PASS |
+| 132 | chapter13 continuation / open into scan133 | 115 | 0 | REVIEWED / PASS |
+| 133 | chapter13 continuation / open into scan134 | 116 | **2** | REVIEWED / PASS |
+| 134 | chapter13 continuation / open into scan135 | 117 | 0 | REVIEWED / PASS |
+| 135 | chapter13 continuation / open into scan136 | 118 | 0 | REVIEWED / PASS |
+
+## Batch 6 structural / boundary verification
+
+- scans126–127 continue and close chapter12 `பூனையில் போர்க்கோலம்` — **PASS**
+- scans126–127 source-visible printed pagination 109–110 — **PASS**
+- scan128 decorative chapter13 opening and displayed chapter number **13** — **PASS**
+- scan128 ordinary running printed-page value — **NONE / correctly null**
+- scans129–135 chapter13 continuation / source-visible printed pagination 112–118 — **PASS**
+- scan126 exact open physical ending into scan127 — **PASS**
+- scan128 exact open physical ending into scan129 — **PASS**
+- scan129 exact open ending `பொன்னர் -` into scan130 — **PASS**
+- scan130 exact open physical ending into scan131 — **PASS**
+- scan131 exact open ending `எங்கெல்லாம்` into scan132 — **PASS**
+- scan132 exact open physical ending into scan133 — **PASS**
+- scan133 exact open ending `அந்தப் பிள்ளையாண்டான்கள் நன்றாக` into scan134 — **PASS**
+- scan134 exact open physical ending into scan135 — **PASS**
+- scan135 exact open physical ending into scan136 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- outgoing Part002 boundary 145→146 remains **PENDING Part003 direct witness**
+
+## Batch 6 correction ledger
+
+### P2A-043 — scan126
+
+Pass1:
+`உணர்ச்சி வயப்பட்டாதே!`
+
+Direct source-pixel reading:
+`உணர்ச்சி வயப்படாதே!`
+
+Action:
+canonical scan126 corrected to the source-visible lexical reading.
+
+### P2A-044 — scan129
+
+Pass1:
+`கைகளைத் தூய்மைப்படுத்திக் கொள்ள`
+
+Direct source-pixel reading:
+`கைகளைத் தூய்மைப் படுத்திக் கொள்ள`
+
+Action:
+canonical scan129 corrected to the source-visible word boundary.
+
+### P2A-045 — scan133
+
+Pass1:
+`நடந்த விஷயங்களை யெல்லாம்`
+
+Direct source-pixel reading:
+`நடந்த விஷயங்களையெல்லாம்`
+
+Action:
+canonical scan133 corrected to the source-visible joined word.
+
+### P2A-046 — scan133
+
+Pass1:
+`தட்டில் குங்குமம் வைத்துக் எடுத்து வந்து கொடுத்தபோதும்`
+
+Direct source-pixel reading:
+`தட்டில் குங்குமம் வைத்து எடுத்து வந்து கொடுத்தபோதும்`
+
+Action:
+canonical scan133 corrected to the source-visible sandhi / word form.
+
+## Batch 6 decision
+
+**BATCH 6 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **4**
+- cumulative reviewed — **60/70 — scans76–135**
+- cumulative source-text corrections — **46**
+- unresolved textual questions — **0**
+- Part001 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO**
+
 ## Exact next activity
 
-Process **Part002 Pass2A Batch6 — global scans126–135 / local pages51–60**.
+Process **Part002 Pass2A Batch7 — global scans136–145 / local pages61–70**.
 
 Keep all Part002 records at `needs-review` / `needs-review`, keep Part001 frozen, and keep **145→146 PENDING Part003 direct audit**.

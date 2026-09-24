@@ -36,3 +36,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 6
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 128; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 53; அச்சுப் பக்கம்: —; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- decorative chapter13 opening `வழியில் வந்த விபரீதம்` confirmed; ordinary running printed-page number is absent and remains `null`; exact open physical page-end into scan129 confirmed;
+- source-text corrections: **0**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

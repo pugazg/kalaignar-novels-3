@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 6
 
 “இதோடு நிறுத்துங்கள் ராமாயணத்தை! இதற்கு மேல் வனவாசம் - அசோகவனம் - இலங்காதகனம் - யுத்த காண்டம் என்றெல்லாம் போய்விடாதீர்கள்” என்று பொன்னர் கூறியபோது, அந்தப் பேச்சில் இருந்த நிதானத்தையும் அடக்கத்தையும் சின்ன மலைக்கொழுந்து கவனிக்கத் தவறவில்லை.
 
-அவர்களின் உரையாடலின் நடுவே சமையல்காரன் நுழைந்து; “எஜமான்! உணவு தயார்!” என்று மெத்த மரியாதையுடன் குனிந்து நின்றவாறு சொன்னான். கைகளைத் தூய்மைப்படுத்திக் கொள்ள வெள்ளிச் செம்புகளில் தண்ணீர் கொண்டு வந்து தரப்பட்டது.
+அவர்களின் உரையாடலின் நடுவே சமையல்காரன் நுழைந்து; “எஜமான்! உணவு தயார்!” என்று மெத்த மரியாதையுடன் குனிந்து நின்றவாறு சொன்னான். கைகளைத் தூய்மைப் படுத்திக் கொள்ள வெள்ளிச் செம்புகளில் தண்ணீர் கொண்டு வந்து தரப்பட்டது.
 
 “உம்! வாருங்கள்; சாப்பிடலாம்!” என்று சின்னமலைக்கொழுந்து இன்முகத்துடன் அழைத்தார்.
 
@@ -44,3 +44,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 6
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 129; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 54; அச்சுப் பக்கம்: 112; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter13 continuation, source-visible printed page **112**, and exact open physical page-end `பொன்னர் -` into scan130 confirmed;
+- corrected source-visible word boundary: `தூய்மைப்படுத்திக்` → `தூய்மைப் படுத்திக்`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

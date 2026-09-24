@@ -130,10 +130,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
 - Part002 pending Pass1 — **0/70**
-- Part002 Pass2A — **IN PROGRESS — 50/70 REVIEWED / PASS — scans76–125**
-- Part002 Pass2A source-text corrections — **42**
+- Part002 Pass2A — **IN PROGRESS — 60/70 REVIEWED / PASS — scans76–135**
+- Part002 Pass2A source-text corrections — **46**
 - Part002 Pass2A unresolved textual questions — **0**
-- Part002 Pass2A pending — **20/70 — scans126–145**
+- Part002 Pass2A pending — **10/70 — scans136–145**
 - durable Part002 Pass2A tracker — `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
 - Part002 outgoing 145→146 — **PENDING Part003 direct witness**
 - Part002 chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
@@ -142,16 +142,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **Pass2A Batch6 / scans126–135 / local pages51–60**
+- Part002 exact next activity — **Pass2A Batch7 / scans136–145 / local pages61–70**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2A Batch6 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2A Batch7 frontier**
 
 ## Exact next activity
 
-Process **Part002 Pass2A Batch6 — global scans126–135 / local pages51–60**.
+Process **Part002 Pass2A Batch7 — global scans136–145 / local pages61–70**.
 
 Part001 remains **FINAL CLOSED / FROZEN**. Keep Part002 records at `needs-review`; Pass2B remains blocked until full Part002 Pass2A completion.

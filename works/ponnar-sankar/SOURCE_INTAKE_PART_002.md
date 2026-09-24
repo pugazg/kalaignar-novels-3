@@ -78,12 +78,13 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass2A Batch3 / scans96–105 — **REVIEWED / PASS — 30/70 cumulative**
 - Pass2A Batch4 / scans106–115 — **REVIEWED / PASS — 40/70 cumulative**
 - Pass2A Batch5 / scans116–125 — **REVIEWED / PASS — 50/70 cumulative**
-- Pass2A source-text corrections — **42 cumulative**
+- Pass2A Batch6 / scans126–135 — **REVIEWED / PASS — 60/70 cumulative**
+- Pass2A source-text corrections — **46 cumulative**
 - Pass2A unresolved textual questions — **0**
-- Pass2A pending — **20/70 — scans126–145**
+- Pass2A pending — **10/70 — scans136–145**
 
 ## Exact next activity
 
-Process **Part002 Pass2A Batch6 — global scans126–135 / local pages51–60**.
+Process **Part002 Pass2A Batch7 — global scans136–145 / local pages61–70**.
 
 Pass1 is closed at **70/70 TEXT-COMPLETE**. Do not begin Pass2B until all Part002 scans complete Pass2A.
