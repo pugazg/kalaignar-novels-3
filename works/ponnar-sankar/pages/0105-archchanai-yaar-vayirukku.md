@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 கோயில் சன்னதியில் அமைக்கப்பட்டிருந்த விழாப் பந்தலில் தனது ஆளம்புகளுடன் குன்றுடையானும் தாமரைநாச்சியும் அம்மனுக்கு மாவிளக்கேற்றும் காரியத்தில் மனமொன்றி ஈடுபட்டிருந்தனர்.
 
-சற்று முதிர்ந்த தோற்றம் குன்றுடையானுக்கென்றாலும் முகத்தில் இருந்த பொலிவு மாறவே இல்லை. கணவனுடன் இணைந்து விவசாயப் பணிகளில் ஒய்வின்றி ஈடுபட்டு உழைத்ததின் அடையாளமாக தாமரையின் மாநிற மேனி கருத்திருந்தது எனினும் அந்தக் களைபொருந்திய முகம் அப்படியே இருந்தது. இருவரும் சுறுசுறுப்பாகக் காணப்பட்டனர். அவர்களுக்கருகே பொன்சடைகளைக் கழுத்திலும் - கடகங்களைக் கைகளிலும் மாட்டிக் கொண்டு பத்து விரல்களிலும் கணையாழிகள் ஒளிவிட ஒருவர் இருந்தார். அவர்தான்
+சற்று முதிர்ந்த தோற்றம் குன்றுடையானுக்கென்றாலும் முகத்தில் இருந்த பொலிவு மாறவே இல்லை. கணவனுடன் இணைந்து விவசாயப் பணிகளில் ஓய்வின்றி ஈடுபட்டு உழைத்ததின் அடையாளமாக தாமரையின் மாநிற மேனி கருத்திருந்தது எனினும் அந்தக் களைபொருந்திய முகம் அப்படியே இருந்தது. இருவரும் சுறுசுறுப்பாகக் காணப்பட்டனர். அவர்களுக்கருகே பொன்சரடுகளைக் கழுத்திலும் - கடகங்களைக் கைகளிலும் மாட்டிக் கொண்டு பத்து விரல்களிலும் கணையாழிகள் ஒளிவிட ஒருவர் இருந்தார். அவர்தான்
 
 ## Pass 1 notes
 
@@ -40,3 +40,14 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 105; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 30; அச்சுப் பக்கம்: 88; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter10 continuation, source-visible printed page **88**, and exact open physical page-end `அவர்தான்` into scan106 confirmed; no scan106 wording imported backward;
+- corrected source-visible vowel length: `ஒய்வின்றி` → `ஓய்வின்றி`;
+- corrected lexical source reading: `பொன்சடைகளைக்` → `பொன்சரடுகளைக்`;
+- source-text corrections: **2**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

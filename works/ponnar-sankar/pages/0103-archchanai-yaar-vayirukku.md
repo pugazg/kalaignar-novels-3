@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 “அந்தப் பெயர் தெரியாததற்கு என்னம்மா செய்ய முடியும்? ஒன்று; நான் சொன்ன பெயருக்கே அர்ச்சனை செய்வது - அல்லது அர்ச்சனை செய்யாமலே விட்டு விடுவது!”
 
-இப்படியொரு முடிவை வையம் பெருமான் சொன்ன போது முத்தாயி, பவளாயி முகங்கள் மாறிப் போயின. பவளாயி மட்டும் சமாளித்துக் கொண்டு, “அண்ணா! அம்மா ஆசைப்பட்டு விட்டார்கள். அதனால் அர்ச்சனை செய்வதற்கு ஏதாவது வழி செய்யவாயா? அதை விட்டு விட்டு அர்ச்சனையே வேண்டாமென்றால் அம்மாவுக்கு எவ்வளவு வருத்தமாக இருக்கும்?” என்றவாறு பவளாயி தாயின் முகத்தைக் கடைக்கண்ணால் நோக்கினாள்.
+இப்படியொரு முடிவை வையம் பெருமான் சொன்ன போது முத்தாயி, பவளாயி முகங்கள் மாறிப் போயின. பவளாயி மட்டும் சமாளித்துக் கொண்டு, “அண்ணா! அம்மா ஆசைப்பட்டு விட்டார்கள். அதனால் அர்ச்சனை செய்வதற்கு ஏதாவது வழி செய்வாயா? அதை விட்டு விட்டு அர்ச்சனையே வேண்டாமென்றால் அம்மாவுக்கு எவ்வளவு வருத்தமாக இருக்கும்?” என்றவாறு பவளாயி தாயின் முகத்தைக் கடைக்கண்ணால் நோக்கினாள்.
 
 தன் பெண்களின் உள்ளத்தை நன்றாகவே புரிந்துகொள்ள இப்போது நல்ல வாய்ப்பு சிலம்பாயிக்கு கிடைத்து விட்டது. இருந்தாலும் தனக்கு புரிந்துவிட்ட அந்த உண்மையை இலை மறை காயாகவே வைத்துக் கொண்டு பவளாயியைக் குறும்பாகப் பார்த்தாள்.
 
@@ -42,3 +42,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 103; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 28; அச்சுப் பக்கம்: 86; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter10 continuation, source-visible printed page **86**, and exact open physical page-end `அதற்குள் பதறிப்போன` into scan104 confirmed;
+- corrected lexical source reading: `செய்யவாயா?` → `செய்வாயா?`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

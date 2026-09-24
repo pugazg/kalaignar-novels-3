@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 “அம்மணி! யார் பேருக்கு அர்ச்சனை?” என்று பூசாரி, பவ்யமாகக் கேட்டவே; சிலம்பாயி “முத்தாயி, பவளாயி இரண்டு பெண் பேருக்கும் - வையம்பெருமான்; அதாவது என் பிள்ளை பேருக்கும் பண்ணுங்கள்” என்றாள்.
 
-அப்போது வையம்பெருமான் அங்கில்லை. அவன் ரதவண்டியில் அருகேயிருந்து குதிரைகளுக்கு தீனி போட்டுச் சொல்லி, அவற்றைத் தட்டிக் கொடுத்துக் கொண்டிருந்தான்.
+அப்போது வையம்பெருமான் அங்கில்லை. அவன் ரதவண்டியில் அருகேயிருந்து குதிரைகளுக்கு தீனி போடச் சொல்லி, அவற்றைத் தட்டிக் கொடுத்துக் கொண்டிருந்தான்.
 
 தன் மகள்கள் பெயருக்கும் மகன் பெயருக்கும் அர்ச்சனை செய்யுங்கள் என சிலம்பாயி சொல்லி முடிப்பதற்குள்ளாக முத்தாயி குறுக்கிட்டு;
 
@@ -42,3 +42,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 100; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 25; அச்சுப் பக்கம்: 83; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter10 continuation, source-visible printed page **83**, and exact open physical page-end into scan101 confirmed;
+- corrected source-visible lexical/sandhi reading: `தீனி போட்டுச் சொல்லி` → `தீனி போடச் சொல்லி`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

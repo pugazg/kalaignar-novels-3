@@ -185,9 +185,9 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 — **REGISTERED / COMPLETE — 70 pages / scans76–145**
 - Part002 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans76–145**
 - Part002 Pass1 pending — **0/70**
-- Part002 Pass2A — **IN PROGRESS — 20/70 REVIEWED / PASS — scans76–95**
-- Part002 Pass2A source-text corrections — **21**
-- Part002 Pass2A pending — **50/70 — scans96–145**
+- Part002 Pass2A — **IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
+- Part002 Pass2A source-text corrections — **26**
+- Part002 Pass2A pending — **40/70 — scans106–145**
 - Part003–Part008 — **pending intake / NOT REGISTERED**
 - boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part002 boundary 145→146 — **PENDING Part003 direct witness**
@@ -229,4 +229,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- exact next activity — **Part002 Pass2A Batch3 — scans96–105 / local pages21–30**
+- exact next activity — **Part002 Pass2A Batch4 — scans106–115 / local pages31–40**

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2A Batch3 — scans96–105
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2A Batch4 — scans106–115
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,13 +30,14 @@ Pass1:
 
 Pass2A:
 
-**IN PROGRESS — 20/70 REVIEWED / PASS — scans76–95**
+**IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
 
 - Batch1 source-backed corrections — **16**
 - Batch2 source-backed corrections — **5**
-- cumulative source-backed corrections — **21**
+- Batch3 source-backed corrections — **5**
+- cumulative source-backed corrections — **26**
 - unresolved Pass2A textual questions — **0**
-- Pass2A pending — **50/70 — scans96–145**
+- Pass2A pending — **40/70 — scans106–145**
 - all Part002 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
@@ -46,18 +47,18 @@ Durable tracker:
 
 `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
 
-## Batch2 correction summary
+## Batch3 correction summary
 
-Pass2A Batch2 corrected direct source-visible readings on scans88,90,91 and93:
+Pass2A Batch3 corrected direct source-visible readings on scans100,102,103 and105:
 
-- scan88 — joined source word `மண்கரகத்தை`
-- scan90 — `துடுப்பாக்கி செலுத்திக்` (not `துடுப்பாக்கிச் செலுத்திக்`)
-- scan91 — `இருப்போர் இருவரும்`
-- scan93 — `மணக் கோலத்துடன்`, `நடைபெற்ற`
+- scan100 — `தீனி போடச் சொல்லி`
+- scan102 — restored source comma after `கோவேறு கழுதை,`
+- scan103 — `செய்வாயா?`
+- scan105 — `ஓய்வின்றி`, `பொன்சரடுகளைக்`
 
-Scans86,87,89,92,94 and95 required **0 corrections**.
+Scans96–99,101 and104 required **0 corrections**.
 
-Structural checks also confirmed the scan89 chapter8 close with its substantial intentional blank lower field, the scan90 chapter9 opening with no ordinary running page number, and the scan95 open physical ending into scan96 without importing scan96 wording backward.
+Structural checks confirmed scan98 chapter9 close with substantial intentional blank lower field, scan99 chapter10 opening with no ordinary running page number, and exact open physical endings at scans97,100,101,103 and105 without importing next-page wording backward.
 
 ## Read first
 
@@ -67,15 +68,15 @@ Structural checks also confirmed the scan89 chapter8 close with its substantial 
 4. `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 6. `works/ponnar-sankar/indexes/page-map.md`
-7. canonical records `works/ponnar-sankar/pages/0096-*.md` through `0105-*.md`
+7. canonical records `works/ponnar-sankar/pages/0106-*.md` through `0115-*.md`
 
 Refetch live `main` before editing and again after the activity.
 
 ## Exact next activity
 
-Process **Part002 Pass2A Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass2A Batch4 — global scans106–115 / local pages31–40**.
 
-For every scan96–105, compare the canonical Pass1 record directly against the rendered controlling source pixels and verify:
+For every scan106–115, compare the canonical Pass1 record directly against the rendered controlling source pixels and verify:
 
 1. every source-visible Tamil word;
 2. word boundaries / spacing;
@@ -90,14 +91,14 @@ For every scan96–105, compare the canonical Pass1 record directly against the 
 
 Apply only source-backed corrections. Log every correction durably in `PART_002_PASS2A_PROGRESS.md` and append the formal Part002 Pass2A review to each reviewed canonical record.
 
-## Batch3 structural facts
+## Batch4 structural facts
 
-- scans96–98 continue and close chapter9 **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`** / printed pages79–81;
-- scan98 closes chapter9 and has a substantial intentional blank lower field;
-- scan99 opens chapter10 **`அர்ச்சனை- யார் வயிறுக்கு?`** and has no ordinary running printed-page number;
-- scans100–105 continue chapter10 / printed pages83–88;
-- scan105 remains open into scan106;
-- do **not** import scan106 wording during Batch3.
+- scans106–108 continue and close chapter10 **`அர்ச்சனை- யார் வயிறுக்கு?`** / printed pages89–91;
+- scan108 closes chapter10 and has a substantial intentional blank lower field;
+- scan109 opens chapter11 **`ஆசையில் அருக்காணித் தங்கம்`** and has no ordinary running printed-page number;
+- scans110–115 continue chapter11 / printed pages93–98;
+- scan115 remains open into scan116;
+- do **not** import scan116 wording during Batch4.
 
 ## Status rules
 
@@ -114,15 +115,15 @@ During Pass2A:
 
 Stop after:
 
-**Part002 Pass2A Batch3 — scans96–105 — REVIEWED**
+**Part002 Pass2A Batch4 — scans106–115 — REVIEWED**
 
-Expected cumulative state after a clean Batch3:
+Expected cumulative state after a clean Batch4:
 
-**30/70 REVIEWED / PASS — scans76–105**
+**40/70 REVIEWED / PASS — scans76–115**
 
 Then synchronize progress, page map, intake, READMEs, HANDOVER, guidelines, manifest and this continuation prompt.
 
-The next activity should be **Part002 Pass2A Batch4 — scans106–115 / local pages31–40**, unless Batch3 produces an unresolved direct-source hold.
+The next activity should be **Part002 Pass2A Batch5 — scans116–125 / local pages41–50**, unless Batch4 produces an unresolved direct-source hold.
 
 ## Mandatory locks
 

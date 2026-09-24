@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 தாயார் மகனிடம் இதைச் சொல்லிக் கொண்டிருக்கும் போதே முத்தாயியின் கண்களும் பவளாயியின் கண்களும் சிறுக முறைத்த வண்டுகளாகி ஒன்றையொன்று தழுவி ரீங்காரமிட்டன. பெற்ற பாசத்தின் அன்புப் பிணைப்பு எப்படித் தனது செல்வங்களைப் பாதுகாக்கிறது பார்த்தாயா என்று அந்த விழிகள் ஒன்றையொன்று கட்டியணைத்துக் கொண்டன. அந்த உணர்ச்சியில் அவர்களின் கன்னங்கள் மாங்கனிச் சிவப்பு வண்ணங்களாயின. பெருமூச்சாக வெளிப்பட்ட இன்ப மூச்சு இந்த இளஞ்சிலைகளின் மார்பகத்தை விம்மியெழச் செய்து காவிரிக்கரையிலோர் கவர்ச்சிப் போட்டியை நடத்தின.
 
-மறைந்து மறைந்து அவர்களறியா வண்ணம் அந்த உயிரோவியங்களின் கொள்ளையழகைக் கண்டு போதையேறித் தடுமாறிக் கொண்டிருந்தான் மாந்தியப்பன். அந்த எழிலரசிகள் தங்களின் “இஷ்ட தெய்வங்கள்” ஏற்றுக் கொள்ள வேண்டுமே என்ற கவலையுடன் தங்களையே “நைவேத்தியம்” எனப் படைக்கத் தயாராயிருக்கும்போது, கோயிலுக்காகப் பூத்த மலர்களைக் கோவேறு கழுதை துவைத்துக் கசக்கி மென்று தின்னத் துடிப்பது போல அவன் துடித்து நெளிந்தான்.
+மறைந்து மறைந்து அவர்களறியா வண்ணம் அந்த உயிரோவியங்களின் கொள்ளையழகைக் கண்டு போதையேறித் தடுமாறிக் கொண்டிருந்தான் மாந்தியப்பன். அந்த எழிலரசிகள் தங்களின் “இஷ்ட தெய்வங்கள்” ஏற்றுக் கொள்ள வேண்டுமே என்ற கவலையுடன் தங்களையே “நைவேத்தியம்” எனப் படைக்கத் தயாராயிருக்கும்போது, கோயிலுக்காகப் பூத்த மலர்களைக் கோவேறு கழுதை, துவைத்துக் கசக்கி மென்று தின்னத் துடிப்பது போல அவன் துடித்து நெளிந்தான்.
 
 “தம்பி, அந்தப் பிள்ளையாண்டான்கள் பெயர் உனக்குத் தெரியுமா?”
 
@@ -44,3 +44,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - status remains `needs-review` / `visual_fidelity: "needs-review"` pending later verification gates.
 
 <!-- மூல மொத்த ஸ்கேன் பக்கம்: 102; பகுதி: 002; பகுதி உள்ளூர் பக்கம்: 27; அச்சுப் பக்கம்: 85; PASS 1 TEXT-COMPLETE / needs-review -->
+
+## Formal Part002 Pass 2A review
+
+- direct word-by-word, punctuation, paragraph/dialogue, printed-pagination and physical page-boundary comparison completed against rendered source pixels;
+- chapter10 continuation, source-visible printed page **85**, and exact physical page-end confirmed;
+- restored source-visible punctuation after `கோவேறு கழுதை,`;
+- source-text corrections: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.

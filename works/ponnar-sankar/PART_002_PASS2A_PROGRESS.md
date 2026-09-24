@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS / BATCH 2 COMPLETE — 20/70 REVIEWED / PASS**
+**PASS 2A — IN PROGRESS / BATCH 3 COMPLETE — 30/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -15,9 +15,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **20/70 — scans76–95**
-- pending — **50/70 — scans96–145**
-- source-text corrections applied — **21**
+- reviewed — **30/70 — scans76–105**
+- pending — **40/70 — scans106–145**
+- source-text corrections applied — **26**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -346,8 +346,110 @@ canonical scan93 corrected to the source-visible lexical reading.
 - metadata promotions — **0**
 - Pass2B activation — **NO**
 
+## Batch 3 — scans96–105
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 96 | chapter9 continuation | 79 | 0 | REVIEWED / PASS |
+| 97 | chapter9 continuation / open into scan98 | 80 | 0 | REVIEWED / PASS |
+| 98 | chapter9 close / substantial intentional blank lower field | 81 | 0 | REVIEWED / PASS |
+| 99 | chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` opening | — | 0 | REVIEWED / PASS |
+| 100 | chapter10 continuation / open into scan101 | 83 | **1** | REVIEWED / PASS |
+| 101 | chapter10 continuation / open into scan102 | 84 | 0 | REVIEWED / PASS |
+| 102 | chapter10 continuation | 85 | **1** | REVIEWED / PASS |
+| 103 | chapter10 continuation / open into scan104 | 86 | **1** | REVIEWED / PASS |
+| 104 | chapter10 continuation | 87 | 0 | REVIEWED / PASS |
+| 105 | chapter10 continuation / open into scan106 | 88 | **2** | REVIEWED / PASS |
+
+## Batch 3 structural / boundary verification
+
+- scans96–98 continue and close chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` — **PASS**
+- scans96–98 source-visible printed pagination 79–81 — **PASS**
+- scan98 chapter9 close / substantial intentional blank lower field — **PASS**
+- scan99 decorative chapter10 opening and displayed chapter number **10** — **PASS**
+- scan99 ordinary running printed-page value — **NONE / correctly null**
+- scans100–105 chapter10 continuation / source-visible printed pagination 83–88 — **PASS**
+- scan97 exact open ending `வணக்கம்` into scan98 — **PASS**
+- scan100 exact open ending into scan101 — **PASS**
+- scan101 exact open ending `நன்றாக இருக்க` into scan102 — **PASS**
+- scan103 exact open ending `அதற்குள் பதறிப்போன` into scan104 — **PASS**
+- scan105 exact open ending `அவர்தான்` into scan106 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- outgoing Part002 boundary 145→146 remains **PENDING Part003 direct witness**
+
+## Batch 3 correction ledger
+
+### P2A-022 — scan100
+
+Pass1:
+`குதிரைகளுக்கு தீனி போட்டுச் சொல்லி,`
+
+Direct source-pixel reading:
+`குதிரைகளுக்கு தீனி போடச் சொல்லி,`
+
+Action:
+canonical scan100 corrected to the source-visible lexical/sandhi reading.
+
+### P2A-023 — scan102
+
+Pass1:
+`கோயிலுக்காகப் பூத்த மலர்களைக் கோவேறு கழுதை துவைத்துக் கசக்கி`
+
+Direct source-pixel reading:
+`கோயிலுக்காகப் பூத்த மலர்களைக் கோவேறு கழுதை, துவைத்துக் கசக்கி`
+
+Action:
+canonical scan102 restored the source-visible comma after `கோவேறு கழுதை`.
+
+### P2A-024 — scan103
+
+Pass1:
+`அதனால் அர்ச்சனை செய்வதற்கு ஏதாவது வழி செய்யவாயா?`
+
+Direct source-pixel reading:
+`அதனால் அர்ச்சனை செய்வதற்கு ஏதாவது வழி செய்வாயா?`
+
+Action:
+canonical scan103 corrected to the source-visible lexical reading.
+
+### P2A-025 — scan105
+
+Pass1:
+`விவசாயப் பணிகளில் ஒய்வின்றி ஈடுபட்டு`
+
+Direct source-pixel reading:
+`விவசாயப் பணிகளில் ஓய்வின்றி ஈடுபட்டு`
+
+Action:
+canonical scan105 corrected the source-visible vowel length.
+
+### P2A-026 — scan105
+
+Pass1:
+`அவர்களுக்கருகே பொன்சடைகளைக் கழுத்திலும்`
+
+Direct source-pixel reading:
+`அவர்களுக்கருகே பொன்சரடுகளைக் கழுத்திலும்`
+
+Action:
+canonical scan105 corrected to the source-visible lexical reading.
+
+## Batch 3 decision
+
+**BATCH 3 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **5**
+- cumulative reviewed — **30/70 — scans76–105**
+- cumulative source-text corrections — **26**
+- unresolved textual questions — **0**
+- Part001 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO**
+
 ## Exact next activity
 
-Process **Part002 Pass2A Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass2A Batch4 — global scans106–115 / local pages31–40**.
 
 Keep all Part002 records at `needs-review` / `needs-review`, keep Part001 frozen, and keep **145→146 PENDING Part003 direct audit**.
