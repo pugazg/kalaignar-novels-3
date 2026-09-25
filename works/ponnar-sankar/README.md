@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A CLOSED / COMPLETE / PASS — PASS2B COMPLETE / PASS — PASS3 NOT YET ACTIVATED**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A CLOSED / COMPLETE / PASS — PASS2B CLOSED / COMPLETE / PASS — PASS3 ACTIVATED / READY**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -63,11 +63,14 @@
 - Part002 Pass2A: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
 - Part002 Pass2A source-text corrections: **47**
 - Part002 Pass2A pending: **0/70**
-- Part002 Pass2B: **COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
+- Part002 Pass2B: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
 - Part002 Pass2B source-text corrections: **19**
 - Part002 Pass2B unresolved textual questions: **0**
 - Part002 Pass2B pending: **0/70**
-- Part002 Pass3: **NOT YET ACTIVATED — Pass2B closure / activation checkpoint next**
+- Part002 Pass3: **ACTIVATED / READY — 0/70 REVIEWED**
+- Part002 Pass3 pending: **70/70 — scans76–145**
+- Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
+- durable Part002 Pass3 tracker: `PART_002_PASS3_PROGRESS.md`
 - Part002 Pass2B cadence: **10 scans per batch**
 - durable Part002 Pass2B tracker: `PART_002_PASS2B_PROGRESS.md`
 - Part003–Part008: **pending intake / NOT REGISTERED**
@@ -114,6 +117,6 @@
 
 ## Exact next activity
 
-Run the **Part002 Pass2B full-part closure / Pass3 activation checkpoint**.
+Process **Part002 Pass3 Batch1 — global scans76–90 / local pages1–15**.
 
-Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B is **COMPLETE / PASS — 70/70 REVIEWED** with **19** source-backed corrections and **0 unresolved**. Pass3 is not yet activated; the full-part closure / activation checkpoint is next.
+Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B is **CLOSED / COMPLETE / PASS — 70/70 REVIEWED** with **19** source-backed corrections and **0 unresolved**. Pass3 is **ACTIVATED / READY — 0/70**; Batch1 scans76–90 is next.

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
+**PASS 2B — CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
 
 Active Part:
 - Part002
@@ -82,7 +82,7 @@ Maintained cadence follows Part001 Pass2B:
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- Pass3 — **NOT YET ACTIVATED — full-part Pass2B closure / activation checkpoint next**
+- Pass3 — **ACTIVATED / READY — 0/70 REVIEWED**
 
 ## Batch 1 — scans76–85
 
@@ -622,6 +622,43 @@ canonical scan141 corrected the source-visible lexical form `எதுவும�
 - Pass2B batch coverage — **COMPLETE / PASS**
 - Pass3 — **NOT YET ACTIVATED**
 
+## Full-Part Pass2B closure / Pass3 activation checkpoint
+
+**PASS / CLOSED**
+
+Live-main reconciliation after Final Batch7:
+
+- canonical Part002 records — **70/70**
+- global scans — **76–145 continuous / unique**
+- local pages — **1–70 continuous / unique**
+- canonical paths — **70 unique**
+- formal Part002 Pass2B review sections — **70/70 present exactly once**
+- Pass2B correction ledger — **P2B-001…P2B-019 continuous / no gaps / no duplicates**
+- Pass2B source-backed corrections — **19**
+- unresolved Pass2B textual questions — **0**
+- `status: "needs-review"` — **70/70**
+- `visual_fidelity: "needs-review"` — **70/70**
+- unsupported scan82 paragraph beginning `சேரன் செங்குட்டுவன் வடபுலத்து...` — **ABSENT**
+- existing formal Part002 Pass3 review sections before activation — **0**
+- pre-existing Part002 Pass3 tracker before activation — **0**
+- incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+- scan146 wording inferred/imported — **0**
+- Part001 body layers — **UNCHANGED / FINAL CLOSED / FROZEN**
+- canonical Part002 body edits in this checkpoint — **0**
+- status/visual-fidelity promotions in this checkpoint — **0**
+
+Decision:
+
+- Pass2B — **CLOSED / COMPLETE / PASS — 70/70**
+- Pass2B corrections — **19**
+- Pass2B unresolved — **0**
+- Pass3 — **ACTIVATED / READY — 0/70 REVIEWED**
+- Pass3 first visual batch — **NOT STARTED**
+- maintained Pass3 cadence — **15 source pages per iteration; final remainder may be smaller**
+
 ## Exact next activity
 
-Run the **Part002 Pass2B full-part closure / Pass3 activation checkpoint**. Reconcile the 70/70 Pass2B review census and continuous P2B-001–P2B-019 correction ledger, confirm all Part002 records remain `needs-review` / `needs-review`, keep 145→146 pending, then activate Pass3 without starting its first visual batch in the same checkpoint.
+Process **Part002 Pass3 Batch1 — global scans76–90 / local pages1–15**.
+
+Use rendered source pixels for full-page visual / structural verification. Keep lexical text closed unless direct visual evidence reveals a source-backed structural/text-placement defect. Keep all Part002 records at `needs-review` / `needs-review`; do not promote status during Pass3. Keep 145→146 pending.
