@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVATED / READY — 0/70 REVIEWED**
+**PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 15/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -68,8 +68,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **0/70**
-- pending — **70/70 — scans76–145**
+- reviewed — **15/70 — scans76–90**
+- pending — **55/70 — scans91–145**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -85,8 +85,50 @@ For each scan:
 - Batch4 — scans121–135 / local pages46–60
 - Final Batch5 — scans136–145 / local pages61–70
 
+## Batch 1 — scans76–90
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 76 | chapter7 continuation / alternating running header | 59 | 0 | REVIEWED / PASS |
+| 77 | chapter7 continuation / alternating running header | 60 | 0 | REVIEWED / PASS |
+| 78 | chapter7 continuation / alternating running header | 61 | 0 | REVIEWED / PASS |
+| 79 | chapter7 continuation / alternating running header | 62 | 0 | REVIEWED / PASS |
+| 80 | chapter7 close / substantial intentional blank lower field | 63 | 0 | REVIEWED / PASS |
+| 81 | chapter8 decorative opening / blue title + ornaments / displayed song | — | 0 | REVIEWED / PASS |
+| 82 | chapter8 continuation / alternating running header | 65 | 0 | REVIEWED / PASS |
+| 83 | chapter8 continuation / alternating running header | 66 | 0 | REVIEWED / PASS |
+| 84 | chapter8 continuation / displayed song stanza | 67 | 0 | REVIEWED / PASS |
+| 85 | chapter8 continuation / multiple displayed verse blocks | 68 | 0 | REVIEWED / PASS |
+| 86 | chapter8 continuation / alternating running header | 69 | 0 | REVIEWED / PASS |
+| 87 | chapter8 continuation / alternating running header | 70 | 0 | REVIEWED / PASS |
+| 88 | chapter8 continuation / alternating running header | 71 | 0 | REVIEWED / PASS |
+| 89 | chapter8 close / substantial intentional blank lower field | 72 | 0 | REVIEWED / PASS |
+| 90 | chapter9 decorative opening / blue title + illustrated motif | — | 0 | REVIEWED / PASS |
+
+## Batch 1 result
+
+- scans76–90 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **15/70**
+- pending — **55/70 — scans91–145**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan80 chapter7 close / lower blank field — **PASS**
+- scan81 chapter8 decorative opener / chapter number 8 / banner-kalash ornament / flourish — **PASS**
+- scan81 displayed four-line song structure — **PASS**
+- scan84 displayed song structure — **PASS**
+- scan85 displayed verse / song blocks — **PASS**
+- scan89 chapter8 close / lower blank field — **PASS**
+- scan90 chapter9 decorative opener / chapter number 9 / illustrated motif — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
 ## Exact next activity
 
-Process **Part002 Pass3 Batch1 — global scans76–90 / local pages1–15**.
+Process **Part002 Pass3 Batch2 — global scans91–105 / local pages16–30**.
 
-Use only rendered source pixels for visual / structural verification. Do not promote canonical status or visual_fidelity. Keep Part001 frozen and keep outgoing 145→146 pending.
+Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part002 records at `needs-review` / `needs-review`, Part001 frozen, Part audit not started, and outgoing 145→146 pending.

@@ -59,3 +59,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 - unresolved textual questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
+
+## Formal Part002 Pass 3 review
+
+- full-page visual / structural verification completed directly against rendered source pixels;
+- chapter7 continuation; source-visible printed page **60**; page number at upper left with author running header at upper right; full body page and open physical page-end into scan78 retained;
+- structural corrections in Pass3: **0**;
+- unresolved visual / structural questions: **0**;
+- no lexical reopening was required;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Part audit not started.

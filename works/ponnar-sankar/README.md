@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A CLOSED / COMPLETE / PASS — PASS2B CLOSED / COMPLETE / PASS — PASS3 ACTIVATED / READY**
+**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A CLOSED / COMPLETE / PASS — PASS2B CLOSED / COMPLETE / PASS — PASS3 IN PROGRESS**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -67,8 +67,10 @@
 - Part002 Pass2B source-text corrections: **19**
 - Part002 Pass2B unresolved textual questions: **0**
 - Part002 Pass2B pending: **0/70**
-- Part002 Pass3: **ACTIVATED / READY — 0/70 REVIEWED**
-- Part002 Pass3 pending: **70/70 — scans76–145**
+- Part002 Pass3: **IN PROGRESS — 15/70 REVIEWED / PASS — scans76–90**
+- Part002 Pass3 structural corrections: **0**
+- Part002 Pass3 unresolved visual / structural questions: **0**
+- Part002 Pass3 pending: **55/70 — scans91–145**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part002 Pass3 tracker: `PART_002_PASS3_PROGRESS.md`
 - Part002 Pass2B cadence: **10 scans per batch**
@@ -117,6 +119,6 @@
 
 ## Exact next activity
 
-Process **Part002 Pass3 Batch1 — global scans76–90 / local pages1–15**.
+Process **Part002 Pass3 Batch2 — global scans91–105 / local pages16–30**.
 
-Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B is **CLOSED / COMPLETE / PASS — 70/70 REVIEWED** with **19** source-backed corrections and **0 unresolved**. Pass3 is **ACTIVATED / READY — 0/70**; Batch1 scans76–90 is next.
+Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B remains closed. Pass3 Batch1 is **REVIEWED / PASS — 15/70 cumulative** with **0 structural corrections / 0 unresolved**; Batch2 scans91–105 is next.
