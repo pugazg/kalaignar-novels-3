@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 4 COMPLETE — 40/70 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / BATCH 5 COMPLETE — 50/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -76,9 +76,9 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **40/70 — scans76–115**
-- pending — **30/70 — scans116–145**
-- source-text corrections applied in Pass2B — **14**
+- reviewed — **50/70 — scans76–125**
+- pending — **20/70 — scans126–145**
+- source-text corrections applied in Pass2B — **15**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -428,8 +428,64 @@ canonical scan114 corrected `ஏதோ அந்த மண்டபத்தி�
 - all reviewed records remain `needs-review` / `needs-review`
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 5 — scans116–125
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 116 | chapter11 continuation | 99 | **1** | REVIEWED / PASS |
+| 117 | chapter11 continuation / open into scan118 | 100 | 0 | REVIEWED / PASS |
+| 118 | chapter11 close / lower non-body archival field | 101 | 0 | REVIEWED / PASS |
+| 119 | chapter12 `பூனையில் போர்க்கோலம்` opening | — | 0 | REVIEWED / PASS |
+| 120 | chapter12 continuation / open into scan121 | 103 | 0 | REVIEWED / PASS |
+| 121 | chapter12 continuation / open into scan122 | 104 | 0 | REVIEWED / PASS |
+| 122 | chapter12 continuation / open into scan123 | 105 | 0 | REVIEWED / PASS |
+| 123 | chapter12 continuation | 106 | 0 | REVIEWED / PASS |
+| 124 | chapter12 continuation / open into scan125 | 107 | 0 | REVIEWED / PASS |
+| 125 | chapter12 continuation / open into scan126 | 108 | 0 | REVIEWED / PASS |
+
+## Batch 5 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans116–118 chapter11 source wording / printed pagination 99–101 — **PASS**
+- scan118 chapter11 close / substantial lower non-body archival field — **PASS**
+- scan119 decorative chapter12 opening / no ordinary running printed-page number — **PASS**
+- scans120–125 chapter12 source wording / printed pagination 103–108 — **PASS**
+- scan120 exact open ending `அழாமல்` into scan121 — **PASS**
+- scan122 exact open ending `அதற்கு பதில்` into scan123 — **PASS**
+- scan125 exact physical page-end into scan126 — **PASS**
+- next-page wording imported backward — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Batch 5 correction ledger
+
+### P2B-015 — scan116
+
+Pass2B entry-state canonical:
+`இந்தக் குலதெய்வம் போய் அந்த மாந்தியப்பன் தவறாக நடந்து கொள்ள எப்படித்தான் துணிந்தானோ?`
+
+Independent direct source-pixel reading:
+`இந்தக் குணவதியிடம் போய் அந்த மாந்தியப்பன் தவறாக நடந்து கொள்ள எப்படித்தான் துணிந்தானோ?`
+
+Action:
+canonical scan116 corrected the source phrase `இந்தக் குலதெய்வம் போய்` → `இந்தக் குணவதியிடம் போய்`.
+
+## Batch 5 decision
+
+**BATCH 5 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **1**
+- cumulative Pass2B reviewed — **50/70 — scans76–125**
+- cumulative Pass2B corrections — **15**
+- unresolved textual questions — **0**
+- all reviewed records remain `needs-review` / `needs-review`
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part002 Pass2B Batch5 — global scans116–125 / local pages41–50**.
+Process **Part002 Pass2B Batch6 — global scans126–135 / local pages51–60**.
 
 Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked, and **145→146 PENDING Part003 direct witness**.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2B Batch5 — scans116–125
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2B Batch6 — scans126–135
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,30 +30,29 @@ Controlling source:
 
 ## Part002 Pass2B state
 
-**IN PROGRESS — 40/70 REVIEWED / PASS — scans76–115**
+**IN PROGRESS — 50/70 REVIEWED / PASS — scans76–125**
 
 - Batch1 source-backed corrections — **3**
 - Batch2 source-backed corrections — **5**
 - Batch3 source-backed corrections — **3**
 - Batch4 source-backed corrections — **3**
-- cumulative Pass2B corrections — **14**
+- Batch5 source-backed corrections — **1**
+- cumulative Pass2B corrections — **15**
 - unresolved Pass2B textual questions — **0**
-- pending — **30/70 — scans116–145**
+- pending — **20/70 — scans126–145**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
 Durable tracker:
 
 `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 
-## Batch4 correction summary
+## Batch5 correction summary
 
-Fresh independent Pass2B reread found three direct-source corrections:
+Fresh independent Pass2B reread found one direct-source correction:
 
-- scan107 — `ஓ அப்படியா?... உங்கள்` → `ஓ அப்படியா? . . . உங்கள்`;
-- scan111 — `கொள்ளாதே என்று` → `கொள்ளாதேயென்று`;
-- scan114 — `ஏதோ அந்த மண்டபத்தில்` → `அதோ அந்த மண்டபத்தில்`.
+- scan116 — `இந்தக் குலதெய்வம் போய்` → `இந்தக் குணவதியிடம் போய்`.
 
-Scans106,108–110,112–113 and115 required **0 Pass2B corrections**.
+Scans117–125 required **0 Pass2B corrections**.
 
 ## Read first
 
@@ -63,17 +62,17 @@ Scans106,108–110,112–113 and115 required **0 Pass2B corrections**.
 4. `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 6. `works/ponnar-sankar/indexes/page-map.md`
-7. canonical scans116–125.
+7. canonical scans126–135.
 
 Refetch live `main` before editing and again after the batch.
 
 ## Exact next activity
 
-Process **Part002 Pass2B Batch5 — global scans116–125 / local pages41–50**.
+Process **Part002 Pass2B Batch6 — global scans126–135 / local pages51–60**.
 
 Perform another **fresh independent direct-source lexical / historical-glyph reread**. Do not simply repeat Pass2A findings.
 
-For every scan116–125:
+For every scan126–135:
 
 1. reread every source-visible Tamil word directly from rendered source pixels;
 2. verify lexical forms, historical/source glyphs and occurrence-specific compounds;
@@ -86,14 +85,13 @@ For every scan116–125:
 9. keep all records `needs-review` / `needs-review`;
 10. do not begin Pass3.
 
-## Batch5 structural scope
+## Batch6 structural scope
 
-- scans116–118 continue and close chapter11 `ஆசையில் அருக்காணித் தங்கம்` / printed pages99–101;
-- scan118 closes chapter11 with substantial lower non-body archival field;
-- scan119 opens chapter12 `பூனையில் போர்க்கோலம்` and has no ordinary running printed-page number;
-- scans120–125 continue chapter12 / printed pages103–108;
-- scan125 remains open into scan126;
-- do not import scan126 wording backward.
+- scans126–127 continue and close chapter12 `பூனையில் போர்க்கோலம்` / printed pages109–110;
+- scan128 opens chapter13 `வழியில் வந்த விபரீதம்` and has no ordinary running printed-page number;
+- scans129–135 continue chapter13 / printed pages112–118;
+- scan135 remains open into scan136;
+- do not import scan136 wording backward.
 
 ## Mandatory locks
 
@@ -109,10 +107,10 @@ For every scan116–125:
 
 ## Stop condition
 
-Stop after **Part002 Pass2B Batch5 — scans116–125 — REVIEWED**.
+Stop after **Part002 Pass2B Batch6 — scans126–135 — REVIEWED**.
 
-Expected cumulative state after a clean Batch5:
+Expected cumulative state after a clean Batch6:
 
-**50/70 REVIEWED / PASS — scans76–125**
+**60/70 REVIEWED / PASS — scans76–135**
 
-Then synchronize the maintained controls and advance to **Part002 Pass2B Batch6 — scans126–135 / local pages51–60**, unless a direct-source hold is recorded.
+Then synchronize the maintained controls and advance to **Part002 Pass2B Final Batch7 — scans136–145 / local pages61–70**, unless a direct-source hold is recorded.

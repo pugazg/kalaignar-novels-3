@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 5
 
 கணவனுக்குப் பின்புறமாக மண்டபத்தில் தாமரை உட்கார்ந்து கொண்டாள். மாயவர், தாமரையைக் குளிர்ந்த விழிகளில் உற்றுப் பார்த்தார். அவர் முகத்தில் ஒரு பெருமிதம். அவர் உதட்டிலிருந்து உதிர்ந்த வார்த்தைகள் ஆலங்கட்டி மழை போல அழுத்தம் திருத்தமாக இருந்தன.
 
-“இந்தக் குலதெய்வம் போய் அந்த மாந்தியப்பன் தவறாக நடந்து கொள்ள எப்படித்தான் துணிந்தானோ?”
+“இந்தக் குணவதியிடம் போய் அந்த மாந்தியப்பன் தவறாக நடந்து கொள்ள எப்படித்தான் துணிந்தானோ?”
 
 மாயவர், வேதனையுடன் இந்தக் கேள்வியை எழுப்பிய போது, தாமரைக்குப் பழைய நினைவு நெஞ்சில் அலை பாய்ந்தது.
 
@@ -47,3 +47,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 5
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter11 continuation, source-visible printed page **99**, physical page-end retained;
+- corrected direct-source phrase: `இந்தக் குலதெய்வம் போய்` → `இந்தக் குணவதியிடம் போய்`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
