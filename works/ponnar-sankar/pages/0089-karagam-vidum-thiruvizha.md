@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 2
 
 ## Source transcription
 
-பெண்கள் இருவரும் சின்னமலைக்கொழுந்தாக் கவுண்டரின் மகள்கள்.”
+பெண்கள் இருவரும் சின்னமலைக்கொழுந்தாக் கவுண்டரின் மகள்கள்”.
 
 ஓடக்காரன் இந்தப் பதிலை சொல்லி முடிப்பதற்குள் அந்தப் பகுதியிலுள்ள மரங்களையெல்லாம் பெயர்த்தெடுத்துக் கொண்டு போவதற்காக ஆவேச தாண்டவமாடிக் கொண்டு வந்தது போல ஒரு சூறைக் காற்று வீசியது!
 
@@ -43,3 +43,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 2
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter8 close, source-visible printed page **72**, substantial intentional blank lower field retained;
+- corrected direct-source closing punctuation: `மகள்கள்.”` → `மகள்கள்”.`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/70 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -76,9 +76,9 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **10/70 — scans76–85**
-- pending — **60/70 — scans86–145**
-- source-text corrections applied in Pass2B — **3**
+- reviewed — **20/70 — scans76–95**
+- pending — **50/70 — scans96–145**
+- source-text corrections applied in Pass2B — **8**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -165,8 +165,113 @@ Action:
 - all reviewed records remain `needs-review` / `needs-review`
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 2 — scans86–95
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 86 | chapter8 continuation | 69 | 0 | REVIEWED / PASS |
+| 87 | chapter8 continuation | 70 | **1** | REVIEWED / PASS |
+| 88 | chapter8 continuation | 71 | 0 | REVIEWED / PASS |
+| 89 | chapter8 close / intentional blank lower field | 72 | **1** | REVIEWED / PASS |
+| 90 | chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` opening | — | 0 | REVIEWED / PASS |
+| 91 | chapter9 continuation | 74 | 0 | REVIEWED / PASS |
+| 92 | chapter9 continuation / open into scan93 | 75 | 0 | REVIEWED / PASS |
+| 93 | chapter9 continuation / open into scan94 | 76 | **3** | REVIEWED / PASS |
+| 94 | chapter9 continuation | 77 | 0 | REVIEWED / PASS |
+| 95 | chapter9 continuation / open into scan96 | 78 | 0 | REVIEWED / PASS |
+
+## Batch 2 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans86–89 chapter8 source wording / printed pagination 69–72 — **PASS**
+- scan89 chapter8 close / substantial intentional blank lower field — **PASS**
+- scan90 decorative chapter9 opening / no ordinary running page number — **PASS**
+- scans91–95 chapter9 source wording / printed pagination 74–78 — **PASS**
+- scan92 exact open physical ending `தாங்கள் தாமரை` into scan93 — **PASS**
+- scan95 exact open physical ending into scan96 — **PASS**
+- next-page wording imported backward — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Batch 2 correction ledger
+
+### P2B-004 — scan87
+
+Pass2B entry-state canonical:
+`ஓடக்காரன் அந்தத் தத்துவத்தைப் பற்றிக் கவலைப்படவில்லை.`
+
+Independent direct source-pixel reading:
+`ஓடக்காரன் அந்தத் தத்துவத்தைப் பற்றிக் கவலைப் படவில்லை.`
+
+Action:
+canonical scan87 corrected the direct-source word boundary `கவலைப்படவில்லை` → `கவலைப் படவில்லை`.
+
+### P2B-005 — scan89
+
+Pass2B entry-state canonical:
+`பெண்கள் இருவரும் சின்னமலைக்கொழுந்தாக் கவுண்டரின் மகள்கள்.”`
+
+Independent direct source-pixel reading:
+`பெண்கள் இருவரும் சின்னமலைக்கொழுந்தாக் கவுண்டரின் மகள்கள்”.`
+
+Action:
+canonical scan89 corrected the source-visible closing punctuation order.
+
+### P2B-006 — scan93
+
+Pass2B entry-state canonical:
+`ஆரிச்சம்பட்டி யெனும் மணியங்குறிச்சிப் பகுதியில்`
+
+Independent direct source-pixel reading:
+- printed line ends with `ஆரிச்சம்`;
+- next printed line begins `பட்டியெனும்`;
+- this is one lexical word split only by the physical line ending.
+
+Action:
+canonical scan93 rejoined `ஆரிச்சம்பட்டி யெனும்` → `ஆரிச்சம்பட்டியெனும்`.
+
+### P2B-007 — scan93
+
+Pass2B entry-state canonical:
+`மணவிழா முடிந்த நாலைந்து ஆண்டு களுக்குள்ளாகவே`
+
+Independent direct source-pixel reading:
+- printed line ends with `ஆண்டு`;
+- next printed line begins `களுக்குள்ளாகவே`;
+- this is a physical line-wrap-only split.
+
+Action:
+canonical scan93 rejoined `ஆண்டு களுக்குள்ளாகவே` → `ஆண்டுகளுக்குள்ளாகவே`.
+
+### P2B-008 — scan93
+
+Pass2B entry-state canonical:
+`முத்தாயி, பவளாயி என்ற பெண் குழந்தை களுக்கும்`
+
+Independent direct source-pixel reading:
+- printed line ends with `குழந்தை`;
+- next printed line begins `களுக்கும்`;
+- this is a physical line-wrap-only split.
+
+Action:
+canonical scan93 rejoined `குழந்தை களுக்கும்` → `குழந்தைகளுக்கும்`.
+
+## Batch 2 decision
+
+**BATCH 2 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **5**
+- cumulative Pass2B reviewed — **20/70 — scans76–95**
+- cumulative Pass2B corrections — **8**
+- unresolved textual questions — **0**
+- all reviewed records remain `needs-review` / `needs-review`
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part002 Pass2B Batch2 — global scans86–95 / local pages11–20**.
+Process **Part002 Pass2B Batch3 — global scans96–105 / local pages21–30**.
 
 Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked, and **145→146 PENDING Part003 direct witness**.
