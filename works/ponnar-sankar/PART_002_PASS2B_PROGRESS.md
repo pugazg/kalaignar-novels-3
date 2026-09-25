@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVATED / READY — 0/70 REVIEWED**
+**PASS 2B — IN PROGRESS / BATCH 1 COMPLETE — 10/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -76,16 +76,97 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **0/70**
-- pending — **70/70 — scans76–145**
-- source-text corrections applied in Pass2B — **0**
+- reviewed — **10/70 — scans76–85**
+- pending — **60/70 — scans86–145**
+- source-text corrections applied in Pass2B — **3**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 1 — scans76–85
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 76 | chapter7 `உண்மையின் உதயம்` continuation | 59 | 0 | REVIEWED / PASS |
+| 77 | chapter7 continuation | 60 | 0 | REVIEWED / PASS |
+| 78 | chapter7 continuation | 61 | 0 | REVIEWED / PASS |
+| 79 | chapter7 continuation | 62 | **2** | REVIEWED / PASS |
+| 80 | chapter7 close | 63 | 0 | REVIEWED / PASS |
+| 81 | chapter8 `கரகம் விடும் திருவிழா` opening | — | 0 | REVIEWED / PASS |
+| 82 | chapter8 continuation | 65 | **1** | REVIEWED / PASS |
+| 83 | chapter8 continuation | 66 | 0 | REVIEWED / PASS |
+| 84 | chapter8 continuation / displayed song | 67 | 0 | REVIEWED / PASS |
+| 85 | chapter8 continuation / displayed verses | 68 | 0 | REVIEWED / PASS |
+
+## Batch 1 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- incoming 75→76 state — **GENUINE CONTINUATION / AUDITED / PASS**
+- scans76–80 chapter7 source wording / printed pagination 59–63 — **PASS**
+- scan80 chapter7 close / intentional blank lower field — **PASS**
+- scan81 decorative chapter8 opening / no ordinary running page number — **PASS**
+- scans82–85 chapter8 source wording / printed pagination 65–68 — **PASS**
+- scan84 displayed song wording / line structure — **PASS**
+- scan85 displayed verse blocks — **PASS**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- next-page wording imported backward — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Batch 1 correction ledger
+
+### P2B-001 — scan79
+
+Pass2B entry-state canonical:
+`இச்செய்தி கேள்வியுற்ற செல்லாத்தாக் கவுண்டரும்`
+
+Independent direct source-pixel reading:
+`இச்செய்தி கேள்வியுற்று செல்லாத்தாக் கவுண்டரும்`
+
+Action:
+canonical scan79 corrected the source-visible verbal form `கேள்வியுற்ற` → `கேள்வியுற்று`.
+
+### P2B-002 — scan79
+
+Pass2B entry-state canonical:
+`குடையூரில் இருக்கிறார்கள் எனக் கேள்விப்பட்டேன்; உண்மையானா? உயிரோடு இருக்கிறார்களா?`
+
+Independent direct source-pixel reading:
+`குடையூரில் இருக்கிறார்கள் எனக் கேள்விப்பட்டேன்; உண்மைதானா? உயிரோடு இருக்கிறார்களா?`
+
+Action:
+canonical scan79 corrected `உண்மையானா?` → source-visible `உண்மைதானா?`.
+
+### P2B-003 — scan82
+
+Pass2B entry-state canonical contained an additional prose paragraph beginning:
+`சேரன் செங்குட்டுவன் வடபுலத்து மன்னர்களான...`
+
+Independent direct source-pixel reread:
+- the controlling scan82 does **not** contain that paragraph;
+- after வீரமலைச் சாம்புவன்'s temple-history paragraph, the source moves directly to சங்கர்'s question beginning `அண்ணா! வாங்கலம்மன் கோயிலுக்கு வரலாற்று அடிப்படையில்...`.
+
+Action:
+- removed the entire unsupported paragraph from canonical scan82;
+- no replacement wording was invented;
+- direct source sequence restored.
+
+## Batch 1 decision
+
+**BATCH 1 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **3**
+- cumulative Pass2B reviewed — **10/70 — scans76–85**
+- cumulative Pass2B corrections — **3**
+- unresolved textual questions — **0**
+- all reviewed records remain `needs-review` / `needs-review`
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part002 Pass2B Batch1 — global scans76–85 / local pages1–10**.
+Process **Part002 Pass2B Batch2 — global scans86–95 / local pages11–20**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Part001. Keep **145→146 PENDING Part003 direct witness**.
+Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked, and **145→146 PENDING Part003 direct witness**.

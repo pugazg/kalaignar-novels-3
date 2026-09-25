@@ -23,8 +23,6 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 
 - என்று அந்தக் கோயிலுக்குரிய பெருமையை வீரமலைச் சாம்புவன் விரித்துரைத்தான். பொன்னர்-சங்கர் இருவரையும் விட ஏழெட்டு வயது மூத்தவன் என்ற முறையில் வீரமலைச் சாம்புவனுக்கு இந்த விவரமெல்லாம் தெரிந்திருந்தது.
 
-சேரன் செங்குட்டுவன் வடபுலத்து மன்னர்களான கனகனும் விசயனும் தமிழர் வீரம் குறித்து வாயடக்கமின்றிப் பேசியதாகக் கேள்வியுற்று அங்கனமாயின் அவர்கள் தலையிலேயே கண்ணகி சிலைக்கான கல்லை ஏற்றி வருவதாகச் சூளுரைத்து - அப்படிக் கொண்டு வந்த கல்லில் சிலை வடித்து விழா எடுத்ததையொட்டி தமிழகத்தில் பல இடங்களில் கண்ணகி கோயில்கள் எழுப்பப்பட்டதாகவும் - அவற்றில் ஒன்றுதான் வாங்கலில் உள்ள அம்மன் கோயிலென்று பெரியவர்கள் சொல்வதாகவும் ராக்கியண்ணன் தனது பயிற்சிக் கூட்டத்தில் மாணவர்களிடம் உரைத்ததும் மூவருக்கும் ஞாபகத்திற்கு வரத் தவறவில்லை.
-
 “அண்ணா! வாங்கலம்மன் கோயிலுக்கு வரலாற்று அடிப்படையில் இப்படியொரு சிறப்பு இருப்பது; இதே காவிரிக் கரையில் உள்ள மதுக்கரை செல்லாண்டியம்மன் கோயிலுக்கு புராண ரீதியான கதையொன்று இருக்கிறதாமே; அது தங்களுக்குத் தெரியுமா?” என்று பொன்னரைப் பார்த்து சங்கர் மிகுந்த ஆவலுடன் கேட்டான்.
 
 “தம்பி! அப்படியொரு கதையிருந்தால் நமது ஆசான் நமக்குச் சொல்லியிருப்பாரே?” என்று பொன்னர் பதில் அளித்தான்.
@@ -49,3 +47,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 1
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- removed one unsupported prose paragraph beginning `சேரன் செங்குட்டுவன் வடபுலத்து...`; that paragraph is absent from the controlling scan82 source, which moves directly from வீரமலைச் சாம்புவன்'s temple-history paragraph to சங்கர்'s `அண்ணா! வாங்கலம்மன் கோயிலுக்கு...` question;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
