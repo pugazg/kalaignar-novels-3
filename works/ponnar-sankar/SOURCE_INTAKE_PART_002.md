@@ -90,14 +90,16 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass2B Batch4 / scans106–115 — **REVIEWED / PASS — 40/70 cumulative**
 - Pass2B Batch5 / scans116–125 — **REVIEWED / PASS — 50/70 cumulative**
 - Pass2B Batch6 / scans126–135 — **REVIEWED / PASS — 60/70 cumulative**
-- Pass2B source-text corrections — **18 cumulative**
+- Pass2B Final Batch7 / scans136–145 — **REVIEWED / PASS — 70/70 cumulative**
+- Pass2B source-text corrections — **19 cumulative**
 - Pass2B unresolved textual questions — **0**
-- Pass2B — **IN PROGRESS — 60/70 REVIEWED / PASS**
-- Pass2B pending — **10/70 — scans136–145**
+- Pass2B — **COMPLETE / PASS — 70/70 REVIEWED**
+- Pass2B pending — **0/70**
+- Pass3 — **NOT YET ACTIVATED**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-Process **Part002 Pass2B FINAL Batch7 — global scans136–145 / local pages61–70**.
+Run the **Part002 Pass2B full-part closure / Pass3 activation checkpoint**.
 
-Pass1 is closed at **70/70 TEXT-COMPLETE**. Pass2A is **CLOSED / COMPLETE / PASS — 70/70**. Pass2B Batches1–6 are **REVIEWED / PASS — 60/70 cumulative**, with **18** source-backed corrections; Final Batch7 is next.
+Pass1 is closed at **70/70 TEXT-COMPLETE**. Pass2A is **CLOSED / COMPLETE / PASS — 70/70**. Pass2B is **COMPLETE / PASS — 70/70 REVIEWED**, with **19** source-backed corrections and **0 unresolved**; full-part closure / Pass3 activation checkpoint is next.

@@ -41,3 +41,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 7
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- decorative chapter14 opening `ராச்சாண்டார் மலைநோக்கி...`, no ordinary running printed-page number, physical page-end retained;
+- source-text corrections in Pass2B: **0**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

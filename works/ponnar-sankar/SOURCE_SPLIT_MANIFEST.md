@@ -12,7 +12,7 @@
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
-| 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **PASS1 COMPLETE / PASS — PASS2A CLOSED / COMPLETE / PASS 70/70 — PASS2B IN PROGRESS 60/70** |
+| 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **PASS1 COMPLETE / PASS — PASS2A CLOSED / COMPLETE / PASS 70/70 — PASS2B COMPLETE / PASS 70/70 — PASS3 NOT YET ACTIVATED** |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -60,9 +60,10 @@
 - Part002 Pass2A: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
 - Part002 Pass2A source-text corrections: **47**
 - Part002 Pass2A pending: **0/70**
-- Part002 Pass2B: **IN PROGRESS — 60/70 REVIEWED / PASS — scans76–135**
-- Part002 Pass2B source-text corrections: **18**
-- Part002 Pass2B pending: **10/70 — scans136–145**
+- Part002 Pass2B: **COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
+- Part002 Pass2B source-text corrections: **19**
+- Part002 Pass2B pending: **0/70**
+- Part002 Pass3: **NOT YET ACTIVATED**
 - Part002 Pass2B cadence: **10 scans per batch**
 - Part003–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -70,4 +71,4 @@
 
 ## Current frontier
 
-**Part002 Pass2B FINAL Batch7 — scans136–145 / local pages61–70 — next activity.**
+**Part002 Pass2B full-part closure / Pass3 activation checkpoint — next activity.**

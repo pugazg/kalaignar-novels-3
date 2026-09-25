@@ -13,7 +13,7 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 47 corrections; Pass2B IN PROGRESS — 60/70 REVIEWED / PASS — 18 corrections**
+- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 47 corrections; Pass2B COMPLETE / PASS — 70/70 REVIEWED — 19 corrections; Pass3 NOT YET ACTIVATED**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part002 boundary **145→146**: **PENDING Part003 witness**
@@ -45,6 +45,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part002 Pass2B FINAL Batch7 — scans136–145 / local pages61–70**.
+Run the **Part002 Pass2B full-part closure / Pass3 activation checkpoint**.
 
-Part001 remains frozen. Part002 Pass2A stays closed. Part002 Pass2B is **IN PROGRESS — 60/70 REVIEWED / PASS** with **18 source-backed corrections**; Final Batch7 is next.
+Part001 remains frozen. Part002 Pass2A stays closed. Part002 Pass2B is **COMPLETE / PASS — 70/70 REVIEWED** with **19 source-backed corrections** and **0 unresolved**. Pass3 is not yet activated; the closure / activation checkpoint is next.

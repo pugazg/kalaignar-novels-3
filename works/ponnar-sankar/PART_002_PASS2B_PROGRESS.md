@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 6 COMPLETE — 60/70 REVIEWED / PASS**
+**PASS 2B — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
 
 Active Part:
 - Part002
@@ -76,13 +76,13 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **60/70 — scans76–135**
-- pending — **10/70 — scans136–145**
-- source-text corrections applied in Pass2B — **18**
+- reviewed — **70/70 — scans76–145**
+- pending — **0/70**
+- source-text corrections applied in Pass2B — **19**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+- Pass3 — **NOT YET ACTIVATED — full-part Pass2B closure / activation checkpoint next**
 
 ## Batch 1 — scans76–85
 
@@ -565,8 +565,63 @@ canonical scan134 rejoined `தெரியாத வளாகவும்` → 
 - all reviewed records remain `needs-review` / `needs-review`
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Final Batch 7 — scans136–145
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 136 | chapter13 continuation / open into scan137 | 119 | 0 | REVIEWED / PASS |
+| 137 | chapter13 close / illustration lower field | 120 | 0 | REVIEWED / PASS |
+| 138 | chapter14 `ராச்சாண்டார் மலைநோக்கி...` opening | — | 0 | REVIEWED / PASS |
+| 139 | chapter14 continuation / open into scan140 | 122 | 0 | REVIEWED / PASS |
+| 140 | chapter14 continuation | 123 | 0 | REVIEWED / PASS |
+| 141 | chapter14 continuation | 124 | **1** | REVIEWED / PASS |
+| 142 | chapter14 continuation / open into scan143 | 125 | 0 | REVIEWED / PASS |
+| 143 | chapter14 continuation / open into scan144 | 126 | 0 | REVIEWED / PASS |
+| 144 | chapter14 continuation / open into scan145 | 127 | 0 | REVIEWED / PASS |
+| 145 | chapter14 continuation / Part002 final physical page | 128 | 0 | REVIEWED / PASS |
+
+## Final Batch 7 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans136–137 chapter13 source wording / printed pagination 119–120 — **PASS**
+- scan137 source-final body ending `வளைத்தனர்` without terminal punctuation / substantial lower illustration field — **PASS**
+- scan138 decorative chapter14 opening / no ordinary running printed-page number — **PASS**
+- scans139–145 chapter14 source wording / printed pagination 122–128 — **PASS**
+- scan139 exact open ending `தலையூர் மன்னர் காளியின்` into scan140 — **PASS**
+- scan142 exact open ending `அவர் திருமணத்துக்குச்` into scan143 — **PASS**
+- scan145 exact Part002 final physical page-end — **PASS**
+- scan146 wording inferred/imported — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Final Batch 7 correction ledger
+
+### P2B-019 — scan141
+
+Pass2B entry-state canonical:
+`அவசியமின்றி எமது அரசர் எதுவும் தலையிட மாட்டார்!`
+
+Independent direct source-pixel reading:
+`அவசியமின்றி எமது அரசர் எதிலும் தலையிட மாட்டார்!`
+
+Action:
+canonical scan141 corrected the source-visible lexical form `எதுவும்` → `எதிலும்`.
+
+## Final Batch 7 decision
+
+**FINAL BATCH 7 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **1**
+- cumulative Pass2B reviewed — **70/70 — scans76–145**
+- cumulative Pass2B corrections — **19**
+- unresolved textual questions — **0**
+- all Part002 records remain `needs-review` / `needs-review`
+- Pass2B batch coverage — **COMPLETE / PASS**
+- Pass3 — **NOT YET ACTIVATED**
+
 ## Exact next activity
 
-Process **Part002 Pass2B FINAL Batch7 — global scans136–145 / local pages61–70**.
-
-Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked until Batch7 closes, and **145→146 PENDING Part003 direct witness**.
+Run the **Part002 Pass2B full-part closure / Pass3 activation checkpoint**. Reconcile the 70/70 Pass2B review census and continuous P2B-001–P2B-019 correction ledger, confirm all Part002 records remain `needs-review` / `needs-review`, keep 145→146 pending, then activate Pass3 without starting its first visual batch in the same checkpoint.
