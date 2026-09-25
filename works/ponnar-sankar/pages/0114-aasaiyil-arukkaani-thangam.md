@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 
 அந்தப் பாராட்டுக்கு உரியவர் தானல்ல என்பதை தனது கூச்சத்தால் வெளிப்படுத்திய செட்டியார்; “என்னை ஏன் வீணாகப் புகழுகிறீர்கள்? இதோ நிற்கிறாரே; இந்தப் பெரியவர் மாயவர்; உங்களுக்காக தலையூர் மன்னனிடம் கோபித்துக் கொண்டே போய் விடவில்லையா? சுகமான பதவியைத் துறந்து இருபது வருஷங்களுக்கு மேலாக இவர் கஷ்டப்பட்டு அலைந்து திரிந்தார் என்றால் அது உங்களுக்காகத்தானே! நன்மையல்லாத காரியம் ஒரு கடுகளவு நடந்தாலும் அதை எதிர்த்து வாதாடுகிற பெரும் உள்ளம் யாருக்கு வரும்? அந்த நல்லெண்ணத்துக்குச் சொந்தக்காரரான மாயவரின் சிறப்போடு ஒப்பிட்டால் என் சிறப்பு அவரது கால் தூசுக்குக்கூட சமமாகாது!” என்றார்! அப்போது அவர் கண்கள் கலங்கின.
 
-“நிற்க வைத்தே பேசிக் கொண்டிருக்கிறீர்களே; ஏதோ அந்த மண்டபத்தில் உட்கார்ந்தாவது பேசலாமே!” என்று கொங்குச் சீமையின் பண்பு விளங்க தாமரைநாச்சியார், தனது கணவனைக் கடைக்கண்ணால் பார்த்துக் கொண்டே சொன்னாள்.
+“நிற்க வைத்தே பேசிக் கொண்டிருக்கிறீர்களே; அதோ அந்த மண்டபத்தில் உட்கார்ந்தாவது பேசலாமே!” என்று கொங்குச் சீமையின் பண்பு விளங்க தாமரைநாச்சியார், தனது கணவனைக் கடைக்கண்ணால் பார்த்துக் கொண்டே சொன்னாள்.
 
 ## Pass 1 notes
 
@@ -48,3 +48,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter11 continuation, source-visible printed page **97**, physical page-end retained;
+- corrected direct-source lexical reading: `ஏதோ அந்த மண்டபத்தில்` → `அதோ அந்த மண்டபத்தில்`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2B Batch4 — scans106–115
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2B Batch5 — scans116–125
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,29 +30,30 @@ Controlling source:
 
 ## Part002 Pass2B state
 
-**IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
+**IN PROGRESS — 40/70 REVIEWED / PASS — scans76–115**
 
 - Batch1 source-backed corrections — **3**
 - Batch2 source-backed corrections — **5**
 - Batch3 source-backed corrections — **3**
-- cumulative Pass2B corrections — **11**
+- Batch4 source-backed corrections — **3**
+- cumulative Pass2B corrections — **14**
 - unresolved Pass2B textual questions — **0**
-- pending — **40/70 — scans106–145**
+- pending — **30/70 — scans116–145**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
 Durable tracker:
 
 `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 
-## Batch3 correction summary
+## Batch4 correction summary
 
 Fresh independent Pass2B reread found three direct-source corrections:
 
-- scan97 — removed unsupported semicolon: `கரகங்களை விட்டு விட்டு; அம்பாளை` → `கரகங்களை விட்டு விட்டு அம்பாளை`;
-- scan101 — restored source-visible spaced three-dot punctuation: `கேட்டார்கள்... அவர்கள்` → `கேட்டார்கள். . . அவர்கள்`;
-- scan103 — restored source-visible spaced three-dot punctuation: `அம்மா... அதோ` → `அம்மா. . . அதோ`.
+- scan107 — `ஓ அப்படியா?... உங்கள்` → `ஓ அப்படியா? . . . உங்கள்`;
+- scan111 — `கொள்ளாதே என்று` → `கொள்ளாதேயென்று`;
+- scan114 — `ஏதோ அந்த மண்டபத்தில்` → `அதோ அந்த மண்டபத்தில்`.
 
-Scans96,98–100,102 and104–105 required **0 Pass2B corrections**.
+Scans106,108–110,112–113 and115 required **0 Pass2B corrections**.
 
 ## Read first
 
@@ -62,17 +63,17 @@ Scans96,98–100,102 and104–105 required **0 Pass2B corrections**.
 4. `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 6. `works/ponnar-sankar/indexes/page-map.md`
-7. canonical scans106–115.
+7. canonical scans116–125.
 
 Refetch live `main` before editing and again after the batch.
 
 ## Exact next activity
 
-Process **Part002 Pass2B Batch4 — global scans106–115 / local pages31–40**.
+Process **Part002 Pass2B Batch5 — global scans116–125 / local pages41–50**.
 
 Perform another **fresh independent direct-source lexical / historical-glyph reread**. Do not simply repeat Pass2A findings.
 
-For every scan106–115:
+For every scan116–125:
 
 1. reread every source-visible Tamil word directly from rendered source pixels;
 2. verify lexical forms, historical/source glyphs and occurrence-specific compounds;
@@ -85,14 +86,14 @@ For every scan106–115:
 9. keep all records `needs-review` / `needs-review`;
 10. do not begin Pass3.
 
-## Batch4 structural scope
+## Batch5 structural scope
 
-- scans106–108 continue and close chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` / printed pages89–91;
-- scan108 closes chapter10 with substantial intentional blank lower field;
-- scan109 opens chapter11 `ஆசையில் அருக்காணித் தங்கம்` and has no ordinary running printed-page number;
-- scans110–115 continue chapter11 / printed pages93–98;
-- scan115 remains open into scan116;
-- do not import scan116 wording backward.
+- scans116–118 continue and close chapter11 `ஆசையில் அருக்காணித் தங்கம்` / printed pages99–101;
+- scan118 closes chapter11 with substantial lower non-body archival field;
+- scan119 opens chapter12 `பூனையில் போர்க்கோலம்` and has no ordinary running printed-page number;
+- scans120–125 continue chapter12 / printed pages103–108;
+- scan125 remains open into scan126;
+- do not import scan126 wording backward.
 
 ## Mandatory locks
 
@@ -108,10 +109,10 @@ For every scan106–115:
 
 ## Stop condition
 
-Stop after **Part002 Pass2B Batch4 — scans106–115 — REVIEWED**.
+Stop after **Part002 Pass2B Batch5 — scans116–125 — REVIEWED**.
 
-Expected cumulative state after a clean Batch4:
+Expected cumulative state after a clean Batch5:
 
-**40/70 REVIEWED / PASS — scans76–115**
+**50/70 REVIEWED / PASS — scans76–125**
 
-Then synchronize the maintained controls and advance to **Part002 Pass2B Batch5 — scans116–125 / local pages41–50**, unless a direct-source hold is recorded.
+Then synchronize the maintained controls and advance to **Part002 Pass2B Batch6 — scans126–135 / local pages51–60**, unless a direct-source hold is recorded.

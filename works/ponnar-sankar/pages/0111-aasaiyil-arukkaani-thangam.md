@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 
 ## Source transcription
 
-மனைவியின் இதயத்திலிருந்து பீறிட்டுப் பொங்கிய அந்த வார்த்தைகள் குன்றுடையானைக் கலக்கவே அவன் தனது கண்களில் எட்டிப் பார்த்த நீர்த்துளிகளை அவளுக்குத் தெரியாமல் துடைத்துக் கொண்டே, அவள் தோளில் கைவைத்து, “என்ன தாமரை! சொன்னால் கேட்க மாட்டேன் என்கிறாய்? உடம்பைக் கெடுத்துக் கொள்ளாதே என்று எத்தனை முறை சொல்வது?” என்று கெஞ்சுகிற தோரணையில் செல்லமாகப் பேசினான்.
+மனைவியின் இதயத்திலிருந்து பீறிட்டுப் பொங்கிய அந்த வார்த்தைகள் குன்றுடையானைக் கலக்கவே அவன் தனது கண்களில் எட்டிப் பார்த்த நீர்த்துளிகளை அவளுக்குத் தெரியாமல் துடைத்துக் கொண்டே, அவள் தோளில் கைவைத்து, “என்ன தாமரை! சொன்னால் கேட்க மாட்டேன் என்கிறாய்? உடம்பைக் கெடுத்துக் கொள்ளாதேயென்று எத்தனை முறை சொல்வது?” என்று கெஞ்சுகிற தோரணையில் செல்லமாகப் பேசினான்.
 
 “நாச்சியாரம்மா! உங்கள் நல்ல மனசுக்கும் உங்கள் கணவரின் வெள்ளை மனசுக்கும் ஒரு குறையும் வராது. கவலைப் படாமல் இருங்கள். இரவும் பகலும் மாறி மாறி வருவது போல கெட்டதும் நல்லதும் மாறி மாறி வரும். அதுதான் வாழ்க்கை. இரவு இருந்தால்தானே பகலுக்குப் பெருமை. அது மாதிரி கெட்டது இருப்பதால்தான் நல்லதுக்குப் பெருமை. இப்போது உங்கள் வாழ்க்கையில் இருள் - இது பகலாக நிச்சயம் மாறும் பாருங்கள்!” என்று திடமான தொனியில் அருகிலிருந்த தனக்கோடி செட்டியார் ஆறுதல் அளித்தார்.
 
@@ -49,3 +49,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter11 continuation, source-visible printed page **94**, exact open physical page-end into scan112 retained;
+- corrected direct-source joined form: `கொள்ளாதே என்று` → `கொள்ளாதேயென்று`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

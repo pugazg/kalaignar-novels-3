@@ -43,3 +43,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- decorative chapter11 opening `ஆசையில் அருக்காணித் தங்கம்`, no ordinary running printed-page number, exact open physical page-end into scan110 retained;
+- source-text corrections in Pass2B: **0**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 
 அவள் கண்களில் பெருமழை கொட்டியது! அவ்வாறே அந்தப் பெண்களும், வையம்பெருமானும் இதயம் கனத்துப் போய்த் தள்ளாடினர். பாச உணர்ச்சியின் ஆனந்தக் கூத்தில் பல ஆண்டுகால வாழ்க்கை வரலாற்று ஏடு புரண்டு கொண்டிருந்தது. வாய்பேசாமலே நெஞ்சங்கள் ஒன்றையொன்று நலம் விசாரித்துக் கொண்டன. குன்றுடையான் வையம் பெருமானைக் கட்டியணைத்துக் கொண்டு முத்தாயி, பவளாயி இருவரின் உச்சந்தலையில் முத்தமிட்டான். பிறகு தன்னருகே அசைவற்று நின்று அனைத்தையும் வேடிக்கை பார்த்துக் கொண்டிருந்த தனக்கோடி செட்டியாரைப் பார்த்து, “செட்டியார் ஐயா! இவர்கள் சின்னமலைக்கொழுந்தின் செல்வங்கள்! என் மருமகப் பெண்களும், மருமகப்பிள்ளையும்!” என்றான்.
 
-“ஓ அப்படியா?... உங்கள் பிள்ளைகள் மட்டும் உயிரோடு இருந்தால் இந்தப் பெண்களுக்குத் தாலி கட்டி, தாமரை நாச்சியம்மையின் சபதத்தை நிறைவேற்றியிருப்பார்கள்” என்று வேதனை கலந்த கேலியாகச் சொன்னார் தனக்கோடி செட்டியார்.
+“ஓ அப்படியா? . . . உங்கள் பிள்ளைகள் மட்டும் உயிரோடு இருந்தால் இந்தப் பெண்களுக்குத் தாலி கட்டி, தாமரை நாச்சியம்மையின் சபதத்தை நிறைவேற்றியிருப்பார்கள்” என்று வேதனை கலந்த கேலியாகச் சொன்னார் தனக்கோடி செட்டியார்.
 
 “அதையெல்லாம் இப்போது பேசாதீர்கள். எல்லாம் நாம் நினைத்தபடியா நடக்கிறது?” என்று அங்கலாய்த்துக் கொண்டு பெருமூச்சு விட்டான் குன்றுடையான்.
 
@@ -51,3 +51,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter10 continuation, source-visible printed page **90**, physical page-end retained;
+- restored direct-source spaced three-dot punctuation after the question mark: `ஓ அப்படியா?...` → `ஓ அப்படியா? . . .`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

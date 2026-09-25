@@ -134,10 +134,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Pass2A source-text corrections — **47**
 - Part002 Pass2A unresolved textual questions — **0**
 - Part002 Pass2A pending — **0/70**
-- Part002 Pass2B — **IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
-- Part002 Pass2B source-text corrections — **11**
+- Part002 Pass2B — **IN PROGRESS — 40/70 REVIEWED / PASS — scans76–115**
+- Part002 Pass2B source-text corrections — **14**
 - Part002 Pass2B unresolved textual questions — **0**
-- Part002 Pass2B pending — **40/70 — scans106–145**
+- Part002 Pass2B pending — **30/70 — scans116–145**
 - Part002 Pass2B cadence — **10 scans per batch**
 - durable Part002 Pass2B tracker — `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 - durable Part002 Pass2A tracker — `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
@@ -148,16 +148,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **Pass2B Batch4 / scans106–115 / local pages31–40**
+- Part002 exact next activity — **Pass2B Batch5 / scans116–125 / local pages41–50**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2B Batch4 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass2B Batch5 frontier**
 
 ## Exact next activity
 
-Process **Part002 Pass2B Batch4 — global scans106–115 / local pages31–40**.
+Process **Part002 Pass2B Batch5 — global scans116–125 / local pages41–50**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 Pass2A stays closed. Part002 Pass2B Batches1–3 are **REVIEWED / PASS — 30/70 cumulative** with **11** source-backed corrections. Keep records at `needs-review`; Pass3 remains blocked; keep 145→146 pending.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 Pass2A stays closed. Part002 Pass2B Batches1–4 are **REVIEWED / PASS — 40/70 cumulative** with **14** source-backed corrections. Keep records at `needs-review`; Pass3 remains blocked; keep 145→146 pending.

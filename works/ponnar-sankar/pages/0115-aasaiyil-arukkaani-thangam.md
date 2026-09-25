@@ -40,3 +40,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 4
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter11 continuation, source-visible printed page **98**, exact physical page-end into scan116 retained; no scan116 wording imported backward;
+- source-text corrections in Pass2B: **0**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 3 COMPLETE — 30/70 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / BATCH 4 COMPLETE — 40/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -76,9 +76,9 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **30/70 — scans76–105**
-- pending — **40/70 — scans106–145**
-- source-text corrections applied in Pass2B — **11**
+- reviewed — **40/70 — scans76–115**
+- pending — **30/70 — scans116–145**
+- source-text corrections applied in Pass2B — **14**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -349,8 +349,87 @@ restored the source-visible spaced three-dot punctuation.
 - all reviewed records remain `needs-review` / `needs-review`
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 4 — scans106–115
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 106 | chapter10 continuation / open into scan107 | 89 | 0 | REVIEWED / PASS |
+| 107 | chapter10 continuation | 90 | **1** | REVIEWED / PASS |
+| 108 | chapter10 close / intentional blank lower field | 91 | 0 | REVIEWED / PASS |
+| 109 | chapter11 `ஆசையில் அருக்காணித் தங்கம்` opening | — | 0 | REVIEWED / PASS |
+| 110 | chapter11 continuation | 93 | 0 | REVIEWED / PASS |
+| 111 | chapter11 continuation / open into scan112 | 94 | **1** | REVIEWED / PASS |
+| 112 | chapter11 continuation / open into scan113 | 95 | 0 | REVIEWED / PASS |
+| 113 | chapter11 continuation | 96 | 0 | REVIEWED / PASS |
+| 114 | chapter11 continuation | 97 | **1** | REVIEWED / PASS |
+| 115 | chapter11 continuation / open into scan116 | 98 | 0 | REVIEWED / PASS |
+
+## Batch 4 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans106–108 chapter10 source wording / printed pagination 89–91 — **PASS**
+- scan108 chapter10 close / substantial intentional blank lower field — **PASS**
+- scan109 decorative chapter11 opening / no ordinary running printed-page number — **PASS**
+- scans110–115 chapter11 source wording / printed pagination 93–98 — **PASS**
+- scan106 exact open physical page-end into scan107 — **PASS**
+- scan111 exact open physical page-end into scan112 — **PASS**
+- scan112 exact open ending `ஆனைப்படை குதிரைப்படை முன்னால் வரவும் -` into scan113 — **PASS**
+- scan115 exact open physical page-end into scan116 — **PASS**
+- next-page wording imported backward — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Batch 4 correction ledger
+
+### P2B-012 — scan107
+
+Pass2B entry-state canonical:
+`ஓ அப்படியா?... உங்கள் பிள்ளைகள் மட்டும் உயிரோடு இருந்தால்`
+
+Independent direct source-pixel reading:
+`ஓ அப்படியா? . . . உங்கள் பிள்ளைகள் மட்டும் உயிரோடு இருந்தால்`
+
+Action:
+restored the source-visible spaced three-dot punctuation after the question mark.
+
+### P2B-013 — scan111
+
+Pass2B entry-state canonical:
+`உடம்பைக் கெடுத்துக் கொள்ளாதே என்று எத்தனை முறை சொல்வது?`
+
+Independent direct source-pixel reading:
+`உடம்பைக் கெடுத்துக் கொள்ளாதேயென்று எத்தனை முறை சொல்வது?`
+
+Action:
+canonical scan111 corrected the source-visible joined form `கொள்ளாதே என்று` → `கொள்ளாதேயென்று`.
+
+### P2B-014 — scan114
+
+Pass2B entry-state canonical:
+`நிற்க வைத்தே பேசிக் கொண்டிருக்கிறீர்களே; ஏதோ அந்த மண்டபத்தில் உட்கார்ந்தாவது பேசலாமே!`
+
+Independent direct source-pixel reading:
+`நிற்க வைத்தே பேசிக் கொண்டிருக்கிறீர்களே; அதோ அந்த மண்டபத்தில் உட்கார்ந்தாவது பேசலாமே!`
+
+Action:
+canonical scan114 corrected `ஏதோ அந்த மண்டபத்தில்` → source-visible `அதோ அந்த மண்டபத்தில்`.
+
+## Batch 4 decision
+
+**BATCH 4 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **3**
+- cumulative Pass2B reviewed — **40/70 — scans76–115**
+- cumulative Pass2B corrections — **14**
+- unresolved textual questions — **0**
+- all reviewed records remain `needs-review` / `needs-review`
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part002 Pass2B Batch4 — global scans106–115 / local pages31–40**.
+Process **Part002 Pass2B Batch5 — global scans116–125 / local pages41–50**.
 
 Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked, and **145→146 PENDING Part003 direct witness**.
