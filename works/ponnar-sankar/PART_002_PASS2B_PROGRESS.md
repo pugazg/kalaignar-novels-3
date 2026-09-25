@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 2 COMPLETE — 20/70 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / BATCH 3 COMPLETE — 30/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -76,9 +76,9 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **20/70 — scans76–95**
-- pending — **50/70 — scans96–145**
-- source-text corrections applied in Pass2B — **8**
+- reviewed — **30/70 — scans76–105**
+- pending — **40/70 — scans106–145**
+- source-text corrections applied in Pass2B — **11**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -270,8 +270,87 @@ canonical scan93 rejoined `குழந்தை களுக்கும்` �
 - all reviewed records remain `needs-review` / `needs-review`
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 3 — scans96–105
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 96 | chapter9 continuation | 79 | 0 | REVIEWED / PASS |
+| 97 | chapter9 continuation / open into scan98 | 80 | **1** | REVIEWED / PASS |
+| 98 | chapter9 close / intentional blank lower field | 81 | 0 | REVIEWED / PASS |
+| 99 | chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` opening | — | 0 | REVIEWED / PASS |
+| 100 | chapter10 continuation / open into scan101 | 83 | 0 | REVIEWED / PASS |
+| 101 | chapter10 continuation / open into scan102 | 84 | **1** | REVIEWED / PASS |
+| 102 | chapter10 continuation | 85 | 0 | REVIEWED / PASS |
+| 103 | chapter10 continuation / open into scan104 | 86 | **1** | REVIEWED / PASS |
+| 104 | chapter10 continuation | 87 | 0 | REVIEWED / PASS |
+| 105 | chapter10 continuation / open into scan106 | 88 | 0 | REVIEWED / PASS |
+
+## Batch 3 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans96–98 chapter9 source wording / printed pagination 79–81 — **PASS**
+- scan98 chapter9 close / substantial intentional blank lower field — **PASS**
+- scan99 decorative chapter10 opening / no ordinary running printed-page number — **PASS**
+- scans100–105 chapter10 source wording / printed pagination 83–88 — **PASS**
+- scan97 exact open ending `வணக்கம்` into scan98 — **PASS**
+- scan101 exact open ending `நன்றாக இருக்க` into scan102 — **PASS**
+- scan103 exact open ending `அதற்குள் பதறிப்போன` into scan104 — **PASS**
+- scan105 exact open ending `அவர்தான்` into scan106 — **PASS**
+- next-page wording imported backward — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Batch 3 correction ledger
+
+### P2B-009 — scan97
+
+Pass2B entry-state canonical:
+`கரகங்களை விட்டு விட்டு; அம்பாளை வணங்கி வாருங்கள்.`
+
+Independent direct source-pixel reading:
+`கரகங்களை விட்டு விட்டு அம்பாளை வணங்கி வாருங்கள்.`
+
+Action:
+removed the unsupported semicolon after the second `விட்டு`.
+
+### P2B-010 — scan101
+
+Pass2B entry-state canonical:
+`அப்பாவோ யாரோ அவர்களைக் கேட்டார்கள்... அவர்கள் என்ன சொன்னார்கள் தெரியவில்லையே`
+
+Independent direct source-pixel reading:
+`அப்பாவோ யாரோ அவர்களைக் கேட்டார்கள். . . அவர்கள் என்ன சொன்னார்கள் தெரியவில்லையே`
+
+Action:
+restored the source-visible spaced three-dot punctuation.
+
+### P2B-011 — scan103
+
+Pass2B entry-state canonical:
+`கொஞ்சம் இருங்கள் அம்மா... அதோ ஆதிசெட்டிப் பாளையம்`
+
+Independent direct source-pixel reading:
+`கொஞ்சம் இருங்கள் அம்மா. . . அதோ ஆதிசெட்டிப் பாளையம்`
+
+Action:
+restored the source-visible spaced three-dot punctuation.
+
+## Batch 3 decision
+
+**BATCH 3 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **3**
+- cumulative Pass2B reviewed — **30/70 — scans76–105**
+- cumulative Pass2B corrections — **11**
+- unresolved textual questions — **0**
+- all reviewed records remain `needs-review` / `needs-review`
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part002 Pass2B Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass2B Batch4 — global scans106–115 / local pages31–40**.
 
 Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked, and **145→146 PENDING Part003 direct witness**.

@@ -31,7 +31,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 “எனக்கொன்றும் வருத்தமில்லை. பெயர் தெரியாவிட்டால் என்ன செய்ய முடியும்? சரி; பூசாரியாரே! என் பெண்கள் பெயருக்கும் பிள்ளை பெயருக்குமே அர்ச்சனையை செய்து முடியுங்கள்” என்றாள் சிலம்பாயி. ஆனால் வையம்பெருமான் அதற்கு இணங்கவில்லை.
 
-“கொஞ்சம் இருங்கள் அம்மா... அதோ ஆதிசெட்டிப் பாளையம் தனக்கோடி செட்டியாரும் அவரோடு குன்றுடையார் குடும்பத்தாரும் அம்மனுக்கு மாவிளக்கு போட்டுக் கொண்டிருக்கிறார்கள். அவர்களிடம் போய் அந்தப் பிள்ளையாண்டான்களின் பெயர் தெரியுமா என்று கேட்டு வருகிறேன்” என்று கூறியவாறு புறப்பட்டான். அதற்குள் பதறிப்போன
+“கொஞ்சம் இருங்கள் அம்மா. . . அதோ ஆதிசெட்டிப் பாளையம் தனக்கோடி செட்டியாரும் அவரோடு குன்றுடையார் குடும்பத்தாரும் அம்மனுக்கு மாவிளக்கு போட்டுக் கொண்டிருக்கிறார்கள். அவர்களிடம் போய் அந்தப் பிள்ளையாண்டான்களின் பெயர் தெரியுமா என்று கேட்டு வருகிறேன்” என்று கூறியவாறு புறப்பட்டான். அதற்குள் பதறிப்போன
 
 ## Pass 1 notes
 
@@ -52,3 +52,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter10 continuation, source-visible printed page **86**, exact open physical page-end `அதற்குள் பதறிப்போன` into scan104 retained;
+- restored direct-source spaced ellipsis punctuation: `அம்மா... அதோ` → `அம்மா. . . அதோ`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

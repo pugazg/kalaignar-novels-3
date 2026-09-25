@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 “பிரார்த்தனை செய்து கொண்டபடி கரகம் விடும் திருவிழாவை நடத்தி விட வேண்டாமா? பிறகு அம்பாள் கோபத்துக்கு ஆளாக நேரும்!” என்று கலங்கினாள் சின்னமலைக்கொழுந்தின் மனைவி சிலம்பாயி.
 
-“நீயும் வையம்பெருமானும், முத்தாயி - பவளாயியை அழைத்துப் போய் ஆற்றங்கரையில் நின்றபடி கரகங்களை விட்டு விட்டு; அம்பாளை வணங்கி வாருங்கள். நான் இவர்களை நமது ஆரிச்சம்பட்டி மணியங்குறிச்சி மாளிகைக்கு அழைத்துப் போகிறேன்” என்றார் சின்னமலைக்கொழுந்து.
+“நீயும் வையம்பெருமானும், முத்தாயி - பவளாயியை அழைத்துப் போய் ஆற்றங்கரையில் நின்றபடி கரகங்களை விட்டு விட்டு அம்பாளை வணங்கி வாருங்கள். நான் இவர்களை நமது ஆரிச்சம்பட்டி மணியங்குறிச்சி மாளிகைக்கு அழைத்துப் போகிறேன்” என்றார் சின்னமலைக்கொழுந்து.
 
 சங்கரைக் கைத்தாங்கலாகப் பொன்னர் அழைத்துக் கொண்டு கிளம்பினான். வீரமலைச் சாம்புவனும் அவர்களுடன் புறப்பட்டான். சின்னமலைக்கொழுந்து; தனது ஆட்களைக் கூப்பிட்டு ரத வண்டியைச் சீக்கிரம் கொண்டு வாருங்கள் என்று கட்டளையிட்டார். வண்டிகள் வந்து நின்றன. சின்னமலைக்கொழுந்து அந்த மூன்று வாலிபர்களையும் ஒரு வண்டியில் ஏற்றி விட்டு, அவர் இன்னொரு வண்டியில் ஏறப் போகும் போது மாந்தியப்பனின் அருகில் சென்று மரியாதையுடன் வணக்கம்
 
@@ -49,3 +49,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter9 continuation, source-visible printed page **80**, exact open physical page-end `வணக்கம்` into scan98 retained;
+- removed unsupported semicolon in direct-source phrase: `கரகங்களை விட்டு விட்டு; அம்பாளை` → `கரகங்களை விட்டு விட்டு அம்பாளை`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

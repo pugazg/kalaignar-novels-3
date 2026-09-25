@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 
 தான் பெற்றெடுத்த தங்கங்கள் இருவருமே நன்றியுணர்வோடு தான் அந்த வாலிபர்கள் பெயரால் அம்மனுக்கு அர்ச்சனை செய்யச் சொல்லுகிறார்கள் என ஏன் கருத்துக் கூடாது என்ற நினைவலைகளும் சிலம்பாயியின் நெஞ்சத்தை வருடிக் கொண்டிருந்ததால்;
 
-“அடடே! அந்தப் பிள்ளையாண்டான்கள் பெயர் தெரிய வில்லையே!” என்று, தன் மகள்களைப் பார்த்துச் சொன்னாள். “அப்பாவோ யாரோ அவர்களைக் கேட்டார்கள்... அவர்கள் என்ன சொன்னார்கள் தெரியவில்லையே” என்று இருவருமே ஏக காலத்தில் பதிலளித்தனர். “அதைச் சரியாகக் கவனித்து அவர்கள் பெயர் என்னவென்று தெரிந்து கொண்டிருக்கக் கூடாதா? அவ்வளவு அக்கறை கூட இல்லையா உங்களுக்கு?” என்று சிலம்பாயி செல்லமாகக் கடிந்து கொண்டாள். “ஏம்மா; அண்ணன் அங்கே இருந்தாரே அப்போது - அவரைக் கேட்டால் தெரியுமே!” என்று பரபரப்புடன் யோசனை கூறினாள் முத்தாயி!
+“அடடே! அந்தப் பிள்ளையாண்டான்கள் பெயர் தெரிய வில்லையே!” என்று, தன் மகள்களைப் பார்த்துச் சொன்னாள். “அப்பாவோ யாரோ அவர்களைக் கேட்டார்கள். . . அவர்கள் என்ன சொன்னார்கள் தெரியவில்லையே” என்று இருவருமே ஏக காலத்தில் பதிலளித்தனர். “அதைச் சரியாகக் கவனித்து அவர்கள் பெயர் என்னவென்று தெரிந்து கொண்டிருக்கக் கூடாதா? அவ்வளவு அக்கறை கூட இல்லையா உங்களுக்கு?” என்று சிலம்பாயி செல்லமாகக் கடிந்து கொண்டாள். “ஏம்மா; அண்ணன் அங்கே இருந்தாரே அப்போது - அவரைக் கேட்டால் தெரியுமே!” என்று பரபரப்புடன் யோசனை கூறினாள் முத்தாயி!
 
 அதற்குள் பவளாயி, ரத வண்டிக்கு சற்று தொலைவில் ஓடி வந்து நின்று கொண்டு, “அண்ணா! உன்னை அம்மா அவசரமாகக் கூப்பிடுகிறார்கள்” என்று குரலுயர்த்தினாள்.
 
@@ -51,3 +51,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 3
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter10 continuation, source-visible printed page **84**, exact open physical page-end `நன்றாக இருக்க` into scan102 retained;
+- restored direct-source spaced ellipsis punctuation: `கேட்டார்கள்... அவர்கள்` → `கேட்டார்கள். . . அவர்கள்`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

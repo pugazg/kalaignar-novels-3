@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2B Batch3 — scans96–105
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass2B Batch4 — scans106–115
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,30 +30,29 @@ Controlling source:
 
 ## Part002 Pass2B state
 
-**IN PROGRESS — 20/70 REVIEWED / PASS — scans76–95**
+**IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
 
 - Batch1 source-backed corrections — **3**
 - Batch2 source-backed corrections — **5**
-- cumulative Pass2B corrections — **8**
+- Batch3 source-backed corrections — **3**
+- cumulative Pass2B corrections — **11**
 - unresolved Pass2B textual questions — **0**
-- pending — **50/70 — scans96–145**
+- pending — **40/70 — scans106–145**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
 Durable tracker:
 
 `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 
-## Batch2 correction summary
+## Batch3 correction summary
 
-Fresh independent Pass2B reread found five direct-source corrections:
+Fresh independent Pass2B reread found three direct-source corrections:
 
-- scan87 — `கவலைப்படவில்லை` → `கவலைப் படவில்லை`;
-- scan89 — source closing punctuation `மகள்கள்.”` → `மகள்கள்”.`;
-- scan93 — rejoined physical line-wrap-only split `ஆரிச்சம்பட்டி யெனும்` → `ஆரிச்சம்பட்டியெனும்`;
-- scan93 — rejoined physical line-wrap-only split `ஆண்டு களுக்குள்ளாகவே` → `ஆண்டுகளுக்குள்ளாகவே`;
-- scan93 — rejoined physical line-wrap-only split `குழந்தை களுக்கும்` → `குழந்தைகளுக்கும்`.
+- scan97 — removed unsupported semicolon: `கரகங்களை விட்டு விட்டு; அம்பாளை` → `கரகங்களை விட்டு விட்டு அம்பாளை`;
+- scan101 — restored source-visible spaced three-dot punctuation: `கேட்டார்கள்... அவர்கள்` → `கேட்டார்கள். . . அவர்கள்`;
+- scan103 — restored source-visible spaced three-dot punctuation: `அம்மா... அதோ` → `அம்மா. . . அதோ`.
 
-Scans86,88,90–92 and94–95 required **0 Pass2B corrections**.
+Scans96,98–100,102 and104–105 required **0 Pass2B corrections**.
 
 ## Read first
 
@@ -63,37 +62,37 @@ Scans86,88,90–92 and94–95 required **0 Pass2B corrections**.
 4. `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 5. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
 6. `works/ponnar-sankar/indexes/page-map.md`
-7. canonical scans96–105.
+7. canonical scans106–115.
 
 Refetch live `main` before editing and again after the batch.
 
 ## Exact next activity
 
-Process **Part002 Pass2B Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass2B Batch4 — global scans106–115 / local pages31–40**.
 
 Perform another **fresh independent direct-source lexical / historical-glyph reread**. Do not simply repeat Pass2A findings.
 
-For every scan96–105:
+For every scan106–115:
 
 1. reread every source-visible Tamil word directly from rendered source pixels;
 2. verify lexical forms, historical/source glyphs and occurrence-specific compounds;
 3. distinguish actual word boundaries from physical line-wrap-only splits;
 4. verify punctuation and dialogue quotation boundaries;
-5. verify displayed verse/song formatting where applicable;
-6. preserve source-visible printed pagination and physical page-end state unless direct evidence requires correction;
-7. apply only source-backed corrections;
-8. append exactly one formal Part002 Pass2B review to every reviewed canonical record;
-9. log all Pass2B corrections in `PART_002_PASS2B_PROGRESS.md`;
-10. keep all records `needs-review` / `needs-review`.
+5. preserve source-visible printed pagination and physical page-end state unless direct evidence requires correction;
+6. apply only source-backed corrections;
+7. append exactly one formal Part002 Pass2B review to every reviewed canonical record;
+8. log all Pass2B corrections in `PART_002_PASS2B_PROGRESS.md`;
+9. keep all records `needs-review` / `needs-review`;
+10. do not begin Pass3.
 
-## Batch3 structural scope
+## Batch4 structural scope
 
-- scans96–98 continue and close chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` / printed pages79–81;
-- scan98 closes chapter9 with substantial intentional blank lower field;
-- scan99 opens chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` and has no ordinary running printed-page number;
-- scans100–105 continue chapter10 / printed pages83–88;
-- scan105 remains open into scan106;
-- do not import scan106 wording backward.
+- scans106–108 continue and close chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` / printed pages89–91;
+- scan108 closes chapter10 with substantial intentional blank lower field;
+- scan109 opens chapter11 `ஆசையில் அருக்காணித் தங்கம்` and has no ordinary running printed-page number;
+- scans110–115 continue chapter11 / printed pages93–98;
+- scan115 remains open into scan116;
+- do not import scan116 wording backward.
 
 ## Mandatory locks
 
@@ -105,14 +104,14 @@ For every scan96–105:
 - Pass3 remains blocked
 - incoming 75→76 remains audited/pass
 - outgoing 145→146 remains pending
-- do not reinsert or reconstruct the unsupported scan82 paragraph removed in Pass2B Batch1.
+- do not reinsert the unsupported scan82 paragraph removed in Pass2B Batch1.
 
 ## Stop condition
 
-Stop after **Part002 Pass2B Batch3 — scans96–105 — REVIEWED**.
+Stop after **Part002 Pass2B Batch4 — scans106–115 — REVIEWED**.
 
-Expected cumulative state after a clean Batch3:
+Expected cumulative state after a clean Batch4:
 
-**30/70 REVIEWED / PASS — scans76–105**
+**40/70 REVIEWED / PASS — scans76–115**
 
-Then synchronize the maintained controls and advance to **Part002 Pass2B Batch4 — scans106–115 / local pages31–40**, unless a direct-source hold is recorded.
+Then synchronize the maintained controls and advance to **Part002 Pass2B Batch5 — scans116–125 / local pages41–50**, unless a direct-source hold is recorded.

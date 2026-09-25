@@ -63,10 +63,10 @@
 - Part002 Pass2A: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
 - Part002 Pass2A source-text corrections: **47**
 - Part002 Pass2A pending: **0/70**
-- Part002 Pass2B: **IN PROGRESS — 20/70 REVIEWED / PASS — scans76–95**
-- Part002 Pass2B source-text corrections: **8**
+- Part002 Pass2B: **IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
+- Part002 Pass2B source-text corrections: **11**
 - Part002 Pass2B unresolved textual questions: **0**
-- Part002 Pass2B pending: **50/70 — scans96–145**
+- Part002 Pass2B pending: **40/70 — scans106–145**
 - Part002 Pass2B cadence: **10 scans per batch**
 - durable Part002 Pass2B tracker: `PART_002_PASS2B_PROGRESS.md`
 - Part003–Part008: **pending intake / NOT REGISTERED**
@@ -113,6 +113,6 @@
 
 ## Exact next activity
 
-Process **Part002 Pass2B Batch3 — global scans96–105 / local pages21–30**.
+Process **Part002 Pass2B Batch4 — global scans106–115 / local pages31–40**.
 
-Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B Batches1–2 are **REVIEWED / PASS — 20/70 cumulative** with **8** source-backed corrections; Batch3 is next. Pass3 remains blocked until Pass2B closes.
+Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B Batches1–3 are **REVIEWED / PASS — 30/70 cumulative** with **11** source-backed corrections; Batch4 is next. Pass3 remains blocked until Pass2B closes.
