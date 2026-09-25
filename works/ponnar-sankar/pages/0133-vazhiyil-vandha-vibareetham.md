@@ -47,3 +47,12 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 6
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter13 continuation, source-visible printed page **116**, exact open physical page-end `அந்தப் பிள்ளையாண்டான்கள் நன்றாக` into scan134 retained;
+- source-text corrections in Pass2B: **0**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

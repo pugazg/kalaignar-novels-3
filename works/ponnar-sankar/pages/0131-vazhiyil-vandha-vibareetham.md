@@ -27,7 +27,7 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 6
 
 உட்கார்ந்து பேசிக் கொண்டிருந்த மணியங்குறிச்சிக் கவுண்டர் திடீரென எழுந்தவாறு; “நல்ல காரியம் செய்தீர்கள்! என் மனைவி சிலம்பாயியும், மகன் வையம்பெருமானும் உங்களால் காப்பாற்றப்பட்ட என் பெண்களும் இந்நேரம் பாதி வழியைத் தாண்டியிருப்பார்கள். அவர்கள் வந்து நீங்கள் எங்கேயென்று கேட்டால் என்ன பதில் சொல்வது? உங்களைப் பார்க்கவும் பரிந்து உபசாரம் செய்யவும் அவர்களுக்கு எவ்வளவு ஆசை இருக்கும் தெரியுமா?” என்று ஒரு சிறிய சொற்பொழிவே நிகழ்த்திவிட்டார்.
 
-“எங்களை மன்னித்துக் கொள்ளுங்கள். எங்கள் ஆசானைப் பிரிந்து இவ்வளவு தொலைவு வந்ததும் - இவ்வளவு நேரம் இருந்ததும் கூட எங்கள் பாசறை வாழ்க்கையில் புதுமையான ஒன்று! எங்களைப் பற்றி அவர் என்ன நினைத்துக் கொண்டிருக்கிறாரோ எப்படித் கவலைப்படுகிறாரோ? எங்கெல்லாம்
+“எங்களை மன்னித்துக் கொள்ளுங்கள். எங்கள் ஆசானைப் பிரிந்து இவ்வளவு தொலைவு வந்ததும் - இவ்வளவு நேரம் இருந்ததும் கூட எங்கள் பாசறை வாழ்க்கையில் புதுமையான ஒன்று! எங்களைப் பற்றி அவர் என்ன நினைத்துக் கொண்டிருக்கிறாரோ எப்படிக் கவலைப்படுகிறாரோ? எங்கெல்லாம்
 
 ## Pass 1 notes
 
@@ -47,3 +47,13 @@ transcription_method: "direct source-pixel transcription; Part002 Pass 1 batch 6
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part002 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- chapter13 continuation, source-visible printed page **114**, exact open physical page-end `எங்கெல்லாம்` into scan132 retained;
+- corrected direct-source sandhi form: `எப்படித் கவலைப்படுகிறாரோ?` → `எப்படிக் கவலைப்படுகிறாரோ?`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

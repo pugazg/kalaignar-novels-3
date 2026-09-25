@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS / BATCH 5 COMPLETE — 50/70 REVIEWED / PASS**
+**PASS 2B — IN PROGRESS / BATCH 6 COMPLETE — 60/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -76,9 +76,9 @@ Maintained cadence follows Part001 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **50/70 — scans76–125**
-- pending — **20/70 — scans126–145**
-- source-text corrections applied in Pass2B — **15**
+- reviewed — **60/70 — scans76–135**
+- pending — **10/70 — scans136–145**
+- source-text corrections applied in Pass2B — **18**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -484,8 +484,89 @@ canonical scan116 corrected the source phrase `இந்தக் குலத�
 - all reviewed records remain `needs-review` / `needs-review`
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 6 — scans126–135
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 126 | chapter12 continuation / open into scan127 | 109 | 0 | REVIEWED / PASS |
+| 127 | chapter12 close | 110 | 0 | REVIEWED / PASS |
+| 128 | chapter13 `வழியில் வந்த விபரீதம்` opening | — | 0 | REVIEWED / PASS |
+| 129 | chapter13 continuation / open into scan130 | 112 | 0 | REVIEWED / PASS |
+| 130 | chapter13 continuation / open into scan131 | 113 | 0 | REVIEWED / PASS |
+| 131 | chapter13 continuation / open into scan132 | 114 | **1** | REVIEWED / PASS |
+| 132 | chapter13 continuation / open into scan133 | 115 | 0 | REVIEWED / PASS |
+| 133 | chapter13 continuation / open into scan134 | 116 | 0 | REVIEWED / PASS |
+| 134 | chapter13 continuation / open into scan135 | 117 | **2** | REVIEWED / PASS |
+| 135 | chapter13 continuation / open into scan136 | 118 | 0 | REVIEWED / PASS |
+
+## Batch 6 structural / lexical verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans126–127 chapter12 source wording / printed pagination 109–110 — **PASS**
+- scan127 chapter12 close — **PASS**
+- scan128 decorative chapter13 opening / no ordinary running printed-page number — **PASS**
+- scans129–135 chapter13 source wording / printed pagination 112–118 — **PASS**
+- scan129 exact open ending `பொன்னர் -` into scan130 — **PASS**
+- scan131 exact open ending `எங்கெல்லாம்` into scan132 — **PASS**
+- scan133 exact open ending `அந்தப் பிள்ளையாண்டான்கள் நன்றாக` into scan134 — **PASS**
+- scan135 exact physical page-end into scan136 — **PASS**
+- next-page wording imported backward — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part001 body edits — **0**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Batch 6 correction ledger
+
+### P2B-016 — scan131
+
+Pass2B entry-state canonical:
+`எப்படித் கவலைப்படுகிறாரோ? எங்கெல்லாம்`
+
+Independent direct source-pixel reading:
+`எப்படிக் கவலைப்படுகிறாரோ? எங்கெல்லாம்`
+
+Action:
+canonical scan131 corrected the source-visible sandhi form `எப்படித்` → `எப்படிக்`.
+
+### P2B-017 — scan134
+
+Pass2B entry-state canonical:
+`நடந்து முடிந்து விட்டபடியால் அந்த புயலைப்பற்றி`
+
+Independent direct source-pixel reading:
+`நடந்து முடிந்து விட்டபடியால் - அந்த புயலைப்பற்றி`
+
+Action:
+restored the source-visible dash after `விட்டபடியால்`.
+
+### P2B-018 — scan134
+
+Pass2B entry-state canonical:
+`அதிகம் தெரியாத வளாகவும்,`
+
+Independent direct source-pixel reading:
+- the printed line ends with `தெரியாத`;
+- the next printed line begins `வளாகவும்,`;
+- this is one lexical word split only by the physical line ending.
+
+Action:
+canonical scan134 rejoined `தெரியாத வளாகவும்` → `தெரியாதவளாகவும்`.
+
+## Batch 6 decision
+
+**BATCH 6 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **3**
+- cumulative Pass2B reviewed — **60/70 — scans76–135**
+- cumulative Pass2B corrections — **18**
+- unresolved textual questions — **0**
+- all reviewed records remain `needs-review` / `needs-review`
+- Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part002 Pass2B Batch6 — global scans126–135 / local pages51–60**.
+Process **Part002 Pass2B FINAL Batch7 — global scans136–145 / local pages61–70**.
 
-Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked, and **145→146 PENDING Part003 direct witness**.
+Continue the fresh independent lexical / historical-glyph reread from rendered source pixels. Keep Part001 frozen, Part002 records at `needs-review` / `needs-review`, Pass3 blocked until Batch7 closes, and **145→146 PENDING Part003 direct witness**.
