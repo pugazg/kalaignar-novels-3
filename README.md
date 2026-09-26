@@ -46,6 +46,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Create and close the **Part002 release/readiness report**.
+Perform **Part002 release-ready synchronization**.
 
-Part001 remains frozen. Part002 whole-Part English glossary, editorial and bilingual gates are closed. Release/readiness is next; Part003 remains blocked.
+Part001 remains frozen. Part002 release/readiness is **PASS / CLOSED**. Release-ready synchronization is next; Part003 remains blocked.

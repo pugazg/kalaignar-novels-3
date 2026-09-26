@@ -264,8 +264,10 @@ Whole-Part English editorial review subsequently closed **PASS / CLOSED — 8/8 
 
 Whole-Part bilingual review subsequently closed **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved holds**. Durable record: `PART_002_BILINGUAL_REVIEW.md`.
 
+Part002 release/readiness subsequently closed **PASS / CLOSED — 0 blockers**. Durable record: `PART_002_RELEASE_REPORT.md`.
+
 ## Exact next activity
 
-Create and close the **Part002 release/readiness report**.
+Perform **Part002 release-ready synchronization**.
 
 Do not begin Part003; outgoing 145→146 remains pending direct source witness.

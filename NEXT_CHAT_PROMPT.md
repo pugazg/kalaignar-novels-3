@@ -1,53 +1,51 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 release/readiness
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 release-ready synchronization
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Closed Part002 gates
 
-Tamil:
 - canonical Tamil — **70/70 verified**
 - visual fidelity — **70/70 verified**
 - Tamil archival-ready — **PASS / COMPLETE**
 - assembled Tamil — **VERIFIED / PASS / CLOSED — 8/8**
-
-English:
-- E10–E17 — **8/8 SOURCE-CHECKED / COMPLETE**
-- physical coverage — **scans76–145 / 70 of 70**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- English E10–E17 — **8/8 SOURCE-CHECKED / COMPLETE**
+- glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs**
-- unresolved English holds — **0**
-
-Boundary:
-- incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- whole-Part bilingual review — **PASS / CLOSED — 8/8**
+- release/readiness — **PASS / CLOSED — 0 blockers**
 - outgoing 145→146 — **PENDING Part003 direct witness**
-- Part003 content imported/inferred — **0**
+- Part003 leakage — **0**
 
 ## Exact next activity
 
+Perform **Part002 release-ready synchronization**.
+
+Synchronize lifecycle/status/navigation controls only. Do not alter:
+
+- canonical `pages/`;
+- assembled Tamil section bodies;
+- maintained Part002 English section bodies;
+- frozen Part001 body layers.
+
 Create:
 
-`works/ponnar-sankar/translations/en/PART_002_RELEASE_REPORT.md`
+`works/ponnar-sankar/PART_002_RELEASE_READY_SYNC.md`
 
-and close **Part002 release/readiness**.
+after synchronization evidence is verified.
 
-Verify:
+Record:
 
-- Tamil lifecycle gates closed;
-- English lifecycle gates closed through bilingual review;
-- maintained English coverage 8/8 / scans76–145;
-- source PDFs absent from active Git tree;
-- missing provenance/navigation links — 0;
-- unresolved release/readiness blockers — 0;
-- canonical Tamil changes — 0;
+- release/readiness record commit;
+- synchronized pre-record head;
+- changed-path count;
+- canonical body changes — 0;
 - assembled Tamil body changes — 0;
 - maintained English body changes — 0;
-- frozen Part001 changes — 0;
+- frozen Part001 body changes — 0;
 - Part003 leakage — 0.
 
-After release/readiness closes, continue under the user's authorization through:
+After this gate closes, proceed under the user's authorization to:
 
-1. Part002 release-ready synchronization;
-2. Part002 final closure / freeze.
+**Part002 final closure / freeze.**
 
 Do not begin Part003 source intake or transcription.

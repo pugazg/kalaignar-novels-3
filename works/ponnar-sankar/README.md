@@ -139,6 +139,6 @@
 
 ## Exact next activity
 
-Create and close the **Part002 release/readiness report**.
+Perform **Part002 release-ready synchronization**.
 
-Keep Part001 frozen. Part002 whole-Part bilingual review is **PASS / CLOSED**. Create release/readiness next; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 release/readiness is **PASS / CLOSED**. Perform release-ready synchronization next; keep 145→146 pending and do not begin Part003.
