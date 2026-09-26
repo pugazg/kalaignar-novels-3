@@ -659,6 +659,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
+Process **Part002 English editorial review — all 8 maintained English files / scans76–145**.
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–145. Perform whole-Part English glossary reconciliation next; keep 145→146 pending.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Perform English editorial review next; keep 145→146 pending.

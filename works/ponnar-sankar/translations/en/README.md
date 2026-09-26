@@ -3,7 +3,7 @@
 ## State
 
 **PART001 FINAL CLOSED / FROZEN.**  
-**PART002 ENGLISH TRANSLATION BATCHES COMPLETE — scans76–145 / 70 of 70 processed.**
+**PART002 ENGLISH — E10–E17 SOURCE-CHECKED / COMPLETE; WHOLE-PART GLOSSARY RECONCILED / PASS.**
 
 Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**.
 
@@ -146,6 +146,10 @@ Planning/setup result:
 - cumulative physical coverage — **scans76–145 / 70 of 70**
 - remaining physical coverage — **0**
 - outgoing 145→146 — **PENDING Part003 direct witness**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- reconciliation English files reviewed — **8/8**
+- reconciliation English section edits — **0**
+- unresolved glossary holds — **0**
 - partial translated files — **0**
 - Part001 English mutation — **0**
 - canonical / assembled Tamil mutation — **0 / 0**
@@ -153,6 +157,6 @@ Planning/setup result:
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation** across E10–E17.
+Perform **Part002 English editorial review — all 8 maintained English files / scans76–145**.
 
-Do not begin editorial review, bilingual review, release work or Part003 in the same reconciliation step.
+Use `PART_002_GLOSSARY_RECONCILIATION.md` as the closed glossary control. Do not begin bilingual review, release/readiness, final closure or Part003 in the same activity.

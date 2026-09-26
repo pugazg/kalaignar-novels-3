@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART002 ENGLISH TRANSLATION BATCHES COMPLETE — E10–E17 SOURCE-CHECKED / COMPLETE — scans76–145**
+**PART002 ENGLISH — E10–E17 SOURCE-CHECKED / COMPLETE; WHOLE-PART GLOSSARY RECONCILED / PASS**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -18,8 +18,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | **E15** | section14 — `பூனையில் போர்க்கோலம்` | 119–127 | **SOURCE-CHECKED / COMPLETE** |
 | **E16** | section15 — `வழியில் வந்த விபரீதம்` | 128–137 | **SOURCE-CHECKED / COMPLETE** |
 | **E17** | section16 — `ராச்சாண்டார் மலைநோக்கி...` | 138–145 | **SOURCE-CHECKED / COMPLETE** |
-| Glossary reconciliation | Part002 whole-Part English | 76–145 | **BLOCKED until E10–E17 close** |
-| Editorial review | Part002 whole-Part English | 76–145 | **BLOCKED** |
+| Glossary reconciliation | Part002 whole-Part English | 76–145 | **RECONCILED / PASS / CLOSED** |
+| Editorial review | Part002 whole-Part English | 76–145 | **READY / NEXT** |
 | Bilingual review | English against verified Tamil | 76–145 | **BLOCKED** |
 | Release/readiness | Part002 | 76–145 | **BLOCKED** |
 | Release-ready synchronization | Part002 | 76–145 | **BLOCKED** |
@@ -49,6 +49,11 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - frozen Part001 English edits caused by Part002 — **0**
 - Part003 leakage — **0**
 - outgoing 145→146 — **PENDING Part003 direct witness**
+- whole-Part glossary reconciliation — **RECONCILED / PASS**
+- glossary English files reviewed — **8/8**
+- accidental English drift instances — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
 
 ## Maintained Part002 English files
 
@@ -178,6 +183,6 @@ Exact accounting:
 
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation** across E10–E17.
+Perform **Part002 English editorial review — all 8 maintained English files / scans76–145**.
 
-Do not begin editorial review, bilingual review, release work or Part003 in the same reconciliation step.
+Use `PART_002_GLOSSARY_RECONCILIATION.md` as the closed glossary control. Do not begin whole-Part bilingual review, release/readiness, final closure or Part003 in the same editorial step.

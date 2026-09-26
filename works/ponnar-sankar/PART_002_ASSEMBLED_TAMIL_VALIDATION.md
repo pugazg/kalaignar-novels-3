@@ -131,6 +131,6 @@ Outgoing:
 
 ## Exact next activity
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage **scans76–145 / 70 of 70**.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**.
 
-Next: **whole-Part English glossary reconciliation across E10–E17**. Do not begin Part003 canonical work. Part003 remains **NOT REGISTERED / pending source intake**, and outgoing **145→146** remains pending until a direct Part003 witness is supplied.
+Next: **English editorial review / all 8 maintained files / scans76–145**. Do not begin Part003 canonical work. Part003 remains **NOT REGISTERED / pending source intake**, and outgoing **145→146** remains pending until a direct Part003 witness is supplied.

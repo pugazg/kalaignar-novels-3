@@ -115,11 +115,12 @@ Canonical `scan_page` remains the global physical scan number.
 - English E10–E17 — **SOURCE-CHECKED / COMPLETE — 8/8**
 - English physical processing coverage — **scans76–145 / 70 of 70**
 - English outgoing 145→146 — **PENDING Part003 direct witness**
+- whole-Part English glossary reconciliation — **RECONCILED / PASS — 8/8 files / 0 drift / 0 section edits / 0 unresolved**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
+Process **Part002 English editorial review — all 8 maintained English files / scans76–145**.
 
-All Tamil gates and assembled Tamil are closed. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–145. Perform whole-Part English glossary reconciliation next; keep 145→146 pending.
+All Tamil gates and assembled Tamil are closed. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Perform English editorial review next; keep 145→146 pending.

@@ -258,8 +258,10 @@ E17 subsequently closed **SOURCE-CHECKED / COMPLETE — scans138–145**, with m
 
 Current cumulative translated/source-checked coverage — **scans76–145 / 70 of 70**.
 
+Whole-Part English glossary reconciliation subsequently closed **RECONCILED / PASS** over all **8/8** maintained Part002 English files, with **0 accidental drift / 0 English section edits / 0 unresolved holds**. Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
+
 ## Exact next activity
 
-Perform **Part002 whole-Part English glossary reconciliation** across E10–E17.
+Perform **Part002 English editorial review — all 8 maintained English files / scans76–145**.
 
-Do not begin editorial review, bilingual review, release work or Part003 in the same reconciliation step.
+Do not begin whole-Part bilingual review, release/readiness, final closure or Part003 until the editorial gate closes.

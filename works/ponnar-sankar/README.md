@@ -88,6 +88,7 @@
 - Part002 English partial translated files: **0**
 - Part002 English physical coverage: **scans76–145 / 70 of 70**
 - Part002 English outgoing 145→146: **PENDING Part003 direct witness**
+- Part002 whole-Part English glossary reconciliation: **RECONCILED / PASS — 8/8 files / 0 drift / 0 section edits / 0 unresolved**
 - Part002 English controls: `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - durable Part002 Tamil archival-ready checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
@@ -138,6 +139,6 @@
 
 ## Exact next activity
 
-Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
+Process **Part002 English editorial review — all 8 maintained English files / scans76–145**.
 
-Keep Part001 frozen. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–145. Perform whole-Part English glossary reconciliation next; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Perform English editorial review next; keep 145→146 pending and do not begin Part003.

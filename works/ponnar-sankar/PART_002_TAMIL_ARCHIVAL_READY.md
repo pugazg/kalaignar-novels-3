@@ -95,4 +95,4 @@ Canonical Tamil and visual-fidelity metadata are verified for all **70/70** Part
 
 ## Exact next activity
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage **scans76–145 / 70 of 70**. Next: **whole-Part English glossary reconciliation across E10–E17**. Do not begin Part003 canonical work.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Next: **English editorial review / all 8 maintained files / scans76–145**. Do not begin Part003 canonical work.

@@ -215,6 +215,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002 English E10–E17: **SOURCE-CHECKED / COMPLETE — 8/8**
 - Part002 English physical coverage: **scans76–145 / 70 of 70**
 - Part002 English outgoing 145→146: **PENDING Part003 direct witness**
+- Part002 whole-Part English glossary reconciliation: **RECONCILED / PASS**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 whole-Part English glossary reconciliation across E10–E17**
+- exact next activity: **Part002 English editorial review / all 8 maintained English files / scans76–145**

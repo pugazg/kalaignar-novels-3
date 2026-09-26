@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part002
 
-Status: **PART002 GLOSSARY SETUP — PASS / ACTIVE FOR E10–E17**
+Status: **PART002 WHOLE-PART ENGLISH GLOSSARY — RECONCILED / PASS**
 
 This glossary is derived only from verified Part002 Tamil, the closed Part002 assembled Tamil reading layer, and frozen Part001 project-English choices where the **same source form** recurs.
 
@@ -335,9 +335,9 @@ Whole-batch direct-accounting:
 - scan146 wording imported/inferred — **0**
 - do not semantically complete the terminal continuation from memory or prediction
 
-## Setup result
+## Whole-Part reconciliation result
 
-**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E17 SOURCE-CHECKED / COMPLETE**
+**PART002 WHOLE-PART ENGLISH GLOSSARY — RECONCILED / PASS**
 
 - frozen Part001 glossary mutated — **0**
 - carry-forward protected distinctions registered — **PASS**
@@ -349,3 +349,9 @@ Whole-batch direct-accounting:
 - Part001 English changes — **0**
 - Part003 leakage — **0**
 - unresolved planning holds — **0**
+- reconciliation record — `PART_002_GLOSSARY_RECONCILIATION.md`
+- English files reviewed — **8/8**
+- accidental English drift instances — **0**
+- English section files changed by reconciliation — **0**
+- unresolved glossary holds — **0**
+- exact next activity — **Part002 English editorial review / 8 maintained files / scans76–145**
