@@ -80,6 +80,9 @@
 - Part002 English physical coverage: **scans76–145 / 70 of 70**
 - Part002 English outgoing 145→146: **PENDING Part003 direct witness**
 - Part002 whole-Part English glossary reconciliation: **RECONCILED / PASS**
+- Part002 English editorial review: **PASS / CLOSED**
+- Part002 whole-Part bilingual review: **PASS / CLOSED**
+- Part002 release/readiness: **PASS / CLOSED — 0 blockers**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part002 Pass2B cadence: **10 scans per batch**
 - Part003–Part008: **pending source intake**
@@ -88,4 +91,4 @@
 
 ## Current frontier
 
-**Part002 English editorial review / all 8 maintained English files / scans76–145 — next activity.**
+**Part002 release-ready synchronization — next activity.**

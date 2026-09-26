@@ -292,6 +292,6 @@ For each scan:
 
 ## Exact next activity
 
-Process **Part002 English editorial review — all 8 maintained English files / scans76–145**.
+Perform **Part002 release-ready synchronization**.
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Perform English editorial review next; keep Part001 frozen and outgoing 145→146 pending.
+Part002 English editorial review and bilingual review are **PASS / CLOSED**; release/readiness is **PASS / CLOSED**. Perform release-ready synchronization next; keep Part001 frozen and outgoing 145→146 pending.

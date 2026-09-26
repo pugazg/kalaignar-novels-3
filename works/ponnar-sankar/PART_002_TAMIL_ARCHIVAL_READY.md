@@ -95,4 +95,4 @@ Canonical Tamil and visual-fidelity metadata are verified for all **70/70** Part
 
 ## Exact next activity
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Next: **English editorial review / all 8 maintained files / scans76–145**. Do not begin Part003 canonical work.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**; whole-Part glossary reconciliation, editorial review, bilingual review and release/readiness are **PASS / CLOSED**. Perform release-ready synchronization next; keep outgoing 145→146 pending and do not begin Part003.

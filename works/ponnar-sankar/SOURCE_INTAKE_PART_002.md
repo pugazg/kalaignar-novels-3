@@ -121,6 +121,6 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Exact next activity
 
-Process **Part002 English editorial review — all 8 maintained English files / scans76–145**.
+Perform **Part002 release-ready synchronization**.
 
-All Tamil gates and assembled Tamil are closed. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Perform English editorial review next; keep 145→146 pending.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**; whole-Part glossary reconciliation, editorial review, bilingual review and release/readiness are **PASS / CLOSED**. Perform release-ready synchronization next; keep outgoing 145→146 pending and do not begin Part003.

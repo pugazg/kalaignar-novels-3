@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 PASS2A CLOSED / COMPLETE / PASS — PASS2B CLOSED / COMPLETE / PASS — PASS3 IN PROGRESS**
+**PART001 FINAL CLOSED / FROZEN — PART002 RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -89,6 +89,9 @@
 - Part002 English physical coverage: **scans76–145 / 70 of 70**
 - Part002 English outgoing 145→146: **PENDING Part003 direct witness**
 - Part002 whole-Part English glossary reconciliation: **RECONCILED / PASS — 8/8 files / 0 drift / 0 section edits / 0 unresolved**
+- Part002 English editorial review: **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
+- Part002 whole-Part bilingual review: **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
+- Part002 release/readiness: **PASS / CLOSED — 0 blockers**
 - Part002 English controls: `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - durable Part002 Tamil archival-ready checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
@@ -130,6 +133,20 @@
 - `PART_001_AUDIT.md`
 - `PART_001_TAMIL_ARCHIVAL_READY.md`
 - `PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
+- `SOURCE_INTAKE_PART_002.md`
+- `PART_002_PASS2A_PROGRESS.md`
+- `PART_002_PASS2B_PROGRESS.md`
+- `PART_002_PASS3_PROGRESS.md`
+- `PART_002_AUDIT.md`
+- `PART_002_TAMIL_ARCHIVAL_READY.md`
+- `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- `translations/en/PART_002_TRANSLATION_PLAN.md`
+- `translations/en/PART_002_GLOSSARY.md`
+- `translations/en/PART_002_PROGRESS.md`
+- `translations/en/PART_002_GLOSSARY_RECONCILIATION.md`
+- `translations/en/PART_002_TRANSLATION_REVIEW.md`
+- `translations/en/PART_002_BILINGUAL_REVIEW.md`
+- `translations/en/PART_002_RELEASE_REPORT.md`
 - `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`

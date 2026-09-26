@@ -251,4 +251,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- exact next activity — **Part002 English editorial review / all 8 maintained English files / scans76–145**
+- Part002 English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
+- Part002 whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 unresolved**
+- Part002 release/readiness — **PASS / CLOSED — 0 blockers**
+- exact next activity — **Part002 release-ready synchronization**
