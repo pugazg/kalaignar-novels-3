@@ -12,7 +12,7 @@
 | Part | Supplied | Exact filename | Bytes | SHA-256 | Local PDF pages | Global scans | Intake | Final closure |
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
-| 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **PASS1 COMPLETE / PASS — PASS2A CLOSED / COMPLETE / PASS 70/70 — PASS2B CLOSED / COMPLETE / PASS 70/70 — PASS3 COMPLETE / PASS 70/70 — PART AUDIT PASS / COMPLETE** |
+| 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **PASS1 COMPLETE / PASS — PASS2A CLOSED / COMPLETE / PASS 70/70 — PASS2B CLOSED / COMPLETE / PASS 70/70 — PASS3 COMPLETE / PASS 70/70 — PART AUDIT PASS / COMPLETE — METADATA VERIFIED 70/70 — TAMIL ARCHIVAL-READY PASS** |
 | 003 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -68,6 +68,8 @@
 - Part002 Pass3 unresolved visual / structural questions: **0**
 - Part002 Pass3 pending: **0/70**
 - Part002 whole-Part audit: **PASS / COMPLETE — 0 blockers**
+- Part002 final metadata/status synchronization: **PASS / COMPLETE — 70/70 verified**
+- Part002 Tamil archival-ready: **PASS / COMPLETE**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part002 Pass2B cadence: **10 scans per batch**
 - Part003–Part008: **pending source intake**
@@ -76,4 +78,4 @@
 
 ## Current frontier
 
-**Part002 final metadata/status synchronization — next activity.**
+**Part002 assembled Tamil construction + audit — next activity.**

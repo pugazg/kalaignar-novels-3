@@ -105,11 +105,13 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass3 — **COMPLETE / PASS — 70/70 REVIEWED**
 - Pass3 pending — **0/70**
 - whole-Part audit — **PASS / COMPLETE — 0 blockers**
+- final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
+- Tamil archival-ready — **PASS / COMPLETE**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-Process **Part002 final metadata/status synchronization**.
+Process **Part002 assembled Tamil construction + audit**.
 
-Pass1 / Pass2A / Pass2B / Pass3 are closed. The Part002 whole-Part audit is **PASS / COMPLETE — 0 blockers**. Promote only `status` / `visual_fidelity` on the 70 canonical Part002 records next; keep 145→146 pending.
+Pass1 / Pass2A / Pass2B / Pass3 and the whole-Part audit are closed. Final metadata/status synchronization is **PASS / COMPLETE — 70/70 verified** and Tamil archival-ready is **PASS / COMPLETE**. Construct and validate the Part002 assembled Tamil next; keep 145→146 pending.

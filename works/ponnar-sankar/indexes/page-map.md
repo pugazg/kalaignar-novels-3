@@ -81,76 +81,76 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 001 | 73 | 73 | 56 | chapter7 continuation; historical/background exposition | verified | `pages/0073-unmaiyin-uthayam.md` |
 | 001 | 74 | 74 | 57 | chapter7 continuation | verified | `pages/0074-unmaiyin-uthayam.md` |
 | 001 | 75 | 75 | 58 | chapter7 continuation; Part001 ends mid-chapter; 75→76 pending witness | verified | `pages/0075-unmaiyin-uthayam.md` |
-| 002 | 1 | 76 | 59 | chapter7 `உண்மையின் உதயம்` continuation; incoming 75→76 genuine continuation | needs-review | `pages/0076-unmaiyin-uthayam.md` |
-| 002 | 2 | 77 | 60 | chapter7 continuation; physical prose continuation | needs-review | `pages/0077-unmaiyin-uthayam.md` |
-| 002 | 3 | 78 | 61 | chapter7 continuation; historical/background exposition | needs-review | `pages/0078-unmaiyin-uthayam.md` |
-| 002 | 4 | 79 | 62 | chapter7 continuation | needs-review | `pages/0079-unmaiyin-uthayam.md` |
-| 002 | 5 | 80 | 63 | chapter7 close; substantial blank lower field | needs-review | `pages/0080-unmaiyin-uthayam.md` |
-| 002 | 6 | 81 | — | chapter8 `கரகம் விடும் திருவிழா` opening; running page not inferred | needs-review | `pages/0081-karagam-vidum-thiruvizha.md` |
-| 002 | 7 | 82 | 65 | chapter8 continuation; வாங்கலம்மன் கோயில் discussion | needs-review | `pages/0082-karagam-vidum-thiruvizha.md` |
-| 002 | 8 | 83 | 66 | chapter8 continuation; boatman introduces கரகம் விழா | needs-review | `pages/0083-karagam-vidum-thiruvizha.md` |
-| 002 | 9 | 84 | 67 | chapter8 continuation; boat journey / displayed song | needs-review | `pages/0084-karagam-vidum-thiruvizha.md` |
-| 002 | 10 | 85 | 68 | chapter8 continuation; boatman's mythic narrative / displayed verses | needs-review | `pages/0085-karagam-vidum-thiruvizha.md` |
-| 002 | 11 | 86 | 69 | chapter8 continuation; கரகம் contest explanation | needs-review | `pages/0086-karagam-vidum-thiruvizha.md` |
-| 002 | 12 | 87 | 70 | chapter8 continuation; festival setting / ritual explanation | needs-review | `pages/0087-karagam-vidum-thiruvizha.md` |
-| 002 | 13 | 88 | 71 | chapter8 continuation; பெரியகாண்டி / செல்லாண்டி festival boats | needs-review | `pages/0088-karagam-vidum-thiruvizha.md` |
-| 002 | 14 | 89 | 72 | chapter8 close; storm drives decorated boats downstream; substantial blank lower field | needs-review | `pages/0089-karagam-vidum-thiruvizha.md` |
-| 002 | 15 | 90 | — | chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` opening; running page not inferred | needs-review | `pages/0090-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 16 | 91 | 74 | chapter9 continuation; storm / drifting boats / parents on bank | needs-review | `pages/0091-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 17 | 92 | 75 | chapter9 continuation; rescue attempt / மாந்தியப்பன் enters | needs-review | `pages/0092-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 18 | 93 | 76 | chapter9 continuation; family/background exposition | needs-review | `pages/0093-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 19 | 94 | 77 | chapter9 continuation; பொன்னர் encounters மலைப்பாம்பு | needs-review | `pages/0094-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 20 | 95 | 78 | chapter9 continuation; சங்கர் seized by முதலை; open ending into scan96 | needs-review | `pages/0095-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 21 | 96 | 79 | chapter9 continuation; சங்கர்–முதலை struggle / rescue resolution | needs-review | `pages/0096-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 22 | 97 | 80 | chapter9 continuation; aftermath / names requested / return arrangements | needs-review | `pages/0097-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 23 | 98 | 81 | chapter9 close; மாந்தியப்பன் follows returning women; substantial blank lower field | needs-review | `pages/0098-maniyangurichchi-kurinji-maangal.md` |
-| 002 | 24 | 99 | — | chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` opening; running page not inferred | needs-review | `pages/0099-archchanai-yaar-vayirukku.md` |
-| 002 | 25 | 100 | 83 | chapter10 continuation; temple archchanai discussion begins | needs-review | `pages/0100-archchanai-yaar-vayirukku.md` |
-| 002 | 26 | 101 | 84 | chapter10 continuation; names of rescuers sought | needs-review | `pages/0101-archchanai-yaar-vayirukku.md` |
-| 002 | 27 | 102 | 85 | chapter10 continuation; வையம்பெருமான் joins conversation | needs-review | `pages/0102-archchanai-yaar-vayirukku.md` |
-| 002 | 28 | 103 | 86 | chapter10 continuation; substitute-name idea / தனக்கோடி செட்டியார் mentioned | needs-review | `pages/0103-archchanai-yaar-vayirukku.md` |
-| 002 | 29 | 104 | 87 | chapter10 continuation; குன்றுடையார் identified as நெல்லியங்கோடர் | needs-review | `pages/0104-archchanai-yaar-vayirukku.md` |
-| 002 | 30 | 105 | 88 | chapter10 continuation; family approaches / open introduction into scan106 | needs-review | `pages/0105-archchanai-yaar-vayirukku.md` |
-| 002 | 31 | 106 | 89 | chapter10 continuation; family reunion / தனக்கோடி செட்டியார் introduced | needs-review | `pages/0106-archchanai-yaar-vayirukku.md` |
-| 002 | 32 | 107 | 90 | chapter10 continuation; reunion / rescuer-name question | needs-review | `pages/0107-archchanai-yaar-vayirukku.md` |
-| 002 | 33 | 108 | 91 | chapter10 close; names still unknown; substantial blank lower field | needs-review | `pages/0108-archchanai-yaar-vayirukku.md` |
-| 002 | 34 | 109 | — | chapter11 `ஆசையில் அருக்காணித் தங்கம்` opening; running page not inferred | needs-review | `pages/0109-aasaiyil-arukkaani-thangam.md` |
-| 002 | 35 | 110 | 93 | chapter11 continuation; தாமரை vow recollection | needs-review | `pages/0110-aasaiyil-arukkaani-thangam.md` |
-| 002 | 36 | 111 | 94 | chapter11 continuation; தாமரை grief / தனக்கோடி ஆறுதல் | needs-review | `pages/0111-aasaiyil-arukkaani-thangam.md` |
-| 002 | 37 | 112 | 95 | chapter11 continuation; மாயவர் arrives at festival pavilion | needs-review | `pages/0112-aasaiyil-arukkaani-thangam.md` |
-| 002 | 38 | 113 | 96 | chapter11 continuation; மாயவர்–குன்றுடையான் dialogue | needs-review | `pages/0113-aasaiyil-arukkaani-thangam.md` |
-| 002 | 39 | 114 | 97 | chapter11 continuation; தனக்கோடி introduced to மாயவர் | needs-review | `pages/0114-aasaiyil-arukkaani-thangam.md` |
-| 002 | 40 | 115 | 98 | chapter11 continuation; painted-panel narrative; open into scan116 | needs-review | `pages/0115-aasaiyil-arukkaani-thangam.md` |
-| 002 | 41 | 116 | 99 | chapter11 continuation; மாயவர்–குன்றுடையான் / தாமரை discussion | needs-review | `pages/0116-aasaiyil-arukkaani-thangam.md` |
-| 002 | 42 | 117 | 100 | chapter11 continuation; மாந்தியப்பன் discussion / sudden alarm | needs-review | `pages/0117-aasaiyil-arukkaani-thangam.md` |
-| 002 | 43 | 118 | 101 | chapter11 close; அருக்காணி falls into river / horseman departs; substantial blank lower field | needs-review | `pages/0118-aasaiyil-arukkaani-thangam.md` |
-| 002 | 44 | 119 | — | chapter12 `பூனையில் போர்க்கோலம்` opening; running page not inferred | needs-review | `pages/0119-poonaiyil-porkkolam.md` |
-| 002 | 45 | 120 | 103 | chapter12 continuation; அருக்காணி rescued / regains consciousness | needs-review | `pages/0120-poonaiyil-porkkolam.md` |
-| 002 | 46 | 121 | 104 | chapter12 continuation; flashback begins inside temple precinct | needs-review | `pages/0121-poonaiyil-porkkolam.md` |
-| 002 | 47 | 122 | 105 | chapter12 continuation; மாந்தியப்பன் watches அருக்காணி | needs-review | `pages/0122-poonaiyil-porkkolam.md` |
-| 002 | 48 | 123 | 106 | chapter12 continuation; மாந்தியப்பன் identifies himself / confrontation | needs-review | `pages/0123-poonaiyil-porkkolam.md` |
-| 002 | 49 | 124 | 107 | chapter12 continuation; அருக்காணி rebukes மாந்தியப்பன் | needs-review | `pages/0124-poonaiyil-porkkolam.md` |
-| 002 | 50 | 125 | 108 | chapter12 continuation; pursuit ends with river leap / family reflection | needs-review | `pages/0125-poonaiyil-porkkolam.md` |
-| 002 | 51 | 126 | 109 | chapter12 continuation; மாயவர் responds to family crisis | needs-review | `pages/0126-poonaiyil-porkkolam.md` |
-| 002 | 52 | 127 | 110 | chapter12 close; அருக்காணி seeks permission to fight / தாமரை asks about sons | needs-review | `pages/0127-poonaiyil-porkkolam.md` |
-| 002 | 53 | 128 | — | chapter13 `வழியில் வந்த விபரீதம்` opening; running page not inferred | needs-review | `pages/0128-vazhiyil-vandha-vibareetham.md` |
-| 002 | 54 | 129 | 112 | chapter13 continuation; மணியங்குறிச்சி hospitality / ராம–லட்சுமண comparison | needs-review | `pages/0129-vazhiyil-vandha-vibareetham.md` |
-| 002 | 55 | 130 | 113 | chapter13 continuation; meal / names withheld | needs-review | `pages/0130-vazhiyil-vandha-vibareetham.md` |
-| 002 | 56 | 131 | 114 | chapter13 continuation; departure debate / ஆசான் concern | needs-review | `pages/0131-vazhiyil-vandha-vibareetham.md` |
-| 002 | 57 | 132 | 115 | chapter13 continuation; வீரமலை mediates / attraction implied | needs-review | `pages/0132-vazhiyil-vandha-vibareetham.md` |
-| 002 | 58 | 133 | 116 | chapter13 continuation; mutual attraction / temple prayer recalled | needs-review | `pages/0133-vazhiyil-vandha-vibareetham.md` |
-| 002 | 59 | 134 | 117 | chapter13 continuation; chariot journey / சிலம்பாயி family reflections | needs-review | `pages/0134-vazhiyil-vandha-vibareetham.md` |
-| 002 | 60 | 135 | 118 | chapter13 continuation; journey south / road-side brush sequence | needs-review | `pages/0135-vazhiyil-vandha-vibareetham.md` |
-| 002 | 61 | 136 | 119 | chapter13 continuation; ambush begins / வையம்பெருமான் draws sword | needs-review | `pages/0136-vazhiyil-vandha-vibareetham.md` |
-| 002 | 62 | 137 | 120 | chapter13 close; armed riders tighten encirclement | needs-review | `pages/0137-vazhiyil-vandha-vibareetham.md` |
-| 002 | 63 | 138 | — | chapter14 `ராச்சாண்டார் மலைநோக்கி...` opening; running page not inferred | needs-review | `pages/0138-raachchaandaar-malai-nokki.md` |
-| 002 | 64 | 139 | 122 | chapter14 continuation; வையம்பெருமான் trapped / திருமலை appears | needs-review | `pages/0139-raachchaandaar-malai-nokki.md` |
-| 002 | 65 | 140 | 123 | chapter14 continuation; திருமலை identifies orders / abduction plan | needs-review | `pages/0140-raachchaandaar-malai-nokki.md` |
-| 002 | 66 | 141 | 124 | chapter14 continuation; மாந்தியப்பன் / தலையூர்க்காளி rationale | needs-review | `pages/0141-raachchaandaar-malai-nokki.md` |
-| 002 | 67 | 142 | 125 | chapter14 continuation; forced-marriage ultimatum | needs-review | `pages/0142-raachchaandaar-malai-nokki.md` |
-| 002 | 68 | 143 | 126 | chapter14 continuation; self-harm attempt prevented / convoy order | needs-review | `pages/0143-raachchaandaar-malai-nokki.md` |
-| 002 | 69 | 144 | 127 | chapter14 continuation; route diverted toward ராச்சாண்டார் மலை | needs-review | `pages/0144-raachchaandaar-malai-nokki.md` |
-| 002 | 70 | 145 | 128 | chapter14 continuation; wounded ஆரிச்சம்பட்டி வீரன் reaches palace; Part002 final page / 145→146 pending | needs-review | `pages/0145-raachchaandaar-malai-nokki.md` |
+| 002 | 1 | 76 | 59 | chapter7 `உண்மையின் உதயம்` continuation; incoming 75→76 genuine continuation | verified | `pages/0076-unmaiyin-uthayam.md` |
+| 002 | 2 | 77 | 60 | chapter7 continuation; physical prose continuation | verified | `pages/0077-unmaiyin-uthayam.md` |
+| 002 | 3 | 78 | 61 | chapter7 continuation; historical/background exposition | verified | `pages/0078-unmaiyin-uthayam.md` |
+| 002 | 4 | 79 | 62 | chapter7 continuation | verified | `pages/0079-unmaiyin-uthayam.md` |
+| 002 | 5 | 80 | 63 | chapter7 close; substantial blank lower field | verified | `pages/0080-unmaiyin-uthayam.md` |
+| 002 | 6 | 81 | — | chapter8 `கரகம் விடும் திருவிழா` opening; running page not inferred | verified | `pages/0081-karagam-vidum-thiruvizha.md` |
+| 002 | 7 | 82 | 65 | chapter8 continuation; வாங்கலம்மன் கோயில் discussion | verified | `pages/0082-karagam-vidum-thiruvizha.md` |
+| 002 | 8 | 83 | 66 | chapter8 continuation; boatman introduces கரகம் விழா | verified | `pages/0083-karagam-vidum-thiruvizha.md` |
+| 002 | 9 | 84 | 67 | chapter8 continuation; boat journey / displayed song | verified | `pages/0084-karagam-vidum-thiruvizha.md` |
+| 002 | 10 | 85 | 68 | chapter8 continuation; boatman's mythic narrative / displayed verses | verified | `pages/0085-karagam-vidum-thiruvizha.md` |
+| 002 | 11 | 86 | 69 | chapter8 continuation; கரகம் contest explanation | verified | `pages/0086-karagam-vidum-thiruvizha.md` |
+| 002 | 12 | 87 | 70 | chapter8 continuation; festival setting / ritual explanation | verified | `pages/0087-karagam-vidum-thiruvizha.md` |
+| 002 | 13 | 88 | 71 | chapter8 continuation; பெரியகாண்டி / செல்லாண்டி festival boats | verified | `pages/0088-karagam-vidum-thiruvizha.md` |
+| 002 | 14 | 89 | 72 | chapter8 close; storm drives decorated boats downstream; substantial blank lower field | verified | `pages/0089-karagam-vidum-thiruvizha.md` |
+| 002 | 15 | 90 | — | chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` opening; running page not inferred | verified | `pages/0090-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 16 | 91 | 74 | chapter9 continuation; storm / drifting boats / parents on bank | verified | `pages/0091-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 17 | 92 | 75 | chapter9 continuation; rescue attempt / மாந்தியப்பன் enters | verified | `pages/0092-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 18 | 93 | 76 | chapter9 continuation; family/background exposition | verified | `pages/0093-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 19 | 94 | 77 | chapter9 continuation; பொன்னர் encounters மலைப்பாம்பு | verified | `pages/0094-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 20 | 95 | 78 | chapter9 continuation; சங்கர் seized by முதலை; open ending into scan96 | verified | `pages/0095-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 21 | 96 | 79 | chapter9 continuation; சங்கர்–முதலை struggle / rescue resolution | verified | `pages/0096-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 22 | 97 | 80 | chapter9 continuation; aftermath / names requested / return arrangements | verified | `pages/0097-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 23 | 98 | 81 | chapter9 close; மாந்தியப்பன் follows returning women; substantial blank lower field | verified | `pages/0098-maniyangurichchi-kurinji-maangal.md` |
+| 002 | 24 | 99 | — | chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` opening; running page not inferred | verified | `pages/0099-archchanai-yaar-vayirukku.md` |
+| 002 | 25 | 100 | 83 | chapter10 continuation; temple archchanai discussion begins | verified | `pages/0100-archchanai-yaar-vayirukku.md` |
+| 002 | 26 | 101 | 84 | chapter10 continuation; names of rescuers sought | verified | `pages/0101-archchanai-yaar-vayirukku.md` |
+| 002 | 27 | 102 | 85 | chapter10 continuation; வையம்பெருமான் joins conversation | verified | `pages/0102-archchanai-yaar-vayirukku.md` |
+| 002 | 28 | 103 | 86 | chapter10 continuation; substitute-name idea / தனக்கோடி செட்டியார் mentioned | verified | `pages/0103-archchanai-yaar-vayirukku.md` |
+| 002 | 29 | 104 | 87 | chapter10 continuation; குன்றுடையார் identified as நெல்லியங்கோடர் | verified | `pages/0104-archchanai-yaar-vayirukku.md` |
+| 002 | 30 | 105 | 88 | chapter10 continuation; family approaches / open introduction into scan106 | verified | `pages/0105-archchanai-yaar-vayirukku.md` |
+| 002 | 31 | 106 | 89 | chapter10 continuation; family reunion / தனக்கோடி செட்டியார் introduced | verified | `pages/0106-archchanai-yaar-vayirukku.md` |
+| 002 | 32 | 107 | 90 | chapter10 continuation; reunion / rescuer-name question | verified | `pages/0107-archchanai-yaar-vayirukku.md` |
+| 002 | 33 | 108 | 91 | chapter10 close; names still unknown; substantial blank lower field | verified | `pages/0108-archchanai-yaar-vayirukku.md` |
+| 002 | 34 | 109 | — | chapter11 `ஆசையில் அருக்காணித் தங்கம்` opening; running page not inferred | verified | `pages/0109-aasaiyil-arukkaani-thangam.md` |
+| 002 | 35 | 110 | 93 | chapter11 continuation; தாமரை vow recollection | verified | `pages/0110-aasaiyil-arukkaani-thangam.md` |
+| 002 | 36 | 111 | 94 | chapter11 continuation; தாமரை grief / தனக்கோடி ஆறுதல் | verified | `pages/0111-aasaiyil-arukkaani-thangam.md` |
+| 002 | 37 | 112 | 95 | chapter11 continuation; மாயவர் arrives at festival pavilion | verified | `pages/0112-aasaiyil-arukkaani-thangam.md` |
+| 002 | 38 | 113 | 96 | chapter11 continuation; மாயவர்–குன்றுடையான் dialogue | verified | `pages/0113-aasaiyil-arukkaani-thangam.md` |
+| 002 | 39 | 114 | 97 | chapter11 continuation; தனக்கோடி introduced to மாயவர் | verified | `pages/0114-aasaiyil-arukkaani-thangam.md` |
+| 002 | 40 | 115 | 98 | chapter11 continuation; painted-panel narrative; open into scan116 | verified | `pages/0115-aasaiyil-arukkaani-thangam.md` |
+| 002 | 41 | 116 | 99 | chapter11 continuation; மாயவர்–குன்றுடையான் / தாமரை discussion | verified | `pages/0116-aasaiyil-arukkaani-thangam.md` |
+| 002 | 42 | 117 | 100 | chapter11 continuation; மாந்தியப்பன் discussion / sudden alarm | verified | `pages/0117-aasaiyil-arukkaani-thangam.md` |
+| 002 | 43 | 118 | 101 | chapter11 close; அருக்காணி falls into river / horseman departs; substantial blank lower field | verified | `pages/0118-aasaiyil-arukkaani-thangam.md` |
+| 002 | 44 | 119 | — | chapter12 `பூனையில் போர்க்கோலம்` opening; running page not inferred | verified | `pages/0119-poonaiyil-porkkolam.md` |
+| 002 | 45 | 120 | 103 | chapter12 continuation; அருக்காணி rescued / regains consciousness | verified | `pages/0120-poonaiyil-porkkolam.md` |
+| 002 | 46 | 121 | 104 | chapter12 continuation; flashback begins inside temple precinct | verified | `pages/0121-poonaiyil-porkkolam.md` |
+| 002 | 47 | 122 | 105 | chapter12 continuation; மாந்தியப்பன் watches அருக்காணி | verified | `pages/0122-poonaiyil-porkkolam.md` |
+| 002 | 48 | 123 | 106 | chapter12 continuation; மாந்தியப்பன் identifies himself / confrontation | verified | `pages/0123-poonaiyil-porkkolam.md` |
+| 002 | 49 | 124 | 107 | chapter12 continuation; அருக்காணி rebukes மாந்தியப்பன் | verified | `pages/0124-poonaiyil-porkkolam.md` |
+| 002 | 50 | 125 | 108 | chapter12 continuation; pursuit ends with river leap / family reflection | verified | `pages/0125-poonaiyil-porkkolam.md` |
+| 002 | 51 | 126 | 109 | chapter12 continuation; மாயவர் responds to family crisis | verified | `pages/0126-poonaiyil-porkkolam.md` |
+| 002 | 52 | 127 | 110 | chapter12 close; அருக்காணி seeks permission to fight / தாமரை asks about sons | verified | `pages/0127-poonaiyil-porkkolam.md` |
+| 002 | 53 | 128 | — | chapter13 `வழியில் வந்த விபரீதம்` opening; running page not inferred | verified | `pages/0128-vazhiyil-vandha-vibareetham.md` |
+| 002 | 54 | 129 | 112 | chapter13 continuation; மணியங்குறிச்சி hospitality / ராம–லட்சுமண comparison | verified | `pages/0129-vazhiyil-vandha-vibareetham.md` |
+| 002 | 55 | 130 | 113 | chapter13 continuation; meal / names withheld | verified | `pages/0130-vazhiyil-vandha-vibareetham.md` |
+| 002 | 56 | 131 | 114 | chapter13 continuation; departure debate / ஆசான் concern | verified | `pages/0131-vazhiyil-vandha-vibareetham.md` |
+| 002 | 57 | 132 | 115 | chapter13 continuation; வீரமலை mediates / attraction implied | verified | `pages/0132-vazhiyil-vandha-vibareetham.md` |
+| 002 | 58 | 133 | 116 | chapter13 continuation; mutual attraction / temple prayer recalled | verified | `pages/0133-vazhiyil-vandha-vibareetham.md` |
+| 002 | 59 | 134 | 117 | chapter13 continuation; chariot journey / சிலம்பாயி family reflections | verified | `pages/0134-vazhiyil-vandha-vibareetham.md` |
+| 002 | 60 | 135 | 118 | chapter13 continuation; journey south / road-side brush sequence | verified | `pages/0135-vazhiyil-vandha-vibareetham.md` |
+| 002 | 61 | 136 | 119 | chapter13 continuation; ambush begins / வையம்பெருமான் draws sword | verified | `pages/0136-vazhiyil-vandha-vibareetham.md` |
+| 002 | 62 | 137 | 120 | chapter13 close; armed riders tighten encirclement | verified | `pages/0137-vazhiyil-vandha-vibareetham.md` |
+| 002 | 63 | 138 | — | chapter14 `ராச்சாண்டார் மலைநோக்கி...` opening; running page not inferred | verified | `pages/0138-raachchaandaar-malai-nokki.md` |
+| 002 | 64 | 139 | 122 | chapter14 continuation; வையம்பெருமான் trapped / திருமலை appears | verified | `pages/0139-raachchaandaar-malai-nokki.md` |
+| 002 | 65 | 140 | 123 | chapter14 continuation; திருமலை identifies orders / abduction plan | verified | `pages/0140-raachchaandaar-malai-nokki.md` |
+| 002 | 66 | 141 | 124 | chapter14 continuation; மாந்தியப்பன் / தலையூர்க்காளி rationale | verified | `pages/0141-raachchaandaar-malai-nokki.md` |
+| 002 | 67 | 142 | 125 | chapter14 continuation; forced-marriage ultimatum | verified | `pages/0142-raachchaandaar-malai-nokki.md` |
+| 002 | 68 | 143 | 126 | chapter14 continuation; self-harm attempt prevented / convoy order | verified | `pages/0143-raachchaandaar-malai-nokki.md` |
+| 002 | 69 | 144 | 127 | chapter14 continuation; route diverted toward ராச்சாண்டார் மலை | verified | `pages/0144-raachchaandaar-malai-nokki.md` |
+| 002 | 70 | 145 | 128 | chapter14 continuation; wounded ஆரிச்சம்பட்டி வீரன் reaches palace; Part002 final page / 145→146 pending | verified | `pages/0145-raachchaandaar-malai-nokki.md` |
 
 ## Split accounting
 
@@ -205,6 +205,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002 Pass3: **COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
 - Part002 Pass3 pending: **0/70**
 - Part002 whole-Part audit: **PASS / COMPLETE — 0 blockers**
+- Part002 final metadata/status synchronization: **PASS / COMPLETE — 70/70 verified**
+- Part002 Tamil archival-ready: **PASS / COMPLETE**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 final metadata/status synchronization**
+- exact next activity: **Part002 assembled Tamil construction + audit**

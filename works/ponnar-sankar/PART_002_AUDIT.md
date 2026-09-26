@@ -153,12 +153,33 @@ The pending **145→146** external boundary witness is tracked separately and is
 - unresolved in-scope blockers — **0**
 - page status promotion performed — **NO**
 
+## Final metadata/status synchronization
+
+Post-audit promotion completed after the whole-Part audit:
+
+- promotion baseline — `549d9fbc9056c607110fc2796fc34e4ddc2a08cc`
+- canonical promotion endpoint before control synchronization — `9dcd6a6c0db308c9bb5b831071f5943b22a11f31`
+- canonical page records promoted — **70/70**
+- `status: "verified"` — **70/70**
+- `visual_fidelity: "verified"` — **70/70**
+- remaining canonical frontmatter `status: "needs-review"` — **0**
+- remaining canonical frontmatter `visual_fidelity: "needs-review"` — **0**
+- canonical page files changed by promotion — **70**
+- each canonical page diff — **2 additions / 2 deletions only**
+- transform invariant after stripping the two status fields — **PASS on all 70 records**
+- canonical Tamil/body transcription changes during promotion — **0**
+- chapter-title / filename drift during promotion — **0**
+- source identity / page mapping / Pass evidence drift during promotion — **0**
+- outgoing **145→146** remains **PENDING Part003 direct witness**
+
+**Final metadata/status synchronization: PASS / COMPLETE**
+
+**Tamil archival-ready checkpoint: PASS / COMPLETE**
+
+Durable checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
+
 ## Exact next activity
 
-Perform **Part002 final metadata/status synchronization**.
+Construct the **Part002 assembled Tamil reading layer** from verified canonical records and run the assembled-Tamil validation/audit.
 
-Promote only the two canonical frontmatter verification fields on all **70/70** Part002 records:
-- `status: "needs-review"` → `status: "verified"`
-- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
-
-No canonical Tamil/body text, chapter title, page type, printed-page value, source identity or Pass evidence may change. Keep outgoing **145→146 PENDING Part003 direct witness**.
+Part001 remains **FINAL CLOSED / FROZEN**. Its existing section files must not be modified merely to merge the chapter7 continuation; Part002 scans76–80 are to be represented in a new Part002 continuation section. Do not begin English translation until assembled-Tamil validation closes.

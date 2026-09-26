@@ -659,6 +659,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part002 final metadata/status synchronization**.
+Process **Part002 assembled Tamil construction + audit**.
 
-Part002 whole-Part audit is now **PASS / COMPLETE — 0 blockers**. Promote only `status` and `visual_fidelity` on all 70 Part002 canonical records next; keep 145→146 pending.
+Part002 final metadata/status synchronization is **PASS / COMPLETE — 70/70 verified** and Tamil archival-ready is **PASS / COMPLETE**. Construct and validate the Part002 assembled Tamil next; keep 145→146 pending.
