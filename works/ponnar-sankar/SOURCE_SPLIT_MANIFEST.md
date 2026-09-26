@@ -13,7 +13,7 @@
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
-| 003 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf` | 49598408 | `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab` | 70 | 146–215 | **REGISTERED / COMPLETE** | **PASS1 IN PROGRESS — 10/70** |
+| 003 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf` | 49598408 | `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab` | 70 | 146–215 | **REGISTERED / COMPLETE** | **PASS1 IN PROGRESS — 20/70** |
 | 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -89,8 +89,8 @@
 - Part002 Pass2B cadence: **10 scans per batch**
 - Part003 source intake: **REGISTERED / COMPLETE — 70 pages / scans146–215**
 - Part003 incoming 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
-- Part003 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans146–155**
-- Part003 Pass1 pending: **60/70**
+- Part003 Pass1: **IN PROGRESS — 20/70 TEXT-COMPLETE — scans146–165**
+- Part003 Pass1 pending: **50/70**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part004–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -98,4 +98,4 @@
 
 ## Current frontier
 
-**Part003 Pass1 Batch2 — scans156–165 / local pages11–20.**
+**Part003 Pass1 Batch3 — scans166–175 / local pages21–30.**

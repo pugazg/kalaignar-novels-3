@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 10/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS — 20/70 TEXT-COMPLETE**
 
 Active Part:
 
@@ -14,10 +14,10 @@ Active Part:
 ## Current accounting
 
 - Part003 physical scans: **70**
-- canonical Part003 records present: **10/70 — scans146–155**
-- Pass1 physical capture complete: **10/70**
-- Pass1 textual transcriptions: **10/70**
-- Pass1 pending physical scans: **60/70**
+- canonical Part003 records present: **20/70 — scans146–165**
+- Pass1 physical capture complete: **20/70**
+- Pass1 textual transcriptions: **20/70**
+- Pass1 pending physical scans: **50/70**
 - unresolved Pass1 source-reading holds: **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -37,8 +37,8 @@ Maintained initial cadence: **10 scans per batch**.
 | Batch | Global scans | Local pages | Structural range | Status |
 |---|---:|---:|---|---|
 | 1 | 146–155 | 1–10 | chapter14 close; chapter15; chapter16 opener | **COMPLETE / 10 TEXT-COMPLETE** |
-| 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **READY / NEXT** |
-| 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **NOT STARTED** |
+| 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **COMPLETE / 10 TEXT-COMPLETE** |
+| 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **READY / NEXT** |
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **NOT STARTED** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **NOT STARTED** |
 | 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **NOT STARTED** |
@@ -83,8 +83,19 @@ Outgoing:
 - status promotions — **0**
 - scan156 wording imported — **0**
 
+## Batch2 closure
+
+- scans156–165 — **10/10 TEXT-COMPLETE**
+- cumulative Pass1 — **20/70 TEXT-COMPLETE**
+- chapter16 `போர்முனை எது?` continuation and close — **scans156–163**
+- chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opener — **scan164**
+- chapter17 continuation — **scan165**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
+- scan166 wording imported — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass1 Batch2 — scans156–165 / local pages11–20**.
+Process **Part003 Pass1 Batch3 — scans166–175 / local pages21–30**.
 
-Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan166.
+Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan176.

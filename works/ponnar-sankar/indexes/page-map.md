@@ -161,6 +161,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 8 | 153 | 136 | chapter15 continuation; command announcement and force departs | needs-review | `pages/0153-purappattathu-porppadai.md` |
 | 003 | 9 | 154 | 137 | chapter15 close; arrow attack from ராச்சாண்டார் மலை begins; blank lower field | needs-review | `pages/0154-purappattathu-porppadai.md` |
 | 003 | 10 | 155 | — | chapter16 `போர்முனை எது?` opening; running page not inferred; open into scan156 | needs-review | `pages/0155-pormunai-ethu.md` |
+| 003 | 11 | 156 | 139 | chapter16 continuation; captive family hears battle / திருமலை receives report | needs-review | `pages/0156-pormunai-ethu.md` |
+| 003 | 12 | 157 | 140 | chapter16 continuation; மாந்தியப்பன் observes opposing formation / drinks again | needs-review | `pages/0157-pormunai-ethu.md` |
+| 003 | 13 | 158 | 141 | chapter16 continuation; arrow attack intensifies / captive-room approach | needs-review | `pages/0158-pormunai-ethu.md` |
+| 003 | 14 | 159 | 142 | chapter16 continuation; மாந்தியப்பன் taunts captives / guarded hope | needs-review | `pages/0159-pormunai-ethu.md` |
+| 003 | 15 | 160 | 143 | chapter16 continuation; arrow-fire halt / proposed humiliation | needs-review | `pages/0160-pormunai-ethu.md` |
+| 003 | 16 | 161 | 144 | chapter16 continuation; Thalaiyur order arrives / captives to be moved | needs-review | `pages/0161-pormunai-ethu.md` |
+| 003 | 17 | 162 | 145 | chapter16 continuation; convoy departs / counterattack cry raised | needs-review | `pages/0162-pormunai-ethu.md` |
+| 003 | 18 | 163 | 146 | chapter16 close; திருமலை falls / captives escape; substantial blank lower field | needs-review | `pages/0163-pormunai-ethu.md` |
+| 003 | 19 | 164 | — | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening; running page not inferred | needs-review | `pages/0164-sangaranmalaiyil-santhippom.md` |
+| 003 | 20 | 165 | 148 | chapter17 continuation; route toward சங்கரன்மலை / family-history tension | needs-review | `pages/0165-sangaranmalaiyil-santhippom.md` |
 
 ## Split accounting
 
@@ -172,7 +182,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **155 canonical rows — Parts001–002 frozen + Part003 scans146–155 needs-review**
+- registered physical scan rows: **165 canonical rows — Parts001–002 frozen + Part003 scans146–165 needs-review**
 - canonical page records: **145 total — Part001 75/75 frozen + Part002 70/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
@@ -236,6 +246,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans146–155**
-- Part003 Pass1 pending: **60/70**
-- exact next activity: **Part003 Pass1 Batch2 — scans156–165 / local pages11–20**
+- Part003 Pass1: **IN PROGRESS — 20/70 TEXT-COMPLETE — scans146–165**
+- Part003 Pass1 pending: **50/70**
+- exact next activity: **Part003 Pass1 Batch3 — scans166–175 / local pages21–30**
