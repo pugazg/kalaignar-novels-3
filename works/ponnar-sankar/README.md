@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 REGISTERED / PASS1 ACTIVE**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS1 IN PROGRESS — 10/70**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -103,7 +103,8 @@
 - durable Part002 Pass2B tracker: `PART_002_PASS2B_PROGRESS.md`
 - Part003: **REGISTERED / COMPLETE — 70 local pages / scans146–215**
 - Part003 incoming 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
-- Part003 Pass1: **ACTIVATED / READY — 0/70**
+- Part003 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans146–155**
+- Part003 Pass1 pending: **60/70**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -168,6 +169,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**.
+Process **Part003 Pass1 Batch2 — scans156–165 / local pages11–20**.
 
-Keep Parts001–002 frozen. Part003 Pass1 is active; create only scans146–155 in the next batch and do not import scan156 or Part004 content.
+Keep Parts001–002 frozen. Part003 Pass1 has closed Batch1 at 10/70; create only scans156–165 in Batch2 and do not import scan166 or Part004 content.

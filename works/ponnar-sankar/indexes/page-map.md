@@ -151,6 +151,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 68 | 143 | 126 | chapter14 continuation; self-harm attempt prevented / convoy order | verified | `pages/0143-raachchaandaar-malai-nokki.md` |
 | 002 | 69 | 144 | 127 | chapter14 continuation; route diverted toward ராச்சாண்டார் மலை | verified | `pages/0144-raachchaandaar-malai-nokki.md` |
 | 002 | 70 | 145 | 128 | chapter14 continuation; wounded ஆரிச்சம்பட்டி வீரன் reaches palace; Part002 final page / 145→146 pending | verified | `pages/0145-raachchaandaar-malai-nokki.md` |
+| 003 | 1 | 146 | 129 | chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close; incoming 145→146 genuine continuation | needs-review | `pages/0146-raachchaandaar-malai-nokki.md` |
+| 003 | 2 | 147 | — | chapter15 `புறப்பட்டது போர்ப்படை` opening; running page not inferred | needs-review | `pages/0147-purappattathu-porppadai.md` |
+| 003 | 3 | 148 | 131 | chapter15 continuation; சின்னமலைக்கொழுந்து explains the conflict and marriage demands | needs-review | `pages/0148-purappattathu-porppadai.md` |
+| 003 | 4 | 149 | 132 | chapter15 continuation; forced-marriage threat and war-or-submission question | needs-review | `pages/0149-purappattathu-porppadai.md` |
+| 003 | 5 | 150 | 133 | chapter15 continuation; வீரமலை rejects surrender; strategic discussion continues | needs-review | `pages/0150-purappattathu-porppadai.md` |
+| 003 | 6 | 151 | 134 | chapter15 continuation; strategic assessment and invitation to the platform | needs-review | `pages/0151-purappattathu-porppadai.md` |
+| 003 | 7 | 152 | 135 | chapter15 continuation; பொன்னர்–சங்கர் assent; war decision firms | needs-review | `pages/0152-purappattathu-porppadai.md` |
+| 003 | 8 | 153 | 136 | chapter15 continuation; command announcement and force departs | needs-review | `pages/0153-purappattathu-porppadai.md` |
+| 003 | 9 | 154 | 137 | chapter15 close; arrow attack from ராச்சாண்டார் மலை begins; blank lower field | needs-review | `pages/0154-purappattathu-porppadai.md` |
+| 003 | 10 | 155 | — | chapter16 `போர்முனை எது?` opening; running page not inferred; open into scan156 | needs-review | `pages/0155-pormunai-ethu.md` |
 
 ## Split accounting
 
@@ -162,7 +172,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **145 canonical rows + Part003 registered range 146–215 pending Pass1 records**
+- registered physical scan rows: **155 canonical rows — Parts001–002 frozen + Part003 scans146–155 needs-review**
 - canonical page records: **145 total — Part001 75/75 frozen + Part002 70/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
@@ -226,5 +236,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **ACTIVATED / READY — 0/70**
-- exact next activity: **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**
+- Part003 Pass1: **IN PROGRESS — 10/70 TEXT-COMPLETE — scans146–155**
+- Part003 Pass1 pending: **60/70**
+- exact next activity: **Part003 Pass1 Batch2 — scans156–165 / local pages11–20**

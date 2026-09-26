@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — ACTIVATED / READY**
+**PASS 1 — IN PROGRESS — 10/70 TEXT-COMPLETE**
 
 Active Part:
 
@@ -14,10 +14,10 @@ Active Part:
 ## Current accounting
 
 - Part003 physical scans: **70**
-- canonical Part003 records present: **0/70**
-- Pass1 physical capture complete: **0/70**
-- Pass1 textual transcriptions: **0/70**
-- Pass1 pending physical scans: **70/70**
+- canonical Part003 records present: **10/70 — scans146–155**
+- Pass1 physical capture complete: **10/70**
+- Pass1 textual transcriptions: **10/70**
+- Pass1 pending physical scans: **60/70**
 - unresolved Pass1 source-reading holds: **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -36,8 +36,8 @@ Maintained initial cadence: **10 scans per batch**.
 
 | Batch | Global scans | Local pages | Structural range | Status |
 |---|---:|---:|---|---|
-| 1 | 146–155 | 1–10 | chapter14 close; chapter15; chapter16 opener | **READY / NEXT** |
-| 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **NOT STARTED** |
+| 1 | 146–155 | 1–10 | chapter14 close; chapter15; chapter16 opener | **COMPLETE / 10 TEXT-COMPLETE** |
+| 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **READY / NEXT** |
 | 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **NOT STARTED** |
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **NOT STARTED** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **NOT STARTED** |
@@ -72,8 +72,19 @@ Outgoing:
 - **215→216 — PENDING Part004 direct witness**
 - scan216 wording inferred/imported — **0**
 
+## Batch1 closure
+
+- scans146–155 — **10/10 TEXT-COMPLETE**
+- canonical records created — **10**
+- chapter14 close captured — **scan146**
+- chapter15 `புறப்பட்டது போர்ப்படை` — **scans147–154**
+- chapter16 `போர்முனை எது?` opener — **scan155**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
+- scan156 wording imported — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**.
+Process **Part003 Pass1 Batch2 — scans156–165 / local pages11–20**.
 
-Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan156.
+Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan166.
