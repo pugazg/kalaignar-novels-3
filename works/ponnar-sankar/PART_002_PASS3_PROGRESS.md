@@ -292,6 +292,6 @@ For each scan:
 
 ## Exact next activity
 
-Process **Part002 English E10 — scans76–80 / chapter7 continuation**.
+Process **Part002 English E14 — scans111–118 / remaining 8 scans**.
 
-Part002 English planning/setup is **COMPLETE / PASS — E10–E17 reserved / scans76–145 fully planned**. Process E10 next; keep Part001 frozen and outgoing 145→146 pending.
+Part002 English E10–E13 are **SOURCE-CHECKED / COMPLETE** and E14 scans109–110 are **drafted + directly checked**. Continue E14 scans111–118; keep Part001 frozen and outgoing 145→146 pending.

@@ -127,6 +127,104 @@ Statements about rulers, territories, communities, institutions, customs or past
 
 English must preserve attribution and agency. The project does not independently authenticate those claims during translation.
 
+## Source-check additions — E10 through E13
+
+### E10 — scans76–80
+
+E10 is **SOURCE-CHECKED / COMPLETE**.
+
+Locked / carried forms:
+
+| Tamil source | English handling | Note |
+|---|---|---|
+| `குன்றுடையான்` | **Kundrudaiyaan** | title/name form revealed in chapter7 continuation |
+| `வீரமலைச் சாம்புவன்` | **Veeramalai Sambuvan** | Part002 source-facing personal name |
+| `சோழன் தோட்டி` | **Chozhan Thotti** | source-facing personal/title form |
+| `கருவேல மிளார்` | **karuvelam switches** | conservative source-facing rendering; no outside botanical identification |
+
+Frozen Part001 forms **Maayavar, Raakkiyannan, Thalaiyur Kaali, Chellaatha Gounder, Maanthiyappan, Thamarai Naachchi / Thamarai Naachchiyar, Nelliyangodan, Malaikkozhundha Gounder** carried forward without normalization.
+
+### E11 — scans81–89
+
+E11 is **SOURCE-CHECKED / COMPLETE**.
+
+Source title `கரகம் விடும் திருவிழா` → maintained English display title **The Festival of Releasing the Karagam**.
+
+Locked / active forms:
+
+| Tamil source | English handling |
+|---|---|
+| `வாங்கலம்மன்` | **Vaangal Amman** |
+| `மதுக்கரை செல்லாண்டியம்மன்` | **Madhukkarai Chellandiyamman** |
+| `பெரிய காண்டியம்மன்` | **Periya Kaandiyamman** |
+| `கரகம்` | ***karagam*** |
+| `பதினெட்டாம் பெருக்கு` | ***Pathinettam Perukku*** |
+| `சிலம்பம்` | ***silambam*** |
+| `பம்பை` | ***pambai*** |
+| `உடுக்கு` | ***udukku*** |
+| `நாயனம்` | ***nayanam*** |
+| `தவில்` | ***thavil*** |
+
+All source-visible verse/song blocks were freshly translated from verified project Tamil; no published English version was imported.
+
+### E12 — scans90–98
+
+E12 is **SOURCE-CHECKED / COMPLETE**.
+
+Source title `மணியங்குறிச்சி குறிஞ்சி மான்கள்` → maintained English display title **The Kurinji Deer of Maniyangurichi**.
+
+Locked / active forms:
+
+| Tamil source | English handling |
+|---|---|
+| `முத்தாயி` | **Muthayi** |
+| `பவளாயி` | **Pavalayi** |
+| `சிலம்பாயி` | **Silambayi** |
+| `வையம்பெருமான்` | **Vaiyam Perumaan** |
+| `கட்டாரி` | ***kattari*** |
+| `சாஸ்திரம்` | ***saasthiram*** in the immediate ritual context |
+| `தீபாராதனை` | ***deepaaraadhanai*** |
+| `குங்குமம்` | ***kungumam*** |
+
+`மலைப்பாம்பு` remains **mountain snake**; no outside species identification is imported.
+
+### E13 — scans99–108
+
+E13 is **SOURCE-CHECKED / COMPLETE**.
+
+Source title `அர்ச்சனை- யார் வயிறுக்கு?` → maintained English display title **Archana—For Whose Stomach?**
+
+Locked / active forms:
+
+| Tamil source | English handling |
+|---|---|
+| `அர்ச்சனை` | ***archana*** |
+| `மாவிளக்கு` | ***maavilakku*** |
+| `நைவேத்தியம்` | ***naivedyam*** |
+| `பெரியாண்டான்` | **Periyaandaan** |
+| `சின்னாண்டான்` | **Chinnaandaan** |
+| `ஆதிசெட்டிப் பாளையம்` | **Aadhisettip Paalayam** |
+| `தனக்கோடி செட்டியார்` | **Thanakkodi Chettiar** |
+| `அத்தை` / `மாமா` | **Aththai / Mama** where the intimate source vocative is active |
+| `தாலி` | ***thaali*** |
+
+### E14 partial frontier — scans109–110
+
+E14 is **IN PROGRESS — 2/10 scans drafted + directly checked**.
+
+The chapter-title source `ஆசையில் அருக்காணித் தங்கம்` remains **UNRESOLVED AS AN ENGLISH SEMANTIC TITLE** pending whole-batch source-check. The maintained partial file therefore uses the provisional source-facing romanization:
+
+**Aasaiyil Arukkaani Thangam**
+
+This provisional title is not a final glossary decision and must be revisited when E14 closes.
+
+Partial direct-accounting:
+- Tamil literary/display blocks — **13**
+- English literary/display blocks — **13**
+- internal source-boundary comments — **1/1**
+- unsupported English insertions — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+
 ## Boundary locks
 
 ### Incoming 75→76
@@ -145,7 +243,7 @@ English must preserve attribution and agency. The project does not independently
 
 ## Setup result
 
-**PART002 GLOSSARY SETUP — PASS**
+**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E13 SOURCE-CHECKED; E14 IN PROGRESS**
 
 - frozen Part001 glossary mutated — **0**
 - carry-forward protected distinctions registered — **PASS**

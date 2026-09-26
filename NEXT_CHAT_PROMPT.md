@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 English E10 — scans76–80
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 English E14 continuation — scans111–118
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,7 +11,7 @@ Do not modify:
 - Part001 canonical Tamil;
 - Part001 assembled Tamil;
 - Part001 maintained English E1–E9;
-- frozen Part001 English controls except ordinary high-level current-frontier synchronization already completed.
+- frozen Part001 English controls.
 
 Part002 Tamil is closed through assembly:
 
@@ -27,103 +27,115 @@ Part002 Tamil is closed through assembly:
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing **145→146 — PENDING Part003 direct witness**
 
-## Part002 English planning state
+## Part002 English durable state
 
-**PART002 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+Planning/setup — **COMPLETE / PASS**
 
-Active Part002 English controls:
+Reserved batches — **E10–E17 / 8**
+
+Closed batches:
+
+- E10 scans76–80 — **SOURCE-CHECKED / COMPLETE**
+- E11 scans81–89 — **SOURCE-CHECKED / COMPLETE**
+- E12 scans90–98 — **SOURCE-CHECKED / COMPLETE**
+- E13 scans99–108 — **SOURCE-CHECKED / COMPLETE**
+
+Active partial batch:
+
+- E14 scans109–118 — **IN PROGRESS**
+- scans109–110 — **drafted + directly checked**
+- scans111–118 — **PENDING / 8 scans**
+- durable E14 source-check — **NOT CREATED / correctly blocked until whole E14 closes**
+- provisional source-facing title in maintained partial file — **Aasaiyil Arukkaani Thangam**
+- semantic English title decision — **DEFERRED until E14 whole-batch source-check**
+
+Current English accounting:
+
+- fully translated files — **4/8**
+- source-checked complete files — **4/8**
+- partial translated files — **1**
+- physical Part002 English processing coverage — **scans76–110 / 35 of 70**
+- remaining physical coverage — **scans111–145 / 35 of 70**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001 English edits caused by Part002 — **0**
+- Part003 leakage — **0**
+
+Active controls:
 
 - `works/ponnar-sankar/translations/en/PART_002_TRANSLATION_PLAN.md`
 - `works/ponnar-sankar/translations/en/PART_002_GLOSSARY.md`
 - `works/ponnar-sankar/translations/en/PART_002_PROGRESS.md`
 
-Reserved batches:
+Maintained partial E14 file:
 
-- **E10–E17 / 8**
-- planned scans — **76–145 / 70**
-- missing planned coverage — **0**
-- duplicate planned coverage — **0**
-- batch collisions — **0**
-- English section-order collisions — **0**
-- translated Part002 files — **0/8**
-- source-checked Part002 files — **0/8**
-- Part002 English literary prose drafted during planning — **0**
+`works/ponnar-sankar/translations/en/sections/13-aasaiyil-arukkaani-thangam.md`
+
+Tamil authority:
+
+`works/ponnar-sankar/sections/13-aasaiyil-arukkaani-thangam.md`
+
+## Prior user-directed iteration
+
+The user instructed: **process 35 pages**.
+
+Exact completed accounting:
+
+- E10 — 5 scans
+- E11 — 9 scans
+- E12 — 9 scans
+- E13 — 10 scans
+- E14 partial — 2 scans
+- total — **35 scans exactly / scans76–110**
+
+Do not silently extend that previous iteration beyond scan110.
 
 ## Exact next activity
 
-Process **E10 — scans76–80**.
+Continue **E14 — scans111–118 / remaining 8 scans**.
 
-Tamil source:
+Append verified translation for scans111–118 to the existing partial maintained English file.
 
-`works/ponnar-sankar/sections/09-unmaiyin-uthayam-part002-continuation.md`
+Then run a direct whole-batch E14 source-check over **scans109–118 / 10 scans**.
 
-Planned maintained English file:
+Only after the entire E14 batch passes:
 
-`works/ponnar-sankar/translations/en/sections/09-the-dawn-of-truth-part002-continuation.md`
+1. resolve the semantic English display title for `ஆசையில் அருக்காணித் தங்கம்`;
+2. update the maintained E14 file from `draft-partial` to `source-checked`;
+3. require complete Tamil/English literary-display block accounting;
+4. require all **9** internal source-boundary comments 109→110 through 117→118 in source order;
+5. require omitted source blocks — **0**;
+6. require duplicate English blocks — **0**;
+7. require unsupported English insertions — **0**;
+8. require canonical / assembled Tamil mutations — **0 / 0**;
+9. require frozen Part001 English mutations — **0**;
+10. require Part003 leakage — **0**;
+11. create `works/ponnar-sankar/translations/en/E14_SOURCE_CHECK.md`;
+12. synchronize `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`, maintained controls and this prompt.
 
-Durable source-check record to create only after the batch closes:
+## Translation locks
 
-`works/ponnar-sankar/translations/en/E10_SOURCE_CHECK.md`
-
-## E10 structural / continuity locks
-
-- E10 continues chapter7 `உண்மையின் உதயம்` from frozen Part001 E9;
-- frozen Part001 English file `sections/08-the-dawn-of-truth.md` remains unchanged;
-- **do not repeat or invent a chapter number/title display at the start of E10**;
-- 75→76 is already **GENUINE CONTINUATION / AUDITED / PASS**;
-- use frozen E9 only for established project English forms and immediate continuity, never as authority over Part002 Tamil;
-- translate scans76–80 only from verified Part002 assembled Tamil;
-- retain physical source-boundary comments for 76→77, 77→78, 78→79 and 79→80;
-- preserve narrator/speaker agency, dialogue order, rhetorical force, paragraph structure and information-release order;
-- preserve source-framed historical/social/political claims as narrative/dialogue claims rather than independent project assertions;
-- no OCR / web / alternate edition / remembered or published translation wording;
-- canonical Tamil edits caused by E10 — **0**;
-- assembled Tamil edits caused by E10 — **0**;
-- frozen Part001 English edits caused by E10 — **0**;
-- Part003 leakage — **0**.
-
-## E10 glossary discipline
-
-Use `PART_002_GLOSSARY.md`.
-
-Carry forward frozen Part001 forms when the same Tamil source form recurs, including established forms such as:
-
-- Maayavar
-- Raakkiyannan / source-required grammatical variants
-- Thalaiyur Kaali
-- Chellaatha Gounder
-- Maanthiyappan
-- Thamarai Naachchi / Thamarai Naachchiyar
-- Nelliyangodan
-- Malaikkozhundha Gounder
-
-Do not normalize Part002-only names or culturally specific terms from outside sources.
-
-## E10 source-check requirements
-
-Before closing E10:
-
-1. compare the complete English draft directly against the complete verified Tamil section for scans76–80;
-2. account for every literary paragraph/dialogue/display block;
-3. verify all four internal source-boundary comments are retained in source order;
-4. verify omitted Tamil blocks — **0**;
-5. verify duplicate English blocks — **0**;
-6. verify unsupported explanatory English insertions — **0**;
-7. verify frozen E9 mutation — **0**;
-8. verify canonical / assembled Tamil mutations — **0 / 0**;
-9. verify Part003 leakage — **0**;
-10. record any new Part002 glossary decisions in `PART_002_GLOSSARY.md`;
-11. create `E10_SOURCE_CHECK.md` only when the whole batch is **SOURCE-CHECKED / COMPLETE**;
-12. update `PART_002_PROGRESS.md` and maintained controls.
+- verified Part002 assembled Tamil is the translation source;
+- canonical Tamil governs if any conflict is discovered;
+- no OCR / web / alternate edition / remembered or published English translation;
+- carry forward frozen Part001 English forms only when the same Tamil source form recurs;
+- do not normalize Part002-only names from outside sources;
+- preserve narrator/speaker agency, chronology, dialogue order, rhetorical force and paragraph/display structure;
+- preserve source-framed historical/social/political/religious claims as literary-source claims;
+- no canonical Tamil mutation;
+- no assembled Tamil mutation;
+- no Part001 English mutation;
+- no Part003 canonical or English work;
+- outgoing **145→146 remains PENDING Part003 direct witness**.
 
 ## Stop condition
 
 Stop after:
 
-**E10 — SOURCE-CHECKED / COMPLETE — scans76–80**
+**E14 — SOURCE-CHECKED / COMPLETE — scans109–118**
 
-Do not begin E11 unless the user explicitly directs a larger cross-batch physical-page iteration.
+unless the user explicitly directs a larger physical-page iteration.
 
-Expected next activity after clean E10 closure:
+Expected next activity after clean E14 closure:
 
-**E11 — scans81–89 — chapter8 `கரகம் விடும் திருவிழா`**.
+**E15 — scans119–127 — chapter12 `பூனையில் போர்க்கோலம்`.**

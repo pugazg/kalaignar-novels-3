@@ -89,6 +89,6 @@ Part001 assembled Tamil remains **FINAL CLOSED / FROZEN**.
 
 Part002 assembled Tamil is **VERIFIED / PASS / CLOSED**.
 
-Part002 English translation planning/setup is **COMPLETE / PASS — E10–E17 reserved / scans76–145 fully planned**.
+Part002 English E10–E13 are **SOURCE-CHECKED / COMPLETE**; E14 is **IN PROGRESS — scans109–110 drafted + directly checked**. English physical coverage is **scans76–110 / 35 of 70**.
 
-Exact next activity: **Part002 English E10 — scans76–80 / chapter7 continuation**. Do not begin Part003 canonical work.
+Exact next activity: **Part002 English E14 — scans111–118 / remaining 8 scans**. Do not begin Part003 canonical work.

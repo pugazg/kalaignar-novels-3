@@ -2,17 +2,19 @@
 
 ## Overall state
 
-**PART002 ENGLISH PLANNING/SETUP — COMPLETE / PASS — TRANSLATION NOT STARTED**
+**PART002 ENGLISH IN PROGRESS — E10–E13 SOURCE-CHECKED / COMPLETE; E14 PARTIAL — scans109–110**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
+## Batch / gate state
+
 | Batch / gate | Tamil assembled coverage | Scans | Status |
 |---|---|---:|---|
-| **E10** | section09 — `உண்மையின் உதயம்` continuation | 76–80 | **PLANNED / NOT STARTED** |
-| **E11** | section10 — `கரகம் விடும் திருவிழா` | 81–89 | **PLANNED / NOT STARTED** |
-| **E12** | section11 — `மணியங்குறிச்சி குறிஞ்சி மான்கள்` | 90–98 | **PLANNED / NOT STARTED** |
-| **E13** | section12 — `அர்ச்சனை- யார் வயிறுக்கு?` | 99–108 | **PLANNED / NOT STARTED** |
-| **E14** | section13 — `ஆசையில் அருக்காணித் தங்கம்` | 109–118 | **PLANNED / NOT STARTED** |
+| **E10** | section09 — `உண்மையின் உதயம்` continuation | 76–80 | **SOURCE-CHECKED / COMPLETE** |
+| **E11** | section10 — `கரகம் விடும் திருவிழா` | 81–89 | **SOURCE-CHECKED / COMPLETE** |
+| **E12** | section11 — `மணியங்குறிச்சி குறிஞ்சி மான்கள்` | 90–98 | **SOURCE-CHECKED / COMPLETE** |
+| **E13** | section12 — `அர்ச்சனை- யார் வயிறுக்கு?` | 99–108 | **SOURCE-CHECKED / COMPLETE** |
+| **E14** | section13 — `ஆசையில் அருக்காணித் தங்கம்` | 109–118 | **IN PROGRESS — scans109–110 drafted + directly checked; scans111–118 pending** |
 | **E15** | section14 — `பூனையில் போர்க்கோலம்` | 119–127 | **PLANNED / NOT STARTED** |
 | **E16** | section15 — `வழியில் வந்த விபரீதம்` | 128–137 | **PLANNED / NOT STARTED** |
 | **E17** | section16 — `ராச்சாண்டார் மலைநோக்கி...` | 138–145 | **PLANNED / NOT STARTED** |
@@ -31,113 +33,120 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **8/8 VERIFIED / PASS / CLOSED**
 - Part002 English planned batches — **E10–E17 / 8**
 - Part002 English planned files — **8**
-- Part002 translated files — **0/8**
-- Part002 partial translated files — **0**
-- Part002 source-checked complete files — **0/8**
-- physical Part002 English processing coverage — **0/70**
+- Part002 fully translated files — **4/8**
+- Part002 partial translated files — **1**
+- Part002 source-checked complete files — **4/8**
+- physical Part002 English processing coverage — **scans76–110 / 35 of 70**
+- physical Part002 English remaining — **scans111–145 / 35 of 70**
 - planned source coverage — **scans76–145**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- unresolved English planning holds — **0**
-- canonical Tamil edits caused by planning — **0**
-- assembled Tamil edits caused by planning — **0**
-- frozen Part001 English edits caused by planning — **0**
-- English literary prose drafted in planning gate — **0**
+- unresolved closed-batch holds — **0**
+- canonical Tamil edits caused by English — **0**
+- assembled Tamil edits caused by English — **0**
+- frozen Part001 English edits caused by Part002 — **0**
 - Part003 leakage — **0**
 - outgoing 145→146 — **PENDING Part003 direct witness**
 
-## Planned Part002 English coverage
+## Maintained Part002 English files
 
-| Batch | Tamil file | Planned English file | Scans |
-|---|---|---|---:|
-| E10 | `../../sections/09-unmaiyin-uthayam-part002-continuation.md` | `sections/09-the-dawn-of-truth-part002-continuation.md` | 76–80 |
-| E11 | `../../sections/10-karagam-vidum-thiruvizha.md` | `sections/10-karagam-vidum-thiruvizha.md` | 81–89 |
-| E12 | `../../sections/11-maniyangurichchi-kurinji-maangal.md` | `sections/11-maniyangurichchi-kurinji-maangal.md` | 90–98 |
-| E13 | `../../sections/12-archchanai-yaar-vayirukku.md` | `sections/12-archchanai-yaar-vayirukku.md` | 99–108 |
-| E14 | `../../sections/13-aasaiyil-arukkaani-thangam.md` | `sections/13-aasaiyil-arukkaani-thangam.md` | 109–118 |
-| E15 | `../../sections/14-poonaiyil-porkkolam.md` | `sections/14-poonaiyil-porkkolam.md` | 119–127 |
-| E16 | `../../sections/15-vazhiyil-vandha-vibareetham.md` | `sections/15-vazhiyil-vandha-vibareetham.md` | 128–137 |
-| E17 | `../../sections/16-raachchaandaar-malai-nokki.md` | `sections/16-raachchaandaar-malai-nokki.md` | 138–145 |
+| Batch | Maintained English file | Current translated coverage |
+|---|---|---:|
+| E10 | `sections/09-the-dawn-of-truth-part002-continuation.md` | scans76–80 / complete |
+| E11 | `sections/10-karagam-vidum-thiruvizha.md` | scans81–89 / complete |
+| E12 | `sections/11-maniyangurichchi-kurinji-maangal.md` | scans90–98 / complete |
+| E13 | `sections/12-archchanai-yaar-vayirukku.md` | scans99–108 / complete |
+| E14 | `sections/13-aasaiyil-arukkaani-thangam.md` | scans109–110 / partial |
+| E15 | `sections/14-poonaiyil-porkkolam.md` | not created |
+| E16 | `sections/15-vazhiyil-vandha-vibareetham.md` | not created |
+| E17 | `sections/16-raachchaandaar-malai-nokki.md` | not created |
 
-Coverage arithmetic:
+## Durable source-check records
 
-- 5 + 9 + 9 + 10 + 10 + 9 + 10 + 8 = **70**
-- first scan — **76**
-- last scan — **145**
-- gaps — **0**
-- overlaps / duplicate planned coverage — **0**
+- `E10_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans76–80**
+- `E11_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans81–89**
+- `E12_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans90–98**
+- `E13_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans99–108**
+- E14 source-check record — **NOT CREATED / whole E14 batch not yet complete**
 
-## Collision lock
+## User-directed 35-scan iteration — scans76–110
 
-Before setup:
+User instruction: **process 35 pages**.
 
-- frozen Part001 batches — **E1–E9**
-- frozen Part001 English section orders — **0–8**
-- existing E10–E17 source-check controls — **0**
-- existing Part002 English section files/orders9–16 — **0**
+Exact accounting:
 
-Reserved Part002 sequence — **E10–E17**.  
-Reserved Part002 English section orders — **9–16**.
+- E10 scans76–80 — **5 scans / SOURCE-CHECKED / COMPLETE**
+- E11 scans81–89 — **9 scans / SOURCE-CHECKED / COMPLETE**
+- E12 scans90–98 — **9 scans / SOURCE-CHECKED / COMPLETE**
+- E13 scans99–108 — **10 scans / SOURCE-CHECKED / COMPLETE**
+- E14 scans109–110 — **2 scans / drafted + directly checked / IN PROGRESS**
+- total physical scans processed — **5 + 9 + 9 + 10 + 2 = 35**
+- cumulative Part002 English processing coverage — **scans76–110 / 35 of 70**
+- complete translated/source-checked files — **4/8 / 4/8**
+- partial translated files — **1**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
 
-## Structural locks
+## E10 closure
 
-### E10 / incoming continuation
+- Tamil / English literary-display blocks — **28 / 28**
+- source-boundary comments — **4 / 4**
+- repeated chapter7 heading invented — **0**
+- source-check — **PASS / COMPLETE**
 
-- scans76–80 continue chapter7 from frozen Part001 E9;
-- 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**;
-- E10 uses a separate Part002 English file;
-- frozen E9 file mutation — **prohibited**;
-- repeated displayed chapter7 heading in E10 literary body — **prohibited**.
+## E11 closure
 
-### E11–E17
+- Tamil / English literary-display blocks — **54 / 54**
+- source-boundary comments — **8 / 8**
+- source-visible verse/song blocks — **4 / 4**
+- published/remembered English verse imported — **0**
+- source-check — **PASS / COMPLETE**
 
-- each batch maps exactly one verified Part002 assembled Tamil section;
-- each batch retains its internal physical source-boundary provenance;
-- semantic English chapter titles are source-checked batch decisions, not planning assumptions.
+## E12 closure
 
-### E17 / outgoing continuation
+- Tamil / English literary-display blocks — **50 / 50**
+- source-boundary comments — **8 / 8**
+- source-check — **PASS / COMPLETE**
 
-- scan145 is the Part002 terminal physical page;
-- chapter14 continues beyond the supplied Part002 split;
-- **145→146 — PENDING Part003 direct witness**;
-- E17 stops at scan145;
-- scan146 wording imported/inferred — **0**.
+## E13 closure
 
-## Batch discipline
+- Tamil / English literary-display blocks — **81 / 81**
+- source-boundary comments — **9 / 9**
+- source-check — **PASS / COMPLETE**
 
-Each E-batch must close **draft + source-check** before it is marked complete.
+## E14 partial checkpoint — scans109–110
 
-Durable source-check records are reserved as:
+- translated physical scans — **2/10**
+- pending E14 scans — **111–118 / 8**
+- Tamil / English literary-display blocks for translated segment — **13 / 13**
+- internal source-boundary comments in translated segment — **1 / 1**
+- provisional display title — **Aasaiyil Arukkaani Thangam**
+- semantic English chapter-title decision — **DEFERRED until whole E14 source-check**
+- unsupported English insertions — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- durable `E14_SOURCE_CHECK.md` — **NOT CREATED / correctly blocked until whole batch closes**
 
-- `E10_SOURCE_CHECK.md`
-- `E11_SOURCE_CHECK.md`
-- `E12_SOURCE_CHECK.md`
-- `E13_SOURCE_CHECK.md`
-- `E14_SOURCE_CHECK.md`
-- `E15_SOURCE_CHECK.md`
-- `E16_SOURCE_CHECK.md`
-- `E17_SOURCE_CHECK.md`
+## Cross-Part locks
 
-These files are created only when the corresponding batch closes.
+### Incoming E9 → E10
 
-A future user-directed physical-page iteration may cross batch boundaries, but source-check closure remains batch-specific.
+- **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
+- frozen E9 remains scans70–75 only
+- E10 is a separate Part002 file
+- Part001 English mutation — **0**
 
-## Planning gate completed
+### Outgoing E17 → Part003
 
-Created:
-
-- `PART_002_TRANSLATION_PLAN.md`
-- `PART_002_GLOSSARY.md`
-- `PART_002_PROGRESS.md`
-
-No Part002 English literary prose was drafted in this planning/setup gate.
+- **145→146 — PENDING Part003 direct witness**
+- scan146 wording imported/inferred — **0**
 
 ## Exact next activity
 
-Process **E10 — scans76–80 / `உண்மையின் உதயம்` continuation**.
+Continue **E14 — scans111–118 / remaining 8 scans**.
 
-Draft `sections/09-the-dawn-of-truth-part002-continuation.md` from the verified Tamil section, preserve the audited 75→76 continuation without modifying frozen E9, then complete and record `E10_SOURCE_CHECK.md`.
+Append those scans to `sections/13-aasaiyil-arukkaani-thangam.md`, resolve the semantic English chapter title during whole-batch source-check, then create `E14_SOURCE_CHECK.md` only if all **10/10 scans109–118** pass direct comparison.
 
-Stop after E10 closes **SOURCE-CHECKED / COMPLETE** unless the user explicitly directs a larger cross-batch physical-page iteration.
+After clean E14 closure, next batch is **E15 — scans119–127**.

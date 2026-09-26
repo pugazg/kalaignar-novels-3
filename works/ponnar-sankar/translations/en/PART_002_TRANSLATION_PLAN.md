@@ -217,18 +217,43 @@ Part003 canonical work remains blocked until Part002 final closure and direct Pa
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- translated Part002 files — **0/8**
-- source-checked Part002 files — **0/8**
+- fully translated Part002 files — **4/8**
+- source-checked Part002 files — **4/8**
 - unresolved planning holds — **0**
 - English literary prose drafted in planning gate — **0**
+- current physical English processing coverage after user-directed iteration — **scans76–110 / 35 of 70**
+- current partial batch — **E14 scans109–110 / 2 of 10**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - frozen Part001 English edits caused by planning — **0**
 - Part003 leakage — **0**
 - outgoing 145→146 — **PENDING Part003 direct witness**
 
+## User-directed processing checkpoint — 35 physical scans
+
+The user directed a **35-page / 35-physical-scan iteration**.
+
+Completed in this iteration:
+
+- E10 scans76–80 — **SOURCE-CHECKED / COMPLETE**
+- E11 scans81–89 — **SOURCE-CHECKED / COMPLETE**
+- E12 scans90–98 — **SOURCE-CHECKED / COMPLETE**
+- E13 scans99–108 — **SOURCE-CHECKED / COMPLETE**
+- E14 scans109–110 — **drafted + directly checked / IN PROGRESS**
+- total processed — **35 scans / scans76–110**
+- cumulative translated physical coverage — **35/70**
+- complete translated/source-checked files — **4/8 / 4/8**
+- partial translated files — **1**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Part001 English edits — **0**
+- Part003 leakage — **0**
+
+E14's provisional source-facing title remains **Aasaiyil Arukkaani Thangam** until whole-batch source-check. A durable `E14_SOURCE_CHECK.md` is intentionally not created while scans111–118 remain pending.
+
 ## Exact next activity
 
-Process **E10 — Part002 chapter7 continuation — scans76–80**: draft the maintained English file and complete its direct source-check.
+Continue **E14 — scans111–118 / remaining 8 scans**.
 
-Do not begin E11 until E10 closes **SOURCE-CHECKED / COMPLETE**, unless the user explicitly directs a cross-batch physical-page iteration.
+Complete `sections/13-aasaiyil-arukkaani-thangam.md`, resolve the semantic English chapter-title decision during direct whole-batch source-check, and create `E14_SOURCE_CHECK.md` only after scans109–118 close **SOURCE-CHECKED / COMPLETE**.
+
+After clean E14 closure, advance to **E15 — scans119–127**.

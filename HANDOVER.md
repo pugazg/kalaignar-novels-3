@@ -153,7 +153,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reserved batches — **E10–E17 / 8**
 - Part002 English planned coverage — **scans76–145 / 0 missing / 0 duplicate**
-- Part002 English translated/source-checked — **0/8 / 0/8**
+- Part002 English fully translated/source-checked — **4/8 / 4/8**
+- Part002 English partial translated files — **1 / E14 scans109–110**
+- Part002 English physical processing coverage — **scans76–110 / 35 of 70**
 - active Part002 English controls — `works/ponnar-sankar/translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - Part002 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
 - durable Part002 Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_002_TAMIL_ARCHIVAL_READY.md`
@@ -169,16 +171,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **English E10 / scans76–80 / chapter7 continuation**
+- Part002 exact next activity — **English E14 / scans111–118 / remaining 8 scans**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 English E10 scans76–80 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 English E14 scans111–118 frontier**
 
 ## Exact next activity
 
-Process **Part002 English E10 — scans76–80 / chapter7 continuation**.
+Process **Part002 English E14 — scans111–118 / remaining 8 scans**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 English planning/setup is **COMPLETE / PASS** with **E10–E17 reserved / 70 scans fully planned**. Process E10 only; keep 145→146 pending and do not begin Part003.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 English E10–E13 are **SOURCE-CHECKED / COMPLETE** and E14 is **IN PROGRESS — scans109–110 directly checked**. Continue E14 scans111–118; keep 145→146 pending and do not begin Part003.
