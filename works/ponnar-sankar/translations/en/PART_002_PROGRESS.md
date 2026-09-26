@@ -22,8 +22,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | Editorial review | Part002 whole-Part English | 76–145 | **PASS / CLOSED** |
 | Bilingual review | English against verified Tamil | 76–145 | **PASS / CLOSED** |
 | Release/readiness | Part002 | 76–145 | **PASS / CLOSED** |
-| Release-ready synchronization | Part002 | 76–145 | **READY / NEXT** |
-| Final closure / freeze | Part002 | 76–145 | **BLOCKED** |
+| Release-ready synchronization | Part002 | 76–145 | **PASS / CLOSED** |
+| Final closure / freeze | Part002 | 76–145 | **READY / NEXT** |
 
 ## Current counts
 
@@ -57,6 +57,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
 - release/readiness — **PASS / CLOSED — 0 blockers**
+- release-ready synchronization — **PASS / CLOSED — 0 textual body drift**
 
 ## Maintained Part002 English files
 
@@ -186,6 +187,6 @@ Exact accounting:
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Create and verify **Part002 final closure / freeze**.
 
 Do not begin Part003. Preserve outgoing 145→146 as pending until direct Part003 source intake.

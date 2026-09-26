@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 RELEASE/READINESS PASS / CLOSED — RELEASE-READY SYNCHRONIZATION NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 RELEASE-READY SYNCHRONIZATION PASS / CLOSED — FINAL CLOSURE NEXT**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -156,6 +156,6 @@
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Create and verify **Part002 final closure / freeze**.
 
-Keep Part001 frozen. Part002 release/readiness is **PASS / CLOSED**. Perform release-ready synchronization next; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 release-ready synchronization is **PASS / CLOSED**. Create final closure next; keep 145→146 pending and do not begin Part003.

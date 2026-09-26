@@ -161,8 +161,10 @@ Part002 whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 new En
 
 Part002 release/readiness — **PASS / CLOSED — 0 blockers**. Durable record: `PART_002_RELEASE_REPORT.md`.
 
+Part002 release-ready synchronization — **PASS / CLOSED — 0 textual body drift**. Durable record: `../../PART_002_RELEASE_READY_SYNC.md`.
+
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Create and verify **Part002 final closure / freeze**.
 
 Do not begin Part003 in the same activity.

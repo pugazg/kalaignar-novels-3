@@ -179,16 +179,18 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 durable bilingual review — `works/ponnar-sankar/translations/en/PART_002_BILINGUAL_REVIEW.md`
 - Part002 release/readiness — **PASS / CLOSED — 0 blockers**
 - Part002 durable release report — `works/ponnar-sankar/translations/en/PART_002_RELEASE_REPORT.md`
-- Part002 exact next activity — **release-ready synchronization**
+- Part002 release-ready synchronization — **PASS / CLOSED — 0 textual body drift**
+- Part002 durable release-ready sync — `works/ponnar-sankar/PART_002_RELEASE_READY_SYNC.md`
+- Part002 exact next activity — **final closure / freeze**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 release-ready synchronization frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 final closure frontier**
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+Create and verify **Part002 final closure / freeze**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 release/readiness is **PASS / CLOSED**. Perform release-ready synchronization next; keep 145→146 pending and do not begin Part003.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 release-ready synchronization is **PASS / CLOSED**. Create final closure next; keep 145→146 pending and do not begin Part003.
