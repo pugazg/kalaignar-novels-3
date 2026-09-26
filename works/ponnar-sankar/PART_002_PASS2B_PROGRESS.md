@@ -659,6 +659,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part002 whole-Part audit**.
+Process **Part002 final metadata/status synchronization**.
 
-Pass3 is now **COMPLETE / PASS — 70/70 REVIEWED**. Begin the Part002 whole-Part audit next. Keep all Part002 records at `needs-review` / `needs-review` until the audit passes; keep 145→146 pending.
+Part002 whole-Part audit is now **PASS / COMPLETE — 0 blockers**. Promote only `status` and `visual_fidelity` on all 70 Part002 canonical records next; keep 145→146 pending.

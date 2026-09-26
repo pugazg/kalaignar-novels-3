@@ -13,7 +13,7 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 47 corrections; Pass2B CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 19 corrections; Pass3 COMPLETE / PASS — 70/70 REVIEWED — 0 structural corrections**
+- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 47 corrections; Pass2B CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 19 corrections; Pass3 COMPLETE / PASS — 70/70 REVIEWED — 0 structural corrections; whole-Part audit PASS / COMPLETE**
 - assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part002 boundary **145→146**: **PENDING Part003 witness**
@@ -45,6 +45,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part002 whole-Part audit**.
+Process **Part002 final metadata/status synchronization**.
 
-Part001 remains frozen. Part002 Pass2A / Pass2B stay closed. Part002 Pass3 is **COMPLETE / PASS — 70/70 REVIEWED** with **0 structural corrections / 0 unresolved**; whole-Part audit is next.
+Part001 remains frozen. Part002 Pass1 / Pass2A / Pass2B / Pass3 stay closed. Part002 whole-Part audit is **PASS / COMPLETE** with **0 blockers**; final metadata/status synchronization is next.

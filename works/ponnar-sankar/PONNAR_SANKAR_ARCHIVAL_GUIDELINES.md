@@ -197,6 +197,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 Pass3 structural corrections — **0**
 - Part002 Pass3 unresolved visual / structural questions — **0**
 - Part002 Pass3 pending — **0/70**
+- Part002 whole-Part audit — **PASS / COMPLETE — 0 blockers**
 - Part002 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Part003–Part008 — **pending intake / NOT REGISTERED**
 - boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -239,4 +240,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- exact next activity — **Part002 whole-Part audit**
+- exact next activity — **Part002 final metadata/status synchronization**

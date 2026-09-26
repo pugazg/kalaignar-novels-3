@@ -71,6 +71,8 @@
 - Part002 Pass3 structural corrections: **0**
 - Part002 Pass3 unresolved visual / structural questions: **0**
 - Part002 Pass3 pending: **0/70**
+- Part002 whole-Part audit: **PASS / COMPLETE — 0 blockers**
+- durable Part002 audit: `PART_002_AUDIT.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part002 Pass3 tracker: `PART_002_PASS3_PROGRESS.md`
 - Part002 Pass2B cadence: **10 scans per batch**
@@ -119,6 +121,6 @@
 
 ## Exact next activity
 
-Process **Part002 whole-Part audit**.
+Process **Part002 final metadata/status synchronization**.
 
-Keep all Part002 records at `needs-review` / `needs-review`; keep Part001 frozen. Pass2B remains closed. Pass3 is **COMPLETE / PASS — 70/70 REVIEWED** with **0 structural corrections / 0 unresolved**; whole-Part audit is next.
+Keep Part001 frozen. Part002 Pass1 / Pass2A / Pass2B / Pass3 remain closed and whole-Part audit is **PASS / COMPLETE**. Promote only the two canonical verification frontmatter fields on all 70 Part002 records; keep 145→146 pending.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 whole-Part audit
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 final metadata/status synchronization
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,96 +6,62 @@ Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `wo
 
 Part001 is **FINAL CLOSED / FROZEN**. Do not reopen its canonical Tamil, assembled Tamil or maintained English.
 
-## Part002 source
+## Part002 closed source/gate state
 
-Controlling source:
+Source:
 
 `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
 
-- bytes — **49,532,734**
 - SHA-256 — `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd`
-- local pages — **70**
 - global scans — **76–145**
-- rendered source pixels — **sole source authority**
+- local pages — **1–70**
+- Pass1 — **COMPLETE / PASS — 70/70**
+- Pass2A — **CLOSED / COMPLETE / PASS — 70/70 — 47 corrections — 0 unresolved**
+- Pass2B — **CLOSED / COMPLETE / PASS — 70/70 — 19 corrections — 0 unresolved**
+- Pass3 — **COMPLETE / PASS — 70/70 — 0 structural corrections — 0 unresolved**
+- whole-Part audit — **PASS / COMPLETE — 0 blockers**
+- durable audit — `works/ponnar-sankar/PART_002_AUDIT.md`
 - incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 145→146 — **PENDING Part003 direct witness**
 
-## Closed upstream gates
-
-- Part002 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE**
-- Part002 Pass2A — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
-- Part002 Pass2A corrections — **47**
-- Part002 Pass2B — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
-- Part002 Pass2B corrections — **19**
-- Part002 Pass2B unresolved — **0**
-- Part002 Pass3 — **COMPLETE / PASS — 70/70 REVIEWED**
-- Part002 Pass3 structural corrections — **0**
-- Part002 Pass3 unresolved visual / structural questions — **0**
-- Part002 Pass3 lexical reopening — **0**
-- all Part002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
-- Part audit — **NOT STARTED / READY**
-
-Durable Pass3 tracker:
-
-`works/ponnar-sankar/PART_002_PASS3_PROGRESS.md`
-
-## Pass3 final result
-
-- Batch1 scans76–90 — **15/15 REVIEWED / PASS**
-- Batch2 scans91–105 — **15/15 REVIEWED / PASS**
-- Batch3 scans106–120 — **15/15 REVIEWED / PASS**
-- Batch4 scans121–135 — **15/15 REVIEWED / PASS**
-- Final Batch5 scans136–145 — **10/10 REVIEWED / PASS**
-- cumulative — **70/70 REVIEWED / PASS — COMPLETE**
-- cumulative structural corrections — **0**
-- unresolved visual / structural questions — **0**
-- scan127 chapter12 close preserves the substantial lower blank field with blue mounted-warriors illustration;
-- scan128 chapter13 `வழியில் வந்த விபரீதம்` decorative opener preserves chapter number **13**, blue title and flourish with no ordinary printed-page number;
-- scan137 chapter13 close preserves the substantial lower blank field with blue mounted-warriors illustration;
-- scan138 chapter14 `ராச்சாண்டார் மலைநோக்கி...` decorative opener preserves chapter number **14**, blue title, mountain line-art / flourish and no ordinary printed-page number;
-- scan145 remains a full chapter14 body page at the Part002 source-split edge; no scan146 wording was inferred or imported.
+At audit completion, all Part002 records remain:
+- `status: "needs-review"` — **70/70**
+- `visual_fidelity: "needs-review"` — **70/70**
 
 ## Exact next activity
 
-Perform the **Part002 whole-Part audit**.
+Perform **Part002 final metadata/status synchronization** on all **70 canonical records**.
 
-Audit the complete Part002 canonical set without doing a fresh lexical rewrite.
+Only these two frontmatter fields may change:
 
-Verify at minimum:
+- `status: "needs-review"` → `status: "verified"`
+- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
 
-1. canonical records — **70/70**, global scans76–145 continuous and unique;
-2. local pages1–70 continuous and unique;
-3. canonical paths unique and mapped correctly in `indexes/page-map.md`;
-4. source filename and Part002 identity consistent across all 70 records;
-5. exactly one formal Part002 Pass2A review in every record;
-6. exactly one formal Part002 Pass2B review in every record;
-7. exactly one formal Part002 Pass3 review in every record;
-8. Pass2A correction accounting remains **47** and unresolved textual questions **0**;
-9. Pass2B correction accounting remains **19** and unresolved textual questions **0**;
-10. Pass3 structural corrections remain **0** and unresolved visual / structural questions **0**;
-11. chapter/opening/body/close structure, printed-pagination map and source-split edge states are internally consistent with the closed trackers;
-12. all 70 canonical records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` during the audit;
-13. incoming 75→76 remains **GENUINE CONTINUATION / AUDITED / PASS**;
-14. outgoing 145→146 remains **PENDING Part003 direct witness**;
-15. no Part001 canonical/assembled/English reopening;
-16. no Part003 wording inferred or imported;
-17. no source-body mutation unless the audit discovers a direct, source-backed defect.
+Mandatory invariant:
 
-Create/update the durable Part002 audit record only after the checks are complete.
+- after stripping the two verification fields, every promoted canonical file must be byte-identical to its pre-promotion version;
+- canonical Tamil/body text changes — **0**;
+- chapter-title changes — **0**;
+- source identity / scan numbering / page type / printed-page changes — **0**;
+- Pass evidence changes — **0**.
 
-## Mandatory locks
+After promotion, verify:
+
+- `status: "verified"` — **70/70**
+- `visual_fidelity: "verified"` — **70/70**
+- remaining `needs-review` in Part002 canonical frontmatter — **0**
+- outgoing 145→146 remains **PENDING Part003 direct witness**
+
+Then synchronize controls and create the durable **Part002 Tamil archival-ready checkpoint**.
+
+The user has authorized continuing through **Part002 Tamil assembly + assembled-Tamil audit**, so after the archival-ready checkpoint, construct the Part002 maintained Tamil reading layer from verified canonical pages only and validate it. Do not start English translation.
+
+## Locks
 
 - **LIVE MAIN IS AUTHORITATIVE**
-- rendered source pixels only where direct source inspection is needed
-- no OCR / web / alternate edition / remembered text
 - Part001 remains **FINAL CLOSED / FROZEN**
-- Pass1 / Pass2A / Pass2B / Pass3 remain closed
-- no metadata/status promotion during the audit itself
-- all Part002 records remain `needs-review` / `needs-review`
-- outgoing 145→146 remains pending until Part003 direct witness.
-
-## Stop condition
-
-Stop after the **Part002 whole-Part audit result** is recorded and maintained controls are synchronized.
-
-If the audit passes cleanly, the next activity is **Part002 final metadata/status synchronization**; do not perform that promotion in the same audit step unless separately authorized.
+- no Part001 canonical/assembled/English mutation
+- no Part003 text inference/import
+- no canonical Part002 body mutation during promotion or assembly
+- assembly derives only from verified Part002 canonical records
+- outgoing 145→146 remains pending.
