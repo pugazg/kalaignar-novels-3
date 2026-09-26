@@ -292,6 +292,6 @@ For each scan:
 
 ## Exact next activity
 
-Process **Part002 English E16 — scans128–137 / chapter13 `வழியில் வந்த விபரீதம்`**.
+Process **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
 
-Part002 English E10–E15 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–127. Process E16 scans128–137; keep Part001 frozen and outgoing 145→146 pending.
+Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–137. Process E17 scans138–145; keep Part001 frozen and outgoing 145→146 pending.

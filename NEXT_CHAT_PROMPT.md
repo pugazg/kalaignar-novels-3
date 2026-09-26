@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 English E16 — scans128–137
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 English E17 — scans138–145
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,47 +27,58 @@ Closed English batches:
 - E13 scans99–108 — **SOURCE-CHECKED / COMPLETE**
 - E14 scans109–118 — **SOURCE-CHECKED / COMPLETE**
 - E15 scans119–127 — **SOURCE-CHECKED / COMPLETE**
+- E16 scans128–137 — **SOURCE-CHECKED / COMPLETE**
 
 Current accounting:
 
-- fully translated files — **6/8**
-- source-checked complete files — **6/8**
+- fully translated files — **7/8**
+- source-checked complete files — **7/8**
 - partial translated files — **0**
-- physical English coverage — **scans76–127 / 52 of 70**
-- remaining — **scans128–145 / 18 of 70**
+- physical English coverage — **scans76–137 / 62 of 70**
+- remaining — **scans138–145 / 8 of 70**
 - canonical Tamil edits caused by English — **0**
 - assembled Tamil edits caused by English — **0**
 - frozen Part001 English edits caused by Part002 — **0**
 - Part003 leakage — **0**
 
-E15 durable source-check:
+E16 durable source-check:
 
-`works/ponnar-sankar/translations/en/E15_SOURCE_CHECK.md`
+`works/ponnar-sankar/translations/en/E16_SOURCE_CHECK.md`
 
-E15 maintained title:
+E16 maintained title:
 
-**A Cat in Battle Array**
+**A Calamity on the Way**
 
 ## Exact next activity
 
-Process **E16 — scans128–137 — chapter13 `வழியில் வந்த விபரீதம்`**.
+Process **E17 — scans138–145 — chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
 
 Tamil authority:
 
-`works/ponnar-sankar/sections/15-vazhiyil-vandha-vibareetham.md`
+`works/ponnar-sankar/sections/16-raachchaandaar-malai-nokki.md`
 
 Planned maintained English file:
 
-`works/ponnar-sankar/translations/en/sections/15-vazhiyil-vandha-vibareetham.md`
+`works/ponnar-sankar/translations/en/sections/16-raachchaandaar-malai-nokki.md`
 
-Create `E16_SOURCE_CHECK.md` only after the whole batch closes.
+Create `E17_SOURCE_CHECK.md` only after the whole batch closes.
 
-## E16 source-check requirements
+## E17 boundary lock
+
+- scan145 is the final supplied Part002 scan;
+- chapter14 is open at the Part002 split edge;
+- outgoing **145→146 — PENDING Part003 direct witness**;
+- do not infer, predict, reconstruct or import scan146 / Part003 wording;
+- retain the non-rendering outgoing boundary provenance comment;
+- do not semantically complete an open terminal sentence beyond what scan145 itself supports.
+
+## E17 source-check requirements
 
 - translate only from verified assembled Tamil / canonical Tamil;
 - preserve source paragraph/dialogue/display order;
-- retain all internal source-boundary comments for scans128→129 through136→137;
-- resolve the semantic English chapter title from source wording only;
+- retain all internal source-boundary comments for scans138→139 through144→145;
+- retain the outgoing 145→146 provenance comment;
+- resolve the semantic English chapter title from source wording only while preserving the source ellipsis;
 - omitted source blocks — **0**;
 - duplicate English blocks — **0**;
 - unsupported explanatory English insertions — **0**;
@@ -80,10 +91,12 @@ Create `E16_SOURCE_CHECK.md` only after the whole batch closes.
 
 Stop after:
 
-**E16 — SOURCE-CHECKED / COMPLETE — scans128–137**
+**E17 — SOURCE-CHECKED / COMPLETE — scans138–145**
 
-unless the user explicitly directs a larger physical-page iteration.
+and synchronize the Part002 English controls.
 
-Expected next activity after clean E16 closure:
+Do not begin Part003.
 
-**E17 — scans138–145 — chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Expected next activity after clean E17 closure:
+
+**Part002 whole-Part English glossary reconciliation** over E10–E17 before editorial/bilingual/release gates.

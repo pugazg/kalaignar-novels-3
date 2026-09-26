@@ -261,6 +261,35 @@ Whole-batch direct-accounting:
 - unsupported English insertions — **0**
 - canonical / assembled Tamil edits — **0 / 0**
 
+## E16 — scans128–137
+
+E16 is **SOURCE-CHECKED / COMPLETE**.
+
+Source title `வழியில் வந்த விபரீதம்` → maintained English display title **A Calamity on the Way**.
+
+Locked / active forms:
+
+| Tamil source | English handling |
+|---|---|
+| `ராம லட்சுமணர்` | **Rama and Lakshmana** |
+| `அனுமார்` | **Hanuman** |
+| `அசோகவனம்` | **Ashoka grove** |
+| `இலங்காதகனம்` | **the burning of Lanka** |
+| `யுத்த காண்டம்` | **the war section** |
+| `வடவம்` | ***vadavam*** — source-facing |
+| `தாம்பூலம்` | **betel and areca** in the hospitality context |
+| `மாரிக்கவுண்டம் பாளையம்` | **Maarik Goundan Paalayam** |
+| `செந்தூரப் பொடி` | **vermilion powder** |
+| `வேல்! வேல்! வீரவேல்!` | **Vel! Vel! Veera Vel!** |
+| `கீரிப்பிள்ளை` | **mongoose** in immediate narrative context |
+
+Whole-batch direct-accounting:
+- Tamil literary/display blocks — **58**
+- English literary/display blocks — **58**
+- internal source-boundary comments — **9/9**
+- unsupported English insertions — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+
 ## Boundary locks
 
 ### Incoming 75→76
@@ -279,7 +308,7 @@ Whole-batch direct-accounting:
 
 ## Setup result
 
-**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E15 SOURCE-CHECKED / COMPLETE**
+**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E16 SOURCE-CHECKED / COMPLETE**
 
 - frozen Part001 glossary mutated — **0**
 - carry-forward protected distinctions registered — **PASS**
