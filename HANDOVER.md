@@ -175,16 +175,18 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
 - Part002 English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
 - Part002 durable editorial review — `works/ponnar-sankar/translations/en/PART_002_TRANSLATION_REVIEW.md`
-- Part002 exact next activity — **whole-Part bilingual review / verified Tamil vs maintained English / scans76–145**
+- Part002 whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
+- Part002 durable bilingual review — `works/ponnar-sankar/translations/en/PART_002_BILINGUAL_REVIEW.md`
+- Part002 exact next activity — **release/readiness report**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 whole-Part bilingual review frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 release/readiness frontier**
 
 ## Exact next activity
 
-Process **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
+Create and close the **Part002 release/readiness report**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 English editorial review is **PASS / CLOSED** after glossary reconciliation. Perform whole-Part bilingual review next; keep 145→146 pending and do not begin Part003.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 whole-Part bilingual review is **PASS / CLOSED**. Create release/readiness next; keep 145→146 pending and do not begin Part003.

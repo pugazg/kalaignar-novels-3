@@ -139,6 +139,6 @@
 
 ## Exact next activity
 
-Process **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
+Create and close the **Part002 release/readiness report**.
 
-Keep Part001 frozen. Part002 English editorial review is **PASS / CLOSED** after glossary reconciliation. Perform whole-Part bilingual review next; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 whole-Part bilingual review is **PASS / CLOSED**. Create release/readiness next; keep 145→146 pending and do not begin Part003.

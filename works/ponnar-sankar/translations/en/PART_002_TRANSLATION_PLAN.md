@@ -262,8 +262,10 @@ Whole-Part English glossary reconciliation subsequently closed **RECONCILED / PA
 
 Whole-Part English editorial review subsequently closed **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved holds**. Durable record: `PART_002_TRANSLATION_REVIEW.md`.
 
+Whole-Part bilingual review subsequently closed **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved holds**. Durable record: `PART_002_BILINGUAL_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
+Create and close the **Part002 release/readiness report**.
 
-Do not begin release/readiness, final closure or Part003 until the bilingual gate closes.
+Do not begin Part003; outgoing 145→146 remains pending direct source witness.

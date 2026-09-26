@@ -46,6 +46,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
+Create and close the **Part002 release/readiness report**.
 
-Part001 remains frozen. Part002 whole-Part English glossary reconciliation and editorial review are closed. Whole-Part bilingual review is next; Part003 remains blocked.
+Part001 remains frozen. Part002 whole-Part English glossary, editorial and bilingual gates are closed. Release/readiness is next; Part003 remains blocked.

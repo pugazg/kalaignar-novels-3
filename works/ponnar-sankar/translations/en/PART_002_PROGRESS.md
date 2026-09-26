@@ -20,8 +20,8 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | **E17** | section16 — `ராச்சாண்டார் மலைநோக்கி...` | 138–145 | **SOURCE-CHECKED / COMPLETE** |
 | Glossary reconciliation | Part002 whole-Part English | 76–145 | **RECONCILED / PASS / CLOSED** |
 | Editorial review | Part002 whole-Part English | 76–145 | **PASS / CLOSED** |
-| Bilingual review | English against verified Tamil | 76–145 | **READY / NEXT** |
-| Release/readiness | Part002 | 76–145 | **BLOCKED** |
+| Bilingual review | English against verified Tamil | 76–145 | **PASS / CLOSED** |
+| Release/readiness | Part002 | 76–145 | **READY / NEXT** |
 | Release-ready synchronization | Part002 | 76–145 | **BLOCKED** |
 | Final closure / freeze | Part002 | 76–145 | **BLOCKED** |
 
@@ -55,6 +55,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - English section files changed by reconciliation — **0**
 - unresolved glossary holds — **0**
 - English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
+- whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
 
 ## Maintained Part002 English files
 
@@ -184,6 +185,6 @@ Exact accounting:
 
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
+Create and close the **Part002 release/readiness report**.
 
-Use `PART_002_TRANSLATION_REVIEW.md` and `PART_002_GLOSSARY_RECONCILIATION.md` as closed English controls. Do not begin release/readiness, final closure or Part003 in the same bilingual step.
+Do not begin Part003. Preserve outgoing 145→146 as pending until direct Part003 source intake.

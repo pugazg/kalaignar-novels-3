@@ -157,8 +157,10 @@ Planning/setup result:
 
 Part002 English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved holds**. Durable record: `PART_002_TRANSLATION_REVIEW.md`.
 
+Part002 whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved holds**. Durable record: `PART_002_BILINGUAL_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
+Create and close the **Part002 release/readiness report**.
 
-Do not begin release/readiness, final closure or Part003 in the same activity.
+Do not begin Part003 in the same activity.
