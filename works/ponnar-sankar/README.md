@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 RELEASE-READY SYNCHRONIZATION PASS / CLOSED — FINAL CLOSURE NEXT**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PENDING SOURCE INTAKE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -92,6 +92,9 @@
 - Part002 English editorial review: **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
 - Part002 whole-Part bilingual review: **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
 - Part002 release/readiness: **PASS / CLOSED — 0 blockers**
+- Part002 release-ready synchronization: **PASS / CLOSED — 0 textual body drift**
+- Part002 final closure: **PASS / CLOSED / FROZEN**
+- Part002 canonical / assembled Tamil / maintained English: **FROZEN**
 - Part002 English controls: `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - durable Part002 Tamil archival-ready checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
@@ -147,6 +150,8 @@
 - `translations/en/PART_002_TRANSLATION_REVIEW.md`
 - `translations/en/PART_002_BILINGUAL_REVIEW.md`
 - `translations/en/PART_002_RELEASE_REPORT.md`
+- `PART_002_RELEASE_READY_SYNC.md`
+- `PART_002_FINAL_CLOSURE.md`
 - `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
@@ -156,6 +161,6 @@
 
 ## Exact next activity
 
-Create and verify **Part002 final closure / freeze**.
+When Part003 source is supplied, perform **Part003 source intake** and directly audit **145→146** before Pass1.
 
-Keep Part001 frozen. Part002 release-ready synchronization is **PASS / CLOSED**. Create final closure next; keep 145→146 pending and do not begin Part003.
+Keep Parts001–002 frozen. Part003 remains **NOT REGISTERED / pending source intake**; do not assign its range or begin canonical work without the supplied Part003 source.

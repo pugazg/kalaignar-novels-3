@@ -1,72 +1,45 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 final closure / freeze
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 source intake pending
 
-Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable closed state
+## Durable frozen state
 
-Part001 — **FINAL CLOSED / FROZEN**.
+- Part001 — **FINAL CLOSED / FROZEN**
+- Part002 — **FINAL CLOSED / FROZEN**
+- Part002 canonical Tamil — **70/70 verified / scans76–145**
+- Part002 assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**
+- Part002 maintained English — **E10–E17 / 8/8 SOURCE-CHECKED / COMPLETE / FROZEN**
+- Part002 glossary reconciliation — **RECONCILED / PASS**
+- Part002 English editorial review — **PASS / CLOSED**
+- Part002 whole-Part bilingual review — **PASS / CLOSED**
+- Part002 release/readiness — **PASS / CLOSED**
+- Part002 release-ready synchronization — **PASS / CLOSED**
+- durable Part002 final closure — `works/ponnar-sankar/PART_002_FINAL_CLOSURE.md`
 
-Part002:
+## Boundary state
 
-- source intake — **COMPLETE**
-- canonical Tamil — **70/70 verified / scans76–145**
-- visual fidelity — **70/70 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- whole-Part audit — **PASS / COMPLETE**
-- Tamil archival-ready — **PASS / COMPLETE**
-- assembled Tamil — **VERIFIED / PASS / CLOSED — 8/8**
-- English E10–E17 — **8/8 SOURCE-CHECKED / COMPLETE**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED — 8/8**
-- release/readiness — **PASS / CLOSED**
-- release-ready synchronization — **PASS / CLOSED**
-- unresolved lifecycle blockers — **0**
-- incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
-- outgoing 145→146 — **PENDING Part003 direct witness**
-- Part003 body leakage — **0**
+- 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- 145→146 — **PENDING Part003 direct source witness**
+
+Do not infer or invent scan146 or any Part003 text.
+
+## Part003 state
+
+- **NOT REGISTERED**
+- source PDF — **not supplied in the active workflow**
+- global range — **not assigned**
+- canonical records — **0**
+- transcription authorized without source intake — **NO**
 
 ## Exact next activity
 
-Create and verify:
+When the user supplies Part003:
 
-`works/ponnar-sankar/PART_002_FINAL_CLOSURE.md`
+1. perform **Part003 source intake**;
+2. register exact filename, bytes, SHA-256 and local page count from that supplied file;
+3. assign Part003's global scan range from the file only;
+4. directly audit **145→146** using the Part002 terminal witness and Part003 first page;
+5. register Part003 controls/provenance;
+6. begin Part003 Pass1 only after intake and boundary handling are source-backed.
 
-The final closure must independently confirm the complete Part002 Tamil, assembled-Tamil, English, bilingual, release/readiness and release-ready synchronization chain.
-
-Verify no post-release textual drift:
-
-- canonical Part002 `pages/` changes — **0**
-- assembled Part002 Tamil body changes — **0**
-- maintained Part002 English body changes — **0**
-- frozen Part001 body changes — **0**
-- Part003 canonical/body creation — **0**
-
-Final decision must be:
-
-**PART002 FINAL CLOSURE — PASS / CLOSED / FROZEN**
-
-## Frozen-state rule
-
-After closure:
-
-- Part002 canonical Tamil — **FROZEN**
-- Part002 assembled Tamil — **FROZEN**
-- Part002 maintained English — **FROZEN**
-- Part002 controls may change only for explicit source-backed defect correction or lifecycle/navigation synchronization
-- stylistic polishing alone does not reopen Part002
-
-## Part003 activation rule
-
-Part003 is currently **NOT REGISTERED / pending source intake**.
-
-Do not invent:
-
-- Part003 scan range;
-- 145→146 boundary classification;
-- Part003 canonical text;
-- Part003 English text.
-
-When Part003 source is supplied, perform source intake first and directly audit 145→146.
-
-Stop after Part002 final closure / freeze.
+Until Part003 source is supplied, do not modify frozen Parts001–002 merely for stylistic polishing.

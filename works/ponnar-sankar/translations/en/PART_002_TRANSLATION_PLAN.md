@@ -268,8 +268,8 @@ Part002 release/readiness subsequently closed **PASS / CLOSED — 0 blockers**. 
 
 Part002 release-ready synchronization subsequently closed **PASS / CLOSED — 0 textual body drift**. Durable record: `../../PART_002_RELEASE_READY_SYNC.md`.
 
+Part002 final closure is **PASS / CLOSED / FROZEN**. Durable record: `../../PART_002_FINAL_CLOSURE.md`.
+
 ## Exact next activity
 
-Create and verify **Part002 final closure / freeze**.
-
-Do not begin Part003; outgoing 145→146 remains pending direct source witness.
+Part002 is **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**. When Part003 source is supplied, perform Part003 source intake first, assign its range from that file only, and directly audit 145→146 before Pass1.

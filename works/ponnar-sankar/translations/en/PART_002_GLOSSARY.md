@@ -354,4 +354,5 @@ Whole-batch direct-accounting:
 - accidental English drift instances — **0**
 - English section files changed by reconciliation — **0**
 - unresolved glossary holds — **0**
-- exact next activity — **Part002 English editorial review / 8 maintained files / scans76–145**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- exact next activity — **Part003 source intake when source is supplied; directly audit 145→146 before Pass1**

@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART002 ENGLISH — E10–E17 SOURCE-CHECKED / COMPLETE; WHOLE-PART GLOSSARY RECONCILED / PASS**
+**PART002 FINAL CLOSED / FROZEN — ENGLISH E10–E17 SOURCE-CHECKED / COMPLETE**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -23,7 +23,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | Bilingual review | English against verified Tamil | 76–145 | **PASS / CLOSED** |
 | Release/readiness | Part002 | 76–145 | **PASS / CLOSED** |
 | Release-ready synchronization | Part002 | 76–145 | **PASS / CLOSED** |
-| Final closure / freeze | Part002 | 76–145 | **READY / NEXT** |
+| Final closure / freeze | Part002 | 76–145 | **PASS / CLOSED / FROZEN** |
 
 ## Current counts
 
@@ -58,6 +58,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
 - release/readiness — **PASS / CLOSED — 0 blockers**
 - release-ready synchronization — **PASS / CLOSED — 0 textual body drift**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
 
 ## Maintained Part002 English files
 
@@ -187,6 +188,4 @@ Exact accounting:
 
 ## Exact next activity
 
-Create and verify **Part002 final closure / freeze**.
-
-Do not begin Part003. Preserve outgoing 145→146 as pending until direct Part003 source intake.
+Part002 is **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**. When Part003 source is supplied, perform Part003 source intake first, assign its range from that file only, and directly audit 145→146 before Pass1.

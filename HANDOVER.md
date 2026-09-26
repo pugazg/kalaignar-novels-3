@@ -181,16 +181,19 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 durable release report — `works/ponnar-sankar/translations/en/PART_002_RELEASE_REPORT.md`
 - Part002 release-ready synchronization — **PASS / CLOSED — 0 textual body drift**
 - Part002 durable release-ready sync — `works/ponnar-sankar/PART_002_RELEASE_READY_SYNC.md`
-- Part002 exact next activity — **final closure / freeze**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- Part002 durable final closure — `works/ponnar-sankar/PART_002_FINAL_CLOSURE.md`
+- Part002 canonical / assembled Tamil / maintained English — **FROZEN**
+- Part002 exact next activity — **Part003 source intake when source is supplied**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 final closure frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 source-intake waiting frontier**
 
 ## Exact next activity
 
-Create and verify **Part002 final closure / freeze**.
+When the user supplies Part003, perform **Part003 source intake** and directly audit **145→146** before Pass1.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 release-ready synchronization is **PASS / CLOSED**. Create final closure next; keep 145→146 pending and do not begin Part003.
+Part001 and Part002 are both **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**; do not assign its range or classify 145→146 until its source is supplied.

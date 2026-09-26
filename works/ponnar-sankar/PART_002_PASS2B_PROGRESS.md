@@ -659,6 +659,6 @@ Decision:
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+When Part003 source is supplied, perform **Part003 source intake** and directly audit **145→146** before Pass1.
 
-Part002 English editorial review and bilingual review are **PASS / CLOSED**; release/readiness is **PASS / CLOSED**. Perform release-ready synchronization next; keep outgoing 145→146 pending.
+Part002 is **FINAL CLOSED / FROZEN**. Keep outgoing 145→146 pending until direct Part003 source intake.

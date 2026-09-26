@@ -95,4 +95,4 @@ Canonical Tamil and visual-fidelity metadata are verified for all **70/70** Part
 
 ## Exact next activity
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**; whole-Part glossary reconciliation, editorial review, bilingual review and release/readiness are **PASS / CLOSED**. Perform release-ready synchronization next; keep outgoing 145→146 pending and do not begin Part003.
+Part002 is **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**. When Part003 source is supplied, perform source intake first and directly audit **145→146** before Pass1.

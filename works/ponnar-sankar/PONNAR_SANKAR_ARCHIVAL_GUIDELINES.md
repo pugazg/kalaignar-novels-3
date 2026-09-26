@@ -254,4 +254,7 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
 - Part002 whole-Part bilingual review — **PASS / CLOSED — 8/8 pairs / 0 unresolved**
 - Part002 release/readiness — **PASS / CLOSED — 0 blockers**
-- exact next activity — **Part002 release-ready synchronization**
+- Part002 release-ready synchronization — **PASS / CLOSED**
+- Part002 final closure — **PASS / CLOSED / FROZEN**
+- Part002 canonical / assembled Tamil / maintained English — **FROZEN**
+- exact next activity — **Part003 source intake when source is supplied; direct 145→146 audit before Pass1**

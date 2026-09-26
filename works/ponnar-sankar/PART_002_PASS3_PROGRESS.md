@@ -292,6 +292,6 @@ For each scan:
 
 ## Exact next activity
 
-Perform **Part002 release-ready synchronization**.
+When Part003 source is supplied, perform **Part003 source intake** and directly audit **145→146** before Pass1.
 
-Part002 English editorial review and bilingual review are **PASS / CLOSED**; release/readiness is **PASS / CLOSED**. Perform release-ready synchronization next; keep Part001 frozen and outgoing 145→146 pending.
+Part002 is **FINAL CLOSED / FROZEN**. Keep Parts001–002 frozen; Part003 remains unregistered until source intake.

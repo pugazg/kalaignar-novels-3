@@ -89,6 +89,6 @@ Part001 assembled Tamil remains **FINAL CLOSED / FROZEN**.
 
 Part002 assembled Tamil is **VERIFIED / PASS / CLOSED**.
 
-Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Whole-Part glossary reconciliation, editorial review, bilingual review and release/readiness are **PASS / CLOSED**.
+Part002 is **FINAL CLOSED / FROZEN**. Canonical Tamil, assembled Tamil and maintained English are frozen.
 
-Exact next activity: **Part002 release-ready synchronization**. Do not begin Part003 canonical work.
+Exact next activity: **Part003 source intake when source is supplied; directly audit 145→146 before Pass1**.
