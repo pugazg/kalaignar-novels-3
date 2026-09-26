@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 30/70 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / BATCH 3 COMPLETE — 45/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -68,8 +68,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **30/70 — scans76–105**
-- pending — **40/70 — scans106–145**
+- reviewed — **45/70 — scans76–120**
+- pending — **25/70 — scans121–145**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -166,8 +166,48 @@ For each scan:
 - Part audit — **NOT STARTED**
 - outgoing 145→146 — **PENDING Part003 direct witness**
 
+## Batch 3 — scans106–120
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 106 | chapter10 continuation / alternating running header | 89 | 0 | REVIEWED / PASS |
+| 107 | chapter10 continuation / alternating running header | 90 | 0 | REVIEWED / PASS |
+| 108 | chapter10 close / substantial intentional blank lower field | 91 | 0 | REVIEWED / PASS |
+| 109 | chapter11 decorative opening / blue title + flourish / chapter number 11 | — | 0 | REVIEWED / PASS |
+| 110 | chapter11 continuation / alternating running header | 93 | 0 | REVIEWED / PASS |
+| 111 | chapter11 continuation / alternating running header | 94 | 0 | REVIEWED / PASS |
+| 112 | chapter11 continuation / alternating running header | 95 | 0 | REVIEWED / PASS |
+| 113 | chapter11 continuation / alternating running header | 96 | 0 | REVIEWED / PASS |
+| 114 | chapter11 continuation / alternating running header | 97 | 0 | REVIEWED / PASS |
+| 115 | chapter11 continuation / alternating running header | 98 | 0 | REVIEWED / PASS |
+| 116 | chapter11 continuation / alternating running header | 99 | 0 | REVIEWED / PASS |
+| 117 | chapter11 continuation / alternating running header | 100 | 0 | REVIEWED / PASS |
+| 118 | chapter11 close / lower non-body archival field with source-visible stamp + handwriting | 101 | 0 | REVIEWED / PASS |
+| 119 | chapter12 decorative opening / blue title + weapon ornament / chapter number 12 | — | 0 | REVIEWED / PASS |
+| 120 | chapter12 continuation / open into scan121 | 103 | 0 | REVIEWED / PASS |
+
+## Batch 3 result
+
+- scans106–120 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **45/70 — scans76–120**
+- pending — **25/70 — scans121–145**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan108 chapter10 close / substantial intentional blank lower field — **PASS**
+- scan109 chapter11 decorative opener / chapter number 11 / blue title and flourish / no ordinary running printed-page number — **PASS**
+- scan118 chapter11 close / lower non-body archival field with source-visible blue library stamp and handwritten accession / notation marks — **PASS**
+- scan119 chapter12 decorative opener / chapter number 12 / blue title and weapon ornament / no ordinary running printed-page number — **PASS**
+- scan120 exact open physical continuation into scan121 — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
 ## Exact next activity
 
-Process **Part002 Pass3 Batch3 — global scans106–120 / local pages31–45**.
+Process **Part002 Pass3 Batch4 — global scans121–135 / local pages46–60**.
 
 Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part002 records at `needs-review` / `needs-review`, Part001 frozen, Part audit not started, and outgoing 145→146 pending.

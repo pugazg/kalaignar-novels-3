@@ -97,15 +97,16 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass2B pending — **0/70**
 - Pass3 Batch1 / scans76–90 — **REVIEWED / PASS — 15/70**
 - Pass3 Batch2 / scans91–105 — **REVIEWED / PASS — 30/70 cumulative**
+- Pass3 Batch3 / scans106–120 — **REVIEWED / PASS — 45/70 cumulative**
 - Pass3 structural corrections — **0 cumulative**
 - Pass3 unresolved visual / structural questions — **0**
-- Pass3 — **IN PROGRESS — 30/70 REVIEWED / PASS**
-- Pass3 pending — **40/70 — scans106–145**
+- Pass3 — **IN PROGRESS — 45/70 REVIEWED / PASS**
+- Pass3 pending — **25/70 — scans121–145**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-Process **Part002 Pass3 Batch3 — global scans106–120 / local pages31–45**.
+Process **Part002 Pass3 Batch4 — global scans121–135 / local pages46–60**.
 
-Pass1 is closed at **70/70 TEXT-COMPLETE**. Pass2A is **CLOSED / COMPLETE / PASS — 70/70**. Pass2B is **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**. Pass3 Batches1–2 are **REVIEWED / PASS — 30/70 cumulative** with **0 structural corrections / 0 unresolved**; Batch3 scans106–120 is next.
+Pass1 is closed at **70/70 TEXT-COMPLETE**. Pass2A is **CLOSED / COMPLETE / PASS — 70/70**. Pass2B is **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**. Pass3 Batches1–3 are **REVIEWED / PASS — 45/70 cumulative** with **0 structural corrections / 0 unresolved**; Batch4 scans121–135 is next.
