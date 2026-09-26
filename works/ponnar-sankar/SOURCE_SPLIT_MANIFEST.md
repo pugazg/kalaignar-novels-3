@@ -76,9 +76,8 @@
 - Part002 English translation planning/setup: **COMPLETE / PASS**
 - Part002 English reserved batches: **E10–E17 / 8**
 - Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
-- Part002 English E10–E13: **SOURCE-CHECKED / COMPLETE**
-- Part002 English E14: **IN PROGRESS — scans109–110 drafted + directly checked**
-- Part002 English physical coverage: **scans76–110 / 35 of 70**
+- Part002 English E10–E14: **SOURCE-CHECKED / COMPLETE**
+- Part002 English physical coverage: **scans76–118 / 43 of 70**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part002 Pass2B cadence: **10 scans per batch**
 - Part003–Part008: **pending source intake**
@@ -87,4 +86,4 @@
 
 ## Current frontier
 
-**Part002 English E14 — scans111–118 / remaining 8 scans — next activity.**
+**Part002 English E15 — scans119–127 / chapter12 — next activity.**

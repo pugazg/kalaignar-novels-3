@@ -131,6 +131,6 @@ Outgoing:
 
 ## Exact next activity
 
-Part002 English E10–E13 are **SOURCE-CHECKED / COMPLETE** and E14 is **IN PROGRESS — scans109–110 drafted + directly checked**.
+Part002 English E10–E14 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage **scans76–118 / 43 of 70**.
 
-Next: **E14 scans111–118 / remaining 8 scans**. Do not begin Part003 canonical work. Part003 remains **NOT REGISTERED / pending source intake**, and outgoing **145→146** remains pending until a direct Part003 witness is supplied.
+Next: **E15 scans119–127 / chapter12**. Do not begin Part003 canonical work. Part003 remains **NOT REGISTERED / pending source intake**, and outgoing **145→146** remains pending until a direct Part003 witness is supplied.

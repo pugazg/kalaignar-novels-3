@@ -208,20 +208,28 @@ Locked / active forms:
 | `அத்தை` / `மாமா` | **Aththai / Mama** where the intimate source vocative is active |
 | `தாலி` | ***thaali*** |
 
-### E14 partial frontier — scans109–110
+### E14 — scans109–118
 
-E14 is **IN PROGRESS — 2/10 scans drafted + directly checked**.
+E14 is **SOURCE-CHECKED / COMPLETE**.
 
-The chapter-title source `ஆசையில் அருக்காணித் தங்கம்` remains **UNRESOLVED AS AN ENGLISH SEMANTIC TITLE** pending whole-batch source-check. The maintained partial file therefore uses the provisional source-facing romanization:
+Source title `ஆசையில் அருக்காணித் தங்கம்` → maintained English display title **Arukkaani Thangam in Longing**.
 
-**Aasaiyil Arukkaani Thangam**
+Locked / active forms:
 
-This provisional title is not a final glossary decision and must be revisited when E14 closes.
+| Tamil source | English handling |
+|---|---|
+| `அருக்காணித் தங்கம்` | **Arukkaani Thangam** |
+| `நாச்சியாரம்மா` | **Naachchiyaramma** in direct address |
+| `வரகுண்ணாப் பெருங்குடி வேளாளர்` | **Varagunnaa Perungkudi Vellalar** — source-facing lineage phrase |
+| `வாழவந்திச் சீமை` | **Vaazhavanthi region** |
+| `மண்ணுடையான்` | **Mannudaiyaan** |
+| `மாவிளக்கு மாவு` | ***maavilakku* flour** |
+| `மோர்` | **buttermilk** |
 
-Partial direct-accounting:
-- Tamil literary/display blocks — **13**
-- English literary/display blocks — **13**
-- internal source-boundary comments — **1/1**
+Whole-batch direct-accounting:
+- Tamil literary/display blocks — **58**
+- English literary/display blocks — **58**
+- internal source-boundary comments — **9/9**
 - unsupported English insertions — **0**
 - canonical / assembled Tamil edits — **0 / 0**
 
@@ -243,7 +251,7 @@ Partial direct-accounting:
 
 ## Setup result
 
-**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E13 SOURCE-CHECKED; E14 IN PROGRESS**
+**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E14 SOURCE-CHECKED / COMPLETE**
 
 - frozen Part001 glossary mutated — **0**
 - carry-forward protected distinctions registered — **PASS**

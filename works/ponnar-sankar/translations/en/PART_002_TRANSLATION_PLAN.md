@@ -217,12 +217,12 @@ Part003 canonical work remains blocked until Part002 final closure and direct Pa
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- fully translated Part002 files — **4/8**
-- source-checked Part002 files — **4/8**
+- fully translated Part002 files — **5/8**
+- source-checked Part002 files — **5/8**
 - unresolved planning holds — **0**
 - English literary prose drafted in planning gate — **0**
-- current physical English processing coverage after user-directed iteration — **scans76–110 / 35 of 70**
-- current partial batch — **E14 scans109–110 / 2 of 10**
+- current physical English processing coverage — **scans76–118 / 43 of 70**
+- current partial batch — **none**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
 - frozen Part001 English edits caused by planning — **0**
@@ -248,12 +248,12 @@ Completed in this iteration:
 - frozen Part001 English edits — **0**
 - Part003 leakage — **0**
 
-E14's provisional source-facing title remains **Aasaiyil Arukkaani Thangam** until whole-batch source-check. A durable `E14_SOURCE_CHECK.md` is intentionally not created while scans111–118 remain pending.
+E14 subsequently closed **SOURCE-CHECKED / COMPLETE — scans109–118**, with maintained English title **Arukkaani Thangam in Longing** and exact Tamil/English block accounting **58 / 58**.
+
+Current cumulative translated/source-checked coverage — **scans76–118 / 43 of 70**.
 
 ## Exact next activity
 
-Continue **E14 — scans111–118 / remaining 8 scans**.
+Process **E15 — scans119–127 — chapter12 `பூனையில் போர்க்கோலம்`**.
 
-Complete `sections/13-aasaiyil-arukkaani-thangam.md`, resolve the semantic English chapter-title decision during direct whole-batch source-check, and create `E14_SOURCE_CHECK.md` only after scans109–118 close **SOURCE-CHECKED / COMPLETE**.
-
-After clean E14 closure, advance to **E15 — scans119–127**.
+Draft the maintained English file and complete direct whole-batch source-check before advancing to E16.

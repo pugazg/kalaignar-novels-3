@@ -212,9 +212,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002 English translation planning/setup: **COMPLETE / PASS**
 - Part002 English reserved batches: **E10–E17 / 8**
 - Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
-- Part002 English E10–E13: **SOURCE-CHECKED / COMPLETE**
-- Part002 English E14: **IN PROGRESS — scans109–110 drafted + directly checked**
-- Part002 English physical coverage: **scans76–110 / 35 of 70**
+- Part002 English E10–E14: **SOURCE-CHECKED / COMPLETE**
+- Part002 English physical coverage: **scans76–118 / 43 of 70**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 English E14 — scans111–118 / remaining 8 scans**
+- exact next activity: **Part002 English E15 — scans119–127 / chapter12**

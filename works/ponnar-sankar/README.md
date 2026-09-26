@@ -84,9 +84,9 @@
 - Part002 English translation planning/setup: **COMPLETE / PASS**
 - Part002 English reserved batches: **E10–E17 / 8**
 - Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
-- Part002 English fully translated/source-checked: **4/8 / 4/8**
-- Part002 English partial translated files: **1 / E14 scans109–110**
-- Part002 English physical coverage: **scans76–110 / 35 of 70**
+- Part002 English fully translated/source-checked: **5/8 / 5/8**
+- Part002 English partial translated files: **0**
+- Part002 English physical coverage: **scans76–118 / 43 of 70**
 - Part002 English controls: `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - durable Part002 Tamil archival-ready checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
@@ -137,6 +137,6 @@
 
 ## Exact next activity
 
-Process **Part002 English E14 — scans111–118 / remaining 8 scans**.
+Process **Part002 English E15 — scans119–127 / chapter12 `பூனையில் போர்க்கோலம்`**.
 
-Keep Part001 frozen. Part002 English E10–E13 are **SOURCE-CHECKED / COMPLETE**; E14 scans109–110 are drafted + directly checked. Continue E14 scans111–118; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 English E10–E14 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–118. Process E15 scans119–127 next; keep 145→146 pending and do not begin Part003.

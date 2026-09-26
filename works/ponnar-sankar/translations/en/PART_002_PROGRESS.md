@@ -2,7 +2,7 @@
 
 ## Overall state
 
-**PART002 ENGLISH IN PROGRESS — E10–E13 SOURCE-CHECKED / COMPLETE; E14 PARTIAL — scans109–110**
+**PART002 ENGLISH IN PROGRESS — E10–E14 SOURCE-CHECKED / COMPLETE — scans76–118**
 
 Part001 English remains **FINAL CLOSED / FROZEN**.
 
@@ -14,7 +14,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | **E11** | section10 — `கரகம் விடும் திருவிழா` | 81–89 | **SOURCE-CHECKED / COMPLETE** |
 | **E12** | section11 — `மணியங்குறிச்சி குறிஞ்சி மான்கள்` | 90–98 | **SOURCE-CHECKED / COMPLETE** |
 | **E13** | section12 — `அர்ச்சனை- யார் வயிறுக்கு?` | 99–108 | **SOURCE-CHECKED / COMPLETE** |
-| **E14** | section13 — `ஆசையில் அருக்காணித் தங்கம்` | 109–118 | **IN PROGRESS — scans109–110 drafted + directly checked; scans111–118 pending** |
+| **E14** | section13 — `ஆசையில் அருக்காணித் தங்கம்` | 109–118 | **SOURCE-CHECKED / COMPLETE** |
 | **E15** | section14 — `பூனையில் போர்க்கோலம்` | 119–127 | **PLANNED / NOT STARTED** |
 | **E16** | section15 — `வழியில் வந்த விபரீதம்` | 128–137 | **PLANNED / NOT STARTED** |
 | **E17** | section16 — `ராச்சாண்டார் மலைநோக்கி...` | 138–145 | **PLANNED / NOT STARTED** |
@@ -33,11 +33,11 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - Tamil assembled files — **8/8 VERIFIED / PASS / CLOSED**
 - Part002 English planned batches — **E10–E17 / 8**
 - Part002 English planned files — **8**
-- Part002 fully translated files — **4/8**
-- Part002 partial translated files — **1**
-- Part002 source-checked complete files — **4/8**
-- physical Part002 English processing coverage — **scans76–110 / 35 of 70**
-- physical Part002 English remaining — **scans111–145 / 35 of 70**
+- Part002 fully translated files — **5/8**
+- Part002 partial translated files — **0**
+- Part002 source-checked complete files — **5/8**
+- physical Part002 English processing coverage — **scans76–118 / 43 of 70**
+- physical Part002 English remaining — **scans119–145 / 27 of 70**
 - planned source coverage — **scans76–145**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
@@ -58,7 +58,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 | E11 | `sections/10-karagam-vidum-thiruvizha.md` | scans81–89 / complete |
 | E12 | `sections/11-maniyangurichchi-kurinji-maangal.md` | scans90–98 / complete |
 | E13 | `sections/12-archchanai-yaar-vayirukku.md` | scans99–108 / complete |
-| E14 | `sections/13-aasaiyil-arukkaani-thangam.md` | scans109–110 / partial |
+| E14 | `sections/13-aasaiyil-arukkaani-thangam.md` | scans109–118 / complete |
 | E15 | `sections/14-poonaiyil-porkkolam.md` | not created |
 | E16 | `sections/15-vazhiyil-vandha-vibareetham.md` | not created |
 | E17 | `sections/16-raachchaandaar-malai-nokki.md` | not created |
@@ -69,7 +69,7 @@ Part001 English remains **FINAL CLOSED / FROZEN**.
 - `E11_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans81–89**
 - `E12_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans90–98**
 - `E13_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans99–108**
-- E14 source-check record — **NOT CREATED / whole E14 batch not yet complete**
+- `E14_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE — scans109–118**
 
 ## User-directed 35-scan iteration — scans76–110
 
@@ -117,17 +117,15 @@ Exact accounting:
 - source-boundary comments — **9 / 9**
 - source-check — **PASS / COMPLETE**
 
-## E14 partial checkpoint — scans109–110
+## E14 closure
 
-- translated physical scans — **2/10**
-- pending E14 scans — **111–118 / 8**
-- Tamil / English literary-display blocks for translated segment — **13 / 13**
-- internal source-boundary comments in translated segment — **1 / 1**
-- provisional display title — **Aasaiyil Arukkaani Thangam**
-- semantic English chapter-title decision — **DEFERRED until whole E14 source-check**
+- translated physical scans — **10/10 / scans109–118**
+- Tamil / English literary-display blocks — **58 / 58**
+- internal source-boundary comments — **9 / 9**
+- maintained display title — **Arukkaani Thangam in Longing**
 - unsupported English insertions — **0**
 - canonical / assembled Tamil edits — **0 / 0**
-- durable `E14_SOURCE_CHECK.md` — **NOT CREATED / correctly blocked until whole batch closes**
+- durable `E14_SOURCE_CHECK.md` — **SOURCE-CHECKED / COMPLETE**
 
 ## Cross-Part locks
 
@@ -145,8 +143,6 @@ Exact accounting:
 
 ## Exact next activity
 
-Continue **E14 — scans111–118 / remaining 8 scans**.
+Process **E15 — scans119–127 — chapter12 `பூனையில் போர்க்கோலம்`**.
 
-Append those scans to `sections/13-aasaiyil-arukkaani-thangam.md`, resolve the semantic English chapter title during whole-batch source-check, then create `E14_SOURCE_CHECK.md` only if all **10/10 scans109–118** pass direct comparison.
-
-After clean E14 closure, next batch is **E15 — scans119–127**.
+Draft the maintained English file from the verified assembled Tamil section and complete direct whole-batch source-check before advancing to E16.
