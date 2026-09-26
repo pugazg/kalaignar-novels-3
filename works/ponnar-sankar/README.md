@@ -139,6 +139,6 @@
 
 ## Exact next activity
 
-Process **Part002 English editorial review — all 8 maintained English files / scans76–145**.
+Process **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
 
-Keep Part001 frozen. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** and whole-Part English glossary reconciliation is **RECONCILED / PASS**. Perform English editorial review next; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 English editorial review is **PASS / CLOSED** after glossary reconciliation. Perform whole-Part bilingual review next; keep 145→146 pending and do not begin Part003.

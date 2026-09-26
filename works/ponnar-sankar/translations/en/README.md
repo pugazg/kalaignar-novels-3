@@ -155,8 +155,10 @@ Planning/setup result:
 - canonical / assembled Tamil mutation — **0 / 0**
 - Part003 leakage — **0**
 
+Part002 English editorial review — **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved holds**. Durable record: `PART_002_TRANSLATION_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part002 English editorial review — all 8 maintained English files / scans76–145**.
+Perform **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
 
-Use `PART_002_GLOSSARY_RECONCILIATION.md` as the closed glossary control. Do not begin bilingual review, release/readiness, final closure or Part003 in the same activity.
+Do not begin release/readiness, final closure or Part003 in the same activity.

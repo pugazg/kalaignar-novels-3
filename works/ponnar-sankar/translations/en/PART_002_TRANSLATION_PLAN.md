@@ -260,8 +260,10 @@ Current cumulative translated/source-checked coverage — **scans76–145 / 70 o
 
 Whole-Part English glossary reconciliation subsequently closed **RECONCILED / PASS** over all **8/8** maintained Part002 English files, with **0 accidental drift / 0 English section edits / 0 unresolved holds**. Durable record: `PART_002_GLOSSARY_RECONCILIATION.md`.
 
+Whole-Part English editorial review subsequently closed **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved holds**. Durable record: `PART_002_TRANSLATION_REVIEW.md`.
+
 ## Exact next activity
 
-Perform **Part002 English editorial review — all 8 maintained English files / scans76–145**.
+Perform **Part002 whole-Part bilingual review — verified Tamil vs maintained English / scans76–145**.
 
-Do not begin whole-Part bilingual review, release/readiness, final closure or Part003 until the editorial gate closes.
+Do not begin release/readiness, final closure or Part003 until the bilingual gate closes.
