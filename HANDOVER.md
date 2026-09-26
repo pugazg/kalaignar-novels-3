@@ -16,7 +16,7 @@
 - supplied-source design: **8 split PDF files**, each <= **50 MB**
 - split basis: **file size**, not a fixed page count
 - source family / archive identifier: **TVA_BOK_0065560**
-- registered physical scan extent: **1–145 across Parts001–002**
+- registered physical scan extent: **1–215 across Parts001–003**
 - complete-work physical scan count: **pending intake of Parts003–008**
 - source PDFs remain outside Git
 
@@ -53,7 +53,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **2/8**
+- registered Parts — **3/8**
 - Part001 source intake — **COMPLETE**
 - Part001 canonical page records — **75/75 — scans1–75**
 - Part001 Pass 1 — **COMPLETE**
@@ -156,7 +156,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 English fully translated/source-checked — **8/8 / 8/8**
 - Part002 English partial translated files — **0**
 - Part002 English physical processing coverage — **scans76–145 / 70 of 70**
-- Part002 English outgoing 145→146 — **PENDING Part003 direct witness**
+- Part002 English terminal scan remains frozen at145; boundary 145→146 is now **GENUINE CONTINUATION / AUDITED / PASS** from direct Part003 witness
 - Part002 whole-Part English glossary reconciliation — **RECONCILED / PASS — 8/8 files / 0 drift / 0 English section edits / 0 unresolved**
 - active Part002 English controls — `works/ponnar-sankar/translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - Part002 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
@@ -166,7 +166,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Pass2B cadence — **10 scans per batch**
 - durable Part002 Pass2B tracker — `works/ponnar-sankar/PART_002_PASS2B_PROGRESS.md`
 - durable Part002 Pass2A tracker — `works/ponnar-sankar/PART_002_PASS2A_PROGRESS.md`
-- Part002 outgoing 145→146 — **PENDING Part003 direct witness**
+- Part002→Part003 boundary 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002 chapter9 / scan90 — **`மணியங்குறிச்சி குறிஞ்சி மான்கள்`**
 - Part002 chapter10 / scan99 — **`அர்ச்சனை- யார் வயிறுக்கு?`**
 - Part002 chapter11 / scan109 — **`ஆசையில் அருக்காணித் தங்கம்`**
@@ -184,16 +184,22 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 durable final closure — `works/ponnar-sankar/PART_002_FINAL_CLOSURE.md`
 - Part002 canonical / assembled Tamil / maintained English — **FROZEN**
-- Part002 exact next activity — **Part003 source intake when source is supplied**
-- Part003–Part008 — **NOT REGISTERED / pending source intake**
+- Part003 source intake — **REGISTERED / COMPLETE — scans146–215 / 70 pages**
+- Part003 source — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
+- Part003 SHA-256 — `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab`
+- Part003 incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- Part003 Pass1 — **ACTIVATED / READY — 0/70**
+- Part003 outgoing 215→216 — **PENDING Part004 direct witness**
+- Part003 exact next activity — **Pass1 Batch1 / scans146–155 / local pages1–10**
+- Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 source-intake waiting frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass1 Batch1 frontier**
 
 ## Exact next activity
 
-When the user supplies Part003, perform **Part003 source intake** and directly audit **145→146** before Pass1.
+Process **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**.
 
-Part001 and Part002 are both **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**; do not assign its range or classify 145→146 until its source is supplied.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 is **REGISTERED / COMPLETE** and Pass1 is active. Do not import scan216 / Part004 wording.

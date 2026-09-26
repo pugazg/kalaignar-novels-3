@@ -220,3 +220,24 @@ When the user supplies Part003:
 5. begin Part003 Pass1 only after intake and boundary handling are source-backed.
 
 **STOP here. Part002 is FINAL CLOSED / FROZEN. Part003 transcription was not begun.**
+
+
+## Post-closure Part003 boundary addendum
+
+After Part002 final closure, the user supplied the controlling Part003 source:
+
+`TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
+
+Direct adjacent-source inspection has now closed the formerly pending boundary:
+
+- **145→146 — GENUINE CONTINUATION / AUDITED / PASS**
+- Part003 local page1 = global scan **146 / printed129**
+- same chapter14 `ராச்சாண்டார் மலைநோக்கி...` scene continues directly
+- split-word reconstruction — **0**
+- frozen Part002 canonical Tamil changes — **0**
+- frozen Part002 assembled Tamil changes — **0**
+- frozen Part002 maintained English changes — **0**
+- unsupported bridge text — **0**
+- durable audit — `PART_003_BOUNDARY_AUDIT_145_146.md`
+
+This addendum does not reopen Part002. Part002 remains **FINAL CLOSED / FROZEN**.

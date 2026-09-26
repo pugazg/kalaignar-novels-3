@@ -1,45 +1,78 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 source intake pending
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass1 Batch1 — scans146–155
 
-Continue in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable frozen state
 
 - Part001 — **FINAL CLOSED / FROZEN**
 - Part002 — **FINAL CLOSED / FROZEN**
-- Part002 canonical Tamil — **70/70 verified / scans76–145**
-- Part002 assembled Tamil — **8/8 VERIFIED / PASS / CLOSED**
-- Part002 maintained English — **E10–E17 / 8/8 SOURCE-CHECKED / COMPLETE / FROZEN**
-- Part002 glossary reconciliation — **RECONCILED / PASS**
-- Part002 English editorial review — **PASS / CLOSED**
-- Part002 whole-Part bilingual review — **PASS / CLOSED**
-- Part002 release/readiness — **PASS / CLOSED**
-- Part002 release-ready synchronization — **PASS / CLOSED**
-- durable Part002 final closure — `works/ponnar-sankar/PART_002_FINAL_CLOSURE.md`
+- Part002 canonical Tamil / assembled Tamil / maintained English — **FROZEN**
 
-## Boundary state
+Do not reopen Parts001–002 merely for stylistic polishing.
 
-- 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
-- 145→146 — **PENDING Part003 direct source witness**
+## Part003 source intake
 
-Do not infer or invent scan146 or any Part003 text.
+Controlling source:
 
-## Part003 state
+`TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
 
-- **NOT REGISTERED**
-- source PDF — **not supplied in the active workflow**
-- global range — **not assigned**
-- canonical records — **0**
-- transcription authorized without source intake — **NO**
+Registered facts:
+
+- bytes — **49,598,408**
+- SHA-256 — `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab`
+- local pages — **70**
+- global scans — **146–215**
+- source text layer — **absent / no usable parsed text**
+- authority — **rendered source pixels**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
+Durable controls:
+
+- `works/ponnar-sankar/SOURCE_INTAKE_PART_003.md`
+- `works/ponnar-sankar/PART_003_BOUNDARY_AUDIT_145_146.md`
+- `works/ponnar-sankar/PART_003_PASS1_PROGRESS.md`
+
+## Source structure
+
+- scan146 / local1 / printed129 — chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close
+- scan147 / local2 — chapter15 `புறப்பட்டது போர்ப்படை` opening
+- scan155 / local10 — chapter16 `போர்முனை எது?` opening
+- scan164 / local19 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?`
+- scan173 / local28 — chapter18 `சுயநலமா? பொதுநலமா?`
+- scan181 / local36 — chapter19 `உண்மையின் உறைவிடம்`
+- scan191 / local46 — chapter20 `அப்பன் அருள்வாக்கு`
+- scan200 / local55 — chapter21 `நேர்மையைப் பற்றி வீரமலை`
+- scan208 / local63 — chapter22 `தியாகத்தின் எல்லை`
+- scan215 / local70 / printed198 — chapter22 continuation at Part003 edge
 
 ## Exact next activity
 
-When the user supplies Part003:
+Process **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**.
 
-1. perform **Part003 source intake**;
-2. register exact filename, bytes, SHA-256 and local page count from that supplied file;
-3. assign Part003's global scan range from the file only;
-4. directly audit **145→146** using the Part002 terminal witness and Part003 first page;
-5. register Part003 controls/provenance;
-6. begin Part003 Pass1 only after intake and boundary handling are source-backed.
+Create canonical records:
 
-Until Part003 source is supplied, do not modify frozen Parts001–002 merely for stylistic polishing.
+- `pages/0146-...` through `pages/0155-...`
+- one physical source scan per record
+- exact `scan_page`, `part: 3`, `part_page`, printed page and source filename
+- source-visible Tamil only
+- direct source-pixel transcription
+- preserve paragraph/dialogue/display structure
+- retain chapter headings only where source-visible
+- no inferred running printed page on decorative chapter-openers
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+Do not import scan156 wording into scan155.
+
+## Batch1 structural expectation
+
+- scan146 closes chapter14 continuation from frozen Part002
+- scans147–154 cover chapter15 `புறப்பட்டது போர்ப்படை`
+- scan155 opens chapter16 `போர்முனை எது?`
+
+## Stop condition
+
+Stop after **Batch1 scans146–155 = 10/70 TEXT-COMPLETE** with progress controls synchronized.
+
+Do not begin scan156 in the same activity.

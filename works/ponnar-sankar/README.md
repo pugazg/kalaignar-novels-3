@@ -2,14 +2,14 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PENDING SOURCE INTAKE**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 REGISTERED / PASS1 ACTIVE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
 - each split: **<=50 MB**
 - source family: **TVA_BOK_0065560**
 - total physical scans for complete work: **pending remaining Part intakes**
-- registered physical scans: **145 — Parts001–002**
+- registered physical scans: **215 — Parts001–003**
 - canonical page records: **75/75 — scans1–75**
 - Pass1 textual transcriptions: **74/75 — scans1–15,17–75**
 - Pass1 image-preserved page: **1/75 — scan16 map plate**
@@ -101,9 +101,13 @@
 - durable Part002 Pass3 tracker: `PART_002_PASS3_PROGRESS.md`
 - Part002 Pass2B cadence: **10 scans per batch**
 - durable Part002 Pass2B tracker: `PART_002_PASS2B_PROGRESS.md`
-- Part003–Part008: **pending intake / NOT REGISTERED**
+- Part003: **REGISTERED / COMPLETE — 70 local pages / scans146–215**
+- Part003 incoming 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
+- Part003 Pass1: **ACTIVATED / READY — 0/70**
+- Part003 outgoing 215→216: **PENDING Part004 direct witness**
+- Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
-- Part002 outgoing boundary 145→146: **PENDING Part003 witness**
+- Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 
 ## Authority
 
@@ -152,6 +156,9 @@
 - `translations/en/PART_002_RELEASE_REPORT.md`
 - `PART_002_RELEASE_READY_SYNC.md`
 - `PART_002_FINAL_CLOSURE.md`
+- `SOURCE_INTAKE_PART_003.md`
+- `PART_003_BOUNDARY_AUDIT_145_146.md`
+- `PART_003_PASS1_PROGRESS.md`
 - `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
@@ -161,6 +168,6 @@
 
 ## Exact next activity
 
-When Part003 source is supplied, perform **Part003 source intake** and directly audit **145→146** before Pass1.
+Process **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**.
 
-Keep Parts001–002 frozen. Part003 remains **NOT REGISTERED / pending source intake**; do not assign its range or begin canonical work without the supplied Part003 source.
+Keep Parts001–002 frozen. Part003 Pass1 is active; create only scans146–155 in the next batch and do not import scan156 or Part004 content.

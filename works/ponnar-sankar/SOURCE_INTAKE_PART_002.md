@@ -33,7 +33,7 @@ Source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_0
 
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
 - boundary type: **same chapter / same Maayavar–Raakkiyannan conversation; sentence-boundary continuation, not a split word**
-- outgoing **145→146 — PENDING Part003 direct witness**
+- outgoing **145→146 — GENUINE CONTINUATION / AUDITED / PASS**
 
 No text is reconstructed across either split boundary. Incoming classification comes from direct inspection of Part001 scan75 and Part002 local page1.
 
@@ -60,7 +60,7 @@ Canonical `scan_page` remains the global physical scan number.
 - [x] rendered-page authority recorded
 - [x] manifest row synchronized in this activity
 - [x] incoming boundary directly audited
-- [x] outgoing boundary left pending until Part003 adjacent witness
+- [x] outgoing boundary directly audited after Part003 source intake
 
 ## Pass1 activation result
 
@@ -114,13 +114,13 @@ Canonical `scan_page` remains the global physical scan number.
 - English planned coverage — **scans76–145 / 0 missing / 0 duplicate**
 - English E10–E17 — **SOURCE-CHECKED / COMPLETE — 8/8**
 - English physical processing coverage — **scans76–145 / 70 of 70**
-- English outgoing 145→146 — **PENDING Part003 direct witness**
+- English terminal scan remains frozen at145; source boundary 145→146 is now **GENUINE CONTINUATION / AUDITED / PASS**
 - whole-Part English glossary reconciliation — **RECONCILED / PASS — 8/8 files / 0 drift / 0 section edits / 0 unresolved**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-When Part003 source is supplied, perform **Part003 source intake** and directly audit **145→146** before Pass1.
+Process **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**.
 
-Part002 is **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**. When Part003 source is supplied, perform source intake first and directly audit **145→146** before Pass1.
+Part002 remains **FINAL CLOSED / FROZEN**. Part003 source intake is **REGISTERED / COMPLETE**, 145→146 is **GENUINE CONTINUATION / AUDITED / PASS**, and Part003 Pass1 is active.

@@ -156,12 +156,13 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - Part001: local **1–75** → global **1–75** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf`
 - Part002: local **1–70** → global **76–145** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
-- Part003–Part008: **pending intake; no global ranges assigned**
+- Part003: local **1–70** → global **146–215** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
+- Part004–Part008: **pending intake; no global ranges assigned**
 
 ## Current state
 
-- registered Parts: **2/8**
-- registered physical scan rows: **145**
+- registered Parts: **3/8**
+- registered physical scan rows: **145 canonical rows + Part003 registered range 146–215 pending Pass1 records**
 - canonical page records: **145 total — Part001 75/75 frozen + Part002 70/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
@@ -222,5 +223,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002 release-ready synchronization: **PASS / CLOSED**
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
-- outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part003 source intake when source is supplied; directly audit 145→146 before Pass1**
+- Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
+- Part003 outgoing 215→216: **PENDING Part004 direct witness**
+- Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
+- Part003 Pass1: **ACTIVATED / READY — 0/70**
+- exact next activity: **Part003 Pass1 Batch1 — scans146–155 / local pages1–10**
