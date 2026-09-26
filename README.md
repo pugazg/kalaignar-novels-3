@@ -13,7 +13,7 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Tamil gates CLOSED through assembled Tamil VERIFIED / PASS / CLOSED — 8/8; English E10–E16 SOURCE-CHECKED / COMPLETE; English physical coverage scans76–137 / 62 of 70**
+- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Tamil gates CLOSED through assembled Tamil VERIFIED / PASS / CLOSED — 8/8; English E10–E17 SOURCE-CHECKED / COMPLETE — 8/8 files / scans76–145 / 70 of 70; outgoing 145→146 PENDING Part003 direct witness**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -46,6 +46,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
 
-Part001 remains frozen. Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE** with scans76–137 translated and source-checked. E17 scans138–145 is next; Part003 remains blocked.
+Part001 remains frozen. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with scans76–145 fully translated and source-checked. Whole-Part English glossary reconciliation is next; Part003 remains blocked.

@@ -112,13 +112,14 @@ Canonical `scan_page` remains the global physical scan number.
 - English translation planning/setup — **COMPLETE / PASS**
 - English reserved batches — **E10–E17 / 8**
 - English planned coverage — **scans76–145 / 0 missing / 0 duplicate**
-- English E10–E16 — **SOURCE-CHECKED / COMPLETE**
-- English physical processing coverage — **scans76–137 / 62 of 70**
+- English E10–E17 — **SOURCE-CHECKED / COMPLETE — 8/8**
+- English physical processing coverage — **scans76–145 / 70 of 70**
+- English outgoing 145→146 — **PENDING Part003 direct witness**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-Process **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
 
-All Tamil gates and assembled Tamil are closed. Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–137. Process E17 scans138–145 next; keep 145→146 pending.
+All Tamil gates and assembled Tamil are closed. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–145. Perform whole-Part English glossary reconciliation next; keep 145→146 pending.

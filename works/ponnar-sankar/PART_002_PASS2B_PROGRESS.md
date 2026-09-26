@@ -659,6 +659,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
 
-Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–137. Process E17 scans138–145; keep 145→146 pending.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–145. Perform whole-Part English glossary reconciliation next; keep 145→146 pending.

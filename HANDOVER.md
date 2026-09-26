@@ -153,9 +153,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 English translation planning/setup — **COMPLETE / PASS**
 - Part002 English reserved batches — **E10–E17 / 8**
 - Part002 English planned coverage — **scans76–145 / 0 missing / 0 duplicate**
-- Part002 English fully translated/source-checked — **7/8 / 7/8**
+- Part002 English fully translated/source-checked — **8/8 / 8/8**
 - Part002 English partial translated files — **0**
-- Part002 English physical processing coverage — **scans76–137 / 62 of 70**
+- Part002 English physical processing coverage — **scans76–145 / 70 of 70**
+- Part002 English outgoing 145→146 — **PENDING Part003 direct witness**
 - active Part002 English controls — `works/ponnar-sankar/translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - Part002 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
 - durable Part002 Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_002_TAMIL_ARCHIVAL_READY.md`
@@ -171,16 +172,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **English E17 / scans138–145 / chapter14**
+- Part002 exact next activity — **whole-Part English glossary reconciliation across E10–E17**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 English E17 scans138–145 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 whole-Part English glossary reconciliation frontier**
 
 ## Exact next activity
 
-Process **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage **scans76–137 / 62 of 70**. Process E17 next; keep 145→146 pending and do not begin Part003.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with full physical coverage **scans76–145 / 70 of 70**. Reconcile the Part002 English glossary next; keep 145→146 pending and do not begin Part003.

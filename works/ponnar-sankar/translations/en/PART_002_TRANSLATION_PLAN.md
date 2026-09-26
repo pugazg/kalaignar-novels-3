@@ -217,11 +217,11 @@ Part003 canonical work remains blocked until Part002 final closure and direct Pa
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- fully translated Part002 files — **7/8**
-- source-checked Part002 files — **7/8**
+- fully translated Part002 files — **8/8**
+- source-checked Part002 files — **8/8**
 - unresolved planning holds — **0**
 - English literary prose drafted in planning gate — **0**
-- current physical English processing coverage — **scans76–137 / 62 of 70**
+- current physical English processing coverage — **scans76–145 / 70 of 70**
 - current partial batch — **none**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -254,10 +254,12 @@ E15 subsequently closed **SOURCE-CHECKED / COMPLETE — scans119–127**, with m
 
 E16 subsequently closed **SOURCE-CHECKED / COMPLETE — scans128–137**, with maintained English title **A Calamity on the Way** and exact Tamil/English block accounting **58 / 58**.
 
-Current cumulative translated/source-checked coverage — **scans76–137 / 62 of 70**.
+E17 subsequently closed **SOURCE-CHECKED / COMPLETE — scans138–145**, with maintained English title **Toward Raachchaandaar Malai...**, exact Tamil/English block accounting **43 / 43**, all **7/7** internal source-boundary comments retained, and outgoing **145→146** still **PENDING Part003 direct witness**.
+
+Current cumulative translated/source-checked coverage — **scans76–145 / 70 of 70**.
 
 ## Exact next activity
 
-Process **E17 — scans138–145 — chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Perform **Part002 whole-Part English glossary reconciliation** across E10–E17.
 
-Draft the maintained English file, preserve the unresolved outgoing 145→146 split without importing Part003 wording, and complete direct whole-batch source-check.
+Do not begin editorial review, bilingual review, release work or Part003 in the same reconciliation step.

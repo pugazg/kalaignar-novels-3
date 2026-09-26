@@ -84,9 +84,10 @@
 - Part002 English translation planning/setup: **COMPLETE / PASS**
 - Part002 English reserved batches: **E10–E17 / 8**
 - Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
-- Part002 English fully translated/source-checked: **7/8 / 7/8**
+- Part002 English fully translated/source-checked: **8/8 / 8/8**
 - Part002 English partial translated files: **0**
-- Part002 English physical coverage: **scans76–137 / 62 of 70**
+- Part002 English physical coverage: **scans76–145 / 70 of 70**
+- Part002 English outgoing 145→146: **PENDING Part003 direct witness**
 - Part002 English controls: `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - durable Part002 Tamil archival-ready checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
@@ -137,6 +138,6 @@
 
 ## Exact next activity
 
-Process **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**.
+Process **Part002 whole-Part English glossary reconciliation across E10–E17**.
 
-Keep Part001 frozen. Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–137. Process E17 scans138–145 next; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE** with cumulative coverage scans76–145. Perform whole-Part English glossary reconciliation next; keep 145→146 pending and do not begin Part003.

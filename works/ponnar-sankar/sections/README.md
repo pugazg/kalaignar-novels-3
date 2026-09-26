@@ -89,6 +89,6 @@ Part001 assembled Tamil remains **FINAL CLOSED / FROZEN**.
 
 Part002 assembled Tamil is **VERIFIED / PASS / CLOSED**.
 
-Part002 English E10–E16 are **SOURCE-CHECKED / COMPLETE**. English physical coverage is **scans76–137 / 62 of 70**.
+Part002 English E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. English physical coverage is **scans76–145 / 70 of 70**.
 
-Exact next activity: **Part002 English E17 — scans138–145 / chapter14 `ராச்சாண்டார் மலைநோக்கி...`**. Do not begin Part003 canonical work.
+Exact next activity: **Part002 whole-Part English glossary reconciliation across E10–E17**. Do not begin Part003 canonical work.

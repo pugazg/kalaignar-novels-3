@@ -290,6 +290,35 @@ Whole-batch direct-accounting:
 - unsupported English insertions — **0**
 - canonical / assembled Tamil edits — **0 / 0**
 
+## E17 — scans138–145
+
+E17 is **SOURCE-CHECKED / COMPLETE**.
+
+Source title `ராச்சாண்டார் மலைநோக்கி...` → maintained English display title **Toward Raachchaandaar Malai...**
+
+Locked / active forms:
+
+| Tamil source | English handling |
+|---|---|
+| `ராச்சாண்டார் மலை` | **Raachchaandaar Malai** |
+| `ராச்சாண்டார் திருமலை` | **Raachchaandaar Thirumalai** |
+| `திருமலை` | **Thirumalai** |
+| `தளகர்த்தர்` | **commander** |
+| `காணியாளர்` | **landholder** in the immediate source context |
+| `கல்` | ***kal*** — source-facing distance measure; no outside conversion |
+| `தோகைமலை` | **Thogai Malai** |
+| `நங்கவரம்` | **Nangavaram** |
+| `பணையூர்` | **Panaiyur** |
+
+Whole-batch direct-accounting:
+- Tamil literary/display blocks — **43**
+- English literary/display blocks — **43**
+- internal source-boundary comments — **7/7**
+- outgoing 145→146 provenance comment — **1/1**
+- unsupported English insertions — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- Part003 leakage — **0**
+
 ## Boundary locks
 
 ### Incoming 75→76
@@ -308,7 +337,7 @@ Whole-batch direct-accounting:
 
 ## Setup result
 
-**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E16 SOURCE-CHECKED / COMPLETE**
+**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E17 SOURCE-CHECKED / COMPLETE**
 
 - frozen Part001 glossary mutated — **0**
 - carry-forward protected distinctions registered — **PASS**
