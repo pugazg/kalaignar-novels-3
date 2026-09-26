@@ -13,7 +13,7 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 47 corrections; Pass2B CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 19 corrections; Pass3 COMPLETE / PASS — 70/70 REVIEWED — 0 structural corrections; whole-Part audit PASS / COMPLETE; final metadata/status sync PASS / COMPLETE; Tamil archival-ready PASS / COMPLETE; assembled Tamil VERIFIED / PASS / CLOSED — 8/8**
+- current state: **Part001 FINAL CLOSED / FROZEN; Part002 Tamil gates CLOSED through assembled Tamil VERIFIED / PASS / CLOSED — 8/8; English translation planning/setup COMPLETE / PASS — E10–E17 reserved / scans76–145 fully planned**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -46,6 +46,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part002 English translation planning/setup**.
+Process **Part002 English E10 — scans76–80 / chapter7 continuation**.
 
-Part001 remains frozen. Part002 assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8** with exact canonical coverage **70/70**; English translation planning/setup is next.
+Part001 remains frozen. Part002 English planning/setup is **COMPLETE / PASS** with **0 missing / 0 duplicate planned coverage**. E10 scans76–80 is next; Part003 remains blocked.

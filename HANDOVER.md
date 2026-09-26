@@ -150,6 +150,11 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Tamil archival-ready — **PASS / COMPLETE**
 - Part002 assembled Tamil — **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**
 - Part002 assembled-Tamil validation — `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part002 English translation planning/setup — **COMPLETE / PASS**
+- Part002 English reserved batches — **E10–E17 / 8**
+- Part002 English planned coverage — **scans76–145 / 0 missing / 0 duplicate**
+- Part002 English translated/source-checked — **0/8 / 0/8**
+- active Part002 English controls — `works/ponnar-sankar/translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - Part002 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
 - durable Part002 Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
@@ -164,16 +169,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **English translation planning/setup**
+- Part002 exact next activity — **English E10 / scans76–80 / chapter7 continuation**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 English translation planning/setup frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 English E10 scans76–80 frontier**
 
 ## Exact next activity
 
-Process **Part002 English translation planning/setup**.
+Process **Part002 English E10 — scans76–80 / chapter7 continuation**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 canonical Tamil is verified and its assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8**. Begin English translation planning/setup only; keep 145→146 pending and do not begin Part003.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 English planning/setup is **COMPLETE / PASS** with **E10–E17 reserved / 70 scans fully planned**. Process E10 only; keep 145→146 pending and do not begin Part003.

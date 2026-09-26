@@ -81,6 +81,11 @@
 - Part002 assembled section files: **8/8 — scans76–145 / exact canonical coverage 70/70**
 - Part002 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
 - Part002 assembled validation: `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part002 English translation planning/setup: **COMPLETE / PASS**
+- Part002 English reserved batches: **E10–E17 / 8**
+- Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
+- Part002 English translated/source-checked: **0/8 / 0/8**
+- Part002 English controls: `translations/en/PART_002_TRANSLATION_PLAN.md`, `PART_002_GLOSSARY.md`, `PART_002_PROGRESS.md`
 - durable Part002 Tamil archival-ready checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part002 Pass3 tracker: `PART_002_PASS3_PROGRESS.md`
@@ -130,6 +135,6 @@
 
 ## Exact next activity
 
-Process **Part002 English translation planning/setup**.
+Process **Part002 English E10 — scans76–80 / chapter7 continuation**.
 
-Keep Part001 frozen. Part002 assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8** with exact canonical coverage **70/70**. Begin English translation planning/setup only; keep 145→146 pending and do not begin Part003.
+Keep Part001 frozen. Part002 English planning/setup is **COMPLETE / PASS**. Process E10 scans76–80 only; keep 145→146 pending and do not begin Part003.

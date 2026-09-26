@@ -73,6 +73,9 @@
 - Part002 assembled Tamil: **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**
 - Part002 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
 - durable Part002 assembled-Tamil validation: `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part002 English translation planning/setup: **COMPLETE / PASS**
+- Part002 English reserved batches: **E10–E17 / 8**
+- Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part002 Pass2B cadence: **10 scans per batch**
 - Part003–Part008: **pending source intake**
@@ -81,4 +84,4 @@
 
 ## Current frontier
 
-**Part002 English translation planning/setup — next activity.**
+**Part002 English E10 — scans76–80 / chapter7 continuation — next activity.**

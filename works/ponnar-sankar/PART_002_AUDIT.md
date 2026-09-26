@@ -194,4 +194,4 @@ Durable checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 
 ## Exact next activity
 
-Begin **Part002 English translation planning/setup**. Do not begin Part003 canonical work.
+Part002 English translation planning/setup is **COMPLETE / PASS — E10–E17 reserved / scans76–145 fully planned**. Next: **E10 scans76–80 / chapter7 continuation**. Do not begin Part003 canonical work.

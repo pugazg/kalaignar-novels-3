@@ -131,6 +131,6 @@ Outgoing:
 
 ## Exact next activity
 
-Begin **Part002 English translation planning/setup** only.
+Part002 English translation planning/setup is **COMPLETE / PASS — E10–E17 reserved / scans76–145 fully planned**.
 
-Do not begin Part003 canonical work. Part003 remains **NOT REGISTERED / pending source intake**, and outgoing **145→146** remains pending until a direct Part003 witness is supplied.
+Next: **E10 scans76–80 / chapter7 continuation**. Do not begin Part003 canonical work. Part003 remains **NOT REGISTERED / pending source intake**, and outgoing **145→146** remains pending until a direct Part003 witness is supplied.

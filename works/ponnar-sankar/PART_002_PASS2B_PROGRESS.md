@@ -659,6 +659,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part002 English translation planning/setup**.
+Process **Part002 English E10 — scans76–80 / chapter7 continuation**.
 
-Part002 assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**. Begin English translation planning/setup only; keep 145→146 pending.
+Part002 English planning/setup is **COMPLETE / PASS — E10–E17 reserved / scans76–145 fully planned**. Process E10 next; keep 145→146 pending.

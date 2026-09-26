@@ -209,6 +209,9 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002 Tamil archival-ready: **PASS / COMPLETE**
 - Part002 assembled Tamil: **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**
 - Part002 assembled validation: `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part002 English translation planning/setup: **COMPLETE / PASS**
+- Part002 English reserved batches: **E10–E17 / 8**
+- Part002 English planned coverage: **scans76–145 / 0 missing / 0 duplicate**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - outgoing Part002 boundary 145→146: **PENDING Part003 witness**
-- exact next activity: **Part002 English translation planning/setup**
+- exact next activity: **Part002 English E10 — scans76–80 / chapter7 continuation**
