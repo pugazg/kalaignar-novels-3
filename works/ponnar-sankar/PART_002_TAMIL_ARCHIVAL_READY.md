@@ -78,10 +78,21 @@ Promotion checks:
 
 Canonical Tamil and visual-fidelity metadata are verified for all **70/70** Part002 records with **0 in-scope blockers**.
 
+## Assembled-Tamil downstream result
+
+- assembled Tamil — **VERIFIED / PASS / CLOSED**
+- Part002 section files — **8/8 VERIFIED**
+- exact canonical coverage — **70/70 scans76–145**
+- missing coverage — **0**
+- duplicate coverage — **0**
+- unsupported Tamil insertion — **0**
+- audit/control-note leakage into literary text — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001 section mutations caused by assembly — **0**
+- Part003 body leakage — **0**
+- durable validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- outgoing **145→146** — **PENDING Part003 direct witness**
+
 ## Exact next activity
 
-Construct the **Part002 assembled Tamil reading layer** from verified canonical `pages/` records only, then run the assembled-Tamil validation/audit.
-
-Part001 assembled Tamil remains **FINAL CLOSED / FROZEN**. Do not modify its existing section files merely to merge the Part002 continuation. Represent the Part002 continuation of chapter7 in a new Part002 section file so exact Part001 assembly coverage remains frozen at scans1–75.
-
-Do not begin English translation until the Part002 assembled-Tamil validation closes.
+Begin **Part002 English translation planning/setup** only. Do not begin Part003 canonical work.

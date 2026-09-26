@@ -148,6 +148,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 canonical `status: verified` — **70/70**
 - Part002 canonical `visual_fidelity: verified` — **70/70**
 - Part002 Tamil archival-ready — **PASS / COMPLETE**
+- Part002 assembled Tamil — **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**
+- Part002 assembled-Tamil validation — `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part002 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Part001 section mutations / 0 Part003 body leakage**
 - durable Part002 Tamil archival-ready checkpoint — `works/ponnar-sankar/PART_002_TAMIL_ARCHIVAL_READY.md`
 - Part002 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - durable Part002 Pass3 tracker — `works/ponnar-sankar/PART_002_PASS3_PROGRESS.md`
@@ -161,16 +164,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **assembled Tamil construction + audit**
+- Part002 exact next activity — **English translation planning/setup**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 assembled Tamil construction + audit frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 English translation planning/setup frontier**
 
 ## Exact next activity
 
-Process **Part002 assembled Tamil construction + audit**.
+Process **Part002 English translation planning/setup**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 canonical verification is **70/70 COMPLETE** and Tamil archival-ready is **PASS / COMPLETE**. Construct the Part002 assembled Tamil from verified canonical records only; keep 145→146 pending and do not start English.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 canonical Tamil is verified and its assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8**. Begin English translation planning/setup only; keep 145→146 pending and do not begin Part003.

@@ -107,11 +107,13 @@ Canonical `scan_page` remains the global physical scan number.
 - whole-Part audit — **PASS / COMPLETE — 0 blockers**
 - final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
 - Tamil archival-ready — **PASS / COMPLETE**
+- assembled Tamil — **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**
+- assembled-Tamil validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B cadence — **10 scans per batch**
 
 ## Exact next activity
 
-Process **Part002 assembled Tamil construction + audit**.
+Process **Part002 English translation planning/setup**.
 
-Pass1 / Pass2A / Pass2B / Pass3 and the whole-Part audit are closed. Final metadata/status synchronization is **PASS / COMPLETE — 70/70 verified** and Tamil archival-ready is **PASS / COMPLETE**. Construct and validate the Part002 assembled Tamil next; keep 145→146 pending.
+Pass1 / Pass2A / Pass2B / Pass3, whole-Part audit, metadata synchronization, Tamil archival-ready and assembled Tamil are closed. Part002 assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8** with exact canonical coverage **70/70**. Begin English translation planning/setup only; keep 145→146 pending.

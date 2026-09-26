@@ -200,6 +200,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 whole-Part audit — **PASS / COMPLETE — 0 blockers**
 - Part002 final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
 - Part002 Tamil archival-ready — **PASS / COMPLETE**
+- Part002 assembled Tamil — **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**
+- Part002 assembled-Tamil validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Part003–Part008 — **pending intake / NOT REGISTERED**
 - boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -242,4 +244,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- exact next activity — **Part002 assembled Tamil construction + audit**
+- exact next activity — **Part002 English translation planning/setup**

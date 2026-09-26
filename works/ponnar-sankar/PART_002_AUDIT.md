@@ -178,8 +178,20 @@ Post-audit promotion completed after the whole-Part audit:
 
 Durable checkpoint: `PART_002_TAMIL_ARCHIVAL_READY.md`
 
+## Downstream assembled-Tamil closure
+
+- assembled Tamil — **VERIFIED / PASS / CLOSED**
+- maintained Part002 section files — **8/8**
+- exact canonical coverage — **70/70 scans76–145**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit/control-note leakage into literary text — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Part001 section mutations caused by assembly — **0**
+- Part003 body leakage — **0**
+- durable validation — `PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
+- outgoing **145→146** — **PENDING Part003 direct witness**
+
 ## Exact next activity
 
-Construct the **Part002 assembled Tamil reading layer** from verified canonical records and run the assembled-Tamil validation/audit.
-
-Part001 remains **FINAL CLOSED / FROZEN**. Its existing section files must not be modified merely to merge the chapter7 continuation; Part002 scans76–80 are to be represented in a new Part002 continuation section. Do not begin English translation until assembled-Tamil validation closes.
+Begin **Part002 English translation planning/setup**. Do not begin Part003 canonical work.

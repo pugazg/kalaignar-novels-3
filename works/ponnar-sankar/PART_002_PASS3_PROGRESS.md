@@ -292,6 +292,6 @@ For each scan:
 
 ## Exact next activity
 
-Process **Part002 assembled Tamil construction + audit**.
+Process **Part002 English translation planning/setup**.
 
-Part002 final metadata/status synchronization is **PASS / COMPLETE — 70/70 verified** and Tamil archival-ready is **PASS / COMPLETE**. Construct and validate the Part002 assembled Tamil next; keep Part001 frozen and outgoing 145→146 pending.
+Part002 assembled Tamil is **VERIFIED / PASS / CLOSED — 8/8 section files / exact canonical coverage 70/70**. Begin English translation planning/setup only; keep Part001 frozen and outgoing 145→146 pending.
