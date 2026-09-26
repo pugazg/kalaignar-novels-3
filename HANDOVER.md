@@ -138,10 +138,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 Pass2B source-text corrections — **19**
 - Part002 Pass2B unresolved textual questions — **0**
 - Part002 Pass2B pending — **0/70**
-- Part002 Pass3 — **IN PROGRESS — 45/70 REVIEWED / PASS — scans76–120**
+- Part002 Pass3 — **COMPLETE / PASS — 70/70 REVIEWED — scans76–145**
 - Part002 Pass3 structural corrections — **0**
 - Part002 Pass3 unresolved visual / structural questions — **0**
-- Part002 Pass3 pending — **25/70 — scans121–145**
+- Part002 Pass3 pending — **0/70**
 - Part002 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - durable Part002 Pass3 tracker — `works/ponnar-sankar/PART_002_PASS3_PROGRESS.md`
 - Part002 Pass2B cadence — **10 scans per batch**
@@ -154,16 +154,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part002 chapter12 / scan119 — **`பூனையில் போர்க்கோலம்`**
 - Part002 chapter13 / scan128 — **`வழியில் வந்த விபரீதம்`**
 - Part002 chapter14 / scan138 — **`ராச்சாண்டார் மலைநோக்கி...`**
-- Part002 exact next activity — **Pass3 Batch4 / scans121–135 / local pages46–60**
+- Part002 exact next activity — **whole-Part audit**
 - Part003–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 Pass3 Batch4 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part002 whole-Part audit frontier**
 
 ## Exact next activity
 
-Process **Part002 Pass3 Batch4 — global scans121–135 / local pages46–60**.
+Process **Part002 whole-Part audit**.
 
-Part001 remains **FINAL CLOSED / FROZEN**. Part002 Pass2A / Pass2B stay closed. Part002 Pass3 Batches1–3 are **REVIEWED / PASS — 45/70 cumulative** with **0 structural corrections / 0 unresolved**. Keep records at `needs-review`; keep 145→146 pending.
+Part001 remains **FINAL CLOSED / FROZEN**. Part002 Pass2A / Pass2B stay closed. Part002 Pass3 is **COMPLETE / PASS — 70/70 REVIEWED** with **0 structural corrections / 0 unresolved**. Keep records at `needs-review` / `needs-review` until the whole-Part audit passes; keep 145→146 pending.

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 3 COMPLETE — 45/70 REVIEWED / PASS**
+**PASS 3 — COMPLETE / PASS — 70/70 REVIEWED**
 
 Active Part:
 - Part002
@@ -68,14 +68,14 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **45/70 — scans76–120**
-- pending — **25/70 — scans121–145**
+- reviewed — **70/70 — scans76–145**
+- pending — **0/70**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
+- Part audit — **NOT STARTED / READY**
 
 ## Maintained batch plan
 
@@ -206,8 +206,92 @@ For each scan:
 - Part audit — **NOT STARTED**
 - outgoing 145→146 — **PENDING Part003 direct witness**
 
+## Batch 4 — scans121–135
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 121 | chapter12 continuation / alternating running header | 104 | 0 | REVIEWED / PASS |
+| 122 | chapter12 continuation / alternating running header | 105 | 0 | REVIEWED / PASS |
+| 123 | chapter12 continuation / alternating running header | 106 | 0 | REVIEWED / PASS |
+| 124 | chapter12 continuation / alternating running header | 107 | 0 | REVIEWED / PASS |
+| 125 | chapter12 continuation / alternating running header | 108 | 0 | REVIEWED / PASS |
+| 126 | chapter12 continuation / alternating running header | 109 | 0 | REVIEWED / PASS |
+| 127 | chapter12 close / lower blue mounted-warriors illustration + blank field | 110 | 0 | REVIEWED / PASS |
+| 128 | chapter13 decorative opening / blue title + flourish / chapter number 13 | — | 0 | REVIEWED / PASS |
+| 129 | chapter13 continuation / alternating running header | 112 | 0 | REVIEWED / PASS |
+| 130 | chapter13 continuation / alternating running header | 113 | 0 | REVIEWED / PASS |
+| 131 | chapter13 continuation / alternating running header | 114 | 0 | REVIEWED / PASS |
+| 132 | chapter13 continuation / alternating running header | 115 | 0 | REVIEWED / PASS |
+| 133 | chapter13 continuation / alternating running header | 116 | 0 | REVIEWED / PASS |
+| 134 | chapter13 continuation / alternating running header | 117 | 0 | REVIEWED / PASS |
+| 135 | chapter13 continuation / open into scan136 | 118 | 0 | REVIEWED / PASS |
+
+## Batch 4 result
+
+- scans121–135 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **60/70 — scans76–135**
+- pending — **10/70 — scans136–145**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan127 chapter12 close / substantial lower blank field with blue mounted-warriors illustration — **PASS**
+- scan128 chapter13 decorative opener / chapter number 13 / blue title and flourish / no ordinary running printed-page number — **PASS**
+- scan135 exact open physical continuation into scan136 — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
+## Final Batch 5 — scans136–145
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 136 | chapter13 continuation / alternating running header | 119 | 0 | REVIEWED / PASS |
+| 137 | chapter13 close / lower blue mounted-warriors illustration + blank field | 120 | 0 | REVIEWED / PASS |
+| 138 | chapter14 decorative opening / blue title + mountain ornament / chapter number 14 | — | 0 | REVIEWED / PASS |
+| 139 | chapter14 continuation / alternating running header | 122 | 0 | REVIEWED / PASS |
+| 140 | chapter14 continuation / alternating running header | 123 | 0 | REVIEWED / PASS |
+| 141 | chapter14 continuation / alternating running header | 124 | 0 | REVIEWED / PASS |
+| 142 | chapter14 continuation / alternating running header | 125 | 0 | REVIEWED / PASS |
+| 143 | chapter14 continuation / alternating running header | 126 | 0 | REVIEWED / PASS |
+| 144 | chapter14 continuation / alternating running header | 127 | 0 | REVIEWED / PASS |
+| 145 | chapter14 continuation / Part002 source-split edge | 128 | 0 | REVIEWED / PASS |
+
+## Final Batch 5 result
+
+- scans136–145 — **10/10 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **70/70 — scans76–145**
+- pending — **0/70**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- scan137 chapter13 close / substantial lower blank field with blue mounted-warriors illustration — **PASS**
+- scan138 chapter14 decorative opener / chapter number 14 / blue title + mountain line-art / flourish / no ordinary running printed-page number — **PASS**
+- scans139–145 chapter14 continuation / printed pages122–128 — **PASS**
+- scan145 reaches the Part002 split edge as a full body page; outgoing **145→146** remains **PENDING Part003 direct witness**
+- no scan146 wording was inferred or imported
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Pass3 — **COMPLETE / PASS**
+- Part audit — **NOT STARTED / READY**
+
+## Cumulative result
+
+- scans76–145 — **70/70 REVIEWED / PASS — COMPLETE**
+- cumulative Pass3 structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED / READY**
+- incoming 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
 ## Exact next activity
 
-Process **Part002 Pass3 Batch4 — global scans121–135 / local pages46–60**.
+Process **Part002 whole-Part audit**.
 
-Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part002 records at `needs-review` / `needs-review`, Part001 frozen, Part audit not started, and outgoing 145→146 pending.
+Pass3 is now **COMPLETE / PASS — 70/70 REVIEWED**. Begin the Part002 whole-Part audit next. Keep all canonical records at `needs-review` / `needs-review` until the audit passes; keep Part001 frozen and outgoing 145→146 pending.
