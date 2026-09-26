@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 15/70 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 30/70 REVIEWED / PASS**
 
 Active Part:
 - Part002
@@ -68,8 +68,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **15/70 — scans76–90**
-- pending — **55/70 — scans91–145**
+- reviewed — **30/70 — scans76–105**
+- pending — **40/70 — scans106–145**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -127,8 +127,47 @@ For each scan:
 - Part audit — **NOT STARTED**
 - outgoing 145→146 — **PENDING Part003 direct witness**
 
+## Batch 2 — scans91–105
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 91 | chapter9 continuation / alternating running header | 74 | 0 | REVIEWED / PASS |
+| 92 | chapter9 continuation / alternating running header | 75 | 0 | REVIEWED / PASS |
+| 93 | chapter9 continuation / alternating running header | 76 | 0 | REVIEWED / PASS |
+| 94 | chapter9 continuation / alternating running header | 77 | 0 | REVIEWED / PASS |
+| 95 | chapter9 continuation / alternating running header | 78 | 0 | REVIEWED / PASS |
+| 96 | chapter9 continuation / alternating running header | 79 | 0 | REVIEWED / PASS |
+| 97 | chapter9 continuation / alternating running header | 80 | 0 | REVIEWED / PASS |
+| 98 | chapter9 close / substantial intentional blank lower field | 81 | 0 | REVIEWED / PASS |
+| 99 | chapter10 decorative opening / blue title + ornament / chapter number 10 | — | 0 | REVIEWED / PASS |
+| 100 | chapter10 continuation / alternating running header | 83 | 0 | REVIEWED / PASS |
+| 101 | chapter10 continuation / alternating running header | 84 | 0 | REVIEWED / PASS |
+| 102 | chapter10 continuation / alternating running header | 85 | 0 | REVIEWED / PASS |
+| 103 | chapter10 continuation / alternating running header | 86 | 0 | REVIEWED / PASS |
+| 104 | chapter10 continuation / alternating running header | 87 | 0 | REVIEWED / PASS |
+| 105 | chapter10 continuation / open into scan106 | 88 | 0 | REVIEWED / PASS |
+
+## Batch 2 result
+
+- scans91–105 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **30/70 — scans76–105**
+- pending — **40/70 — scans106–145**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan98 chapter9 close / substantial intentional blank lower field — **PASS**
+- scan99 chapter10 decorative opener / chapter number 10 / blue title and ornament / no ordinary running printed-page number — **PASS**
+- scans100–105 chapter10 continuation / printed pages83–88 — **PASS**
+- scan105 exact open physical continuation into scan106 — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- outgoing 145→146 — **PENDING Part003 direct witness**
+
 ## Exact next activity
 
-Process **Part002 Pass3 Batch2 — global scans91–105 / local pages16–30**.
+Process **Part002 Pass3 Batch3 — global scans106–120 / local pages31–45**.
 
 Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part002 records at `needs-review` / `needs-review`, Part001 frozen, Part audit not started, and outgoing 145→146 pending.

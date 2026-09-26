@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass3 Batch2 — scans91–105
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part002 Pass3 Batch3 — scans106–120
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,12 +31,14 @@ Controlling source:
 
 ## Part002 Pass3 state
 
-**IN PROGRESS — 15/70 REVIEWED / PASS — scans76–90**
+**IN PROGRESS — 30/70 REVIEWED / PASS — scans76–105**
 
-- Batch1 structural corrections — **0**
+- Batch1 scans76–90 — **REVIEWED / PASS — 15/15**
+- Batch2 scans91–105 — **REVIEWED / PASS — 15/15**
+- Batch2 structural corrections — **0**
 - cumulative structural corrections — **0**
 - unresolved visual / structural questions — **0**
-- pending — **55/70 — scans91–145**
+- pending — **40/70 — scans106–145**
 - Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
 - cadence — **15 source pages per iteration; final remainder may be smaller**
 
@@ -44,29 +46,27 @@ Durable tracker:
 
 `works/ponnar-sankar/PART_002_PASS3_PROGRESS.md`
 
-## Batch1 result
+## Batch2 result
 
-Batch1 / scans76–90 — **REVIEWED / PASS — 15/15**.
+Batch2 / scans91–105 — **REVIEWED / PASS — 15/15**.
 
 Verified directly from rendered source pixels:
 
-- ordinary body pages use the expected alternating running-header / page-number placement;
-- scan80 chapter7 closes with a substantial intentional blank lower field;
-- scan81 chapter8 `கரகம் விடும் திருவிழா` is a decorative blue chapter opening with banner / kalash ornament, chapter number **8**, flourish and displayed song;
-- scan84 preserves its displayed song stanza;
-- scan85 preserves multiple displayed verse / song blocks;
-- scan89 chapter8 closes with a substantial intentional blank lower field;
-- scan90 chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` is a decorative blue chapter opening with chapter number **9** and illustrated motif;
+- scans91–97 continue chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` with expected alternating running-header / page-number placement;
+- scan98 closes chapter9 on printed page81 with a substantial intentional blank lower field;
+- scan99 opens chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` as a decorative blue chapter-opening page with chapter number **10**, ornament and no ordinary running printed-page number;
+- scans100–105 continue chapter10 / printed pages83–88;
+- scan105 remains open into scan106;
 - structural corrections — **0**;
 - lexical reopening — **0**.
 
 ## Exact next activity
 
-Process **Part002 Pass3 Batch2 — global scans91–105 / local pages16–30**.
+Process **Part002 Pass3 Batch3 — global scans106–120 / local pages31–45**.
 
 This remains a **full-page visual / structural verification**, not a lexical reread.
 
-For each scan91–105:
+For each scan106–120:
 
 1. inspect the complete rendered page;
 2. verify page type and chapter/opening/continuation role;
@@ -80,14 +80,16 @@ For each scan91–105:
 10. keep `status: "needs-review"` / `visual_fidelity: "needs-review"`;
 11. do not begin Part audit.
 
-## Batch2 structural scope
+## Batch3 structural scope
 
-- scans91–98 continue and close chapter9 `மணியங்குறிச்சி குறிஞ்சி மான்கள்` / printed pages74–81;
-- scan98 closes chapter9 with substantial intentional blank lower field;
-- scan99 opens chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` as a decorative chapter-opening page with no ordinary running printed-page number;
-- scans100–105 continue chapter10 / printed pages83–88;
-- scan105 remains open into scan106;
-- do not import scan106 wording backward.
+- scans106–108 continue and close chapter10 `அர்ச்சனை- யார் வயிறுக்கு?` / printed pages89–91;
+- scan108 closes chapter10 with a substantial intentional blank lower field;
+- scan109 opens chapter11 `ஆசையில் அருக்காணித் தங்கம்` as a decorative chapter-opening page with no ordinary running printed-page number;
+- scans110–118 continue and close chapter11 / printed pages93–101;
+- scan118 closes chapter11 with a substantial lower non-body archival field after the printed close;
+- scan119 opens chapter12 `பூனையில் போர்க்கோலம்` as a decorative chapter-opening page with no ordinary running printed-page number;
+- scan120 continues chapter12 / printed page103 and remains open into scan121;
+- do not import scan121 wording backward.
 
 ## Mandatory locks
 
@@ -104,10 +106,10 @@ For each scan91–105:
 
 ## Stop condition
 
-Stop after **Part002 Pass3 Batch2 — scans91–105 — REVIEWED**.
+Stop after **Part002 Pass3 Batch3 — scans106–120 — REVIEWED**.
 
-Expected cumulative state after a clean Batch2:
+Expected cumulative state after a clean Batch3:
 
-**30/70 REVIEWED / PASS — scans76–105**
+**45/70 REVIEWED / PASS — scans76–120**
 
-Then synchronize maintained controls and advance to **Part002 Pass3 Batch3 — scans106–120 / local pages31–45**, unless a direct-source visual/structural hold is recorded.
+Then synchronize maintained controls and advance to **Part002 Pass3 Batch4 — scans121–135 / local pages46–60**, unless a direct-source visual/structural hold is recorded.
