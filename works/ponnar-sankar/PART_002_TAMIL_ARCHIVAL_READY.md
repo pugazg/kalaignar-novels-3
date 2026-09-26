@@ -95,4 +95,4 @@ Canonical Tamil and visual-fidelity metadata are verified for all **70/70** Part
 
 ## Exact next activity
 
-Part002 English E10–E14 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage **scans76–118 / 43 of 70**. Next: **E15 scans119–127 / chapter12**. Do not begin Part003 canonical work.
+Part002 English E10–E15 are **SOURCE-CHECKED / COMPLETE** with cumulative coverage **scans76–127 / 52 of 70**. Next: **E16 scans128–137 / chapter13**. Do not begin Part003 canonical work.

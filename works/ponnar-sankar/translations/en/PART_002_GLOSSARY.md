@@ -233,6 +233,34 @@ Whole-batch direct-accounting:
 - unsupported English insertions — **0**
 - canonical / assembled Tamil edits — **0 / 0**
 
+## E15 — scans119–127
+
+E15 is **SOURCE-CHECKED / COMPLETE**.
+
+Source title `பூனையில் போர்க்கோலம்` → maintained English display title **A Cat in Battle Array**.
+
+Locked / active forms:
+
+| Tamil source | English handling |
+|---|---|
+| body `மசைச்சாமி` | **Masachchaami** — occurrence-sensitive source form |
+| `கல்மணி` | **stone bell** |
+| `செங்காந்தள்` | ***kaanthal*** in the source floral comparison |
+| `தர்மம்` | ***dharma*** in direct speech |
+| `ஊர்வசி` | **Urvasi** |
+| `ரம்பை` | **Rambai** |
+| `திலோத்தமை` | **Thilothamai** |
+| `வேங்கைப் புலி` | ***vengai* tiger** — no outside zoological normalization |
+| `தர்மயுத்தம்` | **righteous war** |
+| `போர்க்கோலம் பூண` | **put on the garb of war** |
+
+Whole-batch direct-accounting:
+- Tamil literary/display blocks — **54**
+- English literary/display blocks — **54**
+- internal source-boundary comments — **8/8**
+- unsupported English insertions — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+
 ## Boundary locks
 
 ### Incoming 75→76
@@ -251,7 +279,7 @@ Whole-batch direct-accounting:
 
 ## Setup result
 
-**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E14 SOURCE-CHECKED / COMPLETE**
+**PART002 GLOSSARY SETUP — PASS / ACTIVE — E10–E15 SOURCE-CHECKED / COMPLETE**
 
 - frozen Part001 glossary mutated — **0**
 - carry-forward protected distinctions registered — **PASS**

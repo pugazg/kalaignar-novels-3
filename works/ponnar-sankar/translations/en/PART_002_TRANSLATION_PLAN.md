@@ -217,11 +217,11 @@ Part003 canonical work remains blocked until Part002 final closure and direct Pa
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- fully translated Part002 files — **5/8**
-- source-checked Part002 files — **5/8**
+- fully translated Part002 files — **6/8**
+- source-checked Part002 files — **6/8**
 - unresolved planning holds — **0**
 - English literary prose drafted in planning gate — **0**
-- current physical English processing coverage — **scans76–118 / 43 of 70**
+- current physical English processing coverage — **scans76–127 / 52 of 70**
 - current partial batch — **none**
 - canonical Tamil edits caused by planning — **0**
 - assembled Tamil edits caused by planning — **0**
@@ -250,10 +250,12 @@ Completed in this iteration:
 
 E14 subsequently closed **SOURCE-CHECKED / COMPLETE — scans109–118**, with maintained English title **Arukkaani Thangam in Longing** and exact Tamil/English block accounting **58 / 58**.
 
-Current cumulative translated/source-checked coverage — **scans76–118 / 43 of 70**.
+E15 subsequently closed **SOURCE-CHECKED / COMPLETE — scans119–127**, with maintained English title **A Cat in Battle Array** and exact Tamil/English block accounting **54 / 54**.
+
+Current cumulative translated/source-checked coverage — **scans76–127 / 52 of 70**.
 
 ## Exact next activity
 
-Process **E15 — scans119–127 — chapter12 `பூனையில் போர்க்கோலம்`**.
+Process **E16 — scans128–137 — chapter13 `வழியில் வந்த விபரீதம்`**.
 
-Draft the maintained English file and complete direct whole-batch source-check before advancing to E16.
+Draft the maintained English file and complete direct whole-batch source-check before advancing to E17.

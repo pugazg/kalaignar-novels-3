@@ -3,9 +3,9 @@
 ## State
 
 **PART001 FINAL CLOSED / FROZEN.**  
-**PART002 ENGLISH IN PROGRESS — scans76–118 / 43 of 70 processed.**
+**PART002 ENGLISH IN PROGRESS — scans76–127 / 52 of 70 processed.**
 
-Part002 English literary translation is active; E10–E14 are source-checked complete.
+Part002 English literary translation is active; E10–E15 are source-checked complete.
 
 ## Maintained English sequence per Part
 
@@ -94,10 +94,10 @@ Planning/setup result:
 - missing / duplicate planned coverage — **0 / 0**
 - batch-number collisions — **0**
 - section-order collisions — **0**
-- fully translated files — **5/8**
-- source-checked files — **5/8**
+- fully translated files — **6/8**
+- source-checked files — **6/8**
 - Part002 English literary prose drafted during planning — **0**
-- current translated physical coverage — **scans76–118 / 43 of 70**
+- current translated physical coverage — **scans76–127 / 52 of 70**
 - partial translated files — **0**
 - canonical / assembled Tamil edits caused by planning — **0 / 0**
 - frozen Part001 English edits caused by planning — **0**
@@ -112,7 +112,7 @@ Planning/setup result:
 | **E12** | `11-maniyangurichchi-kurinji-maangal.md` | 90–98 | **SOURCE-CHECKED / COMPLETE** |
 | **E13** | `12-archchanai-yaar-vayirukku.md` | 99–108 | **SOURCE-CHECKED / COMPLETE** |
 | **E14** | `13-aasaiyil-arukkaani-thangam.md` | 109–118 | **SOURCE-CHECKED / COMPLETE** |
-| **E15** | `14-poonaiyil-porkkolam.md` | 119–127 | **PLANNED / NOT STARTED** |
+| **E15** | `14-poonaiyil-porkkolam.md` | 119–127 | **SOURCE-CHECKED / COMPLETE** |
 | **E16** | `15-vazhiyil-vandha-vibareetham.md` | 128–137 | **PLANNED / NOT STARTED** |
 | **E17** | `16-raachchaandaar-malai-nokki.md` | 138–145 | **PLANNED / NOT STARTED** |
 
@@ -139,9 +139,10 @@ Planning/setup result:
 - E12 — **SOURCE-CHECKED / COMPLETE**
 - E13 — **SOURCE-CHECKED / COMPLETE**
 - E14 — **SOURCE-CHECKED / COMPLETE**
-- complete translated/source-checked files — **5/8 / 5/8**
-- cumulative physical coverage — **scans76–118 / 43 of 70**
-- remaining physical coverage — **scans119–145 / 27 of 70**
+- E15 — **SOURCE-CHECKED / COMPLETE**
+- complete translated/source-checked files — **6/8 / 6/8**
+- cumulative physical coverage — **scans76–127 / 52 of 70**
+- remaining physical coverage — **scans128–145 / 18 of 70**
 - partial translated files — **0**
 - Part001 English mutation — **0**
 - canonical / assembled Tamil mutation — **0 / 0**
@@ -149,6 +150,6 @@ Planning/setup result:
 
 ## Exact next activity
 
-Process **E15 — scans119–127 — chapter12 `பூனையில் போர்க்கோலம்`**.
+Process **E16 — scans128–137 — chapter13 `வழியில் வந்த விபரீதம்`**.
 
-Draft the maintained English file, complete direct whole-batch source-check, and create `E15_SOURCE_CHECK.md` only after the entire batch passes.
+Draft the maintained English file, complete direct whole-batch source-check, and create `E16_SOURCE_CHECK.md` only after the entire batch passes.
