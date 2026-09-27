@@ -561,6 +561,6 @@ Decision:
 
 ## Exact next activity
 
-Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
+Execute the **Part003 whole-Part audit**.
 
-Pass3 Final Batch5 scans206–215 is **REVIEWED / PASS**; cumulative Pass3 is **70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Run the Pass3 full-part closure / Part audit activation checkpoint next; keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
+Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Part audit is **ACTIVATED / READY — NOT YET EXECUTED**; execute the whole-Part audit next while keeping all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.

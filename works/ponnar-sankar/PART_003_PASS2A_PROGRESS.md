@@ -26,6 +26,8 @@ Active Part:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 - Pass2B — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — Batch1–7 PASS / 11 corrections**
+- Part audit — **ACTIVATED / READY — NOT YET EXECUTED**
+- durable Part audit — `PART_003_AUDIT.md`
 - outgoing **215→216 — PENDING Part004 direct witness**
 
 ## Batch plan
@@ -686,6 +688,6 @@ Decision:
 
 ## Exact next activity
 
-Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
+Execute the **Part003 whole-Part audit**.
 
 Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.

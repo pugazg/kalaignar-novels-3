@@ -97,10 +97,12 @@
 - Part003 Pass2A unresolved textual questions: **0**
 - Part003 Pass2B: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass2B pending: **0/70**
-- Part003 Pass3: **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Part003 Pass3: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
 - Part003 Pass3 pending: **0/70**
+- Part003 whole-Part audit: **ACTIVATED / READY — NOT YET EXECUTED**
+- Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
@@ -111,4 +113,4 @@
 
 ## Current frontier
 
-**Part003 Pass3 full-part closure / Part audit activation checkpoint — next activity.**
+**Part003 whole-Part audit — next activity.**

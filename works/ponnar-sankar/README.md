@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS2B CLOSED / COMPLETE / PASS — PASS3 IN PROGRESS**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS3 CLOSED / COMPLETE / PASS — PART AUDIT ACTIVATED / READY**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -114,12 +114,14 @@
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
 - Part003 Pass2B unresolved textual questions: **0**
-- Part003 Pass3: **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Part003 Pass3: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
 - Part003 Pass3 pending: **0/70**
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker: `PART_003_PASS3_PROGRESS.md`
+- Part003 whole-Part audit: **ACTIVATED / READY — NOT YET EXECUTED**
+- durable Part003 audit: `PART_003_AUDIT.md`
 - Part003 Pass2B unresolved textual questions: **0**
 - durable Part003 Pass2B tracker: `PART_003_PASS2B_PROGRESS.md`
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
@@ -179,6 +181,9 @@
 - `PART_003_BOUNDARY_AUDIT_145_146.md`
 - `PART_003_PASS1_PROGRESS.md`
 - `PART_003_PASS2A_PROGRESS.md`
+- `PART_003_PASS2B_PROGRESS.md`
+- `PART_003_PASS3_PROGRESS.md`
+- `PART_003_AUDIT.md`
 - `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
@@ -188,6 +193,6 @@
 
 ## Exact next activity
 
-Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
+Execute the **Part003 whole-Part audit**.
 
-Keep Parts001–002 frozen. Part003 Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Part003 Pass3 Final Batch5 is REVIEWED / PASS — 70/70 cumulative with 0 structural corrections / 0 unresolved; run the Pass3 closure / Part audit activation checkpoint next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B remains CLOSED / COMPLETE / PASS. Part003 Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is ACTIVATED / READY — NOT YET EXECUTED; execute it next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

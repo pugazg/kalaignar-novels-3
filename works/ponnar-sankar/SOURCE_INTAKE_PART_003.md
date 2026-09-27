@@ -97,11 +97,13 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass2A unresolved textual questions — **0**
 - Pass2B — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Pass2B pending — **0/70**
-- Pass3 — **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Pass3 — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Pass3 pending — **0/70**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
+- Part audit — **ACTIVATED / READY — NOT YET EXECUTED**
+- durable Part audit — `PART_003_AUDIT.md`
 - Pass2B cadence — **10 scans per batch**
 - Pass2B source-text corrections — **11**
 - Pass2B unresolved textual questions — **0**
@@ -109,6 +111,6 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Exact next activity
 
-Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
+Execute the **Part003 whole-Part audit**.
 
-Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 corrections and 0 unresolved questions. Pass3 Final Batch5 is REVIEWED / PASS — 70/70 cumulative with 0 structural corrections / 0 unresolved. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`; run the Pass3 closure / Part audit activation checkpoint next and keep outgoing 215→216 pending.
+Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 corrections and 0 unresolved questions. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is ACTIVATED / READY — NOT YET EXECUTED. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`; execute the whole-Part audit next and keep outgoing 215→216 pending.

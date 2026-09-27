@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 5 COMPLETE**
+**PASS 3 — CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -286,8 +286,46 @@ For each scan:
 - Part audit — **NOT YET ACTIVATED**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 
+## Full-Part Pass3 closure / Part audit activation checkpoint
+
+**PASS / CLOSED**
+
+Live-main reconciliation after Final Batch5:
+
+- canonical Part003 records — **70/70**
+- global scans — **146–215 continuous / unique**
+- local pages — **1–70 continuous / unique**
+- canonical paths — **70 unique**
+- `part: 3` — **70/70**
+- formal Part003 Pass3 review sections — **70/70 present exactly once**
+- Part003 Pass3 review result — **REVIEWED / PASS on 70/70**
+- Pass3 structural corrections — **0**
+- unresolved Pass3 visual / structural questions — **0**
+- Pass3 lexical reopenings — **0**
+- `status: "needs-review"` — **70/70**
+- `visual_fidelity: "needs-review"` — **70/70**
+- Pass1 — **COMPLETE / PASS — unchanged**
+- Pass2A — **CLOSED / COMPLETE / PASS — unchanged**
+- Pass2B — **CLOSED / COMPLETE / PASS — unchanged**
+- Parts001–002 — **FINAL CLOSED / FROZEN / untouched**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+- scan216 wording inferred/imported — **0**
+- chapter22 closure beyond scan215 inferred — **0**
+- pre-existing Part003 audit tracker before activation — **ABSENT**
+- canonical Part003 body edits in this checkpoint — **0**
+- status / visual-fidelity promotions in this checkpoint — **0**
+
+Decision:
+
+- Pass3 — **CLOSED / COMPLETE / PASS — 70/70**
+- structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- Part audit — **ACTIVATED / READY — NOT YET EXECUTED**
+- Part audit checks in this checkpoint — **NOT STARTED**
+
 ## Exact next activity
 
-Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
+Execute the **Part003 whole-Part audit**.
 
-Reconcile the full 70/70 Part003 Pass3 review census and zero-correction / zero-unresolved structural state. Keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**. If all checks pass, close Pass3 and activate the Part audit, but do not begin the audit in the same checkpoint.
+Use the maintained Part001/Part002 whole-Part audit methodology recorded in `PART_003_AUDIT.md`. Do not promote page metadata during the audit. Keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**.
