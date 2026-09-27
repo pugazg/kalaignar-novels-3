@@ -91,14 +91,14 @@ Canonical `scan_page` remains the global physical scan number.
 - Batch5 — **COMPLETE / scans186–195 / 10 TEXT-COMPLETE**
 - Batch6 — **COMPLETE / scans196–205 / 10 TEXT-COMPLETE**
 - Batch7 — **COMPLETE / scans206–215 / 10 TEXT-COMPLETE**
-- Pass2A — **IN PROGRESS — 50/70 REVIEWED — scans146–195**
-- Pass2A pending — **20/70**
+- Pass2A — **IN PROGRESS — 60/70 REVIEWED — scans146–205**
+- Pass2A pending — **10/70**
 - Pass2A source-text corrections — **25**
 - Pass2A unresolved textual questions — **0**
 - status/visual-fidelity promotion during Pass1 — **PROHIBITED**
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch6 — global scans196–205 / local pages51–60**.
+Process **Part003 Pass2A Batch7 — global scans206–215 / local pages61–70**.
 
-Batch5 scans186–195 are REVIEWED / PASS with 2 source-backed corrections; cumulative Pass2A is 50/70 reviewed and 25 corrections with 0 unresolved questions. Re-read scans196–205 directly against rendered source pixels, keep `status: "needs-review"` / `visual_fidelity: "needs-review"`, and do not import scan206 wording into scan205.
+Batch6 scans196–205 are REVIEWED / PASS with 0 source-backed corrections; cumulative Pass2A is 60/70 reviewed and 25 corrections with 0 unresolved questions. Re-read scans206–215 directly against rendered source pixels, keep `status: "needs-review"` / `visual_fidelity: "needs-review"`, preserve scan215 as the Part003 edge, and do not import scan216 wording.

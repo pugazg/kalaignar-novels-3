@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 50/70 REVIEWED**
+**PASS 2A — IN PROGRESS — 60/70 REVIEWED**
 
 Active Part:
 
@@ -16,8 +16,8 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **50/70 — scans146–195**
-- pending — **20/70**
+- reviewed — **60/70 — scans146–205**
+- pending — **10/70**
 - source-text corrections applied — **25**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
@@ -38,8 +38,8 @@ Maintained cadence: **10 scans per batch**.
 | 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **REVIEWED / PASS — 2 CORRECTIONS** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **REVIEWED / PASS — 2 CORRECTIONS** |
-| 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **READY / NEXT** |
-| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **NOT STARTED** |
+| 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **REVIEWED / PASS — 0 CORRECTIONS** |
+| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **READY / NEXT** |
 
 ## Pass 2A rules
 
@@ -551,8 +551,51 @@ canonical scan193 corrected to the source-visible verbal form and case marker.
 - Parts001–002 body edits — **0**
 - metadata promotions — **0**
 
+## Batch 6 — scans196–205
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 196 | chapter20 `அப்பன் அருள்வாக்கு` continuation | 179 | 0 | REVIEWED / PASS |
+| 197 | chapter20 continuation | 180 | 0 | REVIEWED / PASS |
+| 198 | chapter20 continuation | 181 | 0 | REVIEWED / PASS |
+| 199 | chapter20 close / substantial intentional blank lower field | 182 | 0 | REVIEWED / PASS |
+| 200 | chapter21 `நேர்மையைப் பற்றி வீரமலை` opening | — | 0 | REVIEWED / PASS |
+| 201 | chapter21 continuation | 184 | 0 | REVIEWED / PASS |
+| 202 | chapter21 continuation | 185 | 0 | REVIEWED / PASS |
+| 203 | chapter21 continuation | 186 | 0 | REVIEWED / PASS |
+| 204 | chapter21 continuation | 187 | 0 | REVIEWED / PASS |
+| 205 | chapter21 continuation / open into scan206 | 188 | 0 | REVIEWED / PASS |
+
+## Batch 6 structural / boundary verification
+
+- scans196–199 continue and close chapter20 `அப்பன் அருள்வாக்கு` — **PASS**
+- scans196–199 source-visible printed pagination **179–182** — **PASS**
+- scan199 chapter20 close / substantial intentional blank lower field — **PASS**
+- scan200 decorative chapter21 opening and displayed chapter number **21** — **PASS**
+- scan200 ordinary running printed-page value — **NONE / correctly null**
+- scans201–205 chapter21 continuation / source-visible printed pagination **184–188** — **PASS**
+- scan205 remains open mid-sentence into scan206 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- source-backed corrections — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 6 decision
+
+**BATCH 6 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **0**
+- cumulative reviewed — **60/70 — scans146–205**
+- cumulative source-text corrections — **25**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch6 — scans196–205 / local pages51–60**.
+Process **Part003 Pass2A Batch7 — scans206–215 / local pages61–70**.
 
-Review all 10 pages directly against the rendered source. Stop before scan206 and synchronize correction ledger, page-map and navigation controls.
+Review all 10 pages directly against the rendered source. Preserve scan215 as the Part003 physical edge, do not import scan216 wording, and synchronize correction ledger, page-map and navigation controls.
