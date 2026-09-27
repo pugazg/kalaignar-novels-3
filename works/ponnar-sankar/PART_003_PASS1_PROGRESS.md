@@ -152,16 +152,16 @@ Outgoing:
 
 ## Pass2A activation
 
-- Pass2A — **IN PROGRESS — 30/70 REVIEWED**
-- reviewed — **30/70 — scans146–175**
-- pending — **40/70**
-- source-text corrections — **21**
+- Pass2A — **IN PROGRESS — 40/70 REVIEWED**
+- reviewed — **40/70 — scans146–185**
+- pending — **30/70**
+- source-text corrections — **23**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch4 — scans176–185 / local pages31–40**.
+Process **Part003 Pass2A Batch5 — scans186–195 / local pages41–50**.
 
-Batch3 is REVIEWED / PASS; cumulative Pass2A is 30/70 with 21 source-backed corrections and 0 unresolved questions. Re-read scans176–185 directly against rendered source pixels, keep status/visual fidelity at needs-review, and stop before scan186.
+Batch4 is REVIEWED / PASS; cumulative Pass2A is 40/70 with 23 source-backed corrections and 0 unresolved questions. Re-read scans186–195 directly against rendered source pixels, keep status/visual fidelity at needs-review, and stop before scan196.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch4 — scans176–185
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch5 — scans186–195
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -38,36 +38,31 @@ Closed batches:
 - Batch1 scans146–155 / local1–10 — **REVIEWED / PASS — 8 corrections**
 - Batch2 scans156–165 / local11–20 — **REVIEWED / PASS — 5 corrections**
 - Batch3 scans166–175 / local21–30 — **REVIEWED / PASS — 8 corrections**
+- Batch4 scans176–185 / local31–40 — **REVIEWED / PASS — 2 corrections**
 
 Current accounting:
 
-- reviewed — **30/70 — scans146–175**
-- pending — **40/70**
-- source-text corrections — **21**
+- reviewed — **40/70 — scans146–185**
+- pending — **30/70**
+- source-text corrections — **23**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 
-Batch3 source-backed corrections:
+Batch4 source-backed corrections:
 
-- scan166 — `அந்த கால அனுபவத்தை` → `கடந்த கால அனுபவத்தை`
-- scan166 — `உசிதமென முடிவெடுத்தேன்` → `உசிதமென முடிவெடுத்தோம்`
-- scan167 — `சென்று விடலாம்` → `சென்றுவிடலாம்`
-- scan169 — `காணாமல் போன எங்களின்` → `காணமற் போன எங்களின்`
-- scan169 — `காணாமல் போன கண்மணிகள்` → `காணாமற் போன கண்மணிகள்`
-- scan173 — `மெய்மறக்கச்` → `மெய் மறக்கச்`
-- scan173 — `ஒளிவிட்டுக் கொண்டிருந்தன` → `ஒளிவிட்டுக்கொண்டிருந்தன`
-- scan174 — `வணக்கம் தெரிவித்துவிட்டு` → `வணக்கம் தெரிவித்து விட்டு`
+- scan177 — source-visible punctuation: `கூறியவர் - அவர்களைப் பார்த்து` → `கூறியவர் -- அவர்களைப் பார்த்து`
+- scan185 — `தேர்த்திருவிழா` → `தேர்த் திருவிழா`
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch4 — scans176–185 / local pages31–40**.
+Process **Part003 Pass2A Batch5 — scans186–195 / local pages41–50**.
 
 Structural range:
 
-- scans176–180 — chapter18 `சுயநலமா? பொதுநலமா?` continuation and close / printed159–163
-- scan181 — chapter19 `உண்மையின் உறைவிடம்` opening / no inferred running printed page
-- scans182–185 — chapter19 continuation / printed165–168
+- scans186–190 — chapter19 `உண்மையின் உறைவிடம்` continuation and close / printed169–173
+- scan191 — chapter20 `அப்பன் அருள்வாக்கு` opening / no inferred running printed page
+- scans192–195 — chapter20 continuation / printed175–178
 
 Requirements:
 
@@ -76,9 +71,9 @@ Requirements:
 - preserve physical page endings and source-visible paragraph/dialogue/display structure;
 - record every correction in the Pass2A correction ledger;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- do not import scan186 wording into scan185;
+- do not import scan196 wording into scan195;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Pass2A Batch4 scans176–185 = 40/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
+Stop after **Pass2A Batch5 scans186–195 = 50/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.

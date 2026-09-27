@@ -105,9 +105,9 @@
 - Part003 incoming 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
 - Part003 Pass1 pending: **0/70**
-- Part003 Pass2A: **IN PROGRESS — 30/70 REVIEWED — scans146–175**
-- Part003 Pass2A pending: **40/70**
-- Part003 Pass2A source-text corrections: **21**
+- Part003 Pass2A: **IN PROGRESS — 40/70 REVIEWED — scans146–185**
+- Part003 Pass2A pending: **30/70**
+- Part003 Pass2A source-text corrections: **23**
 - Part003 Pass2A unresolved textual questions: **0**
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
@@ -175,6 +175,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch4 — scans176–185 / local pages31–40**.
+Process **Part003 Pass2A Batch5 — scans186–195 / local pages41–50**.
 
-Keep Parts001–002 frozen. Part003 Pass2A Batch3 is reviewed/pass; cumulative state is 30/70 with 21 source-backed corrections and 0 unresolved questions. Continue with scans176–185 and do not import scan186 or Part004 content.
+Keep Parts001–002 frozen. Part003 Pass2A Batch4 is reviewed/pass; cumulative state is 40/70 with 23 source-backed corrections and 0 unresolved questions. Continue with scans186–195 and do not import scan196 or Part004 content.

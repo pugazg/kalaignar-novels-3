@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 30/70 REVIEWED**
+**PASS 2A — IN PROGRESS — 40/70 REVIEWED**
 
 Active Part:
 
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **30/70 — scans146–175**
-- pending — **40/70**
-- source-text corrections applied — **21**
+- reviewed — **40/70 — scans146–185**
+- pending — **30/70**
+- source-text corrections applied — **23**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -36,8 +36,8 @@ Maintained cadence: **10 scans per batch**.
 | 1 | 146–155 | 1–10 | chapter14 close; chapter15; chapter16 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
 | 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **REVIEWED / PASS — 5 CORRECTIONS** |
 | 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
-| 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **READY / NEXT** |
-| 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **NOT STARTED** |
+| 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **REVIEWED / PASS — 2 CORRECTIONS** |
+| 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **READY / NEXT** |
 | 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **NOT STARTED** |
 | 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **NOT STARTED** |
 
@@ -419,8 +419,74 @@ canonical scan174 restored the source-visible word boundary.
 - Parts001–002 body edits — **0**
 - metadata promotions — **0**
 
+## Batch 4 — scans176–185
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 176 | chapter18 `சுயநலமா? பொதுநலமா?` continuation | 159 | 0 | REVIEWED / PASS |
+| 177 | chapter18 continuation | 160 | **1** | REVIEWED / PASS |
+| 178 | chapter18 continuation | 161 | 0 | REVIEWED / PASS |
+| 179 | chapter18 continuation | 162 | 0 | REVIEWED / PASS |
+| 180 | chapter18 close / substantial intentional blank lower field | 163 | 0 | REVIEWED / PASS |
+| 181 | chapter19 `உண்மையின் உறைவிடம்` opening | — | 0 | REVIEWED / PASS |
+| 182 | chapter19 continuation | 165 | 0 | REVIEWED / PASS |
+| 183 | chapter19 continuation | 166 | 0 | REVIEWED / PASS |
+| 184 | chapter19 continuation | 167 | 0 | REVIEWED / PASS |
+| 185 | chapter19 continuation / open into scan186 | 168 | **1** | REVIEWED / PASS |
+
+## Batch 4 structural / boundary verification
+
+- scans176–180 continue and close chapter18 `சுயநலமா? பொதுநலமா?` — **PASS**
+- scans176–180 source-visible printed pagination **159–163** — **PASS**
+- scan180 chapter18 close / substantial intentional blank lower field — **PASS**
+- scan181 decorative chapter19 opening and displayed chapter number **19** — **PASS**
+- scan181 ordinary running printed-page value — **NONE / correctly null**
+- scans182–185 chapter19 continuation / source-visible printed pagination **165–168** — **PASS**
+- scan185 remains open into scan186 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 4 correction ledger
+
+### P2A-022 — scan177
+
+Pass1:
+`என்று கூறியவர் - அவர்களைப் பார்த்து,`
+
+Direct source-pixel reading:
+`என்று கூறியவர் -- அவர்களைப் பார்த்து,`
+
+Action:
+canonical scan177 corrected to the source-visible double-hyphen punctuation.
+
+### P2A-023 — scan185
+
+Pass1:
+`தேர்த்திருவிழா மிக விமரிசையாக நடைபெற்றது.`
+
+Direct source-pixel reading:
+`தேர்த் திருவிழா மிக விமரிசையாக நடைபெற்றது.`
+
+Action:
+canonical scan185 restored the source-visible word boundary.
+
+## Batch 4 decision
+
+**BATCH 4 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **2**
+- cumulative reviewed — **40/70 — scans146–185**
+- cumulative source-text corrections — **23**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch4 — scans176–185 / local pages31–40**.
+Process **Part003 Pass2A Batch5 — scans186–195 / local pages41–50**.
 
-Review all 10 pages directly against the rendered source. Stop before scan186 and synchronize correction ledger, page-map and navigation controls.
+Review all 10 pages directly against the rendered source. Stop before scan196 and synchronize correction ledger, page-map and navigation controls.
