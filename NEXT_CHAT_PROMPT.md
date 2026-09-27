@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass1 Batch3 — scans166–175
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass1 Batch4 — scans176–185
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,16 +28,17 @@ Closed batches:
 
 - Batch1 scans146–155 / local1–10 — **10/10 TEXT-COMPLETE**
 - Batch2 scans156–165 / local11–20 — **10/10 TEXT-COMPLETE**
+- Batch3 scans166–175 / local21–30 — **10/10 TEXT-COMPLETE**
 
 Current accounting:
 
-- cumulative Pass1 — **20/70 TEXT-COMPLETE**
-- pending — **50/70**
+- cumulative Pass1 — **30/70 TEXT-COMPLETE**
+- pending — **40/70**
 - unresolved source-reading holds — **0**
 - status promotions — **0**
-- canonical records present — **20/70 / scans146–165**
+- canonical records present — **30/70 / scans146–175**
 
-Captured structure through scan165:
+Captured structure through scan175:
 
 - scan146 — chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close
 - scan147 — chapter15 `புறப்பட்டது போர்ப்படை` opening
@@ -45,7 +46,9 @@ Captured structure through scan165:
 - scan155 — chapter16 `போர்முனை எது?` opening
 - scan163 — chapter16 close
 - scan164 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening
-- scan165 — chapter17 continuation
+- scan172 — chapter17 close
+- scan173 — chapter18 `சுயநலமா? பொதுநலமா?` opening
+- scans174–175 — chapter18 continuation
 
 All Part003 canonical records remain:
 
@@ -54,24 +57,24 @@ All Part003 canonical records remain:
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch3 — scans166–175 / local pages21–30**.
+Process **Part003 Pass1 Batch4 — scans176–185 / local pages31–40**.
 
-Structural expectation:
+Structural expectation from source intake:
 
-- scans166–172 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` continuation and close
-- scan173 — chapter18 `சுயநலமா? பொதுநலமா?` opening
-- scans174–175 — chapter18 continuation
+- scans176–180 — chapter18 `சுயநலமா? பொதுநலமா?` continuation and close
+- scan181 — chapter19 `உண்மையின் உறைவிடம்` opening
+- scans182–185 — chapter19 continuation
 
 Requirements:
 
 - one canonical record per physical source scan;
 - direct rendered-source transcription only;
 - preserve exact paragraph/dialogue/display structure;
-- no inferred running printed page on decorative chapter opener scan173;
+- no inferred running printed page on decorative chapter opener scan181;
 - keep status/visual fidelity at needs-review;
-- do not import scan176 wording into scan175;
+- do not import scan186 wording into scan185;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Batch3 scans166–175 = 30/70 cumulative TEXT-COMPLETE** with progress and navigation controls synchronized.
+Stop after **Batch4 scans176–185 = 40/70 cumulative TEXT-COMPLETE** with progress and navigation controls synchronized.

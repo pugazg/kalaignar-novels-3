@@ -171,6 +171,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 18 | 163 | 146 | chapter16 close; திருமலை falls / captives escape; substantial blank lower field | needs-review | `pages/0163-pormunai-ethu.md` |
 | 003 | 19 | 164 | — | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening; running page not inferred | needs-review | `pages/0164-sangaranmalaiyil-santhippom.md` |
 | 003 | 20 | 165 | 148 | chapter17 continuation; route toward சங்கரன்மலை / family-history tension | needs-review | `pages/0165-sangaranmalaiyil-santhippom.md` |
+| 003 | 21 | 166 | 149 | chapter17 continuation; சங்கரன்மலை familiarity / fort-defense discussion | needs-review | `pages/0166-sangaranmalaiyil-santhippom.md` |
+| 003 | 22 | 167 | 150 | chapter17 continuation; strategic diversion / Muthayi-Pavalayi gaze | needs-review | `pages/0167-sangaranmalaiyil-santhippom.md` |
+| 003 | 23 | 168 | 151 | chapter17 continuation; romantic interiority / future promise recalled | needs-review | `pages/0168-sangaranmalaiyil-santhippom.md` |
+| 003 | 24 | 169 | 152 | chapter17 continuation; Kundrudaiyaan asks Maayavar to go to Sangaranmalai | needs-review | `pages/0169-sangaranmalaiyil-santhippom.md` |
+| 003 | 25 | 170 | 153 | chapter17 continuation; Maayavar agrees / Thamarai recalls children lost there | needs-review | `pages/0170-sangaranmalaiyil-santhippom.md` |
+| 003 | 26 | 171 | 154 | chapter17 continuation; Kundrudaiyaan party arrives / Veeramalai enters fort | needs-review | `pages/0171-sangaranmalaiyil-santhippom.md` |
+| 003 | 27 | 172 | 155 | chapter17 close; parties discover each other / source illustration in lower field | needs-review | `pages/0172-sangaranmalaiyil-santhippom.md` |
+| 003 | 28 | 173 | — | chapter18 `சுயநலமா? பொதுநலமா?` opening; running page not inferred | needs-review | `pages/0173-suyanalamaa-pothunalamaa.md` |
+| 003 | 29 | 174 | 157 | chapter18 continuation; Sangaranmalai welcome / sibling reunion | needs-review | `pages/0174-suyanalamaa-pothunalamaa.md` |
+| 003 | 30 | 175 | 158 | chapter18 continuation; family introductions / Maayavar addressed | needs-review | `pages/0175-suyanalamaa-pothunalamaa.md` |
 
 ## Split accounting
 
@@ -182,8 +192,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **165 canonical rows — Parts001–002 frozen + Part003 scans146–165 needs-review**
-- canonical page records: **145 total — Part001 75/75 frozen + Part002 70/70 needs-review**
+- registered physical scan rows: **175 canonical rows — Parts001–002 frozen + Part003 scans146–175 needs-review**
+- canonical page records: **175 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 30/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -246,6 +256,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **IN PROGRESS — 20/70 TEXT-COMPLETE — scans146–165**
-- Part003 Pass1 pending: **50/70**
-- exact next activity: **Part003 Pass1 Batch3 — scans166–175 / local pages21–30**
+- Part003 Pass1: **IN PROGRESS — 30/70 TEXT-COMPLETE — scans146–175**
+- Part003 Pass1 pending: **40/70**
+- exact next activity: **Part003 Pass1 Batch4 — scans176–185 / local pages31–40**
