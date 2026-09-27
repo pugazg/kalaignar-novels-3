@@ -322,10 +322,15 @@ Decision:
 - structural corrections — **0**
 - unresolved visual / structural questions — **0**
 - Part audit — **PASS / COMPLETE — 0 blockers**
+- Final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
+- canonical `status: verified` — **70/70**
+- canonical `visual_fidelity: verified` — **70/70**
+- Tamil archival-ready — **PASS / COMPLETE**
+- durable Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part audit checks in this checkpoint — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Construct and validate the **Part003 assembled Tamil reading layer**.
 
 Use the maintained Part001/Part002 whole-Part audit methodology recorded in `PART_003_AUDIT.md`. Do not promote page metadata during the audit. Keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**.

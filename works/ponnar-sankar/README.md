@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS3 CLOSED / COMPLETE / PASS — PART AUDIT ACTIVATED / READY**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 TAMIL ARCHIVAL-READY PASS / COMPLETE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -194,6 +194,6 @@
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Construct and validate the **Part003 assembled Tamil reading layer**.
 
 Keep Parts001–002 frozen. Part003 Pass2B remains CLOSED / COMPLETE / PASS. Part003 Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE — 0 blockers; execute it next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

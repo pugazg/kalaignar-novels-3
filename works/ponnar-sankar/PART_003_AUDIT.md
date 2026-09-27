@@ -166,15 +166,35 @@ The pending **215→216** external boundary witness is tracked separately and is
 - unresolved in-scope blockers — **0**
 - page status promotion performed — **NO**
 
-## Exact next activity
+## Post-audit metadata/status synchronization
 
-Perform **Part003 final metadata/status synchronization** as a separate post-audit activity.
+**PASS / COMPLETE**
 
-Required promotion after rechecking this PASS result:
-- canonical Part003 records — **70/70**
-- `status: "needs-review"` → `status: "verified"`
-- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
-- no other canonical field/body mutation
+Promotion baseline:
+- pre-promotion live main — `0f38ac0fec4de0a388e6957074a6f392b2cb5279`
+
+Canonical promotion endpoint before control-document synchronization:
+- `f11a1972581c348f72641a1bcf1ef385c664efc9`
+
+Promotion validation:
+- canonical records promoted — **70/70**
+- `status: "verified"` — **70/70**
+- `visual_fidelity: "verified"` — **70/70**
+- remaining canonical frontmatter `status: "needs-review"` — **0**
+- remaining canonical frontmatter `visual_fidelity: "needs-review"` — **0**
+- canonical page files changed by promotion — **70**
+- every canonical page diff — **2 additions / 2 deletions only**
+- transform invariant after removing the two verification fields — **PASS on all 70 pages**
+- canonical Tamil/body transcription changed by promotion — **0**
+- chapter-title / filename drift during promotion — **0**
+- source identity / scan numbering / page type / printed-page drift — **0**
+- Pass evidence changed by promotion — **0**
+- Parts001–002 canonical / assembled / English mutation — **0**
+- Part004 body leakage — **0**
 - outgoing **215→216 remains PENDING Part004 direct witness**
 
-Do not begin assembled Tamil in the same metadata synchronization activity.
+## Exact next activity
+
+Construct and validate the **Part003 assembled Tamil reading layer** from verified canonical `pages/` records only.
+
+Do not modify frozen Parts001–002 section files and do not begin English translation in the same activity.

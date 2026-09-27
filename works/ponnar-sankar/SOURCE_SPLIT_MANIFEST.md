@@ -102,6 +102,11 @@
 - Part003 Pass3 unresolved visual / structural questions: **0**
 - Part003 Pass3 pending: **0/70**
 - Part003 whole-Part audit: **PASS / COMPLETE — 0 blockers**
+- Part003 final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
+- Part003 canonical `status: verified` — **70/70**
+- Part003 canonical `visual_fidelity: verified` — **70/70**
+- Part003 Tamil archival-ready — **PASS / COMPLETE**
+- durable Part003 Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
@@ -113,4 +118,4 @@
 
 ## Current frontier
 
-**Part003 final metadata/status synchronization — next activity.**
+**Part003 assembled Tamil construction + audit — next activity.**

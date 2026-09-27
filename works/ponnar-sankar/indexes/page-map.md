@@ -151,76 +151,76 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 002 | 68 | 143 | 126 | chapter14 continuation; self-harm attempt prevented / convoy order | verified | `pages/0143-raachchaandaar-malai-nokki.md` |
 | 002 | 69 | 144 | 127 | chapter14 continuation; route diverted toward ராச்சாண்டார் மலை | verified | `pages/0144-raachchaandaar-malai-nokki.md` |
 | 002 | 70 | 145 | 128 | chapter14 continuation; wounded ஆரிச்சம்பட்டி வீரன் reaches palace; Part002 final page / 145→146 pending | verified | `pages/0145-raachchaandaar-malai-nokki.md` |
-| 003 | 1 | 146 | 129 | chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close; incoming 145→146 genuine continuation | needs-review | `pages/0146-raachchaandaar-malai-nokki.md` |
-| 003 | 2 | 147 | — | chapter15 `புறப்பட்டது போர்ப்படை` opening; running page not inferred | needs-review | `pages/0147-purappattathu-porppadai.md` |
-| 003 | 3 | 148 | 131 | chapter15 continuation; சின்னமலைக்கொழுந்து explains the conflict and marriage demands | needs-review | `pages/0148-purappattathu-porppadai.md` |
-| 003 | 4 | 149 | 132 | chapter15 continuation; forced-marriage threat and war-or-submission question | needs-review | `pages/0149-purappattathu-porppadai.md` |
-| 003 | 5 | 150 | 133 | chapter15 continuation; வீரமலை rejects surrender; strategic discussion continues | needs-review | `pages/0150-purappattathu-porppadai.md` |
-| 003 | 6 | 151 | 134 | chapter15 continuation; strategic assessment and invitation to the platform | needs-review | `pages/0151-purappattathu-porppadai.md` |
-| 003 | 7 | 152 | 135 | chapter15 continuation; பொன்னர்–சங்கர் assent; war decision firms | needs-review | `pages/0152-purappattathu-porppadai.md` |
-| 003 | 8 | 153 | 136 | chapter15 continuation; command announcement and force departs | needs-review | `pages/0153-purappattathu-porppadai.md` |
-| 003 | 9 | 154 | 137 | chapter15 close; arrow attack from ராச்சாண்டார் மலை begins; blank lower field | needs-review | `pages/0154-purappattathu-porppadai.md` |
-| 003 | 10 | 155 | — | chapter16 `போர்முனை எது?` opening; running page not inferred; open into scan156 | needs-review | `pages/0155-pormunai-ethu.md` |
-| 003 | 11 | 156 | 139 | chapter16 continuation; captive family hears battle / திருமலை receives report | needs-review | `pages/0156-pormunai-ethu.md` |
-| 003 | 12 | 157 | 140 | chapter16 continuation; மாந்தியப்பன் observes opposing formation / drinks again | needs-review | `pages/0157-pormunai-ethu.md` |
-| 003 | 13 | 158 | 141 | chapter16 continuation; arrow attack intensifies / captive-room approach | needs-review | `pages/0158-pormunai-ethu.md` |
-| 003 | 14 | 159 | 142 | chapter16 continuation; மாந்தியப்பன் taunts captives / guarded hope | needs-review | `pages/0159-pormunai-ethu.md` |
-| 003 | 15 | 160 | 143 | chapter16 continuation; arrow-fire halt / proposed humiliation | needs-review | `pages/0160-pormunai-ethu.md` |
-| 003 | 16 | 161 | 144 | chapter16 continuation; Thalaiyur order arrives / captives to be moved | needs-review | `pages/0161-pormunai-ethu.md` |
-| 003 | 17 | 162 | 145 | chapter16 continuation; convoy departs / counterattack cry raised | needs-review | `pages/0162-pormunai-ethu.md` |
-| 003 | 18 | 163 | 146 | chapter16 close; திருமலை falls / captives escape; substantial blank lower field | needs-review | `pages/0163-pormunai-ethu.md` |
-| 003 | 19 | 164 | — | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening; running page not inferred | needs-review | `pages/0164-sangaranmalaiyil-santhippom.md` |
-| 003 | 20 | 165 | 148 | chapter17 continuation; route toward சங்கரன்மலை / family-history tension | needs-review | `pages/0165-sangaranmalaiyil-santhippom.md` |
-| 003 | 21 | 166 | 149 | chapter17 continuation; சங்கரன்மலை familiarity / fort-defense discussion | needs-review | `pages/0166-sangaranmalaiyil-santhippom.md` |
-| 003 | 22 | 167 | 150 | chapter17 continuation; strategic diversion / Muthayi-Pavalayi gaze | needs-review | `pages/0167-sangaranmalaiyil-santhippom.md` |
-| 003 | 23 | 168 | 151 | chapter17 continuation; romantic interiority / future promise recalled | needs-review | `pages/0168-sangaranmalaiyil-santhippom.md` |
-| 003 | 24 | 169 | 152 | chapter17 continuation; Kundrudaiyaan asks Maayavar to go to Sangaranmalai | needs-review | `pages/0169-sangaranmalaiyil-santhippom.md` |
-| 003 | 25 | 170 | 153 | chapter17 continuation; Maayavar agrees / Thamarai recalls children lost there | needs-review | `pages/0170-sangaranmalaiyil-santhippom.md` |
-| 003 | 26 | 171 | 154 | chapter17 continuation; Kundrudaiyaan party arrives / Veeramalai enters fort | needs-review | `pages/0171-sangaranmalaiyil-santhippom.md` |
-| 003 | 27 | 172 | 155 | chapter17 close; parties discover each other / source illustration in lower field | needs-review | `pages/0172-sangaranmalaiyil-santhippom.md` |
-| 003 | 28 | 173 | — | chapter18 `சுயநலமா? பொதுநலமா?` opening; running page not inferred | needs-review | `pages/0173-suyanalamaa-pothunalamaa.md` |
-| 003 | 29 | 174 | 157 | chapter18 continuation; Sangaranmalai welcome / sibling reunion | needs-review | `pages/0174-suyanalamaa-pothunalamaa.md` |
-| 003 | 30 | 175 | 158 | chapter18 continuation; family introductions / Maayavar addressed | needs-review | `pages/0175-suyanalamaa-pothunalamaa.md` |
-| 003 | 31 | 176 | 159 | chapter18 continuation; Maayavar identified / Sinnamalai recovers composure | needs-review | `pages/0176-suyanalamaa-pothunalamaa.md` |
-| 003 | 32 | 177 | 160 | chapter18 continuation; temple-name exchange / marriage promise surfaces | needs-review | `pages/0177-suyanalamaa-pothunalamaa.md` |
-| 003 | 33 | 178 | 161 | chapter18 continuation; hidden names / Sinnamalai explains the marriage pledge | needs-review | `pages/0178-suyanalamaa-pothunalamaa.md` |
-| 003 | 34 | 179 | 162 | chapter18 continuation; Maayavar challenges the pledge / Thamarai invokes her vow | needs-review | `pages/0179-suyanalamaa-pothunalamaa.md` |
-| 003 | 35 | 180 | 163 | chapter18 close; Thamarai insists her sons live / vow-versus-promise conflict framed | needs-review | `pages/0180-suyanalamaa-pothunalamaa.md` |
-| 003 | 36 | 181 | — | chapter19 `உண்மையின் உறைவிடம்` opening; running page not inferred | needs-review | `pages/0181-unmaiyin-uraividam.md` |
-| 003 | 37 | 182 | 165 | chapter19 continuation; Ponnar waives the pledge / Muthayi-Pavalayi react inwardly | needs-review | `pages/0182-unmaiyin-uraividam.md` |
-| 003 | 38 | 183 | 166 | chapter19 continuation; Maayavar recounts Thamarai's endurance and sacrifice | needs-review | `pages/0183-unmaiyin-uraividam.md` |
-| 003 | 39 | 184 | 167 | chapter19 continuation; childlessness grief / false astrologers set the chariot trap | needs-review | `pages/0184-unmaiyin-uraividam.md` |
-| 003 | 40 | 185 | 168 | chapter19 continuation; chariot-sacrifice plot / Raakkiyannan intervenes | needs-review | `pages/0185-unmaiyin-uraividam.md` |
-| 003 | 41 | 186 | 169 | chapter19 continuation; chariot fraud corrected / Thamarai pregnancy and family growth | needs-review | `pages/0186-unmaiyin-uraividam.md` |
-| 003 | 42 | 187 | 170 | chapter19 continuation; pregnancy news / hired-midwife plot begins | needs-review | `pages/0187-unmaiyin-uraividam.md` |
-| 003 | 43 | 188 | 171 | chapter19 continuation; birth-room isolation / first male child born | needs-review | `pages/0188-unmaiyin-uraividam.md` |
-| 003 | 44 | 189 | 172 | chapter19 continuation; twin birth / black-cloaked figure rescues infants | needs-review | `pages/0189-unmaiyin-uraividam.md` |
-| 003 | 45 | 190 | 173 | chapter19 close; Raakkiyannan revealed / children restored to Thamarai | needs-review | `pages/0190-unmaiyin-uraividam.md` |
-| 003 | 46 | 191 | — | chapter20 `அப்பன் அருள்வாக்கு` opening; running page not inferred | needs-review | `pages/0191-appan-arulvaakku.md` |
-| 003 | 47 | 192 | 175 | chapter20 continuation; midwives confess / Kundrudaiyaan and Thamarai forgive and release them | needs-review | `pages/0192-appan-arulvaakku.md` |
-| 003 | 48 | 193 | 176 | chapter20 continuation; Veeramalai reports the children's growth to Raakkiyannan | needs-review | `pages/0193-appan-arulvaakku.md` |
-| 003 | 49 | 194 | 177 | chapter20 continuation; Thalaiyur Kali temple kumbabishekam / Sembakulan corruption | needs-review | `pages/0194-appan-arulvaakku.md` |
-| 003 | 50 | 195 | 178 | chapter20 continuation; Maandhiyappan drunken scene / open into scan196 | needs-review | `pages/0195-appan-arulvaakku.md` |
-| 003 | 51 | 196 | 179 | chapter20 continuation; Sembakulan stages a Kali-possession warning | needs-review | `pages/0196-appan-arulvaakku.md` |
-| 003 | 52 | 197 | 180 | chapter20 continuation; oracle names Kundrudaiyaan's children as threat / Raakkiyannan stays behind | needs-review | `pages/0197-appan-arulvaakku.md` |
-| 003 | 53 | 198 | 181 | chapter20 continuation; bribery exposed / council debate / Raakkiyannan offers to act | needs-review | `pages/0198-appan-arulvaakku.md` |
-| 003 | 54 | 199 | 182 | chapter20 close; sacrifice proposal / listeners stunned; substantial blank lower field | needs-review | `pages/0199-appan-arulvaakku.md` |
-| 003 | 55 | 200 | — | chapter21 `நேர்மையைப் பற்றி வீரமலை` opening; running page not inferred | needs-review | `pages/0200-nermaiyai-patri-veeramalai.md` |
-| 003 | 56 | 201 | 184 | chapter21 continuation; Raakkiyannan returns distressed / Azhagunachchi recalled | needs-review | `pages/0201-nermaiyai-patri-veeramalai.md` |
-| 003 | 57 | 202 | 185 | chapter21 continuation; Veeramalai receives secret Sangaranmalai reconnaissance order | needs-review | `pages/0202-nermaiyai-patri-veeramalai.md` |
-| 003 | 58 | 203 | 186 | chapter21 continuation; naming ceremony discovered / Raakkiyannan plans journey | needs-review | `pages/0203-nermaiyai-patri-veeramalai.md` |
-| 003 | 59 | 204 | 187 | chapter21 continuation; Thalaiyur letter reveals abduction plan / Veeramalai made witness | needs-review | `pages/0204-nermaiyai-patri-veeramalai.md` |
-| 003 | 60 | 205 | 188 | chapter21 continuation; Veeramalai wrestles with apparent contradiction / journey begins | needs-review | `pages/0205-nermaiyai-patri-veeramalai.md` |
-| 003 | 61 | 206 | 189 | chapter21 continuation; naming-ceremony night / children transferred to Raakkiyannan | needs-review | `pages/0206-nermaiyai-patri-veeramalai.md` |
-| 003 | 62 | 207 | 190 | chapter21 close; abduction aftermath / sacrifice story announced | needs-review | `pages/0207-nermaiyai-patri-veeramalai.md` |
-| 003 | 63 | 208 | — | chapter22 `தியாகத்தின் எல்லை` opening; running page not inferred | needs-review | `pages/0208-thiyaagaththin-ellai.md` |
-| 003 | 64 | 209 | 192 | chapter22 continuation; Veeramalai observes Raakkiyannan and Azhagunachchi with four infants | needs-review | `pages/0209-thiyaagaththin-ellai.md` |
-| 003 | 65 | 210 | 193 | chapter22 continuation; Raakkiyannan admits stealing Kundrudaiyaan's children to save them | needs-review | `pages/0210-thiyaagaththin-ellai.md` |
-| 003 | 66 | 211 | 194 | chapter22 continuation; Kolaththaak Kavundar legacy / moral debt invoked | needs-review | `pages/0211-thiyaagaththin-ellai.md` |
-| 003 | 67 | 212 | 195 | chapter22 continuation; Raakkiyannan refuses their sacrifice / substitute children hinted | needs-review | `pages/0212-thiyaagaththin-ellai.md` |
-| 003 | 68 | 213 | 196 | chapter22 continuation; Azhagunachchi asked to prepare for sacrifice | needs-review | `pages/0213-thiyaagaththin-ellai.md` |
-| 003 | 69 | 214 | 197 | chapter22 continuation; own twins chosen as substitutes / final kisses requested | needs-review | `pages/0214-thiyaagaththin-ellai.md` |
-| 003 | 70 | 215 | 198 | chapter22 continuation; Raakkiyannan leaves with his twins / Part003 split edge | needs-review | `pages/0215-thiyaagaththin-ellai.md` |
+| 003 | 1 | 146 | 129 | chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close; incoming 145→146 genuine continuation | verified | `pages/0146-raachchaandaar-malai-nokki.md` |
+| 003 | 2 | 147 | — | chapter15 `புறப்பட்டது போர்ப்படை` opening; running page not inferred | verified | `pages/0147-purappattathu-porppadai.md` |
+| 003 | 3 | 148 | 131 | chapter15 continuation; சின்னமலைக்கொழுந்து explains the conflict and marriage demands | verified | `pages/0148-purappattathu-porppadai.md` |
+| 003 | 4 | 149 | 132 | chapter15 continuation; forced-marriage threat and war-or-submission question | verified | `pages/0149-purappattathu-porppadai.md` |
+| 003 | 5 | 150 | 133 | chapter15 continuation; வீரமலை rejects surrender; strategic discussion continues | verified | `pages/0150-purappattathu-porppadai.md` |
+| 003 | 6 | 151 | 134 | chapter15 continuation; strategic assessment and invitation to the platform | verified | `pages/0151-purappattathu-porppadai.md` |
+| 003 | 7 | 152 | 135 | chapter15 continuation; பொன்னர்–சங்கர் assent; war decision firms | verified | `pages/0152-purappattathu-porppadai.md` |
+| 003 | 8 | 153 | 136 | chapter15 continuation; command announcement and force departs | verified | `pages/0153-purappattathu-porppadai.md` |
+| 003 | 9 | 154 | 137 | chapter15 close; arrow attack from ராச்சாண்டார் மலை begins; blank lower field | verified | `pages/0154-purappattathu-porppadai.md` |
+| 003 | 10 | 155 | — | chapter16 `போர்முனை எது?` opening; running page not inferred; open into scan156 | verified | `pages/0155-pormunai-ethu.md` |
+| 003 | 11 | 156 | 139 | chapter16 continuation; captive family hears battle / திருமலை receives report | verified | `pages/0156-pormunai-ethu.md` |
+| 003 | 12 | 157 | 140 | chapter16 continuation; மாந்தியப்பன் observes opposing formation / drinks again | verified | `pages/0157-pormunai-ethu.md` |
+| 003 | 13 | 158 | 141 | chapter16 continuation; arrow attack intensifies / captive-room approach | verified | `pages/0158-pormunai-ethu.md` |
+| 003 | 14 | 159 | 142 | chapter16 continuation; மாந்தியப்பன் taunts captives / guarded hope | verified | `pages/0159-pormunai-ethu.md` |
+| 003 | 15 | 160 | 143 | chapter16 continuation; arrow-fire halt / proposed humiliation | verified | `pages/0160-pormunai-ethu.md` |
+| 003 | 16 | 161 | 144 | chapter16 continuation; Thalaiyur order arrives / captives to be moved | verified | `pages/0161-pormunai-ethu.md` |
+| 003 | 17 | 162 | 145 | chapter16 continuation; convoy departs / counterattack cry raised | verified | `pages/0162-pormunai-ethu.md` |
+| 003 | 18 | 163 | 146 | chapter16 close; திருமலை falls / captives escape; substantial blank lower field | verified | `pages/0163-pormunai-ethu.md` |
+| 003 | 19 | 164 | — | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening; running page not inferred | verified | `pages/0164-sangaranmalaiyil-santhippom.md` |
+| 003 | 20 | 165 | 148 | chapter17 continuation; route toward சங்கரன்மலை / family-history tension | verified | `pages/0165-sangaranmalaiyil-santhippom.md` |
+| 003 | 21 | 166 | 149 | chapter17 continuation; சங்கரன்மலை familiarity / fort-defense discussion | verified | `pages/0166-sangaranmalaiyil-santhippom.md` |
+| 003 | 22 | 167 | 150 | chapter17 continuation; strategic diversion / Muthayi-Pavalayi gaze | verified | `pages/0167-sangaranmalaiyil-santhippom.md` |
+| 003 | 23 | 168 | 151 | chapter17 continuation; romantic interiority / future promise recalled | verified | `pages/0168-sangaranmalaiyil-santhippom.md` |
+| 003 | 24 | 169 | 152 | chapter17 continuation; Kundrudaiyaan asks Maayavar to go to Sangaranmalai | verified | `pages/0169-sangaranmalaiyil-santhippom.md` |
+| 003 | 25 | 170 | 153 | chapter17 continuation; Maayavar agrees / Thamarai recalls children lost there | verified | `pages/0170-sangaranmalaiyil-santhippom.md` |
+| 003 | 26 | 171 | 154 | chapter17 continuation; Kundrudaiyaan party arrives / Veeramalai enters fort | verified | `pages/0171-sangaranmalaiyil-santhippom.md` |
+| 003 | 27 | 172 | 155 | chapter17 close; parties discover each other / source illustration in lower field | verified | `pages/0172-sangaranmalaiyil-santhippom.md` |
+| 003 | 28 | 173 | — | chapter18 `சுயநலமா? பொதுநலமா?` opening; running page not inferred | verified | `pages/0173-suyanalamaa-pothunalamaa.md` |
+| 003 | 29 | 174 | 157 | chapter18 continuation; Sangaranmalai welcome / sibling reunion | verified | `pages/0174-suyanalamaa-pothunalamaa.md` |
+| 003 | 30 | 175 | 158 | chapter18 continuation; family introductions / Maayavar addressed | verified | `pages/0175-suyanalamaa-pothunalamaa.md` |
+| 003 | 31 | 176 | 159 | chapter18 continuation; Maayavar identified / Sinnamalai recovers composure | verified | `pages/0176-suyanalamaa-pothunalamaa.md` |
+| 003 | 32 | 177 | 160 | chapter18 continuation; temple-name exchange / marriage promise surfaces | verified | `pages/0177-suyanalamaa-pothunalamaa.md` |
+| 003 | 33 | 178 | 161 | chapter18 continuation; hidden names / Sinnamalai explains the marriage pledge | verified | `pages/0178-suyanalamaa-pothunalamaa.md` |
+| 003 | 34 | 179 | 162 | chapter18 continuation; Maayavar challenges the pledge / Thamarai invokes her vow | verified | `pages/0179-suyanalamaa-pothunalamaa.md` |
+| 003 | 35 | 180 | 163 | chapter18 close; Thamarai insists her sons live / vow-versus-promise conflict framed | verified | `pages/0180-suyanalamaa-pothunalamaa.md` |
+| 003 | 36 | 181 | — | chapter19 `உண்மையின் உறைவிடம்` opening; running page not inferred | verified | `pages/0181-unmaiyin-uraividam.md` |
+| 003 | 37 | 182 | 165 | chapter19 continuation; Ponnar waives the pledge / Muthayi-Pavalayi react inwardly | verified | `pages/0182-unmaiyin-uraividam.md` |
+| 003 | 38 | 183 | 166 | chapter19 continuation; Maayavar recounts Thamarai's endurance and sacrifice | verified | `pages/0183-unmaiyin-uraividam.md` |
+| 003 | 39 | 184 | 167 | chapter19 continuation; childlessness grief / false astrologers set the chariot trap | verified | `pages/0184-unmaiyin-uraividam.md` |
+| 003 | 40 | 185 | 168 | chapter19 continuation; chariot-sacrifice plot / Raakkiyannan intervenes | verified | `pages/0185-unmaiyin-uraividam.md` |
+| 003 | 41 | 186 | 169 | chapter19 continuation; chariot fraud corrected / Thamarai pregnancy and family growth | verified | `pages/0186-unmaiyin-uraividam.md` |
+| 003 | 42 | 187 | 170 | chapter19 continuation; pregnancy news / hired-midwife plot begins | verified | `pages/0187-unmaiyin-uraividam.md` |
+| 003 | 43 | 188 | 171 | chapter19 continuation; birth-room isolation / first male child born | verified | `pages/0188-unmaiyin-uraividam.md` |
+| 003 | 44 | 189 | 172 | chapter19 continuation; twin birth / black-cloaked figure rescues infants | verified | `pages/0189-unmaiyin-uraividam.md` |
+| 003 | 45 | 190 | 173 | chapter19 close; Raakkiyannan revealed / children restored to Thamarai | verified | `pages/0190-unmaiyin-uraividam.md` |
+| 003 | 46 | 191 | — | chapter20 `அப்பன் அருள்வாக்கு` opening; running page not inferred | verified | `pages/0191-appan-arulvaakku.md` |
+| 003 | 47 | 192 | 175 | chapter20 continuation; midwives confess / Kundrudaiyaan and Thamarai forgive and release them | verified | `pages/0192-appan-arulvaakku.md` |
+| 003 | 48 | 193 | 176 | chapter20 continuation; Veeramalai reports the children's growth to Raakkiyannan | verified | `pages/0193-appan-arulvaakku.md` |
+| 003 | 49 | 194 | 177 | chapter20 continuation; Thalaiyur Kali temple kumbabishekam / Sembakulan corruption | verified | `pages/0194-appan-arulvaakku.md` |
+| 003 | 50 | 195 | 178 | chapter20 continuation; Maandhiyappan drunken scene / open into scan196 | verified | `pages/0195-appan-arulvaakku.md` |
+| 003 | 51 | 196 | 179 | chapter20 continuation; Sembakulan stages a Kali-possession warning | verified | `pages/0196-appan-arulvaakku.md` |
+| 003 | 52 | 197 | 180 | chapter20 continuation; oracle names Kundrudaiyaan's children as threat / Raakkiyannan stays behind | verified | `pages/0197-appan-arulvaakku.md` |
+| 003 | 53 | 198 | 181 | chapter20 continuation; bribery exposed / council debate / Raakkiyannan offers to act | verified | `pages/0198-appan-arulvaakku.md` |
+| 003 | 54 | 199 | 182 | chapter20 close; sacrifice proposal / listeners stunned; substantial blank lower field | verified | `pages/0199-appan-arulvaakku.md` |
+| 003 | 55 | 200 | — | chapter21 `நேர்மையைப் பற்றி வீரமலை` opening; running page not inferred | verified | `pages/0200-nermaiyai-patri-veeramalai.md` |
+| 003 | 56 | 201 | 184 | chapter21 continuation; Raakkiyannan returns distressed / Azhagunachchi recalled | verified | `pages/0201-nermaiyai-patri-veeramalai.md` |
+| 003 | 57 | 202 | 185 | chapter21 continuation; Veeramalai receives secret Sangaranmalai reconnaissance order | verified | `pages/0202-nermaiyai-patri-veeramalai.md` |
+| 003 | 58 | 203 | 186 | chapter21 continuation; naming ceremony discovered / Raakkiyannan plans journey | verified | `pages/0203-nermaiyai-patri-veeramalai.md` |
+| 003 | 59 | 204 | 187 | chapter21 continuation; Thalaiyur letter reveals abduction plan / Veeramalai made witness | verified | `pages/0204-nermaiyai-patri-veeramalai.md` |
+| 003 | 60 | 205 | 188 | chapter21 continuation; Veeramalai wrestles with apparent contradiction / journey begins | verified | `pages/0205-nermaiyai-patri-veeramalai.md` |
+| 003 | 61 | 206 | 189 | chapter21 continuation; naming-ceremony night / children transferred to Raakkiyannan | verified | `pages/0206-nermaiyai-patri-veeramalai.md` |
+| 003 | 62 | 207 | 190 | chapter21 close; abduction aftermath / sacrifice story announced | verified | `pages/0207-nermaiyai-patri-veeramalai.md` |
+| 003 | 63 | 208 | — | chapter22 `தியாகத்தின் எல்லை` opening; running page not inferred | verified | `pages/0208-thiyaagaththin-ellai.md` |
+| 003 | 64 | 209 | 192 | chapter22 continuation; Veeramalai observes Raakkiyannan and Azhagunachchi with four infants | verified | `pages/0209-thiyaagaththin-ellai.md` |
+| 003 | 65 | 210 | 193 | chapter22 continuation; Raakkiyannan admits stealing Kundrudaiyaan's children to save them | verified | `pages/0210-thiyaagaththin-ellai.md` |
+| 003 | 66 | 211 | 194 | chapter22 continuation; Kolaththaak Kavundar legacy / moral debt invoked | verified | `pages/0211-thiyaagaththin-ellai.md` |
+| 003 | 67 | 212 | 195 | chapter22 continuation; Raakkiyannan refuses their sacrifice / substitute children hinted | verified | `pages/0212-thiyaagaththin-ellai.md` |
+| 003 | 68 | 213 | 196 | chapter22 continuation; Azhagunachchi asked to prepare for sacrifice | verified | `pages/0213-thiyaagaththin-ellai.md` |
+| 003 | 69 | 214 | 197 | chapter22 continuation; own twins chosen as substitutes / final kisses requested | verified | `pages/0214-thiyaagaththin-ellai.md` |
+| 003 | 70 | 215 | 198 | chapter22 continuation; Raakkiyannan leaves with his twins / Part003 split edge | verified | `pages/0215-thiyaagaththin-ellai.md` |
 
 ## Split accounting
 
@@ -232,8 +232,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **215 canonical rows — Parts001–002 frozen + Part003 scans146–215 needs-review**
-- canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 needs-review**
+- registered physical scan rows: **215 canonical rows — Parts001–003 verified; Parts001–002 frozen**
+- canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 verified**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -309,8 +309,13 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 unresolved visual / structural questions: **0**
 - Part003 Pass3 pending: **0/70**
 - Part003 whole-Part audit: **PASS / COMPLETE — 0 blockers**
+- Part003 final metadata/status synchronization: **PASS / COMPLETE — 70/70 verified**
+- Part003 canonical `status: verified`: **70/70**
+- Part003 canonical `visual_fidelity: verified`: **70/70**
+- Part003 Tamil archival-ready: **PASS / COMPLETE**
+- Part003 archival-ready control: `../PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part003 final metadata/status synchronization**
+- exact next activity: **Part003 assembled Tamil construction + audit**

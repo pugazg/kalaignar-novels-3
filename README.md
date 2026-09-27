@@ -48,6 +48,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Construct and validate the **Part003 assembled Tamil reading layer**.
 
 Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **COMPLETE / PASS — 70/70 TEXT-COMPLETE**. Pass2A / Pass2B remain closed. Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved**. Part audit is **PASS / COMPLETE — 0 blockers**; execute it next, keep status/visual fidelity at needs-review, and keep outgoing 215→216 pending.

@@ -111,6 +111,6 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Construct and validate the **Part003 assembled Tamil reading layer**.
 
-Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 corrections and 0 unresolved questions. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE — 0 blockers. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`; perform final metadata/status synchronization next and keep outgoing 215→216 pending.
+Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 corrections and 0 unresolved questions. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE — 0 blockers. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`; construct and validate the Part003 assembled Tamil reading layer next and keep outgoing 215→216 pending.

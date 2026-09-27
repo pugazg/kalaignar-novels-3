@@ -161,6 +161,11 @@ Outgoing:
 - Pass3 — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Part audit — **PASS / COMPLETE — 0 blockers**
+- Final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
+- canonical `status: verified` — **70/70**
+- canonical `visual_fidelity: verified` — **70/70**
+- Tamil archival-ready — **PASS / COMPLETE**
+- durable Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - durable Part audit — `PART_003_AUDIT.md`
 - Pass2B unresolved textual questions — **0**
 - Pass2B cadence — **10 scans per batch**
@@ -170,6 +175,6 @@ Outgoing:
 
 ## Exact next activity
 
-Perform **Part003 final metadata/status synchronization**.
+Construct and validate the **Part003 assembled Tamil reading layer**.
 
-Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE with 0 blockers; perform final metadata/status synchronization next.
+Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE with 0 blockers; construct and validate the Part003 assembled Tamil reading layer next.
