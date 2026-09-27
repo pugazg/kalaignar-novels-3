@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass3 Batch3 — scans176–190
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass3 Batch4 — scans191–205
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,13 +27,14 @@ Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tami
 
 ## Part003 Pass3 state
 
-**IN PROGRESS — 30/70 REVIEWED / PASS — scans146–175**
+**IN PROGRESS — 45/70 REVIEWED / PASS — scans146–190**
 
 - Batch1 scans146–160 — **REVIEWED / PASS — 15/15**
 - Batch2 scans161–175 — **REVIEWED / PASS — 15/15**
+- Batch3 scans176–190 — **REVIEWED / PASS — 15/15**
 - cumulative structural corrections — **0**
 - unresolved visual / structural questions — **0**
-- pending — **40/70 — scans176–215**
+- pending — **25/70 — scans191–215**
 - Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
 - cadence — **15 source pages per iteration; final remainder may be smaller**
 
@@ -41,26 +42,25 @@ Durable tracker:
 
 `works/ponnar-sankar/PART_003_PASS3_PROGRESS.md`
 
-## Batch2 result
+## Batch3 result
 
 Verified directly from rendered source pixels:
 
 - alternating running-header / page-number placement across ordinary body pages — **PASS**;
-- scan163 chapter16 close / substantial intentional blank lower field — **PASS**;
-- scan164 chapter17 `சங்கரன்மலையில் சந்திப்போம்?` decorative blue opener with chapter number **17**, mountain-line illustration and flourish — **PASS**;
-- scan172 chapter17 close / substantial lower field with source-visible blue two-figure illustration — **PASS**;
-- scan173 chapter18 `சுயநலமா? பொதுநலமா?` decorative blue opener with chapter number **18** and flourish — **PASS**;
-- scan175 open physical continuation into scan176 — **PASS**;
+- scan180 chapter18 close / substantial intentional blank lower field — **PASS**;
+- scan181 chapter19 `உண்மையின் உறைவிடம்` decorative blue opener with chapter number **19** and ornate horizontal flourish — **PASS**;
+- scan190 chapter19 close / substantial intentional blank lower field — **PASS**;
+- scan190→191 boundary handling — **PASS / no scan191 wording imported backward**;
 - structural corrections — **0**;
 - lexical reopening — **0**.
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch3 — global scans176–190 / local pages31–45**.
+Process **Part003 Pass3 Batch4 — global scans191–205 / local pages46–60**.
 
 This remains a **full-page visual / structural verification**, not a lexical reread.
 
-For each scan176–190:
+For each scan191–205:
 
 1. inspect the complete rendered page;
 2. verify page type and chapter/opening/continuation role;
@@ -74,13 +74,13 @@ For each scan176–190:
 10. keep `status: "needs-review"` / `visual_fidelity: "needs-review"`;
 11. do not begin Part audit.
 
-## Batch3 structural scope
+## Batch4 structural scope
 
-- scans176–180 — chapter18 `சுயநலமா? பொதுநலமா?` continuation and close / printed159–163;
-- scan180 — chapter18 close with substantial intentional blank lower field;
-- scan181 — chapter19 `உண்மையின் உறைவிடம்` decorative opening / no ordinary running printed-page value;
-- scans182–190 — chapter19 continuation / printed165–173;
-- scan190 — chapter19 close with substantial intentional blank lower field.
+- scan191 — chapter20 `அப்பன் அருள்வாக்கு` decorative opening / no ordinary running printed-page value;
+- scans192–199 — chapter20 continuation / printed175–182;
+- scan199 — chapter20 close with substantial intentional blank lower field;
+- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` decorative opening / no ordinary running printed-page value;
+- scans201–205 — chapter21 continuation / printed184–188 / open into scan206.
 
 ## Mandatory locks
 
@@ -93,15 +93,15 @@ For each scan176–190:
 - no status promotion during Pass3
 - incoming 145→146 remains audited/pass
 - outgoing 215→216 remains pending
-- do not import scan191 wording backward into scan190
+- do not import scan206 wording backward into scan205
 - do not begin Part audit.
 
 ## Stop condition
 
-Stop after **Part003 Pass3 Batch3 — scans176–190 — REVIEWED**.
+Stop after **Part003 Pass3 Batch4 — scans191–205 — REVIEWED**.
 
-Expected cumulative state after a clean Batch3:
+Expected cumulative state after a clean Batch4:
 
-**45/70 REVIEWED / PASS — scans146–190**
+**60/70 REVIEWED / PASS — scans146–205**
 
-Then synchronize maintained controls and advance to **Part003 Pass3 Batch4 — scans191–205 / local pages46–60**, unless a direct-source visual/structural hold is recorded.
+Then synchronize maintained controls and advance to **Part003 Pass3 Final Batch5 — scans206–215 / local pages61–70**, unless a direct-source visual/structural hold is recorded.

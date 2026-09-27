@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 30/70 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / BATCH 3 COMPLETE — 45/70 REVIEWED / PASS**
 
 Active Part:
 - Part003
@@ -69,8 +69,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **30/70 — scans146–175**
-- pending — **40/70 — scans176–215**
+- reviewed — **45/70 — scans146–190**
+- pending — **25/70 — scans191–215**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -168,8 +168,48 @@ For each scan:
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
+## Batch 3 — scans176–190
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 176 | chapter18 continuation / alternating running header | 159 | 0 | REVIEWED / PASS |
+| 177 | chapter18 continuation / alternating running header | 160 | 0 | REVIEWED / PASS |
+| 178 | chapter18 continuation / alternating running header | 161 | 0 | REVIEWED / PASS |
+| 179 | chapter18 continuation / alternating running header | 162 | 0 | REVIEWED / PASS |
+| 180 | chapter18 close / substantial intentional blank lower field | 163 | 0 | REVIEWED / PASS |
+| 181 | chapter19 decorative opening / blue title + ornate flourish | — | 0 | REVIEWED / PASS |
+| 182 | chapter19 continuation / alternating running header | 165 | 0 | REVIEWED / PASS |
+| 183 | chapter19 continuation / alternating running header | 166 | 0 | REVIEWED / PASS |
+| 184 | chapter19 continuation / alternating running header | 167 | 0 | REVIEWED / PASS |
+| 185 | chapter19 continuation / alternating running header | 168 | 0 | REVIEWED / PASS |
+| 186 | chapter19 continuation / alternating running header | 169 | 0 | REVIEWED / PASS |
+| 187 | chapter19 continuation / alternating running header | 170 | 0 | REVIEWED / PASS |
+| 188 | chapter19 continuation / alternating running header | 171 | 0 | REVIEWED / PASS |
+| 189 | chapter19 continuation / alternating running header | 172 | 0 | REVIEWED / PASS |
+| 190 | chapter19 close / substantial intentional blank lower field | 173 | 0 | REVIEWED / PASS |
+
+## Batch 3 result
+
+- scans176–190 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **45/70 — scans146–190**
+- pending — **25/70 — scans191–215**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan180 chapter18 close / substantial intentional blank lower field — **PASS**
+- scan181 chapter19 decorative opener / chapter number 19 / blue stylized title + ornate horizontal flourish — **PASS**
+- scan190 chapter19 close / substantial intentional blank lower field — **PASS**
+- scan190→191 boundary handling / scan191 wording imported backward — **0**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Process **Part003 Pass3 Batch3 — global scans176–190 / local pages31–45**.
+Process **Part003 Pass3 Batch4 — global scans191–205 / local pages46–60**.
 
-Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending. Do not import scan191 wording backward into scan190.
+Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending. Do not import scan206 wording backward into scan205.

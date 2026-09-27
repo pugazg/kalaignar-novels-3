@@ -97,10 +97,10 @@
 - Part003 Pass2A unresolved textual questions: **0**
 - Part003 Pass2B: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass2B pending: **0/70**
-- Part003 Pass3: **IN PROGRESS — 30/70 REVIEWED / PASS — scans146–175**
+- Part003 Pass3: **IN PROGRESS — 45/70 REVIEWED / PASS — scans146–190**
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
-- Part003 Pass3 pending: **40/70 — scans176–215**
+- Part003 Pass3 pending: **25/70 — scans191–215**
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
@@ -111,4 +111,4 @@
 
 ## Current frontier
 
-**Part003 Pass3 Batch3 — scans176–190 / local pages31–45 — next activity.**
+**Part003 Pass3 Batch4 — scans191–205 / local pages46–60 — next activity.**

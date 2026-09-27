@@ -114,10 +114,10 @@
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
 - Part003 Pass2B unresolved textual questions: **0**
-- Part003 Pass3: **IN PROGRESS — 30/70 REVIEWED / PASS — scans146–175**
+- Part003 Pass3: **IN PROGRESS — 45/70 REVIEWED / PASS — scans146–190**
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
-- Part003 Pass3 pending: **40/70 — scans176–215**
+- Part003 Pass3 pending: **25/70 — scans191–215**
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker: `PART_003_PASS3_PROGRESS.md`
 - Part003 Pass2B unresolved textual questions: **0**
@@ -188,6 +188,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch3 — global scans176–190 / local pages31–45**.
+Process **Part003 Pass3 Batch4 — global scans191–205 / local pages46–60**.
 
-Keep Parts001–002 frozen. Part003 Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Part003 Pass3 Batches1–2 are REVIEWED / PASS — 30/70 cumulative with 0 structural corrections / 0 unresolved; process scans176–190 next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Part003 Pass3 Batches1–3 are REVIEWED / PASS — 45/70 cumulative with 0 structural corrections / 0 unresolved; process scans191–205 next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

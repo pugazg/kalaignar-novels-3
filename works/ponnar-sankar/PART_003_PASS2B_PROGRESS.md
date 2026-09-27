@@ -561,6 +561,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch3 — global scans176–190 / local pages31–45**.
+Process **Part003 Pass3 Batch4 — global scans191–205 / local pages46–60**.
 
-Pass3 Batches1–2 scans146–175 are **REVIEWED / PASS — 30/70 cumulative** with **0 structural corrections / 0 unresolved visual or structural questions**. Continue full-page visual / structural verification with Batch3 scans176–190; keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
+Pass3 Batches1–3 scans146–190 are **REVIEWED / PASS — 45/70 cumulative** with **0 structural corrections / 0 unresolved visual or structural questions**. Continue full-page visual / structural verification with Batch4 scans191–205; keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
