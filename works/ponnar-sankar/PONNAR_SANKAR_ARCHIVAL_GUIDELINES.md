@@ -218,8 +218,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 Pass2A pending — **0/70**
 - Part003 Pass2A source-text corrections — **25**
 - Part003 Pass2A unresolved textual questions — **0**
-- Part003 Pass2B — **IN PROGRESS — 40/70 REVIEWED — scans146–185**
-- Part003 Pass2B pending — **30/70 — scans186–215**
+- Part003 Pass2B — **IN PROGRESS — 50/70 REVIEWED — scans146–195**
+- Part003 Pass2B pending — **20/70 — scans196–215**
 - Part003 Pass2B cadence — **10 scans per iteration**
 - Part003 Pass2B source-text corrections — **9**
 - Part003 Pass2B unresolved textual questions — **0**
@@ -271,4 +271,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical / assembled Tamil / maintained English — **FROZEN**
-- exact next activity — **Part003 Pass2B Batch5 / scans186–195 / local pages41–50**
+- exact next activity — **Part003 Pass2B Batch6 / scans196–205 / local pages51–60**

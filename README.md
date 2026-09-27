@@ -13,7 +13,7 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 REGISTERED / COMPLETE — scans146–215 / 70 pages; Pass1 COMPLETE / PASS — 70/70 TEXT-COMPLETE; Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 source-text corrections; Pass2B IN PROGRESS — 40/70 REVIEWED / 9 source-text corrections**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 REGISTERED / COMPLETE — scans146–215 / 70 pages; Pass1 COMPLETE / PASS — 70/70 TEXT-COMPLETE; Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 source-text corrections; Pass2B IN PROGRESS — 50/70 REVIEWED / 9 source-text corrections**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -47,6 +47,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch5 — scans186–195 / local pages41–50**.
+Process **Part003 Pass2B Batch6 — scans196–205 / local pages51–60**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **COMPLETE / PASS — 70/70 TEXT-COMPLETE**. Pass2A is **CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 corrections / 0 unresolved**. Pass2B is **IN PROGRESS — 40/70 REVIEWED / 9 corrections / 0 unresolved**. Keep status/visual fidelity at needs-review, do not begin Pass3, and keep outgoing 215→216 pending.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **COMPLETE / PASS — 70/70 TEXT-COMPLETE**. Pass2A is **CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 corrections / 0 unresolved**. Pass2B is **IN PROGRESS — 50/70 REVIEWED / 9 corrections / 0 unresolved**. Keep status/visual fidelity at needs-review, do not begin Pass3, and keep outgoing 215→216 pending.
