@@ -25,7 +25,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 7
 
 சமயத்தை எதிர்பார்த்திருந்த வீரமலை மெல்ல எழுந்து, தொட்டிலில் அயர்ந்து தூங்கிக் கொண்டிருந்த இரண்டு குழந்தைகளையும் துணியொன்றினால் மூடி எடுத்துக் கொண்டு, கோட்டைச் சுவர் பக்கம் ஓடினான். சுவரின் அடுத்த பக்கம் திட்டமிட்டபடி நின்று கொண்டிருந்த ராக்கியண்ணன் கையில் மிகவும் பத்திரமாக இரண்டு குழந்தைகளும் ஒப்படைக்கப்பட்டன. அவைகளை ஒப்படைத்து விட்ட வீரமலை ஒரு ஆழ்ந்த பெருமூச்சுடன் தன்னை நிதானப்படுத்திக் கொண்டு மீண்டும் குழந்தைகளின் தொட்டில்கள் அருகே வந்து நன்றாகத் தூங்குவது போல நடிக்கத் தொடங்கினான்.
 
-குழந்தைகளை கவனிக்க வந்த அரண்மனைப் பணிப்பெண்கள் “அய்யோ! குழந்தைகளைக் காணவில்லை!” என்று கூச்சல் போட்டுக் கத்தினர். அந்தப் பேரொலியில் அதிர்ச்சியடைந்து தாமரை நாச்சியாரும் குன்றுடையாரும் அங்கே ஓடி வந்தனர். தூங்கிக் கொண்டிருந்த வீரமலையைத் தட்டி எழுப்பி,
+குழந்தைகளை கவனிக்க வந்த அரண்மனைப் பணிப் பெண்கள் “அய்யோ! குழந்தைகளைக் காணவில்லை!” என்று கூச்சல் போட்டுக் கத்தினர். அந்தப் பேரொலியில் அதிர்ச்சியடைந்து தாமரை நாச்சியாரும் குன்றுடையாரும் அங்கே ஓடி வந்தனர். தூங்கிக் கொண்டிருந்த வீரமலையைத் தட்டி எழுப்பி,
 
 ## Pass 1 notes
 
@@ -45,3 +45,12 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 7
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part003 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from freshly rendered source pixels;
+- source-backed correction in Pass2B: **1** — restored source-visible word boundary `பணிப்பெண்கள்` → `பணிப் பெண்கள்`;
+- scan206 remains open into scan207; no scan207 wording was imported backward;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 60/70 REVIEWED**
+**PASS 2B — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
 
 Active Part:
 - Part003
@@ -78,13 +78,13 @@ Maintained cadence follows Parts001–002 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **60/70 — scans146–205**
-- pending — **10/70 — scans206–215**
-- source-text corrections applied in Pass2B — **9**
+- reviewed — **70/70 — scans146–215**
+- pending — **0/70**
+- source-text corrections applied in Pass2B — **11**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
-- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+- Pass3 — **NOT YET ACTIVATED — full-part Pass2B closure / activation checkpoint next**
 
 ## Batch 1 — scans146–155
 
@@ -455,8 +455,78 @@ canonical scan175 restored the source-visible historical glyph form.
 - metadata promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Final Batch 7 — scans206–215
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 206 | chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation / open into scan207 | 189 | **1** | REVIEWED / PASS |
+| 207 | chapter21 close | 190 | 0 | REVIEWED / PASS |
+| 208 | chapter22 `தியாகத்தின் எல்லை` opening | — | 0 | REVIEWED / PASS |
+| 209 | chapter22 continuation | 192 | 0 | REVIEWED / PASS |
+| 210 | chapter22 continuation | 193 | 0 | REVIEWED / PASS |
+| 211 | chapter22 continuation | 194 | 0 | REVIEWED / PASS |
+| 212 | chapter22 continuation | 195 | 0 | REVIEWED / PASS |
+| 213 | chapter22 continuation / open into scan214 | 196 | 0 | REVIEWED / PASS |
+| 214 | chapter22 continuation / open into scan215 | 197 | **1** | REVIEWED / PASS |
+| 215 | chapter22 continuation / Part003 final physical page | 198 | 0 | REVIEWED / PASS |
+
+## Final Batch 7 structural / boundary verification
+
+- fresh independent direct-source reread — **PASS 10/10**
+- scans206–207 continue and close chapter21 `நேர்மையைப் பற்றி வீரமலை` / source-visible printed pagination **189–190** — **PASS**
+- scan207 chapter21 close — **PASS**
+- scan208 decorative chapter22 opening and displayed chapter number **22** — **PASS**
+- scan208 ordinary running printed-page value — **NONE / correctly null**
+- scans209–215 chapter22 continuation / source-visible printed pagination **192–198** — **PASS**
+- scan215 exact Part003 final physical page / source-split edge — **PASS**
+- scan216 wording inferred/imported — **0**
+- physical page-end integrity — **PASS 10/10**
+- Parts001–002 body edits — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- outgoing **215→216 remains PENDING Part004 direct witness**
+
+## Final Batch 7 correction ledger
+
+### P2B-010 — scan206
+
+Pass2B entry-state canonical:
+`அரண்மனைப் பணிப்பெண்கள்`
+
+Independent direct source-pixel reading:
+`அரண்மனைப் பணிப் பெண்கள்`
+
+Action:
+canonical scan206 restored the source-visible true word boundary `பணிப்பெண்கள்` → `பணிப் பெண்கள்`.
+
+### P2B-011 — scan214
+
+Pass2B entry-state canonical:
+`இழக்கக் கூடாததை இழப்பது தியாகமில்லை`
+
+Independent direct source-pixel reading:
+`இழக்கக் கூடியதை இழப்பது தியாகமில்லை`
+
+Action:
+canonical scan214 corrected the source-visible lexical form `கூடாததை` → `கூடியதை`.
+
+## Final Batch 7 decision
+
+**FINAL BATCH 7 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed Pass2B corrections — **2**
+- cumulative Pass2B reviewed — **70/70 — scans146–215**
+- cumulative Pass2B corrections — **11**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Pass2B batch coverage — **COMPLETE / PASS**
+- Pass3 — **NOT YET ACTIVATED**
+
 ## Exact next activity
 
-Process **Part003 Pass2B Batch7 — global scans206–215 / local pages61–70**.
+Run the **Part003 Pass2B full-part closure / Pass3 activation checkpoint**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop at scan215; do not import scan216 wording, and keep outgoing **215→216 PENDING Part004 direct witness**.
+Reconcile the 70/70 formal Pass2B review census and continuous P2B-001…P2B-011 correction ledger; confirm all Part003 records remain `needs-review` / `needs-review`; keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**; then activate Pass3 without starting its first visual batch in the same checkpoint.

@@ -109,10 +109,10 @@
 - Part003 Pass2A pending: **0/70**
 - Part003 Pass2A source-text corrections: **25**
 - Part003 Pass2A unresolved textual questions: **0**
-- Part003 Pass2B: **IN PROGRESS — 60/70 REVIEWED — scans146–205**
-- Part003 Pass2B pending: **10/70 — scans206–215**
+- Part003 Pass2B: **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Part003 Pass2B pending: **0/70**
 - Part003 Pass2B cadence: **10 scans per batch**
-- Part003 Pass2B source-text corrections: **9**
+- Part003 Pass2B source-text corrections: **11**
 - Part003 Pass2B unresolved textual questions: **0**
 - durable Part003 Pass2B tracker: `PART_003_PASS2B_PROGRESS.md`
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
@@ -181,6 +181,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch7 — scans206–215 / local pages61–70**.
+Run the **Part003 Pass2B full-part closure / Pass3 activation checkpoint**.
 
-Keep Parts001–002 frozen. Part003 Pass2B Batch6 is REVIEWED / PASS; cumulative state is 60/70 with 9 source-backed corrections and 0 unresolved questions. Continue with scans206–215, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B Final Batch7 is REVIEWED / PASS; cumulative state is 70/70 with 11 source-backed corrections and 0 unresolved questions. Run the full-part Pass2B closure / Pass3 activation checkpoint next; keep Part003 at `needs-review` / `needs-review`, keep Pass3 not yet activated until that checkpoint, and keep outgoing 215→216 pending Part004 direct witness.
