@@ -214,9 +214,9 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
 - Part003 Pass1 pending — **0/70**
-- Part003 Pass2A — **IN PROGRESS — 40/70 REVIEWED — scans146–185**
-- Part003 Pass2A pending — **30/70**
-- Part003 Pass2A source-text corrections — **23**
+- Part003 Pass2A — **IN PROGRESS — 50/70 REVIEWED — scans146–195**
+- Part003 Pass2A pending — **20/70**
+- Part003 Pass2A source-text corrections — **25**
 - Part003 Pass2A unresolved textual questions — **0**
 - Part003 outgoing 215→216 — **PENDING Part004 direct witness**
 - Part004–Part008 — **pending intake / NOT REGISTERED**
@@ -266,4 +266,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical / assembled Tamil / maintained English — **FROZEN**
-- exact next activity — **Part003 Pass2A Batch5 / scans186–195 / local pages41–50**
+- exact next activity — **Part003 Pass2A Batch6 / scans196–205 / local pages51–60**

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 40/70 REVIEWED**
+**PASS 2A — IN PROGRESS — 50/70 REVIEWED**
 
 Active Part:
 
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **40/70 — scans146–185**
-- pending — **30/70**
-- source-text corrections applied — **23**
+- reviewed — **50/70 — scans146–195**
+- pending — **20/70**
+- source-text corrections applied — **25**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -37,8 +37,8 @@ Maintained cadence: **10 scans per batch**.
 | 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **REVIEWED / PASS — 5 CORRECTIONS** |
 | 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **REVIEWED / PASS — 2 CORRECTIONS** |
-| 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **READY / NEXT** |
-| 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **NOT STARTED** |
+| 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **REVIEWED / PASS — 2 CORRECTIONS** |
+| 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **READY / NEXT** |
 | 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **NOT STARTED** |
 
 ## Pass 2A rules
@@ -485,8 +485,74 @@ canonical scan185 restored the source-visible word boundary.
 - Parts001–002 body edits — **0**
 - metadata promotions — **0**
 
+## Batch 5 — scans186–195
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 186 | chapter19 `உண்மையின் உறைவிடம்` continuation | 169 | 0 | REVIEWED / PASS |
+| 187 | chapter19 continuation | 170 | 0 | REVIEWED / PASS |
+| 188 | chapter19 continuation | 171 | 0 | REVIEWED / PASS |
+| 189 | chapter19 continuation | 172 | 0 | REVIEWED / PASS |
+| 190 | chapter19 close / substantial intentional blank lower field | 173 | 0 | REVIEWED / PASS |
+| 191 | chapter20 `அப்பன் அருள்வாக்கு` opening | — | 0 | REVIEWED / PASS |
+| 192 | chapter20 continuation | 175 | 0 | REVIEWED / PASS |
+| 193 | chapter20 continuation | 176 | **2** | REVIEWED / PASS |
+| 194 | chapter20 continuation | 177 | 0 | REVIEWED / PASS |
+| 195 | chapter20 continuation / open into scan196 | 178 | 0 | REVIEWED / PASS |
+
+## Batch 5 structural / boundary verification
+
+- scans186–190 continue and close chapter19 `உண்மையின் உறைவிடம்` — **PASS**
+- scans186–190 source-visible printed pagination **169–173** — **PASS**
+- scan190 chapter19 close / substantial intentional blank lower field — **PASS**
+- scan191 decorative chapter20 opening and displayed chapter number **20** — **PASS**
+- scan191 ordinary running printed-page value — **NONE / correctly null**
+- scans192–195 chapter20 continuation / source-visible printed pagination **175–178** — **PASS**
+- scan195 remains open mid-sentence into scan196 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 5 correction ledger
+
+### P2A-024 — scan193
+
+Pass1:
+`சங்கரன்மலைக்கும் குடையூருக்கும்`
+
+Direct source-pixel reading:
+`சங்கரன் மலைக்கும் குடையூருக்கும்`
+
+Action:
+canonical scan193 restored the source-visible word boundary.
+
+### P2A-025 — scan193
+
+Pass1:
+`மாயவர் சொல்லவதை கேட்டது போல`
+
+Direct source-pixel reading:
+`மாயவர் சொல்லுவதைக் கேட்டது போல`
+
+Action:
+canonical scan193 corrected to the source-visible verbal form and case marker.
+
+## Batch 5 decision
+
+**BATCH 5 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **2**
+- cumulative reviewed — **50/70 — scans146–195**
+- cumulative source-text corrections — **25**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch5 — scans186–195 / local pages41–50**.
+Process **Part003 Pass2A Batch6 — scans196–205 / local pages51–60**.
 
-Review all 10 pages directly against the rendered source. Stop before scan196 and synchronize correction ledger, page-map and navigation controls.
+Review all 10 pages directly against the rendered source. Stop before scan206 and synchronize correction ledger, page-map and navigation controls.

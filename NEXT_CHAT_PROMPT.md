@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch5 — scans186–195
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch6 — scans196–205
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,30 +39,31 @@ Closed batches:
 - Batch2 scans156–165 / local11–20 — **REVIEWED / PASS — 5 corrections**
 - Batch3 scans166–175 / local21–30 — **REVIEWED / PASS — 8 corrections**
 - Batch4 scans176–185 / local31–40 — **REVIEWED / PASS — 2 corrections**
+- Batch5 scans186–195 / local41–50 — **REVIEWED / PASS — 2 corrections**
 
 Current accounting:
 
-- reviewed — **40/70 — scans146–185**
-- pending — **30/70**
-- source-text corrections — **23**
+- reviewed — **50/70 — scans146–195**
+- pending — **20/70**
+- source-text corrections — **25**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 
-Batch4 source-backed corrections:
+Batch5 source-backed corrections:
 
-- scan177 — source-visible punctuation: `கூறியவர் - அவர்களைப் பார்த்து` → `கூறியவர் -- அவர்களைப் பார்த்து`
-- scan185 — `தேர்த்திருவிழா` → `தேர்த் திருவிழா`
+- scan193 — `சங்கரன்மலைக்கும் குடையூருக்கும்` → `சங்கரன் மலைக்கும் குடையூருக்கும்`
+- scan193 — `மாயவர் சொல்லவதை கேட்டது போல` → `மாயவர் சொல்லுவதைக் கேட்டது போல`
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch5 — scans186–195 / local pages41–50**.
+Process **Part003 Pass2A Batch6 — scans196–205 / local pages51–60**.
 
 Structural range:
 
-- scans186–190 — chapter19 `உண்மையின் உறைவிடம்` continuation and close / printed169–173
-- scan191 — chapter20 `அப்பன் அருள்வாக்கு` opening / no inferred running printed page
-- scans192–195 — chapter20 continuation / printed175–178
+- scans196–199 — chapter20 `அப்பன் அருள்வாக்கு` continuation and close / printed179–182
+- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` opening / no inferred running printed page
+- scans201–205 — chapter21 continuation / printed184–188
 
 Requirements:
 
@@ -71,9 +72,9 @@ Requirements:
 - preserve physical page endings and source-visible paragraph/dialogue/display structure;
 - record every correction in the Pass2A correction ledger;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- do not import scan196 wording into scan195;
+- do not import scan206 wording into scan205;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Pass2A Batch5 scans186–195 = 50/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
+Stop after **Pass2A Batch6 scans196–205 = 60/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
