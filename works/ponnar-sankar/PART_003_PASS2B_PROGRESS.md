@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 50/70 REVIEWED**
+**PASS 2B — IN PROGRESS — 60/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -78,8 +78,8 @@ Maintained cadence follows Parts001–002 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **50/70 — scans146–195**
-- pending — **20/70 — scans196–215**
+- reviewed — **60/70 — scans146–205**
+- pending — **10/70 — scans206–215**
 - source-text corrections applied in Pass2B — **9**
 - unresolved textual questions — **0**
 - status promotions — **0**
@@ -411,8 +411,52 @@ canonical scan175 restored the source-visible historical glyph form.
 - metadata promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 6 — scans196–205
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 196 | chapter20 `அப்பன் அருள்வாக்கு` continuation | 179 | 0 | REVIEWED / PASS |
+| 197 | chapter20 continuation / open into scan198 | 180 | 0 | REVIEWED / PASS |
+| 198 | chapter20 continuation | 181 | 0 | REVIEWED / PASS |
+| 199 | chapter20 close / substantial intentional blank lower field | 182 | 0 | REVIEWED / PASS |
+| 200 | chapter21 `நேர்மையைப் பற்றி வீரமலை` opening | — | 0 | REVIEWED / PASS |
+| 201 | chapter21 continuation / open into scan202 | 184 | 0 | REVIEWED / PASS |
+| 202 | chapter21 continuation | 185 | 0 | REVIEWED / PASS |
+| 203 | chapter21 continuation | 186 | 0 | REVIEWED / PASS |
+| 204 | chapter21 continuation | 187 | 0 | REVIEWED / PASS |
+| 205 | chapter21 continuation / open into scan206 | 188 | 0 | REVIEWED / PASS |
+
+## Batch 6 structural / boundary verification
+
+- scans196–199 continue and close chapter20 `அப்பன் அருள்வாக்கு` — **PASS**
+- scans196–199 source-visible printed pagination **179–182** — **PASS**
+- scan199 chapter20 close / substantial intentional blank lower field — **PASS**
+- scan200 decorative chapter21 opening and displayed chapter number **21** — **PASS**
+- scan200 ordinary running printed-page value — **NONE / correctly null**
+- scans201–205 chapter21 continuation / source-visible printed pagination **184–188** — **PASS**
+- scan205 remains open into scan206 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- source-backed corrections — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 6 decision
+
+**BATCH 6 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **0**
+- cumulative reviewed — **60/70 — scans146–205**
+- cumulative Pass2B corrections — **9**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part003 Pass2B Batch6 — global scans196–205 / local pages51–60**.
+Process **Part003 Pass2B Batch7 — global scans206–215 / local pages61–70**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan206 and keep outgoing **215→216 PENDING Part004 direct witness**.
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop at scan215; do not import scan216 wording, and keep outgoing **215→216 PENDING Part004 direct witness**.

@@ -95,8 +95,8 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass2A pending — **0/70**
 - Pass2A source-text corrections — **25**
 - Pass2A unresolved textual questions — **0**
-- Pass2B — **IN PROGRESS — 50/70 REVIEWED — scans146–195**
-- Pass2B pending — **20/70 — scans196–215**
+- Pass2B — **IN PROGRESS — 60/70 REVIEWED — scans146–205**
+- Pass2B pending — **10/70 — scans206–215**
 - Pass2B cadence — **10 scans per batch**
 - Pass2B source-text corrections — **9**
 - Pass2B unresolved textual questions — **0**
@@ -104,6 +104,6 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch6 — global scans196–205 / local pages51–60**.
+Process **Part003 Pass2B Batch7 — global scans206–215 / local pages61–70**.
 
-Pass2B Batch5 scans186–195 is REVIEWED / PASS with 0 source-backed corrections; cumulative Pass2B is 50/70 with 9 corrections and 0 unresolved questions. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`, proceed with scans196–205 next, and keep outgoing 215→216 pending.
+Pass2B Batch6 scans196–205 is REVIEWED / PASS with 0 source-backed corrections; cumulative Pass2B is 60/70 with 9 corrections and 0 unresolved questions. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`, proceed with scans206–215 next, and keep outgoing 215→216 pending.

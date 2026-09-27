@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch6 — scans196–205
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch7 — scans206–215
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -33,8 +33,9 @@ Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tami
 - Batch3 scans166–175 — **REVIEWED / PASS — 4 corrections**
 - Batch4 scans176–185 — **REVIEWED / PASS — 0 corrections**
 - Batch5 scans186–195 — **REVIEWED / PASS — 0 corrections**
-- reviewed — **50/70 — scans146–195**
-- pending — **20/70 — scans196–215**
+- Batch6 scans196–205 — **REVIEWED / PASS — 0 corrections**
+- reviewed — **60/70 — scans146–205**
+- pending — **10/70 — scans206–215**
 - source-text corrections — **9**
 - unresolved textual questions — **0**
 - status promotions — **0**
@@ -43,15 +44,15 @@ Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tami
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch6 — global scans196–205 / local pages51–60**.
+Process **Part003 Pass2B Batch7 — global scans206–215 / local pages61–70**.
 
 Fresh independent direct-source reread only.
 
 Structural range:
 
-- scans196–199 — chapter20 `அப்பன் அருள்வாக்கு` continuation and close / printed179–182;
-- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` opening / no ordinary running printed-page value;
-- scans201–205 — chapter21 continuation / printed184–188 / open into scan206.
+- scans206–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation and close / printed189–190;
+- scan208 — chapter22 `தியாகத்தின் எல்லை` opening / no ordinary running printed-page value;
+- scans209–215 — chapter22 continuation / printed192–198 / Part003 split edge at scan215.
 
 Requirements:
 
@@ -64,8 +65,8 @@ Requirements:
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 8. do not begin Pass3;
 9. do not edit Parts001–002;
-10. do not import scan206 wording backward.
+10. do not import scan216 wording backward.
 
 ## Stop condition
 
-Stop after **Part003 Pass2B Batch6 scans196–205 = 60/70 cumulative REVIEWED**, with tracker and maintained controls synchronized. Keep outgoing 215→216 pending Part004 direct witness.
+Stop after **Part003 Pass2B Batch7 scans206–215 = 70/70 cumulative REVIEWED**, with tracker and maintained controls synchronized. Keep outgoing 215→216 pending Part004 direct witness. Do not begin Pass3 in the same activity.
