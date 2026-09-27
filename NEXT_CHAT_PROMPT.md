@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass1 Batch7 — scans206–215
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch1 — scans146–155
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -24,24 +24,17 @@ Do not reopen Parts001–002 merely for stylistic polishing.
 
 ## Part003 Pass1 durable state
 
-Closed batches:
-
-- Batch1 scans146–155 / local1–10 — **10/10 TEXT-COMPLETE**
-- Batch2 scans156–165 / local11–20 — **10/10 TEXT-COMPLETE**
-- Batch3 scans166–175 / local21–30 — **10/10 TEXT-COMPLETE**
-- Batch4 scans176–185 / local31–40 — **10/10 TEXT-COMPLETE**
-- Batch5 scans186–195 / local41–50 — **10/10 TEXT-COMPLETE**
-- Batch6 scans196–205 / local51–60 — **10/10 TEXT-COMPLETE**
-
-Current accounting:
-
-- cumulative Pass1 — **60/70 TEXT-COMPLETE**
-- pending — **10/70**
+- Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE**
+- canonical records present — **70/70 / scans146–215**
+- pending — **0/70**
 - unresolved source-reading holds — **0**
 - status promotions — **0**
-- canonical records present — **60/70 / scans146–205**
+- scan216 wording imported — **0**
+- all canonical records remain:
+  - `status: "needs-review"`
+  - `visual_fidelity: "needs-review"`
 
-Captured structure through scan205:
+Captured chapter structure:
 
 - scan146 — chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close
 - scan147 — chapter15 `புறப்பட்டது போர்ப்படை` opening
@@ -57,33 +50,41 @@ Captured structure through scan205:
 - scan191 — chapter20 `அப்பன் அருள்வாக்கு` opening
 - scan199 — chapter20 close
 - scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` opening
-- scans201–205 — chapter21 continuation
+- scan207 — chapter21 close
+- scan208 — chapter22 `தியாகத்தின் எல்லை` opening
+- scan215 — chapter22 continuation / Part003 split edge
 
-All Part003 canonical records remain:
+## Pass2A activation state
 
-- `status: "needs-review"`
-- `visual_fidelity: "needs-review"`
+- Pass2A — **ACTIVATED / READY**
+- reviewed — **0/70**
+- pending — **70/70**
+- source-text corrections — **0**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**.
+Process **Part003 Pass2A Batch1 — scans146–155 / local pages1–10**.
 
-Structural expectation from source intake:
+Structural range:
 
-- scans206–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation and close
-- scan208 — chapter22 `தியாகத்தின் எல்லை` opening
-- scans209–215 — chapter22 continuation to the Part003 split edge
+- scan146 — chapter14 continuation and close / printed129
+- scan147 — chapter15 opener / no inferred running printed page
+- scans148–154 — chapter15 continuation and close / printed131–137
+- scan155 — chapter16 opener / no inferred running printed page
 
 Requirements:
 
-- one canonical record per physical source scan;
-- direct rendered-source transcription only;
-- preserve exact paragraph/dialogue/display structure;
-- no inferred running printed page on decorative chapter opener scan208;
-- keep status/visual fidelity at needs-review;
-- do not import scan216 wording into scan215;
+- re-read each canonical transcription directly against the rendered source pixels;
+- apply only source-backed textual/punctuation corrections;
+- preserve physical page endings and source-visible paragraph/dialogue/display structure;
+- record every correction in the Pass2A correction ledger;
+- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- do not import scan156 wording into scan155;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Batch7 scans206–215 = 70/70 cumulative TEXT-COMPLETE** with progress and navigation controls synchronized.
+Stop after **Pass2A Batch1 scans146–155 = 10/70 REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.

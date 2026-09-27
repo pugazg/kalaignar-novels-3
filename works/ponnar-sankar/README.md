@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS1 IN PROGRESS — 60/70**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS1 COMPLETE / PASS — 70/70 — PASS2A READY**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -103,8 +103,11 @@
 - durable Part002 Pass2B tracker: `PART_002_PASS2B_PROGRESS.md`
 - Part003: **REGISTERED / COMPLETE — 70 local pages / scans146–215**
 - Part003 incoming 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
-- Part003 Pass1: **IN PROGRESS — 60/70 TEXT-COMPLETE — scans146–205**
-- Part003 Pass1 pending: **10/70**
+- Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
+- Part003 Pass1 pending: **0/70**
+- Part003 Pass2A: **ACTIVATED / READY — 0/70 REVIEWED**
+- Part003 Pass2A pending: **70/70**
+- durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -160,6 +163,7 @@
 - `SOURCE_INTAKE_PART_003.md`
 - `PART_003_BOUNDARY_AUDIT_145_146.md`
 - `PART_003_PASS1_PROGRESS.md`
+- `PART_003_PASS2A_PROGRESS.md`
 - `sections/README.md`
 - `indexes/page-map.md`
 - `translations/en/README.md`
@@ -169,6 +173,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**.
+Process **Part003 Pass2A Batch1 — scans146–155 / local pages1–10**.
 
-Keep Parts001–002 frozen. Part003 Pass1 has closed Batch6 at 60/70; create only scans206–215 in Batch7 and do not import scan216 or Part004 content.
+Keep Parts001–002 frozen. Part003 Pass1 is complete at 70/70; begin direct source-pixel verification with scans146–155 in Pass2A Batch1 and do not import scan156 or Part004 content.

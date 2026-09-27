@@ -77,11 +77,11 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Pass1 activation result
 
-**PART003 PASS1 — IN PROGRESS — 60/70 TEXT-COMPLETE**
+**PART003 PASS1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
 
-- canonical Part003 records present — **60/70 — scans146–205**
-- Pass1 text-complete — **60/70**
-- pending — **10/70**
+- canonical Part003 records present — **70/70 — scans146–215**
+- Pass1 text-complete — **70/70**
+- pending — **0/70**
 - unresolved source-reading holds — **0**
 - maintained initial cadence — **10 scans per batch**
 - Batch1 — **COMPLETE / scans146–155 / 10 TEXT-COMPLETE**
@@ -90,11 +90,13 @@ Canonical `scan_page` remains the global physical scan number.
 - Batch4 — **COMPLETE / scans176–185 / 10 TEXT-COMPLETE**
 - Batch5 — **COMPLETE / scans186–195 / 10 TEXT-COMPLETE**
 - Batch6 — **COMPLETE / scans196–205 / 10 TEXT-COMPLETE**
-- Batch7 — **READY / NEXT / scans206–215 / local pages61–70**
+- Batch7 — **COMPLETE / scans206–215 / 10 TEXT-COMPLETE**
+- Pass2A — **ACTIVATED / READY — 0/70 REVIEWED**
+- Pass2A pending — **70/70**
 - status/visual-fidelity promotion during Pass1 — **PROHIBITED**
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch7 — global scans206–215 / local pages61–70**.
+Process **Part003 Pass2A Batch1 — global scans146–155 / local pages1–10**.
 
-Create one canonical page record per physical source scan using only rendered source pixels. Keep every new record `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not import scan216 wording into scan215.
+Re-read the existing canonical records for scans146–155 directly against rendered source pixels. Apply only source-backed corrections, keep `status: "needs-review"` / `visual_fidelity: "needs-review"`, and do not import scan156 wording into scan155.

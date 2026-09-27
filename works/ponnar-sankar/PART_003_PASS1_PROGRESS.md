@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 60/70 TEXT-COMPLETE**
+**PASS 1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
 
 Active Part:
 
@@ -14,10 +14,10 @@ Active Part:
 ## Current accounting
 
 - Part003 physical scans: **70**
-- canonical Part003 records present: **60/70 — scans146–205**
-- Pass1 physical capture complete: **60/70**
-- Pass1 textual transcriptions: **60/70**
-- Pass1 pending physical scans: **10/70**
+- canonical Part003 records present: **70/70 — scans146–215**
+- Pass1 physical capture complete: **70/70**
+- Pass1 textual transcriptions: **70/70**
+- Pass1 pending physical scans: **0/70**
 - unresolved Pass1 source-reading holds: **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -42,7 +42,7 @@ Maintained initial cadence: **10 scans per batch**.
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **READY / NEXT** |
+| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **COMPLETE / 10 TEXT-COMPLETE** |
 
 ## Source-structure intake observations
 
@@ -138,8 +138,30 @@ Outgoing:
 - status promotions — **0**
 - scan206 wording imported — **0**
 
+## Batch7 closure
+
+- scans206–215 — **10/10 TEXT-COMPLETE**
+- cumulative Pass1 — **70/70 TEXT-COMPLETE / COMPLETE / PASS**
+- chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation and close — **scans206–207**
+- chapter22 `தியாகத்தின் எல்லை` opener — **scan208**
+- chapter22 continuation to Part003 split edge — **scans209–215**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
+- scan216 wording imported — **0**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
+## Pass2A activation
+
+- Pass2A — **ACTIVATED / READY**
+- reviewed — **0/70**
+- pending — **70/70**
+- source-text corrections — **0**
+- unresolved textual questions — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**.
+Process **Part003 Pass2A Batch1 — scans146–155 / local pages1–10**.
 
-Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan216.
+Re-read all 10 canonical pages directly against rendered source pixels. Apply only source-backed corrections, record them in the Pass2A correction ledger, keep status/visual fidelity at needs-review, and stop before scan156.

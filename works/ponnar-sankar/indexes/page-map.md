@@ -211,6 +211,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 58 | 203 | 186 | chapter21 continuation; naming ceremony discovered / Raakkiyannan plans journey | needs-review | `pages/0203-nermaiyai-patri-veeramalai.md` |
 | 003 | 59 | 204 | 187 | chapter21 continuation; Thalaiyur letter reveals abduction plan / Veeramalai made witness | needs-review | `pages/0204-nermaiyai-patri-veeramalai.md` |
 | 003 | 60 | 205 | 188 | chapter21 continuation; Veeramalai wrestles with apparent contradiction / journey begins | needs-review | `pages/0205-nermaiyai-patri-veeramalai.md` |
+| 003 | 61 | 206 | 189 | chapter21 continuation; naming-ceremony night / children transferred to Raakkiyannan | needs-review | `pages/0206-nermaiyai-patri-veeramalai.md` |
+| 003 | 62 | 207 | 190 | chapter21 close; abduction aftermath / sacrifice story announced | needs-review | `pages/0207-nermaiyai-patri-veeramalai.md` |
+| 003 | 63 | 208 | — | chapter22 `தியாகத்தின் எல்லை` opening; running page not inferred | needs-review | `pages/0208-thiyaagaththin-ellai.md` |
+| 003 | 64 | 209 | 192 | chapter22 continuation; Veeramalai observes Raakkiyannan and Azhagunachchi with four infants | needs-review | `pages/0209-thiyaagaththin-ellai.md` |
+| 003 | 65 | 210 | 193 | chapter22 continuation; Raakkiyannan admits stealing Kundrudaiyaan's children to save them | needs-review | `pages/0210-thiyaagaththin-ellai.md` |
+| 003 | 66 | 211 | 194 | chapter22 continuation; Kolaththaak Kavundar legacy / moral debt invoked | needs-review | `pages/0211-thiyaagaththin-ellai.md` |
+| 003 | 67 | 212 | 195 | chapter22 continuation; Raakkiyannan refuses their sacrifice / substitute children hinted | needs-review | `pages/0212-thiyaagaththin-ellai.md` |
+| 003 | 68 | 213 | 196 | chapter22 continuation; Azhagunachchi asked to prepare for sacrifice | needs-review | `pages/0213-thiyaagaththin-ellai.md` |
+| 003 | 69 | 214 | 197 | chapter22 continuation; own twins chosen as substitutes / final kisses requested | needs-review | `pages/0214-thiyaagaththin-ellai.md` |
+| 003 | 70 | 215 | 198 | chapter22 continuation; Raakkiyannan leaves with his twins / Part003 split edge | needs-review | `pages/0215-thiyaagaththin-ellai.md` |
 
 ## Split accounting
 
@@ -222,8 +232,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **205 canonical rows — Parts001–002 frozen + Part003 scans146–205 needs-review**
-- canonical page records: **205 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 60/70 needs-review**
+- registered physical scan rows: **215 canonical rows — Parts001–002 frozen + Part003 scans146–215 needs-review**
+- canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -286,6 +296,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **IN PROGRESS — 60/70 TEXT-COMPLETE — scans146–205**
-- Part003 Pass1 pending: **10/70**
-- exact next activity: **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**
+- Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
+- Part003 Pass1 pending: **0/70**
+- Part003 Pass2A: **ACTIVATED / READY — 0/70 REVIEWED**
+- Part003 Pass2A pending: **70/70**
+- exact next activity: **Part003 Pass2A Batch1 — scans146–155 / local pages1–10**
