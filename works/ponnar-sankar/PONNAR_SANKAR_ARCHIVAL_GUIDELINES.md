@@ -212,8 +212,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Part003 — **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
-- Part003 Pass1 — **IN PROGRESS — 40/70 TEXT-COMPLETE — scans146–185**
-- Part003 Pass1 pending — **30/70**
+- Part003 Pass1 — **IN PROGRESS — 50/70 TEXT-COMPLETE — scans146–195**
+- Part003 Pass1 pending — **20/70**
 - Part003 outgoing 215→216 — **PENDING Part004 direct witness**
 - Part004–Part008 — **pending intake / NOT REGISTERED**
 - boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -262,4 +262,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical / assembled Tamil / maintained English — **FROZEN**
-- exact next activity — **Part003 Pass1 Batch5 / scans186–195 / local pages41–50**
+- exact next activity — **Part003 Pass1 Batch6 / scans196–205 / local pages51–60**

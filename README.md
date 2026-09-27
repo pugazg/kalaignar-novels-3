@@ -13,7 +13,7 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 REGISTERED / COMPLETE — scans146–215 / 70 pages; Pass1 IN PROGRESS — scans146–185 / 40 of 70 TEXT-COMPLETE**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 REGISTERED / COMPLETE — scans146–215 / 70 pages; Pass1 IN PROGRESS — scans146–195 / 50 of 70 TEXT-COMPLETE**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -47,6 +47,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch5 — scans186–195 / local pages41–50**.
+Process **Part003 Pass1 Batch6 — scans196–205 / local pages51–60**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **40/70 TEXT-COMPLETE**. Do not import scan196 wording into scan195 or any Part004 content.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **50/70 TEXT-COMPLETE**. Do not import scan206 wording into scan205 or any Part004 content.

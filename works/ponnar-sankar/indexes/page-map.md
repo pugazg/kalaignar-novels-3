@@ -191,6 +191,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 38 | 183 | 166 | chapter19 continuation; Maayavar recounts Thamarai's endurance and sacrifice | needs-review | `pages/0183-unmaiyin-uraividam.md` |
 | 003 | 39 | 184 | 167 | chapter19 continuation; childlessness grief / false astrologers set the chariot trap | needs-review | `pages/0184-unmaiyin-uraividam.md` |
 | 003 | 40 | 185 | 168 | chapter19 continuation; chariot-sacrifice plot / Raakkiyannan intervenes | needs-review | `pages/0185-unmaiyin-uraividam.md` |
+| 003 | 41 | 186 | 169 | chapter19 continuation; chariot fraud corrected / Thamarai pregnancy and family growth | needs-review | `pages/0186-unmaiyin-uraividam.md` |
+| 003 | 42 | 187 | 170 | chapter19 continuation; pregnancy news / hired-midwife plot begins | needs-review | `pages/0187-unmaiyin-uraividam.md` |
+| 003 | 43 | 188 | 171 | chapter19 continuation; birth-room isolation / first male child born | needs-review | `pages/0188-unmaiyin-uraividam.md` |
+| 003 | 44 | 189 | 172 | chapter19 continuation; twin birth / black-cloaked figure rescues infants | needs-review | `pages/0189-unmaiyin-uraividam.md` |
+| 003 | 45 | 190 | 173 | chapter19 close; Raakkiyannan revealed / children restored to Thamarai | needs-review | `pages/0190-unmaiyin-uraividam.md` |
+| 003 | 46 | 191 | — | chapter20 `அப்பன் அருள்வாக்கு` opening; running page not inferred | needs-review | `pages/0191-appan-arulvaakku.md` |
+| 003 | 47 | 192 | 175 | chapter20 continuation; midwives confess / Kundrudaiyaan and Thamarai forgive and release them | needs-review | `pages/0192-appan-arulvaakku.md` |
+| 003 | 48 | 193 | 176 | chapter20 continuation; Veeramalai reports the children's growth to Raakkiyannan | needs-review | `pages/0193-appan-arulvaakku.md` |
+| 003 | 49 | 194 | 177 | chapter20 continuation; Thalaiyur Kali temple kumbabishekam / Sembakulan corruption | needs-review | `pages/0194-appan-arulvaakku.md` |
+| 003 | 50 | 195 | 178 | chapter20 continuation; Maandhiyappan drunken scene / open into scan196 | needs-review | `pages/0195-appan-arulvaakku.md` |
 
 ## Split accounting
 
@@ -202,8 +212,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **185 canonical rows — Parts001–002 frozen + Part003 scans146–185 needs-review**
-- canonical page records: **185 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 40/70 needs-review**
+- registered physical scan rows: **195 canonical rows — Parts001–002 frozen + Part003 scans146–195 needs-review**
+- canonical page records: **195 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 50/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -266,6 +276,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **IN PROGRESS — 40/70 TEXT-COMPLETE — scans146–185**
-- Part003 Pass1 pending: **30/70**
-- exact next activity: **Part003 Pass1 Batch5 — scans186–195 / local pages41–50**
+- Part003 Pass1: **IN PROGRESS — 50/70 TEXT-COMPLETE — scans146–195**
+- Part003 Pass1 pending: **20/70**
+- exact next activity: **Part003 Pass1 Batch6 — scans196–205 / local pages51–60**
