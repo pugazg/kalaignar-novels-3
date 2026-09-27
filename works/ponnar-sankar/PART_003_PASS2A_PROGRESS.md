@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
+**PASS 2A — CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
 
 Active Part:
 
@@ -25,7 +25,7 @@ Active Part:
 - all Part003 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-- Pass2B — **NOT ACTIVATED — full-part Pass2A closure / activation checkpoint next**
+- Pass2B — **ACTIVATED / READY — 0/70 REVIEWED; Batch1 not started**
 - outgoing **215→216 — PENDING Part004 direct witness**
 
 ## Batch plan
@@ -654,6 +654,38 @@ canonical scan193 corrected to the source-visible verbal form and case marker.
 - outgoing 215→216 — **PENDING Part004 direct witness**
 - Pass2B — **NOT YET ACTIVATED**
 
+## Full-part Pass2A closure / Pass2B activation checkpoint
+
+**PASS / CLOSED**
+
+Live-main reconciliation before activation:
+
+- canonical Part003 records — **70/70**
+- local pages — **1–70 continuous / unique**
+- global scans — **146–215 continuous / unique**
+- canonical paths — **70 unique**
+- formal Part003 Pass2A review sections at checkpoint entry — **0/70**
+- formal-review documentation synchronization — **70/70 appended from already-completed Pass2A batch/ledger evidence**
+- formal Part003 Pass2A review sections after synchronization — **70/70 present exactly once**
+- `status: "needs-review"` — **70/70**
+- `visual_fidelity: "needs-review"` — **70/70**
+- Pass2A correction ledger — **P2A-001…P2A-025 continuous**
+- Pass2A correction count — **25**
+- unresolved Pass2A textual questions — **0**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+- scan216 wording inferred/imported — **0**
+- Parts001–002 body layers — **UNCHANGED / FROZEN**
+- canonical Part003 body edits in activation checkpoint — **0**
+- status/visual-fidelity promotions in activation checkpoint — **0**
+
+Decision:
+- Pass2A — **CLOSED / COMPLETE / PASS**
+- Pass2B — **ACTIVATED / READY**
+- Batch1 — **NOT STARTED**
+
 ## Exact next activity
 
-Run the **Part003 Pass2A full-part closure / Pass2B activation checkpoint**. Reconcile the 70/70 review census and P2A-001–P2A-025 ledger, confirm all locks and outgoing 215→216 pending state, then activate Pass2B without starting its first reread batch unless that is separately authorized.
+Process **Part003 Pass2B Batch1 — global scans146–155 / local pages1–10**.
+
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.

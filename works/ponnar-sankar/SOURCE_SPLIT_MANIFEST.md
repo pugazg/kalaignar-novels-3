@@ -95,7 +95,9 @@
 - Part003 Pass2A pending: **0/70**
 - Part003 Pass2A source-text corrections: **25**
 - Part003 Pass2A unresolved textual questions: **0**
-- Part003 Pass2B: **NOT YET ACTIVATED — closure / activation checkpoint next**
+- Part003 Pass2B: **ACTIVATED / READY — 0/70 REVIEWED**
+- Part003 Pass2B pending: **70/70 — scans146–215**
+- Part003 Pass2B cadence: **10 scans per batch**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part004–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -103,4 +105,4 @@
 
 ## Current frontier
 
-**Part003 Pass2A full-part closure / Pass2B activation checkpoint.**
+**Part003 Pass2B Batch1 — scans146–155 / local pages1–10.**

@@ -1,16 +1,14 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A closure + Pass2B activation checkpoint
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch1 — scans146–155
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable frozen state
 
-- Part001 — **FINAL CLOSED / FROZEN**
-- Part002 — **FINAL CLOSED / FROZEN**
-- Part002 canonical Tamil / assembled Tamil / maintained English — **FROZEN**
+Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tamil, assembled Tamil or maintained English.
 
-Do not reopen Parts001–002 merely for stylistic polishing.
+## Part003 source
 
-## Part003 controlling source
+Controlling source:
 
 `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
 
@@ -18,81 +16,97 @@ Do not reopen Parts001–002 merely for stylistic polishing.
 - SHA-256 — `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab`
 - local pages — **70**
 - global scans — **146–215**
-- rendered source pixels — **controlling authority**
+- rendered source pixels — **sole textual/structural authority**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
-## Part003 Pass1 durable state
+## Closed upstream gates
 
-- Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE**
-- canonical records present — **70/70 / scans146–215**
-- pending — **0/70**
-- all canonical records remain:
-  - `status: "needs-review"`
-  - `visual_fidelity: "needs-review"`
+- Part003 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE**
+- Part003 Pass2A — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
+- Pass2A source-backed corrections — **25**
+- Pass2A unresolved textual questions — **0**
+- Pass2A ledger — **P2A-001…P2A-025 continuous**
+- formal Pass2A reviews — **70/70 present exactly once**
+- all Part003 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 
-## Part003 Pass2A — durable completed state
+## Pass2B activation state
 
-- Batch1 corrections — **8**
-- Batch2 corrections — **5**
-- Batch3 corrections — **8**
-- Batch4 corrections — **2**
-- Batch5 corrections — **2**
-- Batch6 corrections — **0**
-- Final Batch7 corrections — **0**
-- reviewed — **70/70 — scans146–215**
-- Pass2A pending — **0/70**
-- cumulative source-backed corrections — **25**
-- unresolved textual questions — **0**
-- canonical status promotions during Pass2A — **0**
-- canonical visual-fidelity promotions during Pass2A — **0**
-- Pass2B — **NOT YET ACTIVATED**
-- outgoing 215→216 — **PENDING Part004 direct witness**
+**ACTIVATED / READY — 0/70 REVIEWED**
 
-## Final Batch7 result
+Durable tracker:
 
-Scans206–215 / local61–70 were reviewed directly against rendered source pixels.
+`works/ponnar-sankar/PART_003_PASS2B_PROGRESS.md`
 
-- scans reviewed — **10/10**
-- source-backed corrections — **0**
-- physical page-end integrity — **PASS 10/10**
-- scan215 retained as the exact Part003 physical edge
-- scan216 wording imported — **0**
-- Parts001–002 body edits — **0**
-- metadata promotions — **0**
+Maintained cadence:
 
-Refetch live `main` before editing and again after the checkpoint.
+- **10 scans per batch**
+- Batch1 — scans146–155 / local1–10
+- Batch2 — scans156–165 / local11–20
+- Batch3 — scans166–175 / local21–30
+- Batch4 — scans176–185 / local31–40
+- Batch5 — scans186–195 / local41–50
+- Batch6 — scans196–205 / local51–60
+- Batch7 — scans206–215 / local61–70
+
+Pass3 remains **BLOCKED UNTIL PASS2B COMPLETE**.
+
+## Read first
+
+1. `HANDOVER.md`
+2. `works/ponnar-sankar/SOURCE_INTAKE_PART_003.md`
+3. `works/ponnar-sankar/PART_003_PASS1_PROGRESS.md`
+4. `works/ponnar-sankar/PART_003_PASS2A_PROGRESS.md`
+5. `works/ponnar-sankar/PART_003_PASS2B_PROGRESS.md`
+6. `works/ponnar-sankar/PONNAR_SANKAR_ARCHIVAL_GUIDELINES.md`
+7. `works/ponnar-sankar/indexes/page-map.md`
+8. canonical scans146–155.
+
+Refetch live `main` before editing and again after the batch.
 
 ## Exact next activity
 
-Run the **Part003 Pass2A full-part closure / Pass2B activation checkpoint**.
+Process **Part003 Pass2B Batch1 — global scans146–155 / local pages1–10**.
 
-This is a control/reconciliation checkpoint, not a new source reread batch.
+This must be a **fresh independent direct-source reread**. Do not merely compare against or ratify the Pass2A decisions.
 
-Reconcile and confirm:
+For each scan146–155:
+1. reread every source-visible Tamil word directly from rendered source pixels;
+2. verify lexical forms and occurrence-specific compounds;
+3. retain historical/source glyph forms; do not modernize;
+4. distinguish true word boundaries from physical line-wrap-only splits;
+5. verify punctuation and quotation/dialogue boundaries for textual fidelity;
+6. preserve printed pagination and physical page-end boundaries unless direct evidence requires correction;
+7. apply only source-backed corrections;
+8. append a formal Part003 Pass2B review to each reviewed canonical record;
+9. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+10. log every Pass2B correction durably in `PART_003_PASS2B_PROGRESS.md`.
 
-1. Pass2A canonical census = **70/70 reviewed** with no missing or duplicate Part003 physical scans;
-2. correction ledger is continuous **P2A-001 through P2A-025**;
-3. cumulative source-backed corrections = **25**;
-4. unresolved Pass2A textual questions = **0**;
-5. every Part003 canonical record has a formal Part003 Pass2A review;
-6. all Part003 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-7. incoming 145→146 remains **GENUINE CONTINUATION / AUDITED / PASS**;
-8. outgoing 215→216 remains **PENDING Part004 direct witness**.
+## Batch1 structural scope
 
-If all controls pass, close the Pass2A gate durably and mark **Part003 Pass2B ACTIVATED / READY**, but **do not start the first Pass2B reread batch in the same activity**.
+- scan146 continues and closes chapter14 `ராச்சாண்டார் மலைநோக்கி...` across the audited 145→146 boundary;
+- scan147 opens chapter15 `புறப்பட்டது போர்ப்படை`;
+- scans148–154 continue and close chapter15;
+- scan155 opens chapter16 `போர்முனை எது?` and remains open into scan156;
+- do not import scan156 wording backward.
 
-- create/update the appropriate Part003 Pass2B control tracker if the repository workflow requires it;
-- maintain Pass2B cadence at **10 scans per batch**;
-- do not promote Part003 status or visual_fidelity merely by activating Pass2B;
-- do not import Part004 wording.
+## Status / boundary locks
 
-## Expected checkpoint result
+- keep `status: "needs-review"`;
+- keep `visual_fidelity: "needs-review"`;
+- do not promote metadata;
+- do not begin Pass3;
+- do not edit Parts001–002 body layers;
+- keep incoming 145→146 **GENUINE CONTINUATION / AUDITED / PASS**;
+- keep outgoing 215→216 **PENDING Part004 direct witness**;
+- no OCR / web / alternate edition / remembered text.
 
-- Part003 Pass2A — **CLOSED / COMPLETE / PASS — 70/70**
-- Pass2A corrections — **25**
-- Pass2A unresolved — **0**
-- Part003 Pass2B — **ACTIVATED / READY — 0/70 REVIEWED**
-- outgoing 215→216 — **PENDING Part004 direct witness**
+## Stop condition
 
-After that checkpoint, the next activity should be **Part003 Pass2B Batch1 — scans146–155 / local pages1–10**, using direct rendered source pixels and the maintained 10-scan cadence.
+Stop after **Part003 Pass2B Batch1 — scans146–155 — REVIEWED**.
+
+Expected cumulative state after a clean batch:
+
+**10/70 REVIEWED / PASS — scans146–155**
+
+Then synchronize the Pass2B tracker and maintained controls. The next activity should be **Part003 Pass2B Batch2 — scans156–165 / local pages11–20**, unless direct source evidence produces an unresolved hold.

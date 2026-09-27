@@ -156,12 +156,14 @@ Outgoing:
 - reviewed — **70/70 — scans146–215**
 - pending — **0/70**
 - source-text corrections — **25**
+- Pass2B — **ACTIVATED / READY — 0/70 REVIEWED**
+- Pass2B cadence — **10 scans per batch**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 
 ## Exact next activity
 
-Run the **Part003 Pass2A full-part closure / Pass2B activation checkpoint**.
+Process **Part003 Pass2B Batch1 — scans146–155 / local pages1–10**.
 
-Final Batch7 is REVIEWED / PASS with 0 new corrections; cumulative Pass2A is 70/70 with 25 source-backed corrections and 0 unresolved questions. Reconcile the full 70/70 review census and P2A-001–P2A-025 ledger, then activate Pass2B through the explicit closure checkpoint without starting its first reread batch.
+Pass2A closure / activation checkpoint is PASS: 70/70 formal Pass2A reviews are synchronized, P2A-001–P2A-025 is continuous, and Part003 Pass2B is ACTIVATED / READY at 0/70. Begin only Pass2B Batch1 scans146–155 next.
