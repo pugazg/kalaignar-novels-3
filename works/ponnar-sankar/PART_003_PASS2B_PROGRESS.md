@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVATED / READY — 0/70 REVIEWED**
+**PASS 2B — IN PROGRESS — 10/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -78,16 +78,75 @@ Maintained cadence follows Parts001–002 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **0/70**
-- pending — **70/70 — scans146–215**
-- source-text corrections applied in Pass2B — **0**
+- reviewed — **10/70 — scans146–155**
+- pending — **60/70 — scans156–215**
+- source-text corrections applied in Pass2B — **1**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 1 — scans146–155
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 146 | chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation / close | 129 | 0 | REVIEWED / PASS |
+| 147 | chapter15 `புறப்பட்டது போர்ப்படை` opening | — | 0 | REVIEWED / PASS |
+| 148 | chapter15 continuation | 131 | **1** | REVIEWED / PASS |
+| 149 | chapter15 continuation | 132 | 0 | REVIEWED / PASS |
+| 150 | chapter15 continuation | 133 | 0 | REVIEWED / PASS |
+| 151 | chapter15 continuation | 134 | 0 | REVIEWED / PASS |
+| 152 | chapter15 continuation | 135 | 0 | REVIEWED / PASS |
+| 153 | chapter15 continuation | 136 | 0 | REVIEWED / PASS |
+| 154 | chapter15 close / substantial intentional blank lower field | 137 | 0 | REVIEWED / PASS |
+| 155 | chapter16 `போர்முனை எது?` opening / open into scan156 | — | 0 | REVIEWED / PASS |
+
+## Batch 1 structural / boundary verification
+
+- scan146 direct continuation from frozen Part002 scan145 — **PASS**
+- incoming 145→146 classification remains **GENUINE CONTINUATION / AUDITED / PASS**
+- scan146 chapter14 close / substantial intentional blank lower field — **PASS**
+- scan147 decorative chapter15 opening and displayed chapter number **15** — **PASS**
+- scan147 ordinary running printed-page value — **NONE / correctly null**
+- scans148–154 chapter15 continuation / source-visible printed pagination **131–137** — **PASS**
+- scan154 chapter15 close / substantial intentional blank lower field — **PASS**
+- scan155 decorative chapter16 opening and displayed chapter number **16** — **PASS**
+- scan155 ordinary running printed-page value — **NONE / correctly null**
+- scan155 remains open into scan156 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 1 correction ledger
+
+### P2B-001 — scan148
+
+Pass2B entry-state canonical:
+`ஒத்துப்போகும் நிலைபெடுத்து உறவு முறிவு`
+
+Direct source-pixel reading:
+`ஒத்துப்போகும் நிலையெடுத்து உறவு முறிவு`
+
+Action:
+canonical scan148 corrected to the source-visible lexical form `நிலையெடுத்து`.
+
+## Batch 1 decision
+
+**BATCH 1 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **1**
+- cumulative reviewed — **10/70 — scans146–155**
+- cumulative Pass2B corrections — **1**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part003 Pass2B Batch1 — global scans146–155 / local pages1–10**.
+Process **Part003 Pass2B Batch2 — global scans156–165 / local pages11–20**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan166 and keep outgoing **215→216 PENDING Part004 direct witness**.
