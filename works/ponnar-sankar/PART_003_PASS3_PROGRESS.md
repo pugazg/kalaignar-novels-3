@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 15/70 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / BATCH 2 COMPLETE — 30/70 REVIEWED / PASS**
 
 Active Part:
 - Part003
@@ -69,8 +69,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **15/70 — scans146–160**
-- pending — **55/70 — scans161–215**
+- reviewed — **30/70 — scans146–175**
+- pending — **40/70 — scans176–215**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -127,8 +127,49 @@ For each scan:
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
+## Batch 2 — scans161–175
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 161 | chapter16 continuation / alternating running header | 144 | 0 | REVIEWED / PASS |
+| 162 | chapter16 continuation / alternating running header | 145 | 0 | REVIEWED / PASS |
+| 163 | chapter16 close / substantial intentional blank lower field | 146 | 0 | REVIEWED / PASS |
+| 164 | chapter17 decorative opening / blue title + mountain-line ornament | — | 0 | REVIEWED / PASS |
+| 165 | chapter17 continuation / alternating running header | 148 | 0 | REVIEWED / PASS |
+| 166 | chapter17 continuation / alternating running header | 149 | 0 | REVIEWED / PASS |
+| 167 | chapter17 continuation / alternating running header | 150 | 0 | REVIEWED / PASS |
+| 168 | chapter17 continuation / alternating running header | 151 | 0 | REVIEWED / PASS |
+| 169 | chapter17 continuation / alternating running header | 152 | 0 | REVIEWED / PASS |
+| 170 | chapter17 continuation / alternating running header | 153 | 0 | REVIEWED / PASS |
+| 171 | chapter17 continuation / alternating running header | 154 | 0 | REVIEWED / PASS |
+| 172 | chapter17 close / substantial lower field + blue two-figure illustration | 155 | 0 | REVIEWED / PASS |
+| 173 | chapter18 decorative opening / blue title + flourish | — | 0 | REVIEWED / PASS |
+| 174 | chapter18 continuation / alternating running header | 157 | 0 | REVIEWED / PASS |
+| 175 | chapter18 continuation / alternating running header / open into scan176 | 158 | 0 | REVIEWED / PASS |
+
+## Batch 2 result
+
+- scans161–175 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **30/70 — scans146–175**
+- pending — **40/70 — scans176–215**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan163 chapter16 close / substantial intentional blank lower field — **PASS**
+- scan164 chapter17 decorative opener / chapter number 17 / blue stylized title + mountain-line ornament / flourish — **PASS**
+- scan172 chapter17 close / substantial lower field with source-visible blue two-figure illustration — **PASS**
+- scan173 chapter18 decorative opener / chapter number 18 / blue stylized title + flourish — **PASS**
+- scan175 exact open physical continuation into scan176 — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Process **Part003 Pass3 Batch2 — global scans161–175 / local pages16–30**.
+Process **Part003 Pass3 Batch3 — global scans176–190 / local pages31–45**.
 
-Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending.
+Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending. Do not import scan191 wording backward into scan190.

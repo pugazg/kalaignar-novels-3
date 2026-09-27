@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS2B CLOSED / COMPLETE / PASS — PASS3 ACTIVATED / READY**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS2B CLOSED / COMPLETE / PASS — PASS3 IN PROGRESS**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -114,10 +114,10 @@
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
 - Part003 Pass2B unresolved textual questions: **0**
-- Part003 Pass3: **IN PROGRESS — 15/70 REVIEWED / PASS — scans146–160**
+- Part003 Pass3: **IN PROGRESS — 30/70 REVIEWED / PASS — scans146–175**
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
-- Part003 Pass3 pending: **55/70 — scans161–215**
+- Part003 Pass3 pending: **40/70 — scans176–215**
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker: `PART_003_PASS3_PROGRESS.md`
 - Part003 Pass2B unresolved textual questions: **0**
@@ -188,6 +188,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch2 — global scans161–175 / local pages16–30**.
+Process **Part003 Pass3 Batch3 — global scans176–190 / local pages31–45**.
 
-Keep Parts001–002 frozen. Part003 Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Part003 Pass3 Batch1 is REVIEWED / PASS — 15/70 cumulative with 0 structural corrections / 0 unresolved; process scans161–175 next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Part003 Pass3 Batches1–2 are REVIEWED / PASS — 30/70 cumulative with 0 structural corrections / 0 unresolved; process scans176–190 next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

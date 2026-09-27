@@ -686,6 +686,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch1 — scans146–160 / local pages1–15**.
+Process **Part003 Pass3 Batch3 — scans176–190 / local pages31–45**.
 
 Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.
