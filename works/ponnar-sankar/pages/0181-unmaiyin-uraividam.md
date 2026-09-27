@@ -51,3 +51,12 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 4
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part003 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from freshly rendered source pixels;
+- scan181 decorative chapter19 `உண்மையின் உறைவிடம்` opener retained with no inferred ordinary running printed-page value;
+- source-text corrections in Pass2B: **0**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

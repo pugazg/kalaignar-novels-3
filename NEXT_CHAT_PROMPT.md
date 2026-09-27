@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch4 — scans176–185
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch5 — scans186–195
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,32 +31,26 @@ Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tami
 - Batch1 scans146–155 — **REVIEWED / PASS — 1 correction**
 - Batch2 scans156–165 — **REVIEWED / PASS — 4 corrections**
 - Batch3 scans166–175 — **REVIEWED / PASS — 4 corrections**
-- reviewed — **30/70 — scans146–175**
-- pending — **40/70 — scans176–215**
+- Batch4 scans176–185 — **REVIEWED / PASS — 0 corrections**
+- reviewed — **40/70 — scans146–185**
+- pending — **30/70 — scans186–215**
 - source-text corrections — **9**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
-Batch3 corrections:
-
-- scan166 — `ராச்சாண்டார்மலை வீரர்கள்` → `ராச்சாண்டார்மலைவீரர்கள்`
-- scan170 — source sentence restored: `நிகழ்ச்சி அவள் கண் முன் வந்து ...` → `நிகழ்ச்சி அவளைப் பெரிதும் வாட்டியிருக்கிறது. ஒரு தாயின் இதயம் ...`
-- scan170 — `தாங்கொணாத மகிழ்ச்சியால்` → `தாங்கொணாதமகிழ்ச்சியால்`
-- scan175 — `மாயவர், மௌனமாக` → `மாயவர், மெளனமாக`
-
 ## Exact next activity
 
-Process **Part003 Pass2B Batch4 — global scans176–185 / local pages31–40**.
+Process **Part003 Pass2B Batch5 — global scans186–195 / local pages41–50**.
 
 Fresh independent direct-source reread only.
 
 Structural range:
 
-- scans176–180 — chapter18 `சுயநலமா? பொதுநலமா?` continuation and close / printed159–163;
-- scan181 — chapter19 `உண்மையின் உறைவிடம்` opening / no ordinary running printed-page value;
-- scans182–185 — chapter19 continuation / printed165–168 / open into scan186.
+- scans186–190 — chapter19 `உண்மையின் உறைவிடம்` continuation and close / printed169–173;
+- scan191 — chapter20 `அப்பன் அருள்வாக்கு` opening / no ordinary running printed-page value;
+- scans192–195 — chapter20 continuation / printed175–178 / open into scan196.
 
 Requirements:
 
@@ -69,8 +63,8 @@ Requirements:
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 8. do not begin Pass3;
 9. do not edit Parts001–002;
-10. do not import scan186 wording backward.
+10. do not import scan196 wording backward.
 
 ## Stop condition
 
-Stop after **Part003 Pass2B Batch4 scans176–185 = 40/70 cumulative REVIEWED**, with tracker and maintained controls synchronized. Keep outgoing 215→216 pending Part004 direct witness.
+Stop after **Part003 Pass2B Batch5 scans186–195 = 50/70 cumulative REVIEWED**, with tracker and maintained controls synchronized. Keep outgoing 215→216 pending Part004 direct witness.

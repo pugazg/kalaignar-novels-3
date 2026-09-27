@@ -25,7 +25,7 @@ Active Part:
 - all Part003 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
-- Pass2B — **IN PROGRESS — 30/70 REVIEWED — Batch1–3 PASS / 9 corrections**
+- Pass2B — **IN PROGRESS — 40/70 REVIEWED — Batch1–4 PASS / 9 corrections**
 - outgoing **215→216 — PENDING Part004 direct witness**
 
 ## Batch plan
@@ -686,6 +686,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch4 — global scans176–185 / local pages31–40**.
+Process **Part003 Pass2B Batch5 — global scans186–195 / local pages41–50**.
 
 Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.

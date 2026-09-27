@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 30/70 REVIEWED**
+**PASS 2B — IN PROGRESS — 40/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -78,8 +78,8 @@ Maintained cadence follows Parts001–002 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **30/70 — scans146–175**
-- pending — **40/70 — scans176–215**
+- reviewed — **40/70 — scans146–185**
+- pending — **30/70 — scans186–215**
 - source-text corrections applied in Pass2B — **9**
 - unresolved textual questions — **0**
 - status promotions — **0**
@@ -323,8 +323,52 @@ canonical scan175 restored the source-visible historical glyph form.
 - metadata promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 4 — scans176–185
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 176 | chapter18 `சுயநலமா? பொதுநலமா?` continuation | 159 | 0 | REVIEWED / PASS |
+| 177 | chapter18 continuation | 160 | 0 | REVIEWED / PASS |
+| 178 | chapter18 continuation | 161 | 0 | REVIEWED / PASS |
+| 179 | chapter18 continuation | 162 | 0 | REVIEWED / PASS |
+| 180 | chapter18 close / substantial intentional blank lower field | 163 | 0 | REVIEWED / PASS |
+| 181 | chapter19 `உண்மையின் உறைவிடம்` opening | — | 0 | REVIEWED / PASS |
+| 182 | chapter19 continuation | 165 | 0 | REVIEWED / PASS |
+| 183 | chapter19 continuation / open into scan184 | 166 | 0 | REVIEWED / PASS |
+| 184 | chapter19 continuation | 167 | 0 | REVIEWED / PASS |
+| 185 | chapter19 continuation / open into scan186 | 168 | 0 | REVIEWED / PASS |
+
+## Batch 4 structural / boundary verification
+
+- scans176–180 continue and close chapter18 `சுயநலமா? பொதுநலமா?` — **PASS**
+- scans176–180 source-visible printed pagination **159–163** — **PASS**
+- scan180 chapter18 close / substantial intentional blank lower field — **PASS**
+- scan181 decorative chapter19 opening and displayed chapter number **19** — **PASS**
+- scan181 ordinary running printed-page value — **NONE / correctly null**
+- scans182–185 chapter19 continuation / source-visible printed pagination **165–168** — **PASS**
+- scan185 remains open into scan186 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- source-backed corrections — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 4 decision
+
+**BATCH 4 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **0**
+- cumulative reviewed — **40/70 — scans146–185**
+- cumulative Pass2B corrections — **9**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part003 Pass2B Batch4 — global scans176–185 / local pages31–40**.
+Process **Part003 Pass2B Batch5 — global scans186–195 / local pages41–50**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan186 and keep outgoing **215→216 PENDING Part004 direct witness**.
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan196 and keep outgoing **215→216 PENDING Part004 direct witness**.

@@ -195,22 +195,22 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 Pass2A pending — **0/70**
 - Part003 Pass2A source-text corrections — **25**
 - Part003 Pass2A unresolved textual questions — **0**
-- Part003 Pass2B — **IN PROGRESS — 30/70 REVIEWED — scans146–175**
-- Part003 Pass2B pending — **40/70 — scans176–215**
+- Part003 Pass2B — **IN PROGRESS — 40/70 REVIEWED — scans146–185**
+- Part003 Pass2B pending — **30/70 — scans186–215**
 - Part003 Pass2B cadence — **10 scans per batch**
 - Part003 Pass2B source-text corrections — **9**
 - Part003 Pass2B unresolved textual questions — **0**
 - durable Part003 Pass2B tracker — `works/ponnar-sankar/PART_003_PASS2B_PROGRESS.md`
-- Part003 exact next activity — **Pass2B Batch4 / scans176–185 / local pages31–40**
+- Part003 exact next activity — **Pass2B Batch5 / scans186–195 / local pages41–50**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass2B Batch4 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass2B Batch5 frontier**
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch4 — global scans176–185 / local pages31–40**.
+Process **Part003 Pass2B Batch5 — global scans186–195 / local pages41–50**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B Batch3 is **REVIEWED / PASS — 30/70 cumulative / 9 source-backed corrections / 0 unresolved**. Continue with scans176–185 only; keep records at `needs-review` / `needs-review`, do not begin Pass3, and keep outgoing **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B Batch4 is **REVIEWED / PASS — 40/70 cumulative / 9 source-backed corrections / 0 unresolved**. Continue with scans186–195 only; keep records at `needs-review` / `needs-review`, do not begin Pass3, and keep outgoing **215→216 PENDING Part004 direct witness**.
