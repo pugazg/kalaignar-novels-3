@@ -207,18 +207,18 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 Pass3 pending — **0/70**
 - Part003 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker — `works/ponnar-sankar/PART_003_PASS3_PROGRESS.md`
-- Part003 whole-Part audit — **ACTIVATED / READY — NOT YET EXECUTED**
+- Part003 whole-Part audit — **PASS / COMPLETE — 0 blockers**
 - durable Part003 audit — `works/ponnar-sankar/PART_003_AUDIT.md`
-- Part003 exact next activity — **whole-Part audit**
+- Part003 exact next activity — **final metadata/status synchronization**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 whole-Part audit frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 final metadata/status synchronization frontier**
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B stays closed. Part003 Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved**. Part audit is **ACTIVATED / READY — NOT YET EXECUTED**. Keep records at `needs-review` / `needs-review`; execute the whole-Part audit next and keep outgoing **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B stays closed. Part003 Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved**. Part audit is **PASS / COMPLETE — 0 blockers**. Keep records at `needs-review` / `needs-review`; perform final metadata/status synchronization next and keep outgoing **215→216 PENDING Part004 direct witness**.

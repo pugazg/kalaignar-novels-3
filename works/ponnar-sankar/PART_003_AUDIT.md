@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PART AUDIT — ACTIVATED / READY — NOT YET EXECUTED**
+**PART AUDIT — PASS / COMPLETE**
 
 Audit scope:
 - active Part — **Part003**
@@ -10,138 +10,171 @@ Audit scope:
 - local pages — **1–70**
 - controlling source — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
 - source SHA-256 — `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab`
-- activation baseline live main — `1cf9b7be2e490011bcbdac9a02a0b3ba59480e6c`
+- audit executed from live main — `a763f54772b53900c8846268df0b4dba297c1934`
 
-This file activates the required whole-Part audit after Pass3. The activation checkpoint did **not** execute the audit checks, alter canonical Tamil, or promote page metadata.
+This is the required whole-Part audit after Pass3. No canonical Tamil wording was altered, and no page metadata was promoted during this audit.
 
-## Closed prerequisite gates
+## 1. Canonical physical coverage
 
+- canonical Part003 page files found — **70**
+- expected scans — **146–215**
+- actual `scan_page` values — **146–215 continuous / unique**
+- actual `part_page` values — **1–70 continuous / unique**
+- `part: 3` — **70/70**
+- exact Part003 source filename — **70/70**
+- canonical paths — **70 unique**
+- page-map canonical paths — **70/70 exact reconciliation**
+- missing canonical records — **0**
+- duplicate canonical records — **0**
+- scan-number gaps — **0**
+- part-page gaps — **0**
+
+**Result: PASS**
+
+## 2. Pass-evidence completeness
+
+Every canonical Part003 record was audited directly from live `main`.
+
+- Pass1 notes — **70/70 present exactly once**
+- Formal Part003 Pass2A review — **70/70 present exactly once**
+- Formal Part003 Pass2B review — **70/70 present exactly once**
+- Formal Part003 Pass3 review — **70/70 present exactly once**
+- audit-entry `status: "needs-review"` — **70/70**
+- audit-entry `visual_fidelity: "needs-review"` — **70/70**
+
+Durable closed-gate state:
 - Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE**
-- Pass2A — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 source-backed corrections / 0 unresolved**
-- Pass2B — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 11 source-backed corrections / 0 unresolved**
+- Pass1 unresolved source-reading holds — **0**
+- Pass2A — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
+- Pass2A source-backed corrections — **25**
+- Pass2A unresolved textual questions — **0**
+- Pass2B — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
+- Pass2B source-backed corrections — **11**
+- Pass2B unresolved textual questions — **0**
 - Pass3 — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
 - Pass3 structural corrections — **0**
 - Pass3 unresolved visual / structural questions — **0**
 - Pass3 lexical reopenings — **0**
-- all canonical Part003 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 
-## Maintained audit methodology
+**Result: PASS**
 
-Execute the whole-Part audit from **LIVE MAIN** using the Part001 / Part002 audit method. Do not promote metadata during the audit itself.
+## 3. Printed-page mapping reconciliation
 
-### 1. Canonical physical coverage
+Canonical frontmatter and the maintained page map agree exactly:
 
-Verify:
-- canonical Part003 page files found — **70 expected**
-- expected scans — **146–215**
-- actual `scan_page` values — continuous / unique
-- actual `part_page` values — **1–70** continuous / unique
-- `part: 3` on all records
-- exact Part003 source filename on all records
-- canonical paths unique
-- page-map path reconciliation
-- missing / duplicate records — none expected
-
-### 2. Pass-evidence completeness
-
-Verify every canonical Part003 record contains exactly once:
-- Pass1 notes
-- Formal Part003 Pass2A review
-- Formal Part003 Pass2B review
-- Formal Part003 Pass3 review
-
-Verify closed-gate accounting:
-- Pass2A corrections — **25**
-- Pass2B corrections — **11**
-- Pass3 structural corrections — **0**
-- all unresolved textual / visual questions — **0**
-- audit-entry metadata remains `needs-review` / `needs-review` on **70/70**
-
-### 3. Printed-page mapping reconciliation
-
-Reconcile canonical frontmatter with the maintained page map:
-
-- scan146 — printed **129**
-- scan147 — no ordinary running printed page
+- scan146 — **129**
+- scan147 — **no ordinary running printed page**
 - scans148–154 — **131–137**
-- scan155 — no ordinary running printed page
+- scan155 — **no ordinary running printed page**
 - scans156–163 — **139–146**
-- scan164 — no ordinary running printed page
+- scan164 — **no ordinary running printed page**
 - scans165–172 — **148–155**
-- scan173 — no ordinary running printed page
+- scan173 — **no ordinary running printed page**
 - scans174–180 — **157–163**
-- scan181 — no ordinary running printed page
+- scan181 — **no ordinary running printed page**
 - scans182–190 — **165–173**
-- scan191 — no ordinary running printed page
+- scan191 — **no ordinary running printed page**
 - scans192–199 — **175–182**
-- scan200 — no ordinary running printed page
+- scan200 — **no ordinary running printed page**
 - scans201–207 — **184–190**
-- scan208 — no ordinary running printed page
+- scan208 — **no ordinary running printed page**
 - scans209–215 — **192–198**
 
-No missing running page number is to be inferred on decorative chapter-opening scans.
+The deliberate decorative chapter-opening scans remain unnumbered; no missing running page number was inferred.
 
-### 4. Structural / chapter-boundary reconciliation
+Printed-page mapping mismatches — **0**
 
-Reconcile canonical records and Pass3 evidence for:
+**Result: PASS**
+
+## 4. Structural / chapter-boundary reconciliation
+
+Maintained page-map structure and the 70/70 Pass3 records agree:
 
 - scan146 — chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close
-- scans147–154 — chapter15 `புறப்பட்டது போர்ப்படை`
-- scans155–163 — chapter16 `போர்முனை எது?`
-- scans164–172 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?`
-- scans173–180 — chapter18 `சுயநலமா? பொதுநலமா?`
-- scans181–190 — chapter19 `உண்மையின் உறைவிடம்`
-- scans191–199 — chapter20 `அப்பன் அருள்வாக்கு`
-- scans200–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை`
-- scans208–215 — chapter22 `தியாகத்தின் எல்லை` continuing to the Part003 split edge
+- scans147–154 — chapter15 `புறப்பட்டது போர்ப்படை`; scan147 decorative opener; scan154 close with substantial intentional blank lower field
+- scans155–163 — chapter16 `போர்முனை எது?`; scan155 decorative opener; scan163 close with substantial intentional blank lower field
+- scans164–172 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?`; scan164 decorative opener; scan172 close with substantial lower field and blue two-figure illustration
+- scans173–180 — chapter18 `சுயநலமா? பொதுநலமா?`; scan173 decorative opener; scan180 close with substantial intentional blank lower field
+- scans181–190 — chapter19 `உண்மையின் உறைவிடம்`; scan181 decorative opener; scan190 close with substantial intentional blank lower field
+- scans191–199 — chapter20 `அப்பன் அருள்வாக்கு`; scan191 decorative opener; scan193 separated short-report lines; scan199 close with substantial intentional blank lower field
+- scans200–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை`; scan200 decorative opener; scan207 chapter close
+- scans208–215 — chapter22 `தியாகத்தின் எல்லை`; scan208 decorative opener; scan210 retains the source-visible lower-left numeral `8`; scan215 is the final supplied Part003 physical page / split edge
 
-Verify chapter-opening/body/close classifications, intentional blank lower fields, displayed short-report lines, source-visible ornaments/illustrations, and physical page-end states recorded during Pass3.
+Pass3 scan table:
+- scans represented — **70/70 / 146–215 continuous**
+- structural corrections — **0 on every scan**
+- Pass3 result — **REVIEWED / PASS on every scan**
 
-### 5. Boundary audit state
+**Result: PASS**
 
-Incoming:
+## 5. Boundary audit state
+
+Incoming Part003 boundary:
 - **145→146 — GENUINE CONTINUATION / AUDITED / PASS**
 - durable witness — `PART_003_BOUNDARY_AUDIT_145_146.md`
-- frozen Part002 reopening — **0 expected**
+- split-word reconstruction — **0**
+- frozen Part002 body mutation — **0**
+- unsupported bridge insertion — **0**
 
-Outgoing:
+Outgoing Part003 boundary:
 - **215→216 — PENDING Part004 direct witness**
+- Part004 canonical / intake controls present — **0**
 - scan215 remains the final supplied Part003 physical page
 - scan216 wording inferred/imported — **0**
-- chapter22 closure beyond scan215 must remain **NOT INFERRED**
-- pending external witness is not an in-scope Part003 canonical defect
+- chapter22 closure beyond scan215 — **NOT INFERRED**
+- the pending external witness is not an in-scope Part003 audit failure
 
-### 6. Unresolved-issue accounting
+**Result: PASS / pending external witness preserved**
 
-Verify:
+## 6. Unresolved-issue accounting
+
 - Pass1 source-reading holds — **0**
 - Pass2A unresolved textual questions — **0**
 - Pass2B unresolved textual questions — **0**
 - Pass3 unresolved visual / structural questions — **0**
-- audit coverage / duplicate / mapping / structure blockers — **0 expected**
+- audit coverage blockers — **0**
+- audit duplicate/missing blockers — **0**
+- audit page-map mismatches — **0**
+- audit printed-page mismatches — **0**
+- audit structural/page-type mismatches — **0**
 - Parts001–002 reopening — **0**
 - Part004 body leakage — **0**
 
-### 7. Canonical immutability during audit
+The pending **215→216** external boundary witness is tracked separately and is not counted as a Part003 canonical defect.
 
-Require:
-- canonical Tamil/body mutations during audit — **0**
-- chapter-title mutations during audit — **0**
+## 7. Canonical immutability during audit
+
+- canonical Tamil/body mutations during whole-Part audit — **0**
+- chapter-title mutations during whole-Part audit — **0**
 - source filename / scan identity mutations — **0**
 - status promotions during audit — **0**
 - visual-fidelity promotions during audit — **0**
+- canonical page files changed by this audit activity — **0**
 
-Metadata promotion belongs only to the separate post-audit synchronization activity after a successful audit.
+**Result: PASS**
 
-## Activation state
+## Final audit result
 
-- audit checks executed in activation checkpoint — **NO**
-- canonical Part003 body edits during activation checkpoint — **0**
-- metadata promotions during activation checkpoint — **0**
-- outgoing 215→216 — **PENDING Part004 direct witness**
+**PART003 WHOLE-PART AUDIT — PASS / COMPLETE**
+
+- continuous coverage — **PASS**
+- duplicate/missing canonical records — **PASS**
+- Pass evidence completeness — **PASS**
+- printed-page mapping — **PASS**
+- structural/page-type reconciliation — **PASS**
+- boundary accounting — **PASS with 215→216 external witness pending**
+- unresolved in-scope blockers — **0**
+- page status promotion performed — **NO**
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit** from LIVE MAIN using the checklist above.
+Perform **Part003 final metadata/status synchronization** as a separate post-audit activity.
 
-Stop after producing the durable audit result. Do not perform final metadata/status promotion in the same audit activity.
+Required promotion after rechecking this PASS result:
+- canonical Part003 records — **70/70**
+- `status: "needs-review"` → `status: "verified"`
+- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`
+- no other canonical field/body mutation
+- outgoing **215→216 remains PENDING Part004 direct witness**
+
+Do not begin assembled Tamil in the same metadata synchronization activity.

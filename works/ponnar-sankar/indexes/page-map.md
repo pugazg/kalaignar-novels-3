@@ -308,9 +308,9 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
 - Part003 Pass3 pending: **0/70**
-- Part003 whole-Part audit: **ACTIVATED / READY — NOT YET EXECUTED**
+- Part003 whole-Part audit: **PASS / COMPLETE — 0 blockers**
 - Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part003 whole-Part audit**
+- exact next activity: **Part003 final metadata/status synchronization**

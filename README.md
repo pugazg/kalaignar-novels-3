@@ -13,12 +13,13 @@
 - Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
 - remaining complete physical scan extent: **pending Parts003–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 REGISTERED / COMPLETE — scans146–215 / 70 pages; Pass1 COMPLETE / PASS — 70/70 TEXT-COMPLETE; Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 source-text corrections; Pass2B CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 11 source-text corrections; Pass3 CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 0 structural corrections; Part audit ACTIVATED / READY — NOT YET EXECUTED**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 REGISTERED / COMPLETE — scans146–215 / 70 pages; Pass1 COMPLETE / PASS — 70/70 TEXT-COMPLETE; Pass2A CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 25 source-text corrections; Pass2B CLOSED / COMPLETE / PASS — 70/70 REVIEWED / 11 source-text corrections; Pass3 CLOSED / COMPLETE / PASS — 70/70 REVIEWED — 0 structural corrections; Part audit PASS / COMPLETE — 0 blockers**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary **145→146**: **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part003 boundary **215→216**: **PENDING Part004 direct witness**
+- Part003 audit blockers — **0**
 
 ## Workflow
 
@@ -47,6 +48,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **COMPLETE / PASS — 70/70 TEXT-COMPLETE**. Pass2A / Pass2B remain closed. Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved**. Part audit is **ACTIVATED / READY — NOT YET EXECUTED**; execute it next, keep status/visual fidelity at needs-review, and keep outgoing 215→216 pending.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 is **COMPLETE / PASS — 70/70 TEXT-COMPLETE**. Pass2A / Pass2B remain closed. Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved**. Part audit is **PASS / COMPLETE — 0 blockers**; execute it next, keep status/visual fidelity at needs-review, and keep outgoing 215→216 pending.

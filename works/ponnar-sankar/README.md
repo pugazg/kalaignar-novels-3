@@ -120,12 +120,13 @@
 - Part003 Pass3 pending: **0/70**
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker: `PART_003_PASS3_PROGRESS.md`
-- Part003 whole-Part audit: **ACTIVATED / READY — NOT YET EXECUTED**
+- Part003 whole-Part audit: **PASS / COMPLETE — 0 blockers**
 - durable Part003 audit: `PART_003_AUDIT.md`
 - Part003 Pass2B unresolved textual questions: **0**
 - durable Part003 Pass2B tracker: `PART_003_PASS2B_PROGRESS.md`
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
+- Part003 audit blockers — **0**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -193,6 +194,6 @@
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Keep Parts001–002 frozen. Part003 Pass2B remains CLOSED / COMPLETE / PASS. Part003 Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is ACTIVATED / READY — NOT YET EXECUTED; execute it next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B remains CLOSED / COMPLETE / PASS. Part003 Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE — 0 blockers; execute it next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

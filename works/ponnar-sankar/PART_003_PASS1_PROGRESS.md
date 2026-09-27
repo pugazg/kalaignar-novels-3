@@ -160,7 +160,7 @@ Outgoing:
 - Pass2B source-text corrections — **11**
 - Pass3 — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
-- Part audit — **ACTIVATED / READY — NOT YET EXECUTED**
+- Part audit — **PASS / COMPLETE — 0 blockers**
 - durable Part audit — `PART_003_AUDIT.md`
 - Pass2B unresolved textual questions — **0**
 - Pass2B cadence — **10 scans per batch**
@@ -170,6 +170,6 @@ Outgoing:
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is ACTIVATED / READY and not yet executed; execute the whole-Part audit next.
+Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE with 0 blockers; perform final metadata/status synchronization next.

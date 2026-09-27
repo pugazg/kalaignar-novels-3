@@ -321,11 +321,11 @@ Decision:
 - Pass3 — **CLOSED / COMPLETE / PASS — 70/70**
 - structural corrections — **0**
 - unresolved visual / structural questions — **0**
-- Part audit — **ACTIVATED / READY — NOT YET EXECUTED**
+- Part audit — **PASS / COMPLETE — 0 blockers**
 - Part audit checks in this checkpoint — **NOT STARTED**
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
 Use the maintained Part001/Part002 whole-Part audit methodology recorded in `PART_003_AUDIT.md`. Do not promote page metadata during the audit. Keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**.

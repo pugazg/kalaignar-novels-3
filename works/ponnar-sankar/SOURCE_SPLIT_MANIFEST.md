@@ -101,7 +101,7 @@
 - Part003 Pass3 structural corrections: **0**
 - Part003 Pass3 unresolved visual / structural questions: **0**
 - Part003 Pass3 pending: **0/70**
-- Part003 whole-Part audit: **ACTIVATED / READY — NOT YET EXECUTED**
+- Part003 whole-Part audit: **PASS / COMPLETE — 0 blockers**
 - Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
@@ -113,4 +113,4 @@
 
 ## Current frontier
 
-**Part003 whole-Part audit — next activity.**
+**Part003 final metadata/status synchronization — next activity.**

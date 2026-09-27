@@ -561,6 +561,6 @@ Decision:
 
 ## Exact next activity
 
-Execute the **Part003 whole-Part audit**.
+Perform **Part003 final metadata/status synchronization**.
 
-Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Part audit is **ACTIVATED / READY — NOT YET EXECUTED**; execute the whole-Part audit next while keeping all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
+Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Part audit is **PASS / COMPLETE — 0 blockers**; perform final metadata/status synchronization next while keeping all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
