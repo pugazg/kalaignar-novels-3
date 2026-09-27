@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 20/70 REVIEWED**
+**PASS 2A — IN PROGRESS — 30/70 REVIEWED**
 
 Active Part:
 
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **20/70 — scans146–165**
-- pending — **50/70**
-- source-text corrections applied — **13**
+- reviewed — **30/70 — scans146–175**
+- pending — **40/70**
+- source-text corrections applied — **21**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -35,8 +35,8 @@ Maintained cadence: **10 scans per batch**.
 |---|---:|---:|---|---|
 | 1 | 146–155 | 1–10 | chapter14 close; chapter15; chapter16 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
 | 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **REVIEWED / PASS — 5 CORRECTIONS** |
-| 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **READY / NEXT** |
-| 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **NOT STARTED** |
+| 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
+| 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **READY / NEXT** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **NOT STARTED** |
 | 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **NOT STARTED** |
 | 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **NOT STARTED** |
@@ -287,8 +287,140 @@ canonical scan165 restored the source-visible sandhi.
 - Parts001–002 body edits — **0**
 - metadata promotions — **0**
 
+## Batch 3 — scans166–175
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 166 | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` continuation | 149 | **2** | REVIEWED / PASS |
+| 167 | chapter17 continuation | 150 | **1** | REVIEWED / PASS |
+| 168 | chapter17 continuation | 151 | 0 | REVIEWED / PASS |
+| 169 | chapter17 continuation | 152 | **2** | REVIEWED / PASS |
+| 170 | chapter17 continuation | 153 | 0 | REVIEWED / PASS |
+| 171 | chapter17 continuation | 154 | 0 | REVIEWED / PASS |
+| 172 | chapter17 close / source illustration in lower field | 155 | 0 | REVIEWED / PASS |
+| 173 | chapter18 `சுயநலமா? பொதுநலமா?` opening | — | **2** | REVIEWED / PASS |
+| 174 | chapter18 continuation | 157 | **1** | REVIEWED / PASS |
+| 175 | chapter18 continuation / open into scan176 | 158 | 0 | REVIEWED / PASS |
+
+## Batch 3 structural / boundary verification
+
+- scans166–172 continue and close chapter17 `சங்கரன்மலையில் சந்திப்போம்?` — **PASS**
+- scans166–172 source-visible printed pagination **149–155** — **PASS**
+- scan172 chapter17 close / source illustration in lower field — **PASS**
+- scan173 decorative chapter18 opening and displayed chapter number **18** — **PASS**
+- scan173 ordinary running printed-page value — **NONE / correctly null**
+- scans174–175 chapter18 continuation / source-visible printed pagination **157–158** — **PASS**
+- scan175 remains open into scan176 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 3 correction ledger
+
+### P2A-014 — scan166
+
+Pass1:
+`எனவே அந்த கால அனுபவத்தை வைத்துத்தான்`
+
+Direct source-pixel reading:
+`எனவே கடந்த கால அனுபவத்தை வைத்துத்தான்`
+
+Action:
+canonical scan166 corrected to the source-visible lexical reading.
+
+### P2A-015 — scan166
+
+Pass1:
+`உசிதமென முடிவெடுத்தேன்.`
+
+Direct source-pixel reading:
+`உசிதமென முடிவெடுத்தோம்.`
+
+Action:
+canonical scan166 corrected to the source-visible number/person form.
+
+### P2A-016 — scan167
+
+Pass1:
+`நாம் சங்கரன்மலைக்குச் சென்று விடலாம்.`
+
+Direct source-pixel reading:
+`நாம் சங்கரன்மலைக்குச் சென்றுவிடலாம்.`
+
+Action:
+canonical scan167 corrected to the source-visible joined verb form.
+
+### P2A-017 — scan169
+
+Pass1:
+`காணாமல் போன எங்களின் குழந்தைகளைப் பற்றி`
+
+Direct source-pixel reading:
+`காணமற் போன எங்களின் குழந்தைகளைப் பற்றி`
+
+Action:
+canonical scan169 corrected to the source-visible lexical form.
+
+### P2A-018 — scan169
+
+Pass1:
+`காணாமல் போன கண்மணிகள் எங்கேயிருக்கிறார்கள்`
+
+Direct source-pixel reading:
+`காணாமற் போன கண்மணிகள் எங்கேயிருக்கிறார்கள்`
+
+Action:
+canonical scan169 corrected to the source-visible lexical form.
+
+### P2A-019 — scan173
+
+Pass1:
+`அவரை மெய்மறக்கச் செய்வதற்கு முன்பே`
+
+Direct source-pixel reading:
+`அவரை மெய் மறக்கச் செய்வதற்கு முன்பே`
+
+Action:
+canonical scan173 restored the source-visible word boundary.
+
+### P2A-020 — scan173
+
+Pass1:
+`முகங்களில் ரேகைகள் ஒளிவிட்டுக் கொண்டிருந்தன.`
+
+Direct source-pixel reading:
+`முகங்களில் ரேகைகள் ஒளிவிட்டுக்கொண்டிருந்தன.`
+
+Action:
+canonical scan173 corrected to the source-visible joined verb form.
+
+### P2A-021 — scan174
+
+Pass1:
+`வணக்கம் தெரிவித்துவிட்டு சின்னமலைக்`
+
+Direct source-pixel reading:
+`வணக்கம் தெரிவித்து விட்டு சின்னமலைக்`
+
+Action:
+canonical scan174 restored the source-visible word boundary.
+
+## Batch 3 decision
+
+**BATCH 3 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **8**
+- cumulative reviewed — **30/70 — scans146–175**
+- cumulative source-text corrections — **21**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch3 — scans166–175 / local pages21–30**.
+Process **Part003 Pass2A Batch4 — scans176–185 / local pages31–40**.
 
-Review all 10 pages directly against the rendered source. Stop before scan176 and synchronize correction ledger, page-map and navigation controls.
+Review all 10 pages directly against the rendered source. Stop before scan186 and synchronize correction ledger, page-map and navigation controls.
