@@ -17,7 +17,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 2
 
 ## Source transcription
 
-அனைவரும் நிமிர்ந்தெழுந்தனர். எழுந்த வேகத்தில் ரத வண்டியைச் சுற்றிக் சூழ்ந்து வந்த ராச்சாண்டார்மலை வீரர்கள் மீது தாக்குதல்!
+அனைவரும் நிமிர்ந்தெழுந்தனர். எழுந்த வேகத்தில் ரத வண்டியைச் சுற்றிச் சூழ்ந்து வந்த ராச்சாண்டார்மலை வீரர்கள் மீது தாக்குதல்!
 
 பொன்னர் - சங்கர் இருவரும் உருவிய வாளுடன் அந்த வீரர் கூட்டத்தில் புயல் போலப் புகுந்தனர். சங்கரைத் தளபதி திருமலை மடக்கிக் கொண்டான். பொன்னர் ஆரிச்சம்பட்டி வீரர்களுடன் ராச்சாண்டார் மலைவீரர்களை எதிர்த்துப் போர் புரிந்தான். இடையில் வீரமலை, ரதவண்டியில் பாய்ந்து வையம் பெருமானைப் பிணைத்திருந்த சங்கிலியை அறுத்தெறிந்தான்! தளபதி திருமலையின் வாள் சங்கரின் தலையைப் பிளந்துவிடக் கூடும் என அஞ்சிப் பதறி சின்னமலைக்கொழுந்து துடித்துப் பதறியபோது சங்கர் அந்த மாமிசமலையின் நெஞ்சில் தனது வாளைப் பாய்ச்சிக் கீழே வீழ்த்தினான்.
 
@@ -45,3 +45,12 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 2
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part003 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- P2B-004 source-backed correction: `ரத வண்டியைச் சுற்றிக் சூழ்ந்து வந்த` → `ரத வண்டியைச் சுற்றிச் சூழ்ந்து வந்த`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

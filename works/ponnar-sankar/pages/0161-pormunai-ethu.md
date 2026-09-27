@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 2
 
 திருமலையின் இந்தப் பதிலைக் கேட்டு மாந்தியப்பன் அசடு வழிய நின்றான்.
 
-அப்போது ராச்சாண்டார் மலைக்கோட்டையை நோக்கி தலையூர் வீரனொருவன் குதிரையில் வருகிற செய்தி தளபதி திருமலைக்குக் கூறப்பட்டது. வந்துள்ள வீரன், கோட்டையின் முகப்பில் தலையூர் முத்திரை மோதிரத்தைக் காட்டிவிட்டு உள்ளே வந்து கொண்டிருப்பதாகவும் தொடர்ந்து அறிவிக்கப்பட்டது. அதைக் தொடர்ந்து சில நொடிகளில் தலையூர் வீரன் ஓலைச்சுருள் ஒன்றை தளபதி திருமலையின் கையில் கொடுத்துப் பணிந்து வணங்கி, ஒதுங்கி நின்றான்.
+அப்போது ராச்சாண்டார் மலைக்கோட்டையை நோக்கி தலையூர் வீரனொருவன் குதிரையில் வருகிற செய்தி தளபதி திருமலைக்குக் கூறப்பட்டது. வந்துள்ள வீரன், கோட்டையின் முகப்பில் தலையூர் முத்திரை மோதிரத்தைக் காட்டிவிட்டு உள்ளே வந்து கொண்டிருப்பதாகவும் தொடர்ந்து அறிவிக்கப்பட்டது. அதைத் தொடர்ந்து சில நொடிகளில் தலையூர் வீரன் ஓலைச்சுருள் ஒன்றை தளபதி திருமலையின் கையில் கொடுத்துப் பணிந்து வணங்கி, ஒதுங்கி நின்றான்.
 
 தளபதி பரபரப்புடன் ஓலையைப் படித்து முடித்தான். மாந்தியப்பன்; “என்ன அவசர ஓலை?” என்பது போல தளபதியின் முகத்தையே பார்த்துக் கொண்டிருந்தான்.
 
@@ -51,3 +51,12 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 2
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part003 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- P2B-003 source-backed correction: `அதைக் தொடர்ந்து சில நொடிகளில்` → `அதைத் தொடர்ந்து சில நொடிகளில்`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 10/70 REVIEWED**
+**PASS 2B — IN PROGRESS — 20/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -78,9 +78,9 @@ Maintained cadence follows Parts001–002 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **10/70 — scans146–155**
-- pending — **60/70 — scans156–215**
-- source-text corrections applied in Pass2B — **1**
+- reviewed — **20/70 — scans146–165**
+- pending — **50/70 — scans166–215**
+- source-text corrections applied in Pass2B — **5**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -145,8 +145,97 @@ canonical scan148 corrected to the source-visible lexical form `நிலைய�
 - metadata promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 2 — scans156–165
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 156 | chapter16 `போர்முனை எது?` continuation | 139 | 0 | REVIEWED / PASS |
+| 157 | chapter16 continuation | 140 | 0 | REVIEWED / PASS |
+| 158 | chapter16 continuation | 141 | 0 | REVIEWED / PASS |
+| 159 | chapter16 continuation | 142 | 0 | REVIEWED / PASS |
+| 160 | chapter16 continuation | 143 | **1** | REVIEWED / PASS |
+| 161 | chapter16 continuation | 144 | **1** | REVIEWED / PASS |
+| 162 | chapter16 continuation / open into scan163 | 145 | 0 | REVIEWED / PASS |
+| 163 | chapter16 close / substantial intentional blank lower field | 146 | **1** | REVIEWED / PASS |
+| 164 | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening | — | **1** | REVIEWED / PASS |
+| 165 | chapter17 continuation / open into scan166 | 148 | 0 | REVIEWED / PASS |
+
+## Batch 2 structural / boundary verification
+
+- scans156–163 continue and close chapter16 `போர்முனை எது?` — **PASS**
+- scans156–163 source-visible printed pagination **139–146** — **PASS**
+- scan163 chapter16 close / substantial intentional blank lower field — **PASS**
+- scan164 decorative chapter17 opening and displayed chapter number **17** — **PASS**
+- scan164 ordinary running printed-page value — **NONE / correctly null**
+- scan165 chapter17 continuation / source-visible printed page **148** — **PASS**
+- scan165 remains open into scan166 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 2 correction ledger
+
+### P2B-002 — scan160
+
+Pass2B entry-state canonical:
+`படைக்குத் தலைமை ஏற்றும் வந்த வாலிபர்கள்`
+
+Direct source-pixel reading:
+`படைக்குத் தலைமையேற்றும் வந்த வாலிபர்கள்`
+
+Action:
+canonical scan160 corrected to the source-visible joined lexical form.
+
+### P2B-003 — scan161
+
+Pass2B entry-state canonical:
+`அதைக் தொடர்ந்து சில நொடிகளில்`
+
+Direct source-pixel reading:
+`அதைத் தொடர்ந்து சில நொடிகளில்`
+
+Action:
+canonical scan161 corrected to the source-visible sandhi.
+
+### P2B-004 — scan163
+
+Pass2B entry-state canonical:
+`ரத வண்டியைச் சுற்றிக் சூழ்ந்து வந்த`
+
+Direct source-pixel reading:
+`ரத வண்டியைச் சுற்றிச் சூழ்ந்து வந்த`
+
+Action:
+canonical scan163 corrected to the source-visible sandhi.
+
+### P2B-005 — scan164
+
+Pass2B entry-state canonical:
+`இந்தச் சூழ்நிலைக்கு ஏற்றது!`
+
+Direct source-pixel reading:
+`இந்த சூழ்நிலைக்கு ஏற்றது!`
+
+Action:
+canonical scan164 removed the unsupported sandhi consonant.
+
+## Batch 2 decision
+
+**BATCH 2 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **4**
+- cumulative reviewed — **20/70 — scans146–165**
+- cumulative Pass2B corrections — **5**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part003 Pass2B Batch2 — global scans156–165 / local pages11–20**.
+Process **Part003 Pass2B Batch3 — global scans166–175 / local pages21–30**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan166 and keep outgoing **215→216 PENDING Part004 direct witness**.
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan176 and keep outgoing **215→216 PENDING Part004 direct witness**.

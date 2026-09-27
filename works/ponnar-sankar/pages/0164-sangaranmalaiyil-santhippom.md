@@ -23,7 +23,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 2
 
 சின்னமலைக்கொழுந்து, தனது குதிரையை சற்று இழுத்துப் பிடித்தபடி, “இது காட்டுப்பாதையாயிற்றே?” என்று இழுத்தாற் போல் கேட்டார்.
 
-“காட்டுப்பாதைதான்! கொஞ்சம் கஷ்டப்பட்டுத்தான் போக வேண்டும்! காட்டுப்பாதை மட்டுமல்ல; கரடு முரடான பாதையும் கூட! எதிரிகள், நாம் ஆரிச்சம்பட்டிக்குப் போவதாக எண்ணிக் கொண்டு பின் தொடரக் கூடும்! நாம் பாதையை மாற்றிக் கொள்வதுதான் இந்தச் சூழ்நிலைக்கு ஏற்றது!” என்றான் பொன்னன்.
+“காட்டுப்பாதைதான்! கொஞ்சம் கஷ்டப்பட்டுத்தான் போக வேண்டும்! காட்டுப்பாதை மட்டுமல்ல; கரடு முரடான பாதையும் கூட! எதிரிகள், நாம் ஆரிச்சம்பட்டிக்குப் போவதாக எண்ணிக் கொண்டு பின் தொடரக் கூடும்! நாம் பாதையை மாற்றிக் கொள்வதுதான் இந்த சூழ்நிலைக்கு ஏற்றது!” என்றான் பொன்னன்.
 
 “அப்படியானால் நாம் எங்கே போகிறோம்?” என்று சின்னமலைக்கொழுந்து வியப்பை விழிகளில் வெளிப்படுத்திக் கேட்டவே;
 
@@ -51,3 +51,12 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 2
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part003 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- P2B-005 source-backed correction: `இந்தச் சூழ்நிலைக்கு ஏற்றது!` → `இந்த சூழ்நிலைக்கு ஏற்றது!`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
