@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch1 — scans146–155
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch2 — scans156–165
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,53 +27,47 @@ Do not reopen Parts001–002 merely for stylistic polishing.
 - Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE**
 - canonical records present — **70/70 / scans146–215**
 - pending — **0/70**
-- unresolved source-reading holds — **0**
-- status promotions — **0**
-- scan216 wording imported — **0**
 - all canonical records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 
-Captured chapter structure:
+## Part003 Pass2A durable state
 
-- scan146 — chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close
-- scan147 — chapter15 `புறப்பட்டது போர்ப்படை` opening
-- scan154 — chapter15 close
-- scan155 — chapter16 `போர்முனை எது?` opening
-- scan163 — chapter16 close
-- scan164 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening
-- scan172 — chapter17 close
-- scan173 — chapter18 `சுயநலமா? பொதுநலமா?` opening
-- scan180 — chapter18 close
-- scan181 — chapter19 `உண்மையின் உறைவிடம்` opening
-- scan190 — chapter19 close
-- scan191 — chapter20 `அப்பன் அருள்வாக்கு` opening
-- scan199 — chapter20 close
-- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` opening
-- scan207 — chapter21 close
-- scan208 — chapter22 `தியாகத்தின் எல்லை` opening
-- scan215 — chapter22 continuation / Part003 split edge
+Closed batch:
 
-## Pass2A activation state
+- Batch1 scans146–155 / local1–10 — **REVIEWED / PASS**
+- Batch1 source-text corrections — **8**
+- Batch1 unresolved textual questions — **0**
 
-- Pass2A — **ACTIVATED / READY**
-- reviewed — **0/70**
-- pending — **70/70**
-- source-text corrections — **0**
+Current accounting:
+
+- reviewed — **10/70 — scans146–155**
+- pending — **60/70**
+- source-text corrections — **8**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 
+Batch1 source-backed corrections:
+
+- scan147 — `உயரத்தோர்` → `உயர்ந்ததோர்`
+- scan147 — `தனலாகவும்` → `தணலாகவும்`
+- scan148 — `ஆரிச்சம்பட்டி என்று` → `ஆரிச்சம்பட்டியென்ற`
+- scan149 — `செல்லாண்டி அம்மன்` → `செல்லாண்டியம்மன்`
+- scan149 — `செய்து கொண்டு` → `செய்துகொண்டு`
+- scan151 — `குடிபெயரிக்` → `குடியேறிக்`
+- scan152 — `படித்துக் கொண்ட` → `படித்துக்கொண்ட`
+- scan153 — `தயார்நிலையில்` → `தயார் நிலையில்`
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch1 — scans146–155 / local pages1–10**.
+Process **Part003 Pass2A Batch2 — scans156–165 / local pages11–20**.
 
 Structural range:
 
-- scan146 — chapter14 continuation and close / printed129
-- scan147 — chapter15 opener / no inferred running printed page
-- scans148–154 — chapter15 continuation and close / printed131–137
-- scan155 — chapter16 opener / no inferred running printed page
+- scans156–163 — chapter16 `போர்முனை எது?` continuation and close / printed139–146
+- scan164 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening / no inferred running printed page
+- scan165 — chapter17 continuation / printed148
 
 Requirements:
 
@@ -82,9 +76,9 @@ Requirements:
 - preserve physical page endings and source-visible paragraph/dialogue/display structure;
 - record every correction in the Pass2A correction ledger;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- do not import scan156 wording into scan155;
+- do not import scan166 wording into scan165;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Pass2A Batch1 scans146–155 = 10/70 REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
+Stop after **Pass2A Batch2 scans156–165 = 20/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
