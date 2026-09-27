@@ -188,19 +188,19 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 source — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
 - Part003 SHA-256 — `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab`
 - Part003 incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
-- Part003 Pass1 — **IN PROGRESS — 30/70 TEXT-COMPLETE — scans146–175**
-- Part003 Pass1 pending — **40/70**
+- Part003 Pass1 — **IN PROGRESS — 40/70 TEXT-COMPLETE — scans146–185**
+- Part003 Pass1 pending — **30/70**
 - Part003 outgoing 215→216 — **PENDING Part004 direct witness**
-- Part003 exact next activity — **Pass1 Batch4 / scans176–185 / local pages31–40**
+- Part003 exact next activity — **Pass1 Batch5 / scans186–195 / local pages41–50**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass1 Batch4 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass1 Batch5 frontier**
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch4 — scans176–185 / local pages31–40**.
+Process **Part003 Pass1 Batch5 — scans186–195 / local pages41–50**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 Batch3 is **COMPLETE / 10 TEXT-COMPLETE**. Continue with scans176–185 only; do not import scan186 or Part004 wording.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass1 Batch4 is **COMPLETE / 10 TEXT-COMPLETE**. Continue with scans186–195 only; do not import scan196 or Part004 wording.

@@ -181,6 +181,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 28 | 173 | — | chapter18 `சுயநலமா? பொதுநலமா?` opening; running page not inferred | needs-review | `pages/0173-suyanalamaa-pothunalamaa.md` |
 | 003 | 29 | 174 | 157 | chapter18 continuation; Sangaranmalai welcome / sibling reunion | needs-review | `pages/0174-suyanalamaa-pothunalamaa.md` |
 | 003 | 30 | 175 | 158 | chapter18 continuation; family introductions / Maayavar addressed | needs-review | `pages/0175-suyanalamaa-pothunalamaa.md` |
+| 003 | 31 | 176 | 159 | chapter18 continuation; Maayavar identified / Sinnamalai recovers composure | needs-review | `pages/0176-suyanalamaa-pothunalamaa.md` |
+| 003 | 32 | 177 | 160 | chapter18 continuation; temple-name exchange / marriage promise surfaces | needs-review | `pages/0177-suyanalamaa-pothunalamaa.md` |
+| 003 | 33 | 178 | 161 | chapter18 continuation; hidden names / Sinnamalai explains the marriage pledge | needs-review | `pages/0178-suyanalamaa-pothunalamaa.md` |
+| 003 | 34 | 179 | 162 | chapter18 continuation; Maayavar challenges the pledge / Thamarai invokes her vow | needs-review | `pages/0179-suyanalamaa-pothunalamaa.md` |
+| 003 | 35 | 180 | 163 | chapter18 close; Thamarai insists her sons live / vow-versus-promise conflict framed | needs-review | `pages/0180-suyanalamaa-pothunalamaa.md` |
+| 003 | 36 | 181 | — | chapter19 `உண்மையின் உறைவிடம்` opening; running page not inferred | needs-review | `pages/0181-unmaiyin-uraividam.md` |
+| 003 | 37 | 182 | 165 | chapter19 continuation; Ponnar waives the pledge / Muthayi-Pavalayi react inwardly | needs-review | `pages/0182-unmaiyin-uraividam.md` |
+| 003 | 38 | 183 | 166 | chapter19 continuation; Maayavar recounts Thamarai's endurance and sacrifice | needs-review | `pages/0183-unmaiyin-uraividam.md` |
+| 003 | 39 | 184 | 167 | chapter19 continuation; childlessness grief / false astrologers set the chariot trap | needs-review | `pages/0184-unmaiyin-uraividam.md` |
+| 003 | 40 | 185 | 168 | chapter19 continuation; chariot-sacrifice plot / Raakkiyannan intervenes | needs-review | `pages/0185-unmaiyin-uraividam.md` |
 
 ## Split accounting
 
@@ -192,8 +202,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **175 canonical rows — Parts001–002 frozen + Part003 scans146–175 needs-review**
-- canonical page records: **175 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 30/70 needs-review**
+- registered physical scan rows: **185 canonical rows — Parts001–002 frozen + Part003 scans146–185 needs-review**
+- canonical page records: **185 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 40/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -256,6 +266,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **IN PROGRESS — 30/70 TEXT-COMPLETE — scans146–175**
-- Part003 Pass1 pending: **40/70**
-- exact next activity: **Part003 Pass1 Batch4 — scans176–185 / local pages31–40**
+- Part003 Pass1: **IN PROGRESS — 40/70 TEXT-COMPLETE — scans146–185**
+- Part003 Pass1 pending: **30/70**
+- exact next activity: **Part003 Pass1 Batch5 — scans186–195 / local pages41–50**
