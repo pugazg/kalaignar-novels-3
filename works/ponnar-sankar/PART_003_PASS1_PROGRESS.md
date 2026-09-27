@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 1 — IN PROGRESS — 50/70 TEXT-COMPLETE**
+**PASS 1 — IN PROGRESS — 60/70 TEXT-COMPLETE**
 
 Active Part:
 
@@ -14,10 +14,10 @@ Active Part:
 ## Current accounting
 
 - Part003 physical scans: **70**
-- canonical Part003 records present: **50/70 — scans146–195**
-- Pass1 physical capture complete: **50/70**
-- Pass1 textual transcriptions: **50/70**
-- Pass1 pending physical scans: **20/70**
+- canonical Part003 records present: **60/70 — scans146–205**
+- Pass1 physical capture complete: **60/70**
+- Pass1 textual transcriptions: **60/70**
+- Pass1 pending physical scans: **10/70**
 - unresolved Pass1 source-reading holds: **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -41,8 +41,8 @@ Maintained initial cadence: **10 scans per batch**.
 | 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **COMPLETE / 10 TEXT-COMPLETE** |
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **COMPLETE / 10 TEXT-COMPLETE** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **COMPLETE / 10 TEXT-COMPLETE** |
-| 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **READY / NEXT** |
-| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **NOT STARTED** |
+| 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **COMPLETE / 10 TEXT-COMPLETE** |
+| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **READY / NEXT** |
 
 ## Source-structure intake observations
 
@@ -127,8 +127,19 @@ Outgoing:
 - status promotions — **0**
 - scan196 wording imported — **0**
 
+## Batch6 closure
+
+- scans196–205 — **10/10 TEXT-COMPLETE**
+- cumulative Pass1 — **60/70 TEXT-COMPLETE**
+- chapter20 `அப்பன் அருள்வாக்கு` continuation and close — **scans196–199**
+- chapter21 `நேர்மையைப் பற்றி வீரமலை` opener — **scan200**
+- chapter21 continuation — **scans201–205**
+- unresolved source-reading holds — **0**
+- status promotions — **0**
+- scan206 wording imported — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass1 Batch6 — scans196–205 / local pages51–60**.
+Process **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**.
 
-Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan206.
+Use direct rendered-source inspection only. Create canonical records for all 10 physical pages and stop before scan216.

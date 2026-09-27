@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass1 Batch6 — scans196–205
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass1 Batch7 — scans206–215
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,16 +31,17 @@ Closed batches:
 - Batch3 scans166–175 / local21–30 — **10/10 TEXT-COMPLETE**
 - Batch4 scans176–185 / local31–40 — **10/10 TEXT-COMPLETE**
 - Batch5 scans186–195 / local41–50 — **10/10 TEXT-COMPLETE**
+- Batch6 scans196–205 / local51–60 — **10/10 TEXT-COMPLETE**
 
 Current accounting:
 
-- cumulative Pass1 — **50/70 TEXT-COMPLETE**
-- pending — **20/70**
+- cumulative Pass1 — **60/70 TEXT-COMPLETE**
+- pending — **10/70**
 - unresolved source-reading holds — **0**
 - status promotions — **0**
-- canonical records present — **50/70 / scans146–195**
+- canonical records present — **60/70 / scans146–205**
 
-Captured structure through scan195:
+Captured structure through scan205:
 
 - scan146 — chapter14 `ராச்சாண்டார் மலைநோக்கி...` continuation and close
 - scan147 — chapter15 `புறப்பட்டது போர்ப்படை` opening
@@ -54,7 +55,9 @@ Captured structure through scan195:
 - scan181 — chapter19 `உண்மையின் உறைவிடம்` opening
 - scan190 — chapter19 close
 - scan191 — chapter20 `அப்பன் அருள்வாக்கு` opening
-- scans192–195 — chapter20 continuation
+- scan199 — chapter20 close
+- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` opening
+- scans201–205 — chapter21 continuation
 
 All Part003 canonical records remain:
 
@@ -63,24 +66,24 @@ All Part003 canonical records remain:
 
 ## Exact next activity
 
-Process **Part003 Pass1 Batch6 — scans196–205 / local pages51–60**.
+Process **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**.
 
 Structural expectation from source intake:
 
-- scans196–199 — chapter20 `அப்பன் அருள்வாக்கு` continuation and close
-- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` opening
-- scans201–205 — chapter21 continuation
+- scans206–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation and close
+- scan208 — chapter22 `தியாகத்தின் எல்லை` opening
+- scans209–215 — chapter22 continuation to the Part003 split edge
 
 Requirements:
 
 - one canonical record per physical source scan;
 - direct rendered-source transcription only;
 - preserve exact paragraph/dialogue/display structure;
-- no inferred running printed page on decorative chapter opener scan200;
+- no inferred running printed page on decorative chapter opener scan208;
 - keep status/visual fidelity at needs-review;
-- do not import scan206 wording into scan205;
+- do not import scan216 wording into scan215;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Batch6 scans196–205 = 60/70 cumulative TEXT-COMPLETE** with progress and navigation controls synchronized.
+Stop after **Batch7 scans206–215 = 70/70 cumulative TEXT-COMPLETE** with progress and navigation controls synchronized.

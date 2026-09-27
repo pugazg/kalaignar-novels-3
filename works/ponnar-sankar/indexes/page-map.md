@@ -201,6 +201,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 48 | 193 | 176 | chapter20 continuation; Veeramalai reports the children's growth to Raakkiyannan | needs-review | `pages/0193-appan-arulvaakku.md` |
 | 003 | 49 | 194 | 177 | chapter20 continuation; Thalaiyur Kali temple kumbabishekam / Sembakulan corruption | needs-review | `pages/0194-appan-arulvaakku.md` |
 | 003 | 50 | 195 | 178 | chapter20 continuation; Maandhiyappan drunken scene / open into scan196 | needs-review | `pages/0195-appan-arulvaakku.md` |
+| 003 | 51 | 196 | 179 | chapter20 continuation; Sembakulan stages a Kali-possession warning | needs-review | `pages/0196-appan-arulvaakku.md` |
+| 003 | 52 | 197 | 180 | chapter20 continuation; oracle names Kundrudaiyaan's children as threat / Raakkiyannan stays behind | needs-review | `pages/0197-appan-arulvaakku.md` |
+| 003 | 53 | 198 | 181 | chapter20 continuation; bribery exposed / council debate / Raakkiyannan offers to act | needs-review | `pages/0198-appan-arulvaakku.md` |
+| 003 | 54 | 199 | 182 | chapter20 close; sacrifice proposal / listeners stunned; substantial blank lower field | needs-review | `pages/0199-appan-arulvaakku.md` |
+| 003 | 55 | 200 | — | chapter21 `நேர்மையைப் பற்றி வீரமலை` opening; running page not inferred | needs-review | `pages/0200-nermaiyai-patri-veeramalai.md` |
+| 003 | 56 | 201 | 184 | chapter21 continuation; Raakkiyannan returns distressed / Azhagunachchi recalled | needs-review | `pages/0201-nermaiyai-patri-veeramalai.md` |
+| 003 | 57 | 202 | 185 | chapter21 continuation; Veeramalai receives secret Sangaranmalai reconnaissance order | needs-review | `pages/0202-nermaiyai-patri-veeramalai.md` |
+| 003 | 58 | 203 | 186 | chapter21 continuation; naming ceremony discovered / Raakkiyannan plans journey | needs-review | `pages/0203-nermaiyai-patri-veeramalai.md` |
+| 003 | 59 | 204 | 187 | chapter21 continuation; Thalaiyur letter reveals abduction plan / Veeramalai made witness | needs-review | `pages/0204-nermaiyai-patri-veeramalai.md` |
+| 003 | 60 | 205 | 188 | chapter21 continuation; Veeramalai wrestles with apparent contradiction / journey begins | needs-review | `pages/0205-nermaiyai-patri-veeramalai.md` |
 
 ## Split accounting
 
@@ -212,8 +222,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **3/8**
-- registered physical scan rows: **195 canonical rows — Parts001–002 frozen + Part003 scans146–195 needs-review**
-- canonical page records: **195 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 50/70 needs-review**
+- registered physical scan rows: **205 canonical rows — Parts001–002 frozen + Part003 scans146–205 needs-review**
+- canonical page records: **205 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 60/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -276,6 +286,6 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
-- Part003 Pass1: **IN PROGRESS — 50/70 TEXT-COMPLETE — scans146–195**
-- Part003 Pass1 pending: **20/70**
-- exact next activity: **Part003 Pass1 Batch6 — scans196–205 / local pages51–60**
+- Part003 Pass1: **IN PROGRESS — 60/70 TEXT-COMPLETE — scans146–205**
+- Part003 Pass1 pending: **10/70**
+- exact next activity: **Part003 Pass1 Batch7 — scans206–215 / local pages61–70**
