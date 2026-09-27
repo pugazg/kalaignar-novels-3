@@ -686,6 +686,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part003 Pass3 Final Batch5 — scans206–215 / local pages61–70**.
+Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
 
 Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.

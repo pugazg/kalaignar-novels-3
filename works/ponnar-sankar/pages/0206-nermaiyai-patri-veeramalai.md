@@ -54,3 +54,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 7
 - unresolved textual questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
+
+## Formal Part003 Pass 3 review
+
+- full-page visual / structural verification completed directly against rendered source pixels;
+- chapter21 continuation; source-visible printed page **189**; running header `பொன்னர் - சங்கர்` at upper left with page number at upper right; single-column prose / dialogue structure and physical page-end are retained.
+- structural corrections in Pass3: **0**;
+- unresolved visual / structural questions: **0**;
+- no lexical reopening was required;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Part audit not started.

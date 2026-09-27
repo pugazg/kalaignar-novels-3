@@ -50,3 +50,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 7
 - unresolved textual questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
+
+## Formal Part003 Pass 3 review
+
+- full-page visual / structural verification completed directly against rendered source pixels;
+- decorative chapter22 opening `தியாகத்தின் எல்லை`; no ordinary running printed-page number; large blue stylized title with source-visible ornamental flourish and displayed chapter number **22** are retained; body opening remains structurally open into scan209.
+- structural corrections in Pass3: **0**;
+- unresolved visual / structural questions: **0**;
+- no lexical reopening was required;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Part audit not started.

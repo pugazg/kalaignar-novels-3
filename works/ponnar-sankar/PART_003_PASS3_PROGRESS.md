@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 4 COMPLETE — 60/70 REVIEWED / PASS**
+**PASS 3 — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 5 COMPLETE**
 
 Active Part:
 - Part003
@@ -69,8 +69,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **60/70 — scans146–205**
-- pending — **10/70 — scans206–215**
+- reviewed — **70/70 — scans146–215**
+- pending — **0/70**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -249,8 +249,45 @@ For each scan:
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
+## Final Batch 5 — scans206–215
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 206 | chapter21 continuation / alternating running header | 189 | 0 | REVIEWED / PASS |
+| 207 | chapter21 close / alternating running header | 190 | 0 | REVIEWED / PASS |
+| 208 | chapter22 decorative opening / blue title + flourish | — | 0 | REVIEWED / PASS |
+| 209 | chapter22 continuation / alternating running header | 192 | 0 | REVIEWED / PASS |
+| 210 | chapter22 continuation / alternating running header / lower-left numeral | 193 | 0 | REVIEWED / PASS |
+| 211 | chapter22 continuation / alternating running header | 194 | 0 | REVIEWED / PASS |
+| 212 | chapter22 continuation / alternating running header | 195 | 0 | REVIEWED / PASS |
+| 213 | chapter22 continuation / alternating running header | 196 | 0 | REVIEWED / PASS |
+| 214 | chapter22 continuation / alternating running header | 197 | 0 | REVIEWED / PASS |
+| 215 | chapter22 continuation / Part003 final physical page / split edge | 198 | 0 | REVIEWED / PASS |
+
+## Final Batch 5 result
+
+- scans206–215 — **10/10 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **70/70 — scans146–215**
+- pending — **0/70**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan207 chapter21 close — **PASS**
+- scan208 chapter22 decorative opener / chapter number 22 / blue stylized title + source-visible flourish — **PASS**
+- scan210 separate source-visible lower-left numeral `8` — **PASS**
+- scan215 exact Part003 final physical page / source-split edge — **PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+- scan216 wording inferred/imported — **0**
+- chapter22 closure state beyond scan215 — **NOT INFERRED**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT YET ACTIVATED**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+
 ## Exact next activity
 
-Process **Part003 Pass3 Final Batch5 — global scans206–215 / local pages61–70**.
+Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
 
-Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending. Final Batch5 must not resolve the outgoing 215→216 boundary without a Part004 direct witness.
+Reconcile the full 70/70 Part003 Pass3 review census and zero-correction / zero-unresolved structural state. Keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**. If all checks pass, close Pass3 and activate the Part audit, but do not begin the audit in the same checkpoint.

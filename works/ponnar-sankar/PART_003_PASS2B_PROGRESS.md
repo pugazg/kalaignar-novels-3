@@ -561,6 +561,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part003 Pass3 Final Batch5 — global scans206–215 / local pages61–70**.
+Run the **Part003 Pass3 full-part closure / Part audit activation checkpoint**.
 
-Pass3 Batches1–4 scans146–205 are **REVIEWED / PASS — 60/70 cumulative** with **0 structural corrections / 0 unresolved visual or structural questions**. Continue full-page visual / structural verification with Final Batch5 scans206–215; keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
+Pass3 Final Batch5 scans206–215 is **REVIEWED / PASS**; cumulative Pass3 is **70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Run the Pass3 full-part closure / Part audit activation checkpoint next; keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
