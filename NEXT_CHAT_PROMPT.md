@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass3 Batch4 — scans191–205
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass3 Final Batch5 — scans206–215
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,14 +27,15 @@ Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tami
 
 ## Part003 Pass3 state
 
-**IN PROGRESS — 45/70 REVIEWED / PASS — scans146–190**
+**IN PROGRESS — 60/70 REVIEWED / PASS — scans146–205**
 
 - Batch1 scans146–160 — **REVIEWED / PASS — 15/15**
 - Batch2 scans161–175 — **REVIEWED / PASS — 15/15**
 - Batch3 scans176–190 — **REVIEWED / PASS — 15/15**
+- Batch4 scans191–205 — **REVIEWED / PASS — 15/15**
 - cumulative structural corrections — **0**
 - unresolved visual / structural questions — **0**
-- pending — **25/70 — scans191–215**
+- pending — **10/70 — scans206–215**
 - Part audit — **NOT STARTED / BLOCKED UNTIL PASS3 COMPLETE**
 - cadence — **15 source pages per iteration; final remainder may be smaller**
 
@@ -42,25 +43,26 @@ Durable tracker:
 
 `works/ponnar-sankar/PART_003_PASS3_PROGRESS.md`
 
-## Batch3 result
+## Batch4 result
 
 Verified directly from rendered source pixels:
 
 - alternating running-header / page-number placement across ordinary body pages — **PASS**;
-- scan180 chapter18 close / substantial intentional blank lower field — **PASS**;
-- scan181 chapter19 `உண்மையின் உறைவிடம்` decorative blue opener with chapter number **19** and ornate horizontal flourish — **PASS**;
-- scan190 chapter19 close / substantial intentional blank lower field — **PASS**;
-- scan190→191 boundary handling — **PASS / no scan191 wording imported backward**;
+- scan191 chapter20 `அப்பன் அருள்வாக்கு` decorative blue opener with chapter number **20** and source-visible devotional ornament — **PASS**;
+- scan193 separated short report lines — **PASS**;
+- scan199 chapter20 close / substantial intentional blank lower field — **PASS**;
+- scan200 chapter21 `நேர்மையைப் பற்றி வீரமலை` decorative blue opener with chapter number **21** and flourish — **PASS**;
+- scan205 open physical continuation into scan206 — **PASS**;
 - structural corrections — **0**;
 - lexical reopening — **0**.
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch4 — global scans191–205 / local pages46–60**.
+Process **Part003 Pass3 Final Batch5 — global scans206–215 / local pages61–70**.
 
 This remains a **full-page visual / structural verification**, not a lexical reread.
 
-For each scan191–205:
+For each scan206–215:
 
 1. inspect the complete rendered page;
 2. verify page type and chapter/opening/continuation role;
@@ -72,15 +74,15 @@ For each scan191–205:
 8. record only direct source-backed structural corrections;
 9. append exactly one formal Part003 Pass3 review to every reviewed canonical record;
 10. keep `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-11. do not begin Part audit.
+11. do not begin Part audit in the same batch.
 
-## Batch4 structural scope
+## Final Batch5 structural scope
 
-- scan191 — chapter20 `அப்பன் அருள்வாக்கு` decorative opening / no ordinary running printed-page value;
-- scans192–199 — chapter20 continuation / printed175–182;
-- scan199 — chapter20 close with substantial intentional blank lower field;
-- scan200 — chapter21 `நேர்மையைப் பற்றி வீரமலை` decorative opening / no ordinary running printed-page value;
-- scans201–205 — chapter21 continuation / printed184–188 / open into scan206.
+- scans206–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation and close / printed189–190;
+- scan208 — chapter22 `தியாகத்தின் எல்லை` decorative opening / no ordinary running printed-page value;
+- scans209–215 — chapter22 continuation / printed192–198;
+- scan215 — Part003 final physical page / source-split edge;
+- outgoing 215→216 — **PENDING Part004 direct witness** and must remain unresolved without direct Part004 source.
 
 ## Mandatory locks
 
@@ -93,15 +95,15 @@ For each scan191–205:
 - no status promotion during Pass3
 - incoming 145→146 remains audited/pass
 - outgoing 215→216 remains pending
-- do not import scan206 wording backward into scan205
-- do not begin Part audit.
+- do not infer or import scan216 wording
+- do not begin Part audit in the same batch.
 
 ## Stop condition
 
-Stop after **Part003 Pass3 Batch4 — scans191–205 — REVIEWED**.
+Stop after **Part003 Pass3 Final Batch5 — scans206–215 — REVIEWED**.
 
-Expected cumulative state after a clean Batch4:
+Expected cumulative state after a clean Final Batch5:
 
-**60/70 REVIEWED / PASS — scans146–205**
+**70/70 REVIEWED / PASS — scans146–215**
 
-Then synchronize maintained controls and advance to **Part003 Pass3 Final Batch5 — scans206–215 / local pages61–70**, unless a direct-source visual/structural hold is recorded.
+Then synchronize maintained controls and advance to the **Part003 Pass3 full-part closure / Part audit activation checkpoint**. Keep outgoing 215→216 pending until a direct Part004 witness exists.

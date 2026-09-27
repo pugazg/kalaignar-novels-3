@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — IN PROGRESS / BATCH 3 COMPLETE — 45/70 REVIEWED / PASS**
+**PASS 3 — IN PROGRESS / BATCH 4 COMPLETE — 60/70 REVIEWED / PASS**
 
 Active Part:
 - Part003
@@ -69,8 +69,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **45/70 — scans146–190**
-- pending — **25/70 — scans191–215**
+- reviewed — **60/70 — scans146–205**
+- pending — **10/70 — scans206–215**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -208,8 +208,49 @@ For each scan:
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
+## Batch 4 — scans191–205
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 191 | chapter20 decorative opening / blue title + devotional ornament | — | 0 | REVIEWED / PASS |
+| 192 | chapter20 continuation / alternating running header | 175 | 0 | REVIEWED / PASS |
+| 193 | chapter20 continuation / displayed short report lines | 176 | 0 | REVIEWED / PASS |
+| 194 | chapter20 continuation / alternating running header | 177 | 0 | REVIEWED / PASS |
+| 195 | chapter20 continuation / alternating running header | 178 | 0 | REVIEWED / PASS |
+| 196 | chapter20 continuation / alternating running header | 179 | 0 | REVIEWED / PASS |
+| 197 | chapter20 continuation / alternating running header | 180 | 0 | REVIEWED / PASS |
+| 198 | chapter20 continuation / alternating running header | 181 | 0 | REVIEWED / PASS |
+| 199 | chapter20 close / substantial intentional blank lower field | 182 | 0 | REVIEWED / PASS |
+| 200 | chapter21 decorative opening / blue title + flourish | — | 0 | REVIEWED / PASS |
+| 201 | chapter21 continuation / alternating running header | 184 | 0 | REVIEWED / PASS |
+| 202 | chapter21 continuation / alternating running header | 185 | 0 | REVIEWED / PASS |
+| 203 | chapter21 continuation / alternating running header | 186 | 0 | REVIEWED / PASS |
+| 204 | chapter21 continuation / alternating running header | 187 | 0 | REVIEWED / PASS |
+| 205 | chapter21 continuation / alternating running header / open into scan206 | 188 | 0 | REVIEWED / PASS |
+
+## Batch 4 result
+
+- scans191–205 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **60/70 — scans146–205**
+- pending — **10/70 — scans206–215**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan191 chapter20 decorative opener / chapter number 20 / blue stylized title + source-visible devotional ornament — **PASS**
+- scan193 separated short report lines — **PASS**
+- scan199 chapter20 close / substantial intentional blank lower field — **PASS**
+- scan200 chapter21 decorative opener / chapter number 21 / blue stylized title + flourish — **PASS**
+- scan205 exact open physical continuation into scan206 — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Process **Part003 Pass3 Batch4 — global scans191–205 / local pages46–60**.
+Process **Part003 Pass3 Final Batch5 — global scans206–215 / local pages61–70**.
 
-Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending. Do not import scan206 wording backward into scan205.
+Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending. Final Batch5 must not resolve the outgoing 215→216 boundary without a Part004 direct witness.
