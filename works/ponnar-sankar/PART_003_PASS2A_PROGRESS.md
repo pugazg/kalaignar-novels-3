@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 60/70 REVIEWED**
+**PASS 2A — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
 
 Active Part:
 
@@ -16,8 +16,8 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **60/70 — scans146–205**
-- pending — **10/70**
+- reviewed — **70/70 — scans146–215**
+- pending — **0/70**
 - source-text corrections applied — **25**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
@@ -25,6 +25,7 @@ Active Part:
 - all Part003 records remain:
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
+- Pass2B — **NOT ACTIVATED — full-part Pass2A closure / activation checkpoint next**
 - outgoing **215→216 — PENDING Part004 direct witness**
 
 ## Batch plan
@@ -39,7 +40,7 @@ Maintained cadence: **10 scans per batch**.
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **REVIEWED / PASS — 2 CORRECTIONS** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **REVIEWED / PASS — 2 CORRECTIONS** |
 | 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **REVIEWED / PASS — 0 CORRECTIONS** |
-| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **READY / NEXT** |
+| 7 | 206–215 | 61–70 | chapter21 close; chapter22 to Part003 edge | **REVIEWED / PASS — 0 CORRECTIONS** |
 
 ## Pass 2A rules
 
@@ -594,8 +595,65 @@ canonical scan193 corrected to the source-visible verbal form and case marker.
 - Parts001–002 body edits — **0**
 - metadata promotions — **0**
 
+## Final Batch 7 — scans206–215
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 206 | chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation | 189 | 0 | REVIEWED / PASS |
+| 207 | chapter21 close | 190 | 0 | REVIEWED / PASS |
+| 208 | chapter22 `தியாகத்தின் எல்லை` opening | — | 0 | REVIEWED / PASS |
+| 209 | chapter22 continuation | 192 | 0 | REVIEWED / PASS |
+| 210 | chapter22 continuation | 193 | 0 | REVIEWED / PASS |
+| 211 | chapter22 continuation | 194 | 0 | REVIEWED / PASS |
+| 212 | chapter22 continuation | 195 | 0 | REVIEWED / PASS |
+| 213 | chapter22 continuation / open into scan214 | 196 | 0 | REVIEWED / PASS |
+| 214 | chapter22 continuation / open into scan215 | 197 | 0 | REVIEWED / PASS |
+| 215 | chapter22 continuation / Part003 final physical page | 198 | 0 | REVIEWED / PASS |
+
+## Final Batch 7 structural / boundary verification
+
+- scans206–207 continue and close chapter21 `நேர்மையைப் பற்றி வீரமலை` — **PASS**
+- scans206–207 source-visible printed pagination **189–190** — **PASS**
+- scan208 decorative chapter22 opening and displayed chapter number **22** — **PASS**
+- scan208 ordinary running printed-page value — **NONE / correctly null**
+- scans209–215 chapter22 continuation / source-visible printed pagination **192–198** — **PASS**
+- scans213–214 exact open physical endings into the next Part003 scan — **PASS**
+- scan215 exact Part003 final physical page-end — **PASS**
+- scan216 wording inferred/imported — **0**
+- physical page-end integrity — **PASS 10/10**
+- source-backed corrections — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing **215→216 remains PENDING Part004 direct witness**
+
+## Final Batch 7 decision
+
+**FINAL BATCH 7 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **0**
+- cumulative reviewed — **70/70 — scans146–215**
+- cumulative source-text corrections — **25**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- Pass2B activation — **NO / deferred to explicit closure checkpoint**
+
+## Full-Part Pass2A completion state
+
+**PART003 PASS 2A — COMPLETE / PASS — 70/70 REVIEWED**
+
+- reviewed physical scans — **70/70**
+- coverage — **scans146–215**
+- total source-backed corrections — **25**
+- unresolved textual questions — **0**
+- canonical status promotions during Pass2A — **0**
+- canonical visual-fidelity promotions during Pass2A — **0**
+- all Part003 records remain `needs-review` / `needs-review`
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+- Pass2B — **NOT YET ACTIVATED**
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch7 — scans206–215 / local pages61–70**.
-
-Review all 10 pages directly against the rendered source. Preserve scan215 as the Part003 physical edge, do not import scan216 wording, and synchronize correction ledger, page-map and navigation controls.
+Run the **Part003 Pass2A full-part closure / Pass2B activation checkpoint**. Reconcile the 70/70 review census and P2A-001–P2A-025 ledger, confirm all locks and outgoing 215→216 pending state, then activate Pass2B without starting its first reread batch unless that is separately authorized.

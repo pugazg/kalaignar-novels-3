@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch7 — scans206–215
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A closure + Pass2B activation checkpoint
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,53 +31,68 @@ Do not reopen Parts001–002 merely for stylistic polishing.
   - `status: "needs-review"`
   - `visual_fidelity: "needs-review"`
 
-## Part003 Pass2A durable state
+## Part003 Pass2A — durable completed state
 
-Closed batches:
-
-- Batch1 scans146–155 / local1–10 — **REVIEWED / PASS — 8 corrections**
-- Batch2 scans156–165 / local11–20 — **REVIEWED / PASS — 5 corrections**
-- Batch3 scans166–175 / local21–30 — **REVIEWED / PASS — 8 corrections**
-- Batch4 scans176–185 / local31–40 — **REVIEWED / PASS — 2 corrections**
-- Batch5 scans186–195 / local41–50 — **REVIEWED / PASS — 2 corrections**
-- Batch6 scans196–205 / local51–60 — **REVIEWED / PASS — 0 corrections**
-
-Current accounting:
-
-- reviewed — **60/70 — scans146–205**
-- pending — **10/70**
-- source-text corrections — **25**
+- Batch1 corrections — **8**
+- Batch2 corrections — **5**
+- Batch3 corrections — **8**
+- Batch4 corrections — **2**
+- Batch5 corrections — **2**
+- Batch6 corrections — **0**
+- Final Batch7 corrections — **0**
+- reviewed — **70/70 — scans146–215**
+- Pass2A pending — **0/70**
+- cumulative source-backed corrections — **25**
 - unresolved textual questions — **0**
-- status promotions — **0**
-- visual-fidelity promotions — **0**
+- canonical status promotions during Pass2A — **0**
+- canonical visual-fidelity promotions during Pass2A — **0**
+- Pass2B — **NOT YET ACTIVATED**
+- outgoing 215→216 — **PENDING Part004 direct witness**
 
-Batch6 direct review result:
+## Final Batch7 result
 
-- scans196–205 — **10/10 REVIEWED / PASS**
+Scans206–215 / local61–70 were reviewed directly against rendered source pixels.
+
+- scans reviewed — **10/10**
 - source-backed corrections — **0**
 - physical page-end integrity — **PASS 10/10**
-- next-page wording imported backward — **0**
+- scan215 retained as the exact Part003 physical edge
+- scan216 wording imported — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+
+Refetch live `main` before editing and again after the checkpoint.
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch7 — scans206–215 / local pages61–70**.
+Run the **Part003 Pass2A full-part closure / Pass2B activation checkpoint**.
 
-Structural range:
+This is a control/reconciliation checkpoint, not a new source reread batch.
 
-- scans206–207 — chapter21 `நேர்மையைப் பற்றி வீரமலை` continuation and close / printed189–190
-- scan208 — chapter22 `தியாகத்தின் எல்லை` opening / no inferred running printed page
-- scans209–215 — chapter22 continuation / printed192–198 / Part003 split edge
+Reconcile and confirm:
 
-Requirements:
+1. Pass2A canonical census = **70/70 reviewed** with no missing or duplicate Part003 physical scans;
+2. correction ledger is continuous **P2A-001 through P2A-025**;
+3. cumulative source-backed corrections = **25**;
+4. unresolved Pass2A textual questions = **0**;
+5. every Part003 canonical record has a formal Part003 Pass2A review;
+6. all Part003 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+7. incoming 145→146 remains **GENUINE CONTINUATION / AUDITED / PASS**;
+8. outgoing 215→216 remains **PENDING Part004 direct witness**.
 
-- re-read each canonical transcription directly against the rendered source pixels;
-- apply only source-backed textual/punctuation corrections;
-- preserve physical page endings and source-visible paragraph/dialogue/display structure;
-- record every correction in the Pass2A correction ledger;
-- keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- preserve scan215 as the Part003 physical edge;
-- do not import scan216 wording or begin Part004 without its direct witness.
+If all controls pass, close the Pass2A gate durably and mark **Part003 Pass2B ACTIVATED / READY**, but **do not start the first Pass2B reread batch in the same activity**.
 
-## Stop condition
+- create/update the appropriate Part003 Pass2B control tracker if the repository workflow requires it;
+- maintain Pass2B cadence at **10 scans per batch**;
+- do not promote Part003 status or visual_fidelity merely by activating Pass2B;
+- do not import Part004 wording.
 
-Stop after **Pass2A Batch7 scans206–215 = 70/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized. Do not promote status or begin Part004 merely because Pass2A reaches 70/70.
+## Expected checkpoint result
+
+- Part003 Pass2A — **CLOSED / COMPLETE / PASS — 70/70**
+- Pass2A corrections — **25**
+- Pass2A unresolved — **0**
+- Part003 Pass2B — **ACTIVATED / READY — 0/70 REVIEWED**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
+After that checkpoint, the next activity should be **Part003 Pass2B Batch1 — scans146–155 / local pages1–10**, using direct rendered source pixels and the maintained 10-scan cadence.

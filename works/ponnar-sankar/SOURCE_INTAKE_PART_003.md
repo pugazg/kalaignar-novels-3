@@ -91,14 +91,15 @@ Canonical `scan_page` remains the global physical scan number.
 - Batch5 — **COMPLETE / scans186–195 / 10 TEXT-COMPLETE**
 - Batch6 — **COMPLETE / scans196–205 / 10 TEXT-COMPLETE**
 - Batch7 — **COMPLETE / scans206–215 / 10 TEXT-COMPLETE**
-- Pass2A — **IN PROGRESS — 60/70 REVIEWED — scans146–205**
-- Pass2A pending — **10/70**
+- Pass2A — **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Pass2A pending — **0/70**
 - Pass2A source-text corrections — **25**
 - Pass2A unresolved textual questions — **0**
+- Pass2B — **NOT YET ACTIVATED — closure / activation checkpoint next**
 - status/visual-fidelity promotion during Pass1 — **PROHIBITED**
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch7 — global scans206–215 / local pages61–70**.
+Run the **Part003 Pass2A full-part closure / Pass2B activation checkpoint**.
 
-Batch6 scans196–205 are REVIEWED / PASS with 0 source-backed corrections; cumulative Pass2A is 60/70 reviewed and 25 corrections with 0 unresolved questions. Re-read scans206–215 directly against rendered source pixels, keep `status: "needs-review"` / `visual_fidelity: "needs-review"`, preserve scan215 as the Part003 edge, and do not import scan216 wording.
+Final Batch7 scans206–215 are REVIEWED / PASS with 0 source-backed corrections; cumulative Pass2A is 70/70 reviewed and 25 corrections with 0 unresolved questions. Reconcile the completed Pass2A census and ledger through the explicit closure checkpoint; keep `status: "needs-review"` / `visual_fidelity: "needs-review"` and outgoing 215→216 pending.
