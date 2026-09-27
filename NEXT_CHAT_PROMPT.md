@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch3 — scans166–175
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2B Batch4 — scans176–185
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,28 +28,37 @@ Parts001–002 are **FINAL CLOSED / FROZEN**. Do not reopen their canonical Tami
 
 ## Part003 Pass2B durable state
 
-- Batch1 scans146–155 / local1–10 — **REVIEWED / PASS — 1 correction**
-- Batch2 scans156–165 / local11–20 — **REVIEWED / PASS — 4 corrections**
-- reviewed — **20/70 — scans146–165**
-- pending — **50/70 — scans166–215**
-- source-text corrections — **5**
+- Batch1 scans146–155 — **REVIEWED / PASS — 1 correction**
+- Batch2 scans156–165 — **REVIEWED / PASS — 4 corrections**
+- Batch3 scans166–175 — **REVIEWED / PASS — 4 corrections**
+- reviewed — **30/70 — scans146–175**
+- pending — **40/70 — scans176–215**
+- source-text corrections — **9**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
-Batch2 source-backed corrections:
+Batch3 corrections:
 
-- scan160 — `படைக்குத் தலைமை ஏற்றும் வந்த வாலிபர்கள்` → `படைக்குத் தலைமையேற்றும் வந்த வாலிபர்கள்`
-- scan161 — `அதைக் தொடர்ந்து சில நொடிகளில்` → `அதைத் தொடர்ந்து சில நொடிகளில்`
-- scan163 — `ரத வண்டியைச் சுற்றிக் சூழ்ந்து வந்த` → `ரத வண்டியைச் சுற்றிச் சூழ்ந்து வந்த`
-- scan164 — `இந்தச் சூழ்நிலைக்கு ஏற்றது!` → `இந்த சூழ்நிலைக்கு ஏற்றது!`
+- scan166 — `ராச்சாண்டார்மலை வீரர்கள்` → `ராச்சாண்டார்மலைவீரர்கள்`
+- scan170 — source sentence restored: `நிகழ்ச்சி அவள் கண் முன் வந்து ...` → `நிகழ்ச்சி அவளைப் பெரிதும் வாட்டியிருக்கிறது. ஒரு தாயின் இதயம் ...`
+- scan170 — `தாங்கொணாத மகிழ்ச்சியால்` → `தாங்கொணாதமகிழ்ச்சியால்`
+- scan175 — `மாயவர், மௌனமாக` → `மாயவர், மெளனமாக`
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch3 — global scans166–175 / local pages21–30**.
+Process **Part003 Pass2B Batch4 — global scans176–185 / local pages31–40**.
 
-This must be a fresh independent direct-source reread. For each scan166–175:
+Fresh independent direct-source reread only.
+
+Structural range:
+
+- scans176–180 — chapter18 `சுயநலமா? பொதுநலமா?` continuation and close / printed159–163;
+- scan181 — chapter19 `உண்மையின் உறைவிடம்` opening / no ordinary running printed-page value;
+- scans182–185 — chapter19 continuation / printed165–168 / open into scan186.
+
+Requirements:
 
 1. reread every source-visible Tamil word directly from freshly rendered source pixels;
 2. verify lexical forms, source glyphs, true word boundaries and punctuation;
@@ -60,14 +69,8 @@ This must be a fresh independent direct-source reread. For each scan166–175:
 7. keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 8. do not begin Pass3;
 9. do not edit Parts001–002;
-10. do not import scan176 wording backward.
-
-Structural range:
-
-- scans166–172 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` continuation and close / printed149–155;
-- scan173 — chapter18 `சுயநலமா? பொதுநலமா?` opening / no ordinary running printed-page value;
-- scans174–175 — chapter18 continuation / printed157–158 / open into scan176.
+10. do not import scan186 wording backward.
 
 ## Stop condition
 
-Stop after **Part003 Pass2B Batch3 scans166–175 = 30/70 cumulative REVIEWED**, with tracker and maintained controls synchronized. Keep outgoing 215→216 pending Part004 direct witness.
+Stop after **Part003 Pass2B Batch4 scans176–185 = 40/70 cumulative REVIEWED**, with tracker and maintained controls synchronized. Keep outgoing 215→216 pending Part004 direct witness.

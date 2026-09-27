@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — IN PROGRESS — 20/70 REVIEWED**
+**PASS 2B — IN PROGRESS — 30/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -78,9 +78,9 @@ Maintained cadence follows Parts001–002 Pass2B:
 
 ## Pass 2B accounting
 
-- reviewed — **20/70 — scans146–165**
-- pending — **50/70 — scans166–215**
-- source-text corrections applied in Pass2B — **5**
+- reviewed — **30/70 — scans146–175**
+- pending — **40/70 — scans176–215**
+- source-text corrections applied in Pass2B — **9**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
@@ -234,8 +234,97 @@ canonical scan164 removed the unsupported sandhi consonant.
 - metadata promotions — **0**
 - Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 3 — scans166–175
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 166 | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` continuation | 149 | **1** | REVIEWED / PASS |
+| 167 | chapter17 continuation | 150 | 0 | REVIEWED / PASS |
+| 168 | chapter17 continuation | 151 | 0 | REVIEWED / PASS |
+| 169 | chapter17 continuation | 152 | 0 | REVIEWED / PASS |
+| 170 | chapter17 continuation | 153 | **2** | REVIEWED / PASS |
+| 171 | chapter17 continuation | 154 | 0 | REVIEWED / PASS |
+| 172 | chapter17 close / lower illustration field | 155 | 0 | REVIEWED / PASS |
+| 173 | chapter18 `சுயநலமா? பொதுநலமா?` opening | — | 0 | REVIEWED / PASS |
+| 174 | chapter18 continuation | 157 | 0 | REVIEWED / PASS |
+| 175 | chapter18 continuation / open into scan176 | 158 | **1** | REVIEWED / PASS |
+
+## Batch 3 structural / boundary verification
+
+- scans166–172 continue and close chapter17 `சங்கரன்மலையில் சந்திப்போம்?` — **PASS**
+- scans166–172 source-visible printed pagination **149–155** — **PASS**
+- scan172 chapter17 close / substantial intentional lower field with source illustration — **PASS**
+- scan173 decorative chapter18 opening and displayed chapter number **18** — **PASS**
+- scan173 ordinary running printed-page value — **NONE / correctly null**
+- scans174–175 chapter18 continuation / source-visible printed pagination **157–158** — **PASS**
+- scan175 remains open into scan176 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 3 correction ledger
+
+### P2B-006 — scan166
+
+Pass2B entry-state canonical:
+`ராச்சாண்டார்மலை வீரர்கள்`
+
+Direct source-pixel reading:
+`ராச்சாண்டார்மலைவீரர்கள்`
+
+Action:
+canonical scan166 corrected to the source-visible joined lexical form.
+
+### P2B-007 — scan170
+
+Pass2B entry-state canonical:
+`நிகழ்ச்சி அவள் கண் முன் வந்து அவளுக்கு எப்போதுமே புலம்பிக் கொண்டிருக்குமென்றும் -`
+
+Direct source-pixel reading:
+`நிகழ்ச்சி அவளைப் பெரிதும் வாட்டியிருக்கிறது. ஒரு தாயின் இதயம், இழந்துவிட்ட குழந்தைகளுக்காக எப்போதுமே புலம்பிக் கொண்டிருக்குமெனினும் -`
+
+Action:
+canonical scan170 restored the source-visible sentence omitted/replaced in the prior transcription.
+
+### P2B-008 — scan170
+
+Pass2B entry-state canonical:
+`தாங்கொணாத மகிழ்ச்சியால்`
+
+Direct source-pixel reading:
+`தாங்கொணாதமகிழ்ச்சியால்`
+
+Action:
+canonical scan170 corrected to the source-visible joined lexical form.
+
+### P2B-009 — scan175
+
+Pass2B entry-state canonical:
+`மாயவர், மௌனமாக`
+
+Direct source-pixel reading:
+`மாயவர், மெளனமாக`
+
+Action:
+canonical scan175 restored the source-visible historical glyph form.
+
+## Batch 3 decision
+
+**BATCH 3 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **4**
+- cumulative reviewed — **30/70 — scans146–175**
+- cumulative Pass2B corrections — **9**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- Pass3 — **BLOCKED UNTIL PASS2B COMPLETE**
+
 ## Exact next activity
 
-Process **Part003 Pass2B Batch3 — global scans166–175 / local pages21–30**.
+Process **Part003 Pass2B Batch4 — global scans176–185 / local pages31–40**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan176 and keep outgoing **215→216 PENDING Part004 direct witness**.
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Stop before scan186 and keep outgoing **215→216 PENDING Part004 direct witness**.

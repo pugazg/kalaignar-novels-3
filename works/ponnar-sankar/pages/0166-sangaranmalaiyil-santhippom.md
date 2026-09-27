@@ -29,7 +29,7 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 3
 
 முழுமையான திருப்தி சின்னமலைக்கொழுந்துக்கு ஏற்படவில்லையென்பதை அவரது முகம் காட்டியது. அதைப் புரிந்து கொண்டு சங்கர் அவரிடம் பேசினான்.
 
-“ராச்சாண்டார் மலையிலிருந்து நாம் நேராக ஆரிச்சம்பட்டிக்கே கூடப் போயிருக்கலாம்! ராச்சாண்டார்மலை வீரர்கள் நம்மைப் பின்தொடர்ந்து ஆரிச்சம்பட்டிக்குத்தான் போவார்கள்! சிதறியோடியோர் போக மிச்சமிருப்போர் ஆரிச்சம்பட்டிக்கு
+“ராச்சாண்டார் மலையிலிருந்து நாம் நேராக ஆரிச்சம்பட்டிக்கே கூடப் போயிருக்கலாம்! ராச்சாண்டார்மலைவீரர்கள் நம்மைப் பின்தொடர்ந்து ஆரிச்சம்பட்டிக்குத்தான் போவார்கள்! சிதறியோடியோர் போக மிச்சமிருப்போர் ஆரிச்சம்பட்டிக்கு
 
 ## Pass 1 notes
 
@@ -49,3 +49,12 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 3
 - unresolved textual questions: **0**;
 - Pass 2A result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+
+## Formal Part003 Pass 2B review
+
+- fresh independent lexical / historical-glyph reread completed directly from rendered source pixels;
+- P2B-006 source-backed word-boundary correction: `ராச்சாண்டார்மலை வீரர்கள்` → `ராச்சாண்டார்மலைவீரர்கள்`;
+- source-text corrections in Pass2B: **1**;
+- unresolved textual questions: **0**;
+- Pass2B result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.

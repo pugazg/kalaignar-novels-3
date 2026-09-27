@@ -109,10 +109,10 @@
 - Part003 Pass2A pending: **0/70**
 - Part003 Pass2A source-text corrections: **25**
 - Part003 Pass2A unresolved textual questions: **0**
-- Part003 Pass2B: **IN PROGRESS — 20/70 REVIEWED — scans146–165**
-- Part003 Pass2B pending: **50/70 — scans166–215**
+- Part003 Pass2B: **IN PROGRESS — 30/70 REVIEWED — scans146–175**
+- Part003 Pass2B pending: **40/70 — scans176–215**
 - Part003 Pass2B cadence: **10 scans per batch**
-- Part003 Pass2B source-text corrections: **5**
+- Part003 Pass2B source-text corrections: **9**
 - Part003 Pass2B unresolved textual questions: **0**
 - durable Part003 Pass2B tracker: `PART_003_PASS2B_PROGRESS.md`
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
@@ -181,6 +181,6 @@
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch3 — scans166–175 / local pages21–30**.
+Process **Part003 Pass2B Batch4 — scans176–185 / local pages31–40**.
 
-Keep Parts001–002 frozen. Part003 Pass2B Batch2 is REVIEWED / PASS; cumulative state is 20/70 with 5 source-backed corrections and 0 unresolved questions. Continue with scans166–175, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B Batch3 is REVIEWED / PASS; cumulative state is 30/70 with 9 source-backed corrections and 0 unresolved questions. Continue with scans176–185, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

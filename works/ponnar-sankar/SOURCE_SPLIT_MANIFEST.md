@@ -95,10 +95,10 @@
 - Part003 Pass2A pending: **0/70**
 - Part003 Pass2A source-text corrections: **25**
 - Part003 Pass2A unresolved textual questions: **0**
-- Part003 Pass2B: **IN PROGRESS — 20/70 REVIEWED — scans146–165**
-- Part003 Pass2B pending: **50/70 — scans166–215**
+- Part003 Pass2B: **IN PROGRESS — 30/70 REVIEWED — scans146–175**
+- Part003 Pass2B pending: **40/70 — scans176–215**
 - Part003 Pass2B cadence: **10 scans per batch**
-- Part003 Pass2B source-text corrections: **5**
+- Part003 Pass2B source-text corrections: **9**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part004–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -106,4 +106,4 @@
 
 ## Current frontier
 
-**Part003 Pass2B Batch3 — scans166–175 / local pages21–30.**
+**Part003 Pass2B Batch4 — scans176–185 / local pages31–40.**

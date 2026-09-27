@@ -156,8 +156,8 @@ Outgoing:
 - reviewed — **70/70 — scans146–215**
 - pending — **0/70**
 - source-text corrections — **25**
-- Pass2B — **IN PROGRESS — 20/70 REVIEWED — scans146–165**
-- Pass2B source-text corrections — **5**
+- Pass2B — **IN PROGRESS — 30/70 REVIEWED — scans146–175**
+- Pass2B source-text corrections — **9**
 - Pass2B unresolved textual questions — **0**
 - Pass2B cadence — **10 scans per batch**
 - unresolved textual questions — **0**
@@ -166,6 +166,6 @@ Outgoing:
 
 ## Exact next activity
 
-Process **Part003 Pass2B Batch3 — scans166–175 / local pages21–30**.
+Process **Part003 Pass2B Batch4 — scans176–185 / local pages31–40**.
 
-Pass2B Batch2 scans156–165 is REVIEWED / PASS with 4 source-backed corrections and 0 unresolved questions; cumulative Pass2B is 20/70 with 5 corrections. Continue with Batch3 scans166–175 only.
+Pass2B Batch3 scans166–175 is REVIEWED / PASS with 4 source-backed corrections and 0 unresolved questions; cumulative Pass2B is 30/70 with 9 corrections. Continue with Batch4 scans176–185 only.
