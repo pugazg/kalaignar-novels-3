@@ -156,8 +156,10 @@ Outgoing:
 - reviewed — **70/70 — scans146–215**
 - pending — **0/70**
 - source-text corrections — **25**
-- Pass2B — **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Pass2B — **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Pass2B source-text corrections — **11**
+- Pass3 — **ACTIVATED / READY — 0/70 REVIEWED**
+- Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - Pass2B unresolved textual questions — **0**
 - Pass2B cadence — **10 scans per batch**
 - unresolved textual questions — **0**
@@ -166,6 +168,6 @@ Outgoing:
 
 ## Exact next activity
 
-Run the **Part003 Pass2B full-part closure / Pass3 activation checkpoint**.
+Process **Part003 Pass3 Batch1 — scans146–160 / local pages1–15**.
 
-Pass2B Final Batch7 scans206–215 is REVIEWED / PASS with 2 source-backed corrections and 0 unresolved questions; cumulative Pass2B is 70/70 with 11 corrections. Run the full-part Pass2B closure / Pass3 activation checkpoint next; do not start the first Pass3 visual batch in the same checkpoint.
+Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Pass3 is ACTIVATED / READY — 0/70 at the maintained 15-page cadence; process Batch1 scans146–160 next.

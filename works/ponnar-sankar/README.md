@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS1 COMPLETE / PASS — 70/70 — PASS2A READY**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 PASS2B CLOSED / COMPLETE / PASS — PASS3 ACTIVATED / READY**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -109,10 +109,15 @@
 - Part003 Pass2A pending: **0/70**
 - Part003 Pass2A source-text corrections: **25**
 - Part003 Pass2A unresolved textual questions: **0**
-- Part003 Pass2B: **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
+- Part003 Pass2B: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass2B pending: **0/70**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
+- Part003 Pass2B unresolved textual questions: **0**
+- Part003 Pass3: **ACTIVATED / READY — 0/70 REVIEWED**
+- Part003 Pass3 pending: **70/70 — scans146–215**
+- Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
+- durable Part003 Pass3 tracker: `PART_003_PASS3_PROGRESS.md`
 - Part003 Pass2B unresolved textual questions: **0**
 - durable Part003 Pass2B tracker: `PART_003_PASS2B_PROGRESS.md`
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
@@ -181,6 +186,6 @@
 
 ## Exact next activity
 
-Run the **Part003 Pass2B full-part closure / Pass3 activation checkpoint**.
+Process **Part003 Pass3 Batch1 — global scans146–160 / local pages1–15**.
 
-Keep Parts001–002 frozen. Part003 Pass2B Final Batch7 is REVIEWED / PASS; cumulative state is 70/70 with 11 source-backed corrections and 0 unresolved questions. Run the full-part Pass2B closure / Pass3 activation checkpoint next; keep Part003 at `needs-review` / `needs-review`, keep Pass3 not yet activated until that checkpoint, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 source-backed corrections and 0 unresolved questions. Part003 Pass3 is ACTIVATED / READY — 0/70 at the maintained 15-page cadence; process scans146–160 next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.

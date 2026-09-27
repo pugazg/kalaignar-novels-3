@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — COMPLETE / PASS — 70/70 REVIEWED — FINAL BATCH 7 COMPLETE**
+**PASS 2B — CLOSED / COMPLETE / PASS — 70/70 REVIEWED**
 
 Active Part:
 - Part003
@@ -525,8 +525,42 @@ canonical scan214 corrected the source-visible lexical form `கூடாதத�
 - Pass2B batch coverage — **COMPLETE / PASS**
 - Pass3 — **NOT YET ACTIVATED**
 
+## Full-Part Pass2B closure / Pass3 activation checkpoint
+
+**PASS / CLOSED**
+
+Live-main reconciliation after Final Batch7:
+
+- canonical Part003 records — **70/70**
+- global scans — **146–215 continuous / unique**
+- local pages — **1–70 continuous / unique**
+- canonical paths — **70 unique**
+- formal Part003 Pass2B review sections — **70/70 present exactly once**
+- Pass2B correction ledger — **P2B-001…P2B-011 continuous / no gaps / no duplicate IDs**
+- Pass2B source-backed corrections — **11**
+- unresolved Pass2B textual questions — **0**
+- `status: "needs-review"` — **70/70**
+- `visual_fidelity: "needs-review"` — **70/70**
+- formal Part003 Pass3 review sections before activation — **0/70**
+- pre-existing Part003 Pass3 tracker before activation — **ABSENT**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+- scan216 wording inferred/imported — **0**
+- Parts001–002 body layers — **UNCHANGED / FINAL CLOSED / FROZEN**
+- canonical Part003 body edits in this checkpoint — **0**
+- status/visual-fidelity promotions in this checkpoint — **0**
+
+Decision:
+
+- Pass2B — **CLOSED / COMPLETE / PASS — 70/70**
+- Pass2B corrections — **11**
+- Pass2B unresolved — **0**
+- Pass3 — **ACTIVATED / READY — 0/70 REVIEWED**
+- Pass3 first visual batch — **NOT STARTED**
+- maintained Pass3 cadence — **15 source pages per iteration; final remainder may be smaller**
+
 ## Exact next activity
 
-Run the **Part003 Pass2B full-part closure / Pass3 activation checkpoint**.
+Process **Part003 Pass3 Batch1 — global scans146–160 / local pages1–15**.
 
-Reconcile the 70/70 formal Pass2B review census and continuous P2B-001…P2B-011 correction ledger; confirm all Part003 records remain `needs-review` / `needs-review`; keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**; then activate Pass3 without starting its first visual batch in the same checkpoint.
+Use rendered source pixels for full-page visual / structural verification. Preserve Pass2B-closed lexical wording unless direct visual evidence reveals a source-backed structural/text-placement defect. Keep all Part003 records at `needs-review` / `needs-review`; do not promote status during Pass3. Keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**.
