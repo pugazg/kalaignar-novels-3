@@ -51,3 +51,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 1
 - unresolved textual questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
+
+## Formal Part003 Pass 3 review
+
+- full-page visual / structural verification completed directly against rendered source pixels;
+- decorative chapter15 opening `புறப்பட்டது போர்ப்படை`; no ordinary running printed-page number; large blue stylized chapter title with weapon / spear ornament and displayed chapter number **15** are retained; body opening and open physical continuation into scan148 are preserved.
+- structural corrections in Pass3: **0**;
+- unresolved visual / structural questions: **0**;
+- no lexical reopening was required;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Part audit not started.

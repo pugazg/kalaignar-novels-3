@@ -201,20 +201,22 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 Pass2B source-text corrections — **11**
 - Part003 Pass2B unresolved textual questions — **0**
 - durable Part003 Pass2B tracker — `works/ponnar-sankar/PART_003_PASS2B_PROGRESS.md`
-- Part003 Pass3 — **ACTIVATED / READY — 0/70 REVIEWED**
-- Part003 Pass3 pending — **70/70 — scans146–215**
+- Part003 Pass3 — **IN PROGRESS — 15/70 REVIEWED / PASS — scans146–160**
+- Part003 Pass3 structural corrections — **0**
+- Part003 Pass3 unresolved visual / structural questions — **0**
+- Part003 Pass3 pending — **55/70 — scans161–215**
 - Part003 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker — `works/ponnar-sankar/PART_003_PASS3_PROGRESS.md`
-- Part003 exact next activity — **Pass3 Batch1 / scans146–160 / local pages1–15**
+- Part003 exact next activity — **Pass3 Batch2 / scans161–175 / local pages16–30**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass3 Batch1 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass3 Batch2 frontier**
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch1 — global scans146–160 / local pages1–15**.
+Process **Part003 Pass3 Batch2 — global scans161–175 / local pages16–30**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B is **CLOSED / COMPLETE / PASS — 70/70 / 11 source-backed corrections / 0 unresolved**. Part003 Pass3 is **ACTIVATED / READY — 0/70 REVIEWED** at the maintained **15-page cadence**. Keep records at `needs-review` / `needs-review`; process Batch1 scans146–160 next and keep outgoing **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B stays closed. Part003 Pass3 Batch1 is **REVIEWED / PASS — 15/70 cumulative** with **0 structural corrections / 0 unresolved**. Keep records at `needs-review` / `needs-review`; process Batch2 scans161–175 next and keep outgoing **215→216 PENDING Part004 direct witness**.

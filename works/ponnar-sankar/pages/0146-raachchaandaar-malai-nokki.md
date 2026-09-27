@@ -60,3 +60,13 @@ transcription_method: "direct source-pixel transcription; Part003 Pass 1 batch 1
 - unresolved textual questions: **0**;
 - Pass2B result: **REVIEWED / PASS**;
 - page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass3 not started.
+
+## Formal Part003 Pass 3 review
+
+- full-page visual / structural verification completed directly against rendered source pixels;
+- chapter14 `ராச்சாண்டார் மலைநோக்கி...` closes on this page; source-visible printed page **129**; running header `பொன்னர் - சங்கர்` at upper left with page number at upper right; body closes in the upper portion, substantial intentional blank lower field and separate lower-left numeral `6` are retained; incoming 145→146 remains **GENUINE CONTINUATION / AUDITED / PASS**.
+- structural corrections in Pass3: **0**;
+- unresolved visual / structural questions: **0**;
+- no lexical reopening was required;
+- Pass3 result: **REVIEWED / PASS**;
+- page remains `status: "needs-review"` / `visual_fidelity: "needs-review"`; Part audit not started.

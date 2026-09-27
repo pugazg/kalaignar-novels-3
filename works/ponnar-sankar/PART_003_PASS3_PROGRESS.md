@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 3 — ACTIVATED / READY — 0/70 REVIEWED**
+**PASS 3 — IN PROGRESS / BATCH 1 COMPLETE — 15/70 REVIEWED / PASS**
 
 Active Part:
 - Part003
@@ -69,8 +69,8 @@ For each scan:
 
 ## Pass 3 accounting
 
-- reviewed — **0/70**
-- pending — **70/70 — scans146–215**
+- reviewed — **15/70 — scans146–160**
+- pending — **55/70 — scans161–215**
 - working cadence — **15 pages per iteration**; final remainder may be smaller
 - structural corrections applied in Pass3 — **0**
 - unresolved visual / structural questions — **0**
@@ -86,8 +86,49 @@ For each scan:
 - Batch4 — scans191–205 / local pages46–60
 - Final Batch5 — scans206–215 / local pages61–70
 
+## Batch 1 — scans146–160
+
+| Scan | Page type / section | Printed page | Structural corrections | Result |
+|---:|---|---:|---:|---|
+| 146 | chapter14 close / substantial blank lower field / lower-left numeral | 129 | 0 | REVIEWED / PASS |
+| 147 | chapter15 decorative opening / blue title + weapon ornament | — | 0 | REVIEWED / PASS |
+| 148 | chapter15 continuation / alternating running header | 131 | 0 | REVIEWED / PASS |
+| 149 | chapter15 continuation / alternating running header | 132 | 0 | REVIEWED / PASS |
+| 150 | chapter15 continuation / alternating running header | 133 | 0 | REVIEWED / PASS |
+| 151 | chapter15 continuation / alternating running header | 134 | 0 | REVIEWED / PASS |
+| 152 | chapter15 continuation / alternating running header | 135 | 0 | REVIEWED / PASS |
+| 153 | chapter15 continuation / alternating running header | 136 | 0 | REVIEWED / PASS |
+| 154 | chapter15 close / substantial intentional blank lower field | 137 | 0 | REVIEWED / PASS |
+| 155 | chapter16 decorative opening / blue title + weapon ornament | — | 0 | REVIEWED / PASS |
+| 156 | chapter16 continuation / alternating running header | 139 | 0 | REVIEWED / PASS |
+| 157 | chapter16 continuation / alternating running header | 140 | 0 | REVIEWED / PASS |
+| 158 | chapter16 continuation / alternating running header | 141 | 0 | REVIEWED / PASS |
+| 159 | chapter16 continuation / alternating running header | 142 | 0 | REVIEWED / PASS |
+| 160 | chapter16 continuation / alternating running header / open into scan161 | 143 | 0 | REVIEWED / PASS |
+
+## Batch 1 result
+
+- scans146–160 — **15/15 REVIEWED / PASS**
+- cumulative Pass3 reviewed — **15/70 — scans146–160**
+- pending — **55/70 — scans161–215**
+- structural corrections in this batch — **0**
+- cumulative structural corrections — **0**
+- unresolved visual / structural questions — **0**
+- alternating running-header / page-number placement across ordinary body pages — **PASS**
+- scan146 chapter14 close / substantial intentional blank lower field / separate lower-left numeral `6` — **PASS**
+- scan147 chapter15 decorative opener / chapter number 15 / blue stylized title + weapon / spear ornament — **PASS**
+- scan154 chapter15 close / substantial intentional blank lower field — **PASS**
+- scan155 chapter16 decorative opener / chapter number 16 / blue stylized title + weapon / war ornament — **PASS**
+- scan160 exact open physical continuation into scan161 — **PASS**
+- lexical reopening — **0**
+- status promotions — **0**
+- visual-fidelity promotions — **0**
+- Part audit — **NOT STARTED**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Process **Part003 Pass3 Batch1 — global scans146–160 / local pages1–15**.
+Process **Part003 Pass3 Batch2 — global scans161–175 / local pages16–30**.
 
-Use only rendered source pixels for visual / structural verification. Do not promote canonical status or visual_fidelity. Keep Parts001–002 frozen and keep outgoing 215→216 pending.
+Continue full-page visual / structural verification from rendered source pixels. Keep Pass1 / Pass2A / Pass2B closed, all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, Part audit not started, and outgoing 215→216 pending.

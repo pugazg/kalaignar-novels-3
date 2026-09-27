@@ -304,9 +304,11 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass2A unresolved textual questions: **0**
 - Part003 Pass2B: **CLOSED / COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass2B pending: **0/70**
-- Part003 Pass3: **ACTIVATED / READY — 0/70 REVIEWED**
-- Part003 Pass3 pending: **70/70 — scans146–215**
+- Part003 Pass3: **IN PROGRESS — 15/70 REVIEWED / PASS — scans146–160**
+- Part003 Pass3 structural corrections: **0**
+- Part003 Pass3 unresolved visual / structural questions: **0**
+- Part003 Pass3 pending: **55/70 — scans161–215**
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part003 Pass3 Batch1 — scans146–160 / local pages1–15**
+- exact next activity: **Part003 Pass3 Batch2 — scans161–175 / local pages16–30**

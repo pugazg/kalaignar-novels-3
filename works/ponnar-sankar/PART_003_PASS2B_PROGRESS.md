@@ -561,6 +561,6 @@ Decision:
 
 ## Exact next activity
 
-Process **Part003 Pass3 Batch1 — global scans146–160 / local pages1–15**.
+Process **Part003 Pass3 Batch2 — global scans161–175 / local pages16–30**.
 
-Use rendered source pixels for full-page visual / structural verification. Preserve Pass2B-closed lexical wording unless direct visual evidence reveals a source-backed structural/text-placement defect. Keep all Part003 records at `needs-review` / `needs-review`; do not promote status during Pass3. Keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**.
+Pass3 Batch1 scans146–160 is **REVIEWED / PASS — 15/70 cumulative** with **0 structural corrections / 0 unresolved visual or structural questions**. Continue full-page visual / structural verification with Batch2 scans161–175; keep all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
