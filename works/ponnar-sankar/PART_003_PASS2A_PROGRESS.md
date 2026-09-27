@@ -31,6 +31,8 @@ Active Part:
 - canonical `status: verified` — **70/70**
 - canonical `visual_fidelity: verified` — **70/70**
 - Tamil archival-ready — **PASS / COMPLETE**
+- Assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- durable assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - durable Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - durable Part audit — `PART_003_AUDIT.md`
 - outgoing **215→216 — PENDING Part004 direct witness**
@@ -693,6 +695,6 @@ Decision:
 
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**.
+Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**. Do not draft English literary prose during setup.

@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 TAMIL ARCHIVAL-READY PASS / COMPLETE**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ASSEMBLED TAMIL VERIFIED / PASS / CLOSED**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -127,6 +127,12 @@
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 audit blockers — **0**
+- Part003 final metadata/status synchronization: **PASS / COMPLETE — 70/70 verified**
+- Part003 Tamil archival-ready: **PASS / COMPLETE**
+- Part003 assembled Tamil: **VERIFIED / PASS / CLOSED**
+- Part003 assembled section files: **9/9 — scans146–215 / exact canonical coverage 70/70**
+- Part003 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Parts001–002 section mutations / 0 Part004 body leakage**
+- Part003 assembled validation: `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -194,6 +200,6 @@
 
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Keep Parts001–002 frozen. Part003 Pass2B remains CLOSED / COMPLETE / PASS. Part003 Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE — 0 blockers; execute it next, keep Part003 at `needs-review` / `needs-review`, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Part003 canonical Tamil is **70/70 verified**, Tamil archival-ready is **PASS / COMPLETE**, and assembled Tamil is **VERIFIED / PASS / CLOSED — 9/9 / exact coverage 70/70**. Run English translation planning/setup next without drafting literary prose, and keep outgoing 215→216 pending Part004 direct witness.

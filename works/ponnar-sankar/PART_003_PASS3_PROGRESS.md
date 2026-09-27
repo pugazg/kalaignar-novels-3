@@ -326,11 +326,13 @@ Decision:
 - canonical `status: verified` — **70/70**
 - canonical `visual_fidelity: verified` — **70/70**
 - Tamil archival-ready — **PASS / COMPLETE**
+- Assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- durable assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - durable Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part audit checks in this checkpoint — **NOT STARTED**
 
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Use the maintained Part001/Part002 whole-Part audit methodology recorded in `PART_003_AUDIT.md`. Do not promote page metadata during the audit. Keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**.
+Part003 Tamil and assembled Tamil are closed. Run English translation planning/setup next; keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**. Do not draft English literary prose during setup.

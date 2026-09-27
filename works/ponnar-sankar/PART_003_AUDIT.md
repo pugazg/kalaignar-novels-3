@@ -193,8 +193,22 @@ Promotion validation:
 - Part004 body leakage — **0**
 - outgoing **215→216 remains PENDING Part004 direct witness**
 
+## Downstream assembled-Tamil closure
+
+- assembled Tamil — **VERIFIED / PASS / CLOSED**
+- maintained Part003 section files — **9/9**
+- exact canonical coverage — **70/70 scans146–215**
+- missing / duplicate coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit/control-note leakage into literary text — **0**
+- canonical page mutations caused by assembly — **0**
+- frozen Parts001–002 section mutations caused by assembly — **0**
+- Part004 body leakage — **0**
+- durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+- outgoing **215→216** — **PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer** from verified canonical `pages/` records only.
+Run **Part003 English translation planning/setup**.
 
-Do not modify frozen Parts001–002 section files and do not begin English translation in the same activity.
+Do not draft English literary prose during the planning/setup gate.

@@ -232,6 +232,8 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part003 canonical `status: verified` — **70/70**
 - Part003 canonical `visual_fidelity: verified` — **70/70**
 - Part003 Tamil archival-ready — **PASS / COMPLETE**
+- Part003 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- Part003 assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - durable Part003 Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - durable Part003 audit — `PART_003_AUDIT.md`
 - Part003 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
@@ -284,4 +286,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical / assembled Tamil / maintained English — **FROZEN**
-- exact next activity — **Part003 assembled Tamil construction + audit**
+- exact next activity — **Part003 English translation planning/setup**

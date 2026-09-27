@@ -80,6 +80,10 @@ Canonical `scan_page` remains the global physical scan number.
 **PART003 PASS1 — COMPLETE / PASS — 70/70 TEXT-COMPLETE**
 
 - canonical Part003 records present — **70/70 — scans146–215**
+- final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
+- Tamil archival-ready — **PASS / COMPLETE**
+- Part003 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- Part003 assembled validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - Pass1 text-complete — **70/70**
 - pending — **0/70**
 - unresolved source-reading holds — **0**
@@ -111,6 +115,6 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Pass2B is CLOSED / COMPLETE / PASS — 70/70 with 11 corrections and 0 unresolved questions. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE — 0 blockers. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"`; construct and validate the Part003 assembled Tamil reading layer next and keep outgoing 215→216 pending.
+Pass2B / Pass3 / whole-Part audit are closed. Canonical metadata is **70/70 verified**, Tamil archival-ready is **PASS / COMPLETE**, and assembled Tamil is **VERIFIED / PASS / CLOSED — 9/9 / exact coverage 70/70**. Run English translation planning/setup next without drafting literary prose; outgoing 215→216 remains pending.

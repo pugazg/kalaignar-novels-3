@@ -36,6 +36,21 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 - outgoing **145→146** — **PENDING Part003 direct witness**
 - validation — `../PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 
+### Part003 — ASSEMBLED TAMIL VERIFIED / PASS / CLOSED
+
+- physical coverage — **scans146–215**
+- canonical records represented — **70/70**
+- assembled files — **9/9 VERIFIED**
+- missing / duplicate canonical coverage — **0 / 0**
+- unsupported Tamil insertion — **0**
+- audit/control-note leakage into literary text — **0**
+- canonical Part003 page mutations caused by assembly — **0**
+- frozen Parts001–002 section mutations caused by Part003 assembly — **0**
+- Part004 body leakage — **0**
+- incoming **145→146** — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing **215→216** — **PENDING Part004 direct witness**
+- validation — `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Section inventory
 
 | Order | Part | File | Source scans | Source structure | Status |
@@ -57,6 +72,15 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 | 14 | 002 | `14-poonaiyil-porkkolam.md` | 119–127 | chapter12 `பூனையில் போர்க்கோலம்` | **VERIFIED** |
 | 15 | 002 | `15-vazhiyil-vandha-vibareetham.md` | 128–137 | chapter13 `வழியில் வந்த விபரீதம்` | **VERIFIED** |
 | 16 | 002 | `16-raachchaandaar-malai-nokki.md` | 138–145 | chapter14 `ராச்சாண்டார் மலைநோக்கி...`; Part002 split edge | **VERIFIED** |
+| 17 | 003 | `17-raachchaandaar-malai-nokki-part003-continuation.md` | 146 | chapter14 continuation and close; no synthesized opener heading | **VERIFIED** |
+| 18 | 003 | `18-purappattathu-porppadai.md` | 147–154 | chapter15 `புறப்பட்டது போர்ப்படை` | **VERIFIED** |
+| 19 | 003 | `19-pormunai-ethu.md` | 155–163 | chapter16 `போர்முனை எது?` | **VERIFIED** |
+| 20 | 003 | `20-sangaranmalaiyil-santhippom.md` | 164–172 | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` | **VERIFIED** |
+| 21 | 003 | `21-suyanalamaa-pothunalamaa.md` | 173–180 | chapter18 `சுயநலமா? பொதுநலமா?` | **VERIFIED** |
+| 22 | 003 | `22-unmaiyin-uraividam.md` | 181–190 | chapter19 `உண்மையின் உறைவிடம்` | **VERIFIED** |
+| 23 | 003 | `23-appan-arulvaakku.md` | 191–199 | chapter20 `அப்பன் அருள்வாக்கு` | **VERIFIED** |
+| 24 | 003 | `24-nermaiyai-patri-veeramalai.md` | 200–207 | chapter21 `நேர்மையைப் பற்றி வீரமலை` | **VERIFIED** |
+| 25 | 003 | `25-thiyaagaththin-ellai.md` | 208–215 | chapter22 `தியாகத்தின் எல்லை`; Part003 split edge | **VERIFIED** |
 
 ## Assembly rules
 
@@ -81,14 +105,23 @@ Canonical `pages/` remain authoritative if any conflict is ever discovered.
 
 ### Part002 → Part003
 
-- outgoing **145→146 — PENDING Part003 direct witness**
-- scan145 remains terminal for the current assembled Part002 layer
-- no scan146 / Part003 wording is present or inferred
+- **145→146 — GENUINE CONTINUATION / AUDITED / PASS**
+- frozen Part002 `16-raachchaandaar-malai-nokki.md` remains scans138–145 only
+- Part003 continuation is held separately in `17-raachchaandaar-malai-nokki-part003-continuation.md`
+- no mutation of the frozen Part002 assembled file was required
+
+### Part003 → Part004
+
+- outgoing **215→216 — PENDING Part004 direct witness**
+- scan215 remains terminal for the assembled Part003 layer
+- no scan216 / Part004 wording is present or inferred
 
 Part001 assembled Tamil remains **FINAL CLOSED / FROZEN**.
 
-Part002 assembled Tamil is **VERIFIED / PASS / CLOSED**.
+Part002 assembled Tamil remains **FINAL CLOSED / FROZEN**.
 
-Part002 is **FINAL CLOSED / FROZEN**. Canonical Tamil, assembled Tamil and maintained English are frozen.
+Part003 assembled Tamil is **VERIFIED / PASS / CLOSED**.
 
-Exact next activity: **Part003 source intake when source is supplied; directly audit 145→146 before Pass1**.
+Parts001–002 canonical Tamil, assembled Tamil and maintained English are frozen.
+
+Exact next activity: **Part003 English translation planning/setup**.

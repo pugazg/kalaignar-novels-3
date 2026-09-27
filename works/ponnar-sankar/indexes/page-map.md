@@ -313,9 +313,11 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 canonical `status: verified`: **70/70**
 - Part003 canonical `visual_fidelity: verified`: **70/70**
 - Part003 Tamil archival-ready: **PASS / COMPLETE**
+- Part003 assembled Tamil: **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- Part003 assembled validation: `../PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part003 archival-ready control: `../PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part003 assembled Tamil construction + audit**
+- exact next activity: **Part003 English translation planning/setup**

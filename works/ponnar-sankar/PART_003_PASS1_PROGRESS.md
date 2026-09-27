@@ -165,6 +165,8 @@ Outgoing:
 - canonical `status: verified` — **70/70**
 - canonical `visual_fidelity: verified` — **70/70**
 - Tamil archival-ready — **PASS / COMPLETE**
+- Assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- durable assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - durable Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - durable Part audit — `PART_003_AUDIT.md`
 - Pass2B unresolved textual questions — **0**
@@ -175,6 +177,6 @@ Outgoing:
 
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE with 0 blockers; construct and validate the Part003 assembled Tamil reading layer next.
+Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE with 0 blockers; run Part003 English translation planning/setup next.

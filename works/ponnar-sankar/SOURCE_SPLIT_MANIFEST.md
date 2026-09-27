@@ -106,6 +106,9 @@
 - Part003 canonical `status: verified` — **70/70**
 - Part003 canonical `visual_fidelity: verified` — **70/70**
 - Part003 Tamil archival-ready — **PASS / COMPLETE**
+- Part003 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- Part003 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Parts001–002 section mutations / 0 Part004 body leakage**
+- durable Part003 assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - durable Part003 Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part003 audit control: `PART_003_AUDIT.md`
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
@@ -118,4 +121,4 @@
 
 ## Current frontier
 
-**Part003 assembled Tamil construction + audit — next activity.**
+**Part003 English translation planning/setup — next activity.**

@@ -213,17 +213,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 canonical `visual_fidelity: verified` — **70/70**
 - Part003 Tamil archival-ready — **PASS / COMPLETE**
 - durable Part003 Tamil archival-ready — `works/ponnar-sankar/PART_003_TAMIL_ARCHIVAL_READY.md`
+- Part003 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- Part003 assembled audit — **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Parts001–002 section mutations / 0 Part004 body leakage**
+- Part003 assembled-Tamil validation — `works/ponnar-sankar/PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - durable Part003 audit — `works/ponnar-sankar/PART_003_AUDIT.md`
-- Part003 exact next activity — **assembled Tamil construction + audit**
+- Part003 exact next activity — **English translation planning/setup**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 assembled Tamil construction + audit frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 English translation planning/setup frontier**
 
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2B stays closed. Part003 Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved**. Part audit is **PASS / COMPLETE — 0 blockers**. Keep records at `needs-review` / `needs-review`; construct and validate the Part003 assembled Tamil reading layer next and keep outgoing **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 canonical Tamil is **70/70 verified**; Tamil archival-ready is **PASS / COMPLETE**; assembled Tamil is **VERIFIED / PASS / CLOSED — 9/9 / exact coverage 70/70**. Run English translation planning/setup next without drafting literary prose, and keep outgoing **215→216 PENDING Part004 direct witness**.

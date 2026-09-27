@@ -559,8 +559,18 @@ Decision:
 - Pass3 first visual batch — **NOT STARTED**
 - maintained Pass3 cadence — **15 source pages per iteration; final remainder may be smaller**
 
+## Downstream Part003 closure
+
+- whole-Part audit — **PASS / COMPLETE — 0 blockers**
+- final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
+- canonical `status: verified` — **70/70**
+- canonical `visual_fidelity: verified` — **70/70**
+- Tamil archival-ready — **PASS / COMPLETE**
+- assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
+- durable assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+
 ## Exact next activity
 
-Construct and validate the **Part003 assembled Tamil reading layer**.
+Run **Part003 English translation planning/setup**.
 
-Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Part audit is **PASS / COMPLETE — 0 blockers**; construct and validate the Part003 assembled Tamil reading layer next while keeping all Part003 records at `needs-review` / `needs-review`, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**.
+Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Part audit is **PASS / COMPLETE — 0 blockers**; run Part003 English translation planning/setup next with Part003 canonical metadata remaining **verified / verified**, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**. Do not draft English literary prose during setup.
