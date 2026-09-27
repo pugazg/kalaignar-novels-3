@@ -298,8 +298,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
 - Part003 Pass1 pending: **0/70**
-- Part003 Pass2A: **IN PROGRESS — 10/70 REVIEWED — scans146–155**
-- Part003 Pass2A pending: **60/70**
-- Part003 Pass2A source-text corrections: **8**
+- Part003 Pass2A: **IN PROGRESS — 20/70 REVIEWED — scans146–165**
+- Part003 Pass2A pending: **50/70**
+- Part003 Pass2A source-text corrections: **13**
 - Part003 Pass2A unresolved textual questions: **0**
-- exact next activity: **Part003 Pass2A Batch2 — scans156–165 / local pages11–20**
+- exact next activity: **Part003 Pass2A Batch3 — scans166–175 / local pages21–30**

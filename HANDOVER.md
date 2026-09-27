@@ -191,20 +191,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
 - Part003 Pass1 pending — **0/70**
 - Part003 outgoing 215→216 — **PENDING Part004 direct witness**
-- Part003 Pass2A — **IN PROGRESS — 10/70 REVIEWED — scans146–155**
-- Part003 Pass2A pending — **60/70**
-- Part003 Pass2A source-text corrections — **8**
+- Part003 Pass2A — **IN PROGRESS — 20/70 REVIEWED — scans146–165**
+- Part003 Pass2A pending — **50/70**
+- Part003 Pass2A source-text corrections — **13**
 - Part003 Pass2A unresolved textual questions — **0**
-- Part003 exact next activity — **Pass2A Batch2 / scans156–165 / local pages11–20**
+- Part003 exact next activity — **Pass2A Batch3 / scans166–175 / local pages21–30**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass2A Batch2 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 Pass2A Batch3 frontier**
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch2 — scans156–165 / local pages11–20**.
+Process **Part003 Pass2A Batch3 — scans166–175 / local pages21–30**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2A Batch1 is **REVIEWED / PASS — 10/70 REVIEWED / 8 source-text corrections / 0 unresolved**. Continue with scans156–165 only; do not import scan166 or any Part004 wording.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 Pass2A Batch2 is **REVIEWED / PASS — 20/70 cumulative REVIEWED / 13 cumulative source-text corrections / 0 unresolved**. Continue with scans166–175 only; do not import scan176 or any Part004 wording.

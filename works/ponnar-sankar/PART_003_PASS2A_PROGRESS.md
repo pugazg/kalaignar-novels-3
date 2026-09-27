@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2A — IN PROGRESS — 10/70 REVIEWED**
+**PASS 2A — IN PROGRESS — 20/70 REVIEWED**
 
 Active Part:
 
@@ -16,9 +16,9 @@ Active Part:
 
 ## Pass 2A accounting
 
-- reviewed — **10/70 — scans146–155**
-- pending — **60/70**
-- source-text corrections applied — **8**
+- reviewed — **20/70 — scans146–165**
+- pending — **50/70**
+- source-text corrections applied — **13**
 - unresolved textual questions — **0**
 - canonical status promotion — **0**
 - canonical visual-fidelity promotion — **0**
@@ -34,8 +34,8 @@ Maintained cadence: **10 scans per batch**.
 | Batch | Global scans | Local pages | Structural range | Status |
 |---|---:|---:|---|---|
 | 1 | 146–155 | 1–10 | chapter14 close; chapter15; chapter16 opener | **REVIEWED / PASS — 8 CORRECTIONS** |
-| 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **READY / NEXT** |
-| 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **NOT STARTED** |
+| 2 | 156–165 | 11–20 | chapter16 continuation; chapter17 opener | **REVIEWED / PASS — 5 CORRECTIONS** |
+| 3 | 166–175 | 21–30 | chapter17 continuation; chapter18 opener | **READY / NEXT** |
 | 4 | 176–185 | 31–40 | chapter18 close; chapter19 | **NOT STARTED** |
 | 5 | 186–195 | 41–50 | chapter19 close; chapter20 | **NOT STARTED** |
 | 6 | 196–205 | 51–60 | chapter20 close; chapter21 | **NOT STARTED** |
@@ -188,8 +188,107 @@ canonical scan153 corrected to the source-visible word boundary.
 - Parts001–002 body edits — **0**
 - metadata promotions — **0**
 
+## Batch 2 — scans156–165
+
+| Scan | Section / page type | Printed page | Corrections | Result |
+|---:|---|---:|---:|---|
+| 156 | chapter16 `போர்முனை எது?` continuation | 139 | 0 | REVIEWED / PASS |
+| 157 | chapter16 continuation | 140 | **1** | REVIEWED / PASS |
+| 158 | chapter16 continuation | 141 | 0 | REVIEWED / PASS |
+| 159 | chapter16 continuation | 142 | **1** | REVIEWED / PASS |
+| 160 | chapter16 continuation | 143 | 0 | REVIEWED / PASS |
+| 161 | chapter16 continuation | 144 | 0 | REVIEWED / PASS |
+| 162 | chapter16 continuation | 145 | **1** | REVIEWED / PASS |
+| 163 | chapter16 close / substantial intentional blank lower field | 146 | 0 | REVIEWED / PASS |
+| 164 | chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening | — | 0 | REVIEWED / PASS |
+| 165 | chapter17 continuation / open into scan166 | 148 | **2** | REVIEWED / PASS |
+
+## Batch 2 structural / boundary verification
+
+- scans156–163 continue and close chapter16 `போர்முனை எது?` — **PASS**
+- scans156–163 source-visible printed pagination **139–146** — **PASS**
+- scan163 chapter16 close / substantial intentional blank lower field — **PASS**
+- scan164 decorative chapter17 opening and displayed chapter number **17** — **PASS**
+- scan164 ordinary running printed-page value — **NONE / correctly null**
+- scan165 chapter17 continuation / source-visible printed page **148** — **PASS**
+- scan165 remains open mid-sentence into scan166 — **PASS**
+- physical page-end integrity — **PASS 10/10**
+- next-page wording imported backward — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+- outgoing 215→216 remains **PENDING Part004 direct witness**
+
+## Batch 2 correction ledger
+
+### P2A-009 — scan157
+
+Pass1:
+`நின்ற இடத்திலே நிற்கிறார்கள்!`
+
+Direct source-pixel reading:
+`நின்ற இடத்திலே நிற்கின்றனர்!`
+
+Action:
+canonical scan157 corrected to the source-visible lexical form.
+
+### P2A-010 — scan159
+
+Pass1:
+`முதலை போடும் மலைப்பாம்போடும்`
+
+Direct source-pixel reading:
+`முதலையோடும் மலைப்பாம்போடும்`
+
+Action:
+canonical scan159 corrected the source-visible joined word across the printed line break.
+
+### P2A-011 — scan162
+
+Pass1:
+`தயவு செய்து புறப்படுங்கள்!`
+
+Direct source-pixel reading:
+`தயவுசெய்து புறப்படுங்கள்!`
+
+Action:
+canonical scan162 corrected to the source-visible joined form.
+
+### P2A-012 — scan165
+
+Pass1:
+`சில நேரங்களில் எண்ணிக் கொள்வார்!`
+
+Direct source-pixel reading:
+`சில நேரங்களில் எண்ணிக்கொள்வார்!`
+
+Action:
+canonical scan165 corrected to the source-visible joined verb form.
+
+### P2A-013 — scan165
+
+Pass1:
+`ராச்சாண்டார் மலையிலிருந்து வடக்கு திசை நோக்கிச் செல்லும்`
+
+Direct source-pixel reading:
+`ராச்சாண்டார் மலையிலிருந்து வடக்குத் திசை நோக்கிச் செல்லும்`
+
+Action:
+canonical scan165 restored the source-visible sandhi.
+
+## Batch 2 decision
+
+**BATCH 2 — REVIEWED / PASS**
+
+- scans reviewed — **10/10**
+- source-backed corrections — **5**
+- cumulative reviewed — **20/70 — scans146–165**
+- cumulative source-text corrections — **13**
+- unresolved textual questions — **0**
+- Parts001–002 body edits — **0**
+- metadata promotions — **0**
+
 ## Exact next activity
 
-Process **Part003 Pass2A Batch2 — scans156–165 / local pages11–20**.
+Process **Part003 Pass2A Batch3 — scans166–175 / local pages21–30**.
 
-Review all 10 pages directly against the rendered source. Stop before scan166 and synchronize correction ledger, page-map and navigation controls.
+Review all 10 pages directly against the rendered source. Stop before scan176 and synchronize correction ledger, page-map and navigation controls.

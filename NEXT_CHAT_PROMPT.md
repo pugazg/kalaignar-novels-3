@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch2 — scans156–165
+# NEXT CHAT PROMPT — பொன்னர் சங்கர் / Part003 Pass2A Batch3 — scans166–175
 
 Continue directly in `pugazg/kalaignar-novels-3`, branch `main`, active work `works/ponnar-sankar/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -33,41 +33,37 @@ Do not reopen Parts001–002 merely for stylistic polishing.
 
 ## Part003 Pass2A durable state
 
-Closed batch:
+Closed batches:
 
-- Batch1 scans146–155 / local1–10 — **REVIEWED / PASS**
-- Batch1 source-text corrections — **8**
-- Batch1 unresolved textual questions — **0**
+- Batch1 scans146–155 / local1–10 — **REVIEWED / PASS — 8 corrections**
+- Batch2 scans156–165 / local11–20 — **REVIEWED / PASS — 5 corrections**
 
 Current accounting:
 
-- reviewed — **10/70 — scans146–155**
-- pending — **60/70**
-- source-text corrections — **8**
+- reviewed — **20/70 — scans146–165**
+- pending — **50/70**
+- source-text corrections — **13**
 - unresolved textual questions — **0**
 - status promotions — **0**
 - visual-fidelity promotions — **0**
 
-Batch1 source-backed corrections:
+Batch2 source-backed corrections:
 
-- scan147 — `உயரத்தோர்` → `உயர்ந்ததோர்`
-- scan147 — `தனலாகவும்` → `தணலாகவும்`
-- scan148 — `ஆரிச்சம்பட்டி என்று` → `ஆரிச்சம்பட்டியென்ற`
-- scan149 — `செல்லாண்டி அம்மன்` → `செல்லாண்டியம்மன்`
-- scan149 — `செய்து கொண்டு` → `செய்துகொண்டு`
-- scan151 — `குடிபெயரிக்` → `குடியேறிக்`
-- scan152 — `படித்துக் கொண்ட` → `படித்துக்கொண்ட`
-- scan153 — `தயார்நிலையில்` → `தயார் நிலையில்`
+- scan157 — `நிற்கிறார்கள்` → `நிற்கின்றனர்`
+- scan159 — `முதலை போடும் மலைப்பாம்போடும்` → `முதலையோடும் மலைப்பாம்போடும்`
+- scan162 — `தயவு செய்து` → `தயவுசெய்து`
+- scan165 — `எண்ணிக் கொள்வார்` → `எண்ணிக்கொள்வார்`
+- scan165 — `வடக்கு திசை` → `வடக்குத் திசை`
 
 ## Exact next activity
 
-Process **Part003 Pass2A Batch2 — scans156–165 / local pages11–20**.
+Process **Part003 Pass2A Batch3 — scans166–175 / local pages21–30**.
 
 Structural range:
 
-- scans156–163 — chapter16 `போர்முனை எது?` continuation and close / printed139–146
-- scan164 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` opening / no inferred running printed page
-- scan165 — chapter17 continuation / printed148
+- scans166–172 — chapter17 `சங்கரன்மலையில் சந்திப்போம்?` continuation and close / printed149–155
+- scan173 — chapter18 `சுயநலமா? பொதுநலமா?` opening / no inferred running printed page
+- scans174–175 — chapter18 continuation / printed157–158
 
 Requirements:
 
@@ -76,9 +72,9 @@ Requirements:
 - preserve physical page endings and source-visible paragraph/dialogue/display structure;
 - record every correction in the Pass2A correction ledger;
 - keep `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- do not import scan166 wording into scan165;
+- do not import scan176 wording into scan175;
 - do not begin Part004.
 
 ## Stop condition
 
-Stop after **Pass2A Batch2 scans156–165 = 20/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
+Stop after **Pass2A Batch3 scans166–175 = 30/70 cumulative REVIEWED** with correction ledger, progress, page-map and navigation controls synchronized.
