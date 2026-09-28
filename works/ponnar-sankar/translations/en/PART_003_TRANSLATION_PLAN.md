@@ -211,16 +211,26 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - missing / duplicate planned coverage — **0 / 0**;
 - batch-number collisions — **0**;
 - English section-order collisions — **0**;
-- fully translated Part003 files — **0/9**;
-- source-checked Part003 files — **0/9**;
+- fully translated Part003 files — **1/9**;
+- source-checked Part003 files — **1/9**;
 - English literary prose drafted in setup — **0**;
 - frozen Parts001–002 English edits — **0**;
 - canonical / assembled Tamil edits caused by planning — **0 / 0**;
 - Part004 leakage — **0**;
 - outgoing 215→216 — **PENDING Part004 direct witness**.
 
+## Current sequential checkpoint
+
+- E18 — **SOURCE-CHECKED / COMPLETE — scan146**
+- E19–E26 — **PLANNED / NOT DRAFTED**
+- cumulative Part003 English physical coverage — **1/70 / scan146**
+- remaining — **69 scans / scans147–215**
+- frozen Parts001–002 English edits — **0**
+- canonical / assembled Tamil edits caused by E18 — **0 / 0**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Run **Part003 E18 English draft + direct source-check — scan146 only**.
+Run **Part003 E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
 
-Use verified sections/17-raachchaandaar-malai-nokki-part003-continuation.md and controlling canonical scan146. Preserve it as the continuation and close of frozen E17/chapter14, do not repeat a displayed chapter heading, and do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E20 until E19 is **SOURCE-CHECKED / COMPLETE**.
