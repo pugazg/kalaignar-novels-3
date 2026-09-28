@@ -221,6 +221,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 003 | 68 | 213 | 196 | chapter22 continuation; Azhagunachchi asked to prepare for sacrifice | verified | `pages/0213-thiyaagaththin-ellai.md` |
 | 003 | 69 | 214 | 197 | chapter22 continuation; own twins chosen as substitutes / final kisses requested | verified | `pages/0214-thiyaagaththin-ellai.md` |
 | 003 | 70 | 215 | 198 | chapter22 continuation; Raakkiyannan leaves with his twins / Part003 split edge | verified | `pages/0215-thiyaagaththin-ellai.md` |
+| 004 | 1 | 216 | — | chapter23 opens — ஆசான் ஆணைக்கேட்டு நடப்போம் | needs-review | `pages/0216-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 2 | 217 | 200 | chapter23 continuation; family learns the children survived | needs-review | `pages/0217-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 3 | 218 | 201 | chapter23 continuation; Veeramalai recalls Raakkiyannan's witness instruction / finds Azhagunachchi | needs-review | `pages/0218-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 4 | 219 | 202 | chapter23 continuation; Azhagunachchi found dead / funeral aftermath | needs-review | `pages/0219-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 5 | 220 | 203 | chapter23 continuation; Veeramalai questions Raakkiyannan about the twins | needs-review | `pages/0220-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 6 | 221 | 204 | chapter23 continuation; Raakkiyannan's charge / Ponnar-Sankar identity revealed | needs-review | `pages/0221-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 7 | 222 | 205 | chapter23 continuation; reunion and marriage discussion | needs-review | `pages/0222-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 8 | 223 | 206 | chapter23 continuation; Maayavar explains Raakkiyannan's role and intent | needs-review | `pages/0223-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 9 | 224 | 207 | chapter23 closes; all defer to the aasaan's wish | needs-review | `pages/0224-aasaan-aanai-kettu-nadappom.md` |
+| 004 | 10 | 225 | — | chapter24 opens — ஆசான் சபதம்! | needs-review | `pages/0225-aasaan-sabatham.md` |
 
 ## Split accounting
 
@@ -233,8 +243,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **4/8**
-- registered physical scan rows: **215 canonical rows — Parts001–003 verified; Parts001–002 frozen**
-- canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 frozen/verified**
+- registered physical scan rows: **225 canonical rows — Parts001–003 frozen/verified + Part004 Pass1 10/70 needs-review**
+- canonical page records: **225 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 frozen/verified + Part004 10/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -305,8 +315,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 outgoing 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
 - Part004 source intake: **REGISTERED / COMPLETE — scans216–285 / 70 pages**
 - Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 canonical page records: **0/70**
-- Part004 Pass1: **READY / NOT STARTED**
+- Part004 canonical page records: **10/70 — scans216–225**
+- Part004 Pass1: **ACTIVE — Batch1 COMPLETE / 10/70 TEXT-COMPLETE**
 - Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
@@ -333,4 +343,4 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**
+- exact next activity: **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**
