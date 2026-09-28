@@ -45,8 +45,8 @@ The translation preserves Veeramalai returning to Maarik Goundan Paalayam; secre
 
 - `தியாகத்தின் எல்லை` — **The Limit of Sacrifice**
 - `அழகுநாச்சி / அழகுநாச்சியார்` — **Azhagu Naachchi / Azhagu Naachchiyar**
-- `கோளாத்தாக் கவுண்டர்` — **Koalatha Gounder**
-- `பவளாத்தாள்` — **Pavalathaall**
+- `கோளாத்தாக் கவுண்டர்` — **Kolaatha Gounder**
+- `பவளாத்தாள்` — **Pavalaathaal**
 - `குடமுழுக்கு` — ***kudamuzhukku***
 - `பெருங்குடி` — **Perungkudi** as source-facing community/clan form
 - `கொடுவாள்` — **heavy sword**, continuity handling
@@ -96,3 +96,12 @@ The chapter depicts a plan to substitute Raakkiyannan and Azhagu Naachchiyar's o
 Run **Part003 whole-Part glossary reconciliation** across E18–E26.
 
 Do not begin Part004 and do not infer scan216.
+
+## Whole-Part glossary reconciliation note
+
+Part003 whole-Part glossary reconciliation compared exact Tamil keys with the frozen Parts001–002 glossary. Two E26 transliteration drifts were corrected to already-frozen forms for the identical Tamil names:
+
+- `கோளாத்தாக் கவுண்டர்` — **Kolaatha Gounder** — **9 literary occurrences corrected**
+- `பவளாத்தாள்` — **Pavalaathaal** — **1 literary occurrence corrected**
+- meaning/order/block structure changed — **0**
+- source-check closure status — **unchanged / COMPLETE**
