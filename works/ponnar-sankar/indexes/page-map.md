@@ -233,7 +233,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 
 - registered Parts: **3/8**
 - registered physical scan rows: **215 canonical rows — Parts001–003 verified; Parts001–002 frozen**
-- canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 verified**
+- canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 frozen/verified**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -300,6 +300,7 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 whole-Part bilingual review: **PASS / CLOSED**
 - Part003 release/readiness: **PASS / CLOSED — 0 blockers**
 - Part003 release-ready synchronization: **PASS / CLOSED**
+- Part003 final closure: **PASS / CLOSED / FROZEN**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
@@ -326,4 +327,4 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part003 final closure / freeze**
+- exact next activity: **Part004 source intake when supplied; directly audit 215→216 before Pass1**
