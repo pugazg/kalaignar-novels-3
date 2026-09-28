@@ -241,3 +241,40 @@ When the user supplies Part004:
 5. begin Part004 Pass1 only after intake and boundary handling are source-backed.
 
 **STOP here. Part003 is FINAL CLOSED / FROZEN. Part004 transcription was not begun.**
+
+
+## Post-record control synchronization verification
+
+After creating this durable final-closure record, the maintained lifecycle/navigation controls were synchronized to the frozen Part003 state and the Part004 source-intake frontier.
+
+Synchronized control-state head before this verification note:
+
+`c477c9265e34bbc8289ac1b90969bb2edd42e727`
+
+Direct compare from the pre-final-closure head
+`0e9b806f858f808181b5e2cdc737e7d6d42f4257`
+to that synchronized control-state head found:
+
+- commits in interval — **23**
+- changed paths — **22**
+- changed paths — **controls/status/navigation plus this durable final-closure record only**
+- canonical / assembled / maintained-English body paths changed — **0**
+- Part004 body paths created — **0**
+
+Direct recursive-tree blob comparison across the same interval confirmed:
+
+- baseline tree truncated — **false**
+- synchronized tree truncated — **false**
+- body blobs compared — **267**
+- changed body blobs — **0**
+- Part004 body paths — **0**
+- source PDFs under `works/ponnar-sankar/` — **0**
+
+Navigation state now points to:
+
+- Parts001–003 — **FINAL CLOSED / FROZEN**
+- `NEXT_CHAT_PROMPT.md` — **Part004 source intake when supplied**
+- Part004 range — **NOT ASSIGNED**
+- incoming **215→216 — PENDING direct Part004 source witness**
+
+**Post-record synchronization verification: PASS.**
