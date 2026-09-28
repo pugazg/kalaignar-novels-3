@@ -4,9 +4,9 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 ENGLISH ACTIVE — E18–E22 SOURCE-CHECKED / COMPLETE.**
+**PART003 ENGLISH BATCH TRANSLATION — E18–E26 SOURCE-CHECKED / COMPLETE.**
 
-Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E22 SOURCE-CHECKED / COMPLETE**; E23–E26 remain planned.
+Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 SOURCE-CHECKED / COMPLETE — 9/9**.
 
 ## Maintained English sequence per Part
 
@@ -180,9 +180,9 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 - missing / duplicate planned coverage — **0 / 0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- fully translated/source-checked files — **5/9 / 5/9**
+- fully translated/source-checked files — **9/9 / 9/9**
 - English literary prose drafted in setup — **0**
-- current Part003 English physical coverage — **scans146–180 / 35 of 70**
+- current Part003 English physical coverage — **scans146–215 / 70 of 70**
 - E19 maintained display title — **The War Host Sets Out**
 - E19 durable source-check — `E19_SOURCE_CHECK.md`
 - E20 maintained display title — **Where Is the Battlefront?**
@@ -191,6 +191,14 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 - E21 durable source-check — `E21_SOURCE_CHECK.md`
 - E22 maintained display title — **Self-Interest? Public Interest?**
 - E22 durable source-check — `E22_SOURCE_CHECK.md`
+- E23 maintained display title — **The Abode of Truth**
+- E23 durable source-check — `E23_SOURCE_CHECK.md`
+- E24 maintained display title — **The Father's Oracle**
+- E24 durable source-check — `E24_SOURCE_CHECK.md`
+- E25 maintained display title — **Veeramalai on Integrity**
+- E25 durable source-check — `E25_SOURCE_CHECK.md`
+- E26 maintained display title — **The Limit of Sacrifice**
+- E26 durable source-check — `E26_SOURCE_CHECK.md`
 - frozen Parts001–002 English edits — **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -204,10 +212,10 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 | **E20** | `19-pormunai-ethu.md` | 155–163 | **SOURCE-CHECKED / COMPLETE** |
 | **E21** | `20-sangaranmalaiyil-santhippom.md` | 164–172 | **SOURCE-CHECKED / COMPLETE** |
 | **E22** | `21-suyanalamaa-pothunalamaa.md` | 173–180 | **SOURCE-CHECKED / COMPLETE** |
-| **E23** | `22-unmaiyin-uraividam.md` | 181–190 | **PLANNED / NOT DRAFTED** |
-| **E24** | `23-appan-arulvaakku.md` | 191–199 | **PLANNED / NOT DRAFTED** |
-| **E25** | `24-nermaiyai-patri-veeramalai.md` | 200–207 | **PLANNED / NOT DRAFTED** |
-| **E26** | `25-thiyaagaththin-ellai.md` | 208–215 | **PLANNED / NOT DRAFTED** |
+| **E23** | `22-unmaiyin-uraividam.md` | 181–190 | **SOURCE-CHECKED / COMPLETE** |
+| **E24** | `23-appan-arulvaakku.md` | 191–199 | **SOURCE-CHECKED / COMPLETE** |
+| **E25** | `24-nermaiyai-patri-veeramalai.md` | 200–207 | **SOURCE-CHECKED / COMPLETE** |
+| **E26** | `25-thiyaagaththin-ellai.md` | 208–215 | **SOURCE-CHECKED / COMPLETE** |
 
 ### E26 → Part004
 
@@ -217,6 +225,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
+Run **Part003 whole-Part glossary reconciliation across E18–E26**.
 
-Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+Keep Parts001–002 frozen. Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
