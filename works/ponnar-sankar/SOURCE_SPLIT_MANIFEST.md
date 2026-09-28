@@ -124,9 +124,10 @@
 - Part003 outgoing 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
 - Part004 source intake: **REGISTERED / COMPLETE — 70 pages / scans216–285**
 - Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 canonical records: **0/70**
-- Part004 Pass1: **READY / NOT STARTED — 0/70**
-- Part004 Pass1 Batch1 next: **scans216–225 / local pages1–10**
+- Part004 canonical records: **10/70 — scans216–225**
+- Part004 Pass1: **ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
+- Part004 Pass1 Batch1: **COMPLETE / scans216–225 / 10 TEXT-COMPLETE**
+- Part004 Pass1 Batch2 next: **scans226–235 / local pages11–20**
 - Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part004–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -134,4 +135,4 @@
 
 ## Current frontier
 
-**Part003 final closure — PASS / CLOSED / FROZEN. Part004 remains pending direct source intake.**
+**Part003 final closure — PASS / CLOSED / FROZEN. Part004 source intake is REGISTERED / COMPLETE; Pass1 Batch1 is COMPLETE / 10/70.**
