@@ -16,7 +16,7 @@
 - supplied-source design: **8 split PDF files**, each <= **50 MB**
 - split basis: **file size**, not a fixed page count
 - source family / archive identifier: **TVA_BOK_0065560**
-- registered physical scan extent: **1–215 across Parts001–003**
+- registered physical source extent: **1–285 across Parts001–004**
 - complete-work physical scan count: **pending intake of Parts004–008**
 - source PDFs remain outside Git
 
@@ -53,7 +53,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 ## Current state
 
 - repository controls — **INITIALIZED / SYNCHRONIZED**
-- registered Parts — **3/8**
+- registered Parts — **4/8**
 - Part001 source intake — **COMPLETE**
 - Part001 canonical page records — **75/75 — scans1–75**
 - Part001 Pass 1 — **COMPLETE**
@@ -190,7 +190,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - Part003 Pass1 — **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
 - Part003 Pass1 pending — **0/70**
-- Part003 outgoing 215→216 — **PENDING Part004 direct witness**
+- Part003 outgoing 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
 - Part003 Pass2A — **COMPLETE / PASS — 70/70 REVIEWED — scans146–215**
 - Part003 Pass2A pending — **0/70**
 - Part003 Pass2A source-text corrections — **25**
@@ -275,18 +275,20 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 outgoing 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
 - Part004 source intake — **REGISTERED / COMPLETE — scans216–285 / 70 pages**
 - Part004 boundary audit 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 Pass1 — **READY / NOT STARTED — 0/70**
-- Part004 Pass1 next — **Batch1 scans216–225 / local pages1–10**
+- Part004 Pass1 — **ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
+- Part004 canonical records — **10/70 — scans216–225**
+- Part004 Pass1 Batch1 — **COMPLETE / scans216–225 / 10 TEXT-COMPLETE**
+- Part004 Pass1 next — **Batch2 scans226–235 / local pages11–20**
 - Part004 outgoing 285→286 — **PENDING Part005 direct witness**
 - Part005–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part004 Pass1 Batch1 frontier**
+- NEXT_CHAT_PROMPT.md — **PENDING SYNC — Part004 Pass1 Batch2 frontier**
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**.
+Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
 
 Parts001–003 remain **FINAL CLOSED / FROZEN**.
