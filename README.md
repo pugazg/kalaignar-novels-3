@@ -14,7 +14,7 @@
 - Part003: **REGISTERED / COMPLETE — 70 local pages / global scans146–215**
 - remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 E18–E22 SOURCE-CHECKED / COMPLETE; E23–E26 pending; next: E23 draft + direct source-check for scans181–190**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 E18–E26 SOURCE-CHECKED / COMPLETE; next: whole-Part glossary reconciliation**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -42,8 +42,16 @@
 - Part003 E21 source-check — `works/ponnar-sankar/translations/en/E21_SOURCE_CHECK.md`
 - Part003 E22 — **SOURCE-CHECKED / COMPLETE — scans173–180 / title `Self-Interest? Public Interest?`**
 - Part003 E22 source-check — `works/ponnar-sankar/translations/en/E22_SOURCE_CHECK.md`
-- Part003 English physical coverage — **35/70 / scans146–180**
-- Part003 English source-checked files — **5/9**
+- Part003 E23 — **SOURCE-CHECKED / COMPLETE — scans181–190 / title `The Abode of Truth`**
+- Part003 E23 source-check — `works/ponnar-sankar/translations/en/E23_SOURCE_CHECK.md`
+- Part003 E24 — **SOURCE-CHECKED / COMPLETE — scans191–199 / title `The Father's Oracle`**
+- Part003 E24 source-check — `works/ponnar-sankar/translations/en/E24_SOURCE_CHECK.md`
+- Part003 E25 — **SOURCE-CHECKED / COMPLETE — scans200–207 / title `Veeramalai on Integrity`**
+- Part003 E25 source-check — `works/ponnar-sankar/translations/en/E25_SOURCE_CHECK.md`
+- Part003 E26 — **SOURCE-CHECKED / COMPLETE — scans208–215 / title `The Limit of Sacrifice`**
+- Part003 E26 source-check — `works/ponnar-sankar/translations/en/E26_SOURCE_CHECK.md`
+- Part003 English physical coverage — **70/70 / scans146–215**
+- Part003 English source-checked files — **9/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 ## Workflow
@@ -73,6 +81,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
+Run **Part003 whole-Part glossary reconciliation across E18–E26**.
 
-E18–E22 are closed. Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+E18–E26 are closed at the batch source-check layer. Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
