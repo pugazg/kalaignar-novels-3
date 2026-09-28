@@ -45,7 +45,7 @@ No running printed-page value is inferred for decorative chapter-opening pages.
 - boundary type: **same chapter14 scene / same wounded-warrior report sequence; complete physical-page boundary, not a split word**
 - frozen Part002 body edits caused by boundary audit — **0**
 - unsupported bridge text inserted — **0**
-- outgoing **215→216 — PENDING Part004 direct witness**
+- outgoing **215→216 — CHAPTER TRANSITION / AUDITED / PASS**
 
 No text is reconstructed across either split boundary. Incoming classification comes from direct inspection of frozen Part002 scan145 and Part003 local page1 / scan146.
 
@@ -72,7 +72,7 @@ Canonical `scan_page` remains the global physical scan number.
 - [x] rendered-page authority recorded
 - [x] chapter-opening structure directly inspected
 - [x] incoming boundary directly audited
-- [x] outgoing boundary left pending until Part004 adjacent witness
+- [x] outgoing boundary subsequently resolved from direct Part004 adjacent witness — **CHAPTER TRANSITION / AUDITED / PASS**
 - [x] manifest/control registration prepared in this activity
 
 ## Pass1 activation result
@@ -130,3 +130,17 @@ Canonical `scan_page` remains the global physical scan number.
 When the user supplies Part004, perform **Part004 source intake** first, assign its source-backed global scan range, and directly audit **215→216** before Pass1.
 
 Do not invent Part004 range, boundary classification or text. Part003 remains **FINAL CLOSED / FROZEN**.
+
+
+## Subsequent Part004 boundary witness
+
+Part004 source intake later supplied a direct adjacent witness for scan216.
+
+- Part004 local page1 = global scan **216**
+- scan216 displays chapter23 **`ஆசான் ஆணைக்கேட்டு நடப்போம்`**
+- frozen scan215 closes chapter22 **`தியாகத்தின் எல்லை`**
+- classification — **215→216 CHAPTER TRANSITION / AUDITED / PASS**
+- frozen Part003 body edits — **0**
+- Part004 text imported into frozen Part003 body — **0**
+
+This control update resolves the previously pending external boundary witness without reopening frozen Part003 literary layers.
