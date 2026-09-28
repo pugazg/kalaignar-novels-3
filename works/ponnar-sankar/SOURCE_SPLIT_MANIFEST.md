@@ -114,6 +114,12 @@
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
+- Part003 English E18–E26: **SOURCE-CHECKED / COMPLETE — 9/9**
+- Part003 whole-Part glossary reconciliation: **COMPLETE / PASS**
+- Part003 English editorial review: **PASS / CLOSED**
+- Part003 whole-Part bilingual review: **PASS / CLOSED**
+- Part003 release/readiness: **PASS / CLOSED — 0 blockers**
+- Part003 release-ready synchronization: **PASS / CLOSED**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part004–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -121,4 +127,4 @@
 
 ## Current frontier
 
-**Part003 English translation planning/setup — next activity.**
+**Part003 release-ready synchronization — PASS / CLOSED. Exact next activity: Part003 final closure / freeze.**
