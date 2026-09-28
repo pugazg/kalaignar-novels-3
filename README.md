@@ -14,12 +14,12 @@
 - Part003: **FINAL CLOSED / FROZEN — 70 local pages / global scans146–215**
 - remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–003 FINAL CLOSED / FROZEN; Part004 source intake REGISTERED / COMPLETE; Pass1 READY**
+- current state: **Parts001–003 FINAL CLOSED / FROZEN; Part004 source intake REGISTERED / COMPLETE; Pass1 ACTIVE — 10/70 TEXT-COMPLETE**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary **145→146**: **GENUINE CONTINUATION / AUDITED / PASS**
-- outgoing Part003 boundary **215→216**: **PENDING Part004 direct witness**
+- outgoing Part003 boundary **215→216**: **CHAPTER TRANSITION / AUDITED / PASS**
 - Part003 audit blockers — **0**
 - Part003 final metadata/status synchronization — **PASS / COMPLETE — 70/70 verified**
 - Part003 Tamil archival-ready — **PASS / COMPLETE**
@@ -61,8 +61,10 @@
 - Part003 canonical Tamil / assembled Tamil / maintained English — **FROZEN**
 - Part003→Part004 boundary 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
 - Part004 source intake — **REGISTERED / COMPLETE — scans216–285 / 70 pages**
-- Part004 Pass1 — **READY / NOT STARTED — 0/70**
-- Part004 Pass1 next — **Batch1 scans216–225 / local pages1–10**
+- Part004 Pass1 — **ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
+- Part004 canonical records — **10/70 — scans216–225**
+- Part004 Pass1 Batch1 — **COMPLETE / 10 TEXT-COMPLETE**
+- Part004 Pass1 next — **Batch2 scans226–235 / local pages11–20**
 - Part004 outgoing 285→286 — **PENDING Part005 direct witness**
 - Part003 synchronization control — `works/ponnar-sankar/PART_003_RELEASE_READY_SYNC.md`
 - Part003 synchronization textual body drift — **0**
@@ -109,6 +111,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**.
+Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
 
 Parts001–003 remain **FINAL CLOSED / FROZEN**.
