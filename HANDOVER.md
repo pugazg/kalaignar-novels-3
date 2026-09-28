@@ -272,16 +272,21 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 English physical coverage — **70/70 / scans146–215**
 - Part003 English translated/source-checked files — **9/9 / 9/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **Part004 source intake when supplied**
-- Part004–Part008 — **NOT REGISTERED / pending source intake**
+- Part003 outgoing 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 source intake — **REGISTERED / COMPLETE — scans216–285 / 70 pages**
+- Part004 boundary audit 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 Pass1 — **READY / NOT STARTED — 0/70**
+- Part004 Pass1 next — **Batch1 scans216–225 / local pages1–10**
+- Part004 outgoing 285→286 — **PENDING Part005 direct witness**
+- Part005–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part004 source-intake frontier**
+- NEXT_CHAT_PROMPT.md — **PENDING SYNC — Part004 Pass1 Batch1 frontier**
 
 ## Exact next activity
 
-When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
+Process **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**.
 
-Parts001–003 are **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
+Parts001–003 remain **FINAL CLOSED / FROZEN**.
