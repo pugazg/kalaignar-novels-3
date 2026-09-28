@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 ACTIVE — E18–E19 SOURCE-CHECKED / COMPLETE**
+Status: **PART003 ACTIVE — E18–E20 SOURCE-CHECKED / COMPLETE**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -49,7 +49,7 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 |---|---|
 | ராச்சாண்டார் மலைநோக்கி... | frozen E17 display title **Toward Raachchaandaar Malai...** is continuity evidence only; E18 is continuation/close and must not repeat the displayed heading |
 | புறப்பட்டது போர்ப்படை | **The War Host Sets Out** — E19 source-checked display title |
-| போர்முனை எது? | Tamil punctuation/question locked; semantic English display title deferred to E20 source-check |
+| போர்முனை எது? | **Where Is the Battlefront?** — E20 source-checked display title |
 | சங்கரன்மலையில் சந்திப்போம்? | Tamil punctuation/question locked; semantic English display title deferred to E21 source-check |
 | சுயநலமா? பொதுநலமா? | paired rhetorical structure locked; semantic English display title deferred to E22 source-check |
 | உண்மையின் உறைவிடம் | Tamil title locked; semantic English display title deferred to E23 source-check |
@@ -148,6 +148,28 @@ Continuity forms **Aarichampatti, Nelli Valanaadu, Chellaatha Gounder, Thalaiyur
 
 No external normalization or new historical/geographic explanation was introduced.
 
+## E20 — scans155–163 / chapter16
+
+E20 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-backed E20 decisions:
+
+| Tamil source | E20 handling |
+|---|---|
+| `போர்முனை எது?` | **Where Is the Battlefront?** |
+| `அதிகார போதை` | **intoxication of authority** — source parallel with liquor intoxication preserved |
+| `மாயன்` | **Maayan** — source-facing name; no external identification added |
+| `பாமா` | **Bama** |
+| `ருக்மணி` | **Rukmani** |
+| `கண்ணபரமாத்மா` | **Kanna Paramatma** |
+| `ஓலைச்சுருள்` | **palm-leaf scroll** |
+| `புற்றீசல் போல` | **like a swarm** — conservative immediate-context rendering |
+| `கொக்கா?` | **some mere weakling?** — immediate rhetorical force only |
+
+Established continuity handling also retained **heavy sword** for `கொடுவாள்` and **Vel! Vel! Veera Vel! Vetri Vel!** for the battle-cry family.
+
+No external historical, geographic, religious, social or military explanation was introduced.
+
 ## Outgoing Part003 lock
 
 - scan215 remains inside chapter22 **தியாகத்தின் எல்லை**;
@@ -182,6 +204,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**.
+Run **E21 English draft + direct source-check — scans164–172 / chapter17 `சங்கரன்மலையில் சந்திப்போம்?`**.
 
-Decide the chapter16 semantic English display title only during E20 direct source-check. Do not reopen closed E18–E19 merely to advance E20.
+Decide the chapter17 semantic English display title only during E21 direct source-check. Do not reopen closed E18–E20 merely to advance E21.
