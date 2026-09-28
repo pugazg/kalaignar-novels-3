@@ -227,11 +227,12 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part001: local **1–75** → global **1–75** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf`
 - Part002: local **1–70** → global **76–145** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf`
 - Part003: local **1–70** → global **146–215** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf`
-- Part004–Part008: **pending intake; no global ranges assigned**
+- Part004: local **1–70** → global **216–285** — `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf`
+- Part005–Part008: **pending intake; no global ranges assigned**
 
 ## Current state
 
-- registered Parts: **3/8**
+- registered Parts: **4/8**
 - registered physical scan rows: **215 canonical rows — Parts001–003 verified; Parts001–002 frozen**
 - canonical page records: **215 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 frozen/verified**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
@@ -301,7 +302,12 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 release/readiness: **PASS / CLOSED — 0 blockers**
 - Part003 release-ready synchronization: **PASS / CLOSED**
 - Part003 final closure: **PASS / CLOSED / FROZEN**
-- Part003 outgoing 215→216: **PENDING Part004 direct witness**
+- Part003 outgoing 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 source intake: **REGISTERED / COMPLETE — scans216–285 / 70 pages**
+- Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 canonical page records: **0/70**
+- Part004 Pass1: **READY / NOT STARTED**
+- Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
 - Part003 Pass1 pending: **0/70**
@@ -327,4 +333,4 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part004 source intake when supplied; directly audit 215→216 before Pass1**
+- exact next activity: **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**
