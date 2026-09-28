@@ -364,6 +364,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
+Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
 
-Do not reopen canonical or assembled Tamil, do not alter frozen Parts001–002 English, and preserve **215→216 PENDING Part004 direct witness**.
+Whole-Part glossary reconciliation remains **COMPLETE / PASS** and English editorial review is **PASS / CLOSED**. Preserve **215→216 PENDING Part004 direct witness**.
