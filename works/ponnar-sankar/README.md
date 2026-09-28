@@ -125,7 +125,7 @@
 - Part003 Pass2B unresolved textual questions: **0**
 - durable Part003 Pass2B tracker: `PART_003_PASS2B_PROGRESS.md`
 - durable Part003 Pass2A tracker: `PART_003_PASS2A_PROGRESS.md`
-- Part003 outgoing 215→216: **PENDING Part004 direct witness**
+- Part003 outgoing 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
 - Part003 audit blockers — **0**
 - Part003 final metadata/status synchronization: **PASS / COMPLETE — 70/70 verified**
 - Part003 Tamil archival-ready: **PASS / COMPLETE**
