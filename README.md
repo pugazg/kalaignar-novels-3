@@ -14,7 +14,7 @@
 - Part003: **REGISTERED / COMPLETE — 70 local pages / global scans146–215**
 - remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 E18–E21 SOURCE-CHECKED / COMPLETE; E22–E26 pending; next: E22 draft + direct source-check for scans173–180**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 E18–E22 SOURCE-CHECKED / COMPLETE; E23–E26 pending; next: E23 draft + direct source-check for scans181–190**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -40,8 +40,10 @@
 - Part003 E20 source-check — `works/ponnar-sankar/translations/en/E20_SOURCE_CHECK.md`
 - Part003 E21 — **SOURCE-CHECKED / COMPLETE — scans164–172 / title `Shall We Meet at Sankaranmalai?`**
 - Part003 E21 source-check — `works/ponnar-sankar/translations/en/E21_SOURCE_CHECK.md`
-- Part003 English physical coverage — **27/70 / scans146–172**
-- Part003 English source-checked files — **4/9**
+- Part003 E22 — **SOURCE-CHECKED / COMPLETE — scans173–180 / title `Self-Interest? Public Interest?`**
+- Part003 E22 source-check — `works/ponnar-sankar/translations/en/E22_SOURCE_CHECK.md`
+- Part003 English physical coverage — **35/70 / scans146–180**
+- Part003 English source-checked files — **5/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 ## Workflow
@@ -71,6 +73,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Run **Part003 E22 English draft + direct source-check — scans173–180 / chapter18 `சுயநலமா? பொதுநலமா?`**.
+Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
 
-E18–E21 are closed. Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+E18–E22 are closed. Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
