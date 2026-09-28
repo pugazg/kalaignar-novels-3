@@ -3,9 +3,10 @@
 ## State
 
 **PART001 FINAL CLOSED / FROZEN.**  
-**PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**
+**PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
+**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
 
-Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**.
+Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 / 9** reserved with **0 literary prose drafted**.
 
 ## Maintained English sequence per Part
 
@@ -25,12 +26,12 @@ No English activity may silently modify canonical Tamil, assembled Tamil, frozen
 
 ## Authority
 
-For active Part002 English work:
+For active Part003 English work:
 
-1. `../../pages/` — canonical verified Tamil; controlling authority.
-2. `../../sections/` — Part002 **VERIFIED / PASS / CLOSED** assembled Tamil.
-3. frozen Part001 English — continuity reference for already-established English forms only.
-4. Part002 English — derived project-created layer only.
+1. `../../pages/` — verified Part003 canonical Tamil; controlling authority.
+2. `../../sections/` — Part003 **VERIFIED / PASS / CLOSED — 9/9** assembled Tamil.
+3. frozen Parts001–002 English — continuity reference for already-established English forms only.
+4. future Part003 English — derived project-created layer only.
 
 No OCR, web text, alternate edition, remembered wording or published English translation is an authority.
 
@@ -70,7 +71,7 @@ These files are Part001 historical/frozen controls and are not repurposed for Pa
 - assembled files — **8/8**
 - exact canonical coverage — **70/70**
 - incoming **75→76 — GENUINE CONTINUATION / AUDITED / PASS**
-- outgoing **145→146 — PENDING Part003 direct witness**
+- outgoing **145→146 — GENUINE CONTINUATION / AUDITED / PASS from direct Part003 witness**
 
 Durable Tamil validation:
 
@@ -126,11 +127,13 @@ Planning/setup result:
 - E10 does not invent a repeated chapter7 display heading;
 - Part001 English mutation — **prohibited**.
 
-### E17 → Part003
+### E17 → E18 / Part003
 
-- E17 stops at scan145;
-- outgoing **145→146 remains PENDING Part003 direct witness**;
-- no scan146 wording may be imported, inferred or semantically completed.
+- frozen E17 stops at scan145 and remains unchanged;
+- **145→146 — GENUINE CONTINUATION / AUDITED / PASS**;
+- E18 covers scan146 only as the continuation and close of chapter14;
+- E18 must not repeat a displayed chapter heading;
+- frozen Part002 English mutation — **prohibited**.
 
 ## Current physical-processing checkpoint
 
@@ -145,7 +148,7 @@ Planning/setup result:
 - complete translated/source-checked files — **8/8 / 8/8**
 - cumulative physical coverage — **scans76–145 / 70 of 70**
 - remaining physical coverage — **0**
-- outgoing 145→146 — **PENDING Part003 direct witness**
+- outgoing 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - reconciliation English files reviewed — **8/8**
 - reconciliation English section edits — **0**
@@ -165,6 +168,46 @@ Part002 release-ready synchronization — **PASS / CLOSED — 0 textual body dri
 
 Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PART_002_FINAL_CLOSURE.md`.
 
+## Part003 English planning/setup
+
+- planning/setup — **COMPLETE / PASS**
+- control plan — `PART_003_TRANSLATION_PLAN.md`
+- active Part003 glossary — `PART_003_GLOSSARY.md`
+- progress control — `PART_003_PROGRESS.md`
+- reserved batches — **E18–E26 / 9**
+- reserved English section orders — **17–25 / 9**
+- planned physical coverage — **scans146–215 / 70 of 70**
+- missing / duplicate planned coverage — **0 / 0**
+- batch-number collisions — **0**
+- English section-order collisions — **0**
+- fully translated/source-checked files — **0/9 / 0/9**
+- English literary prose drafted in setup — **0**
+- frozen Parts001–002 English edits — **0**
+- incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
+### Part003 batch map
+
+| Batch | Verified Tamil assembled source | Scans | Status |
+|---|---|---:|---|
+| **E18** | `17-raachchaandaar-malai-nokki-part003-continuation.md` | 146 | **PLANNED / NOT DRAFTED** |
+| **E19** | `18-purappattathu-porppadai.md` | 147–154 | **PLANNED / NOT DRAFTED** |
+| **E20** | `19-pormunai-ethu.md` | 155–163 | **PLANNED / NOT DRAFTED** |
+| **E21** | `20-sangaranmalaiyil-santhippom.md` | 164–172 | **PLANNED / NOT DRAFTED** |
+| **E22** | `21-suyanalamaa-pothunalamaa.md` | 173–180 | **PLANNED / NOT DRAFTED** |
+| **E23** | `22-unmaiyin-uraividam.md` | 181–190 | **PLANNED / NOT DRAFTED** |
+| **E24** | `23-appan-arulvaakku.md` | 191–199 | **PLANNED / NOT DRAFTED** |
+| **E25** | `24-nermaiyai-patri-veeramalai.md` | 200–207 | **PLANNED / NOT DRAFTED** |
+| **E26** | `25-thiyaagaththin-ellai.md` | 208–215 | **PLANNED / NOT DRAFTED** |
+
+### E26 → Part004
+
+- E26 ends at scan215;
+- **215→216 — PENDING Part004 direct witness**;
+- scan216 wording may not be imported, inferred or semantically completed.
+
 ## Exact next activity
 
-Part002 is **FINAL CLOSED / FROZEN**. Part003 remains **NOT REGISTERED / pending source intake**. When Part003 source is supplied, perform Part003 source intake first, assign its range from that file only, and directly audit 145→146 before Pass1.
+Run **Part003 E18 English draft + direct source-check — scan146 only**.
+
+Use verified section17 and canonical scan146. Preserve chapter14 continuation from frozen E17 without repeating a displayed heading. Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
