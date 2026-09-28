@@ -177,6 +177,6 @@ Outgoing:
 
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+When the user supplies Part004, perform **Part004 source intake** first, assign its source-backed global scan range, and directly audit **215→216** before Pass1.
 
-Pass2B remains CLOSED / COMPLETE / PASS — 70/70. Pass3 is CLOSED / COMPLETE / PASS — 70/70 with 0 structural corrections / 0 unresolved. Part audit is PASS / COMPLETE with 0 blockers; run Part003 English translation planning/setup next.
+Do not invent Part004 range, boundary classification or text. Part003 remains **FINAL CLOSED / FROZEN**.
