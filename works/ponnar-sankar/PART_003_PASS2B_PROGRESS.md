@@ -569,8 +569,23 @@ Decision:
 - assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
 - durable assembled-Tamil validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 
+## Downstream release lifecycle
+
+- Pass3 — **CLOSED / COMPLETE / PASS — 70/70**
+- whole-Part audit — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / COMPLETE**
+- assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9**
+- English E18–E26 — **SOURCE-CHECKED / COMPLETE — 9/9**
+- glossary reconciliation — **COMPLETE / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- Part004 leakage — **0**
+- outgoing **215→216 — PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+Run **Part003 final closure / freeze**.
 
-Pass3 is **CLOSED / COMPLETE / PASS — 70/70** with **0 structural corrections / 0 unresolved visual or structural questions**. Part audit is **PASS / COMPLETE — 0 blockers**; run Part003 English translation planning/setup next with Part003 canonical metadata remaining **verified / verified**, Parts001–002 frozen, and outgoing **215→216 PENDING Part004 direct witness**. Do not draft English literary prose during setup.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Do not begin Part004; keep **215→216 PENDING Part004 direct witness**.
