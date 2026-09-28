@@ -2,11 +2,11 @@
 
 ## Overall state
 
-**PART003 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
+**PART003 FINAL CLOSURE — PASS / CLOSED / FROZEN**
 
 Parts001–002 English remain **FINAL CLOSED / FROZEN**.
 
-E18–E26 are drafted and directly source-checked; whole-Part glossary reconciliation is **COMPLETE / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED**; release/readiness is **PASS / CLOSED**; release-ready synchronization is **PASS / CLOSED**. Final closure / freeze is next.
+E18–E26 are drafted and directly source-checked; whole-Part glossary reconciliation is **COMPLETE / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED**; release/readiness is **PASS / CLOSED**; release-ready synchronization is **PASS / CLOSED**; final closure is **PASS / CLOSED / FROZEN**.
 
 ## Reserved batch map
 
@@ -271,7 +271,7 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 4. release/readiness — **PASS / CLOSED**;
 5. release-ready synchronization — **PASS / CLOSED**;
 6. no-post-release textual-drift verification — **NEXT WITH FINAL CLOSURE / FREEZE**;
-7. Part003 final closure / freeze.
+7. Part003 final closure / freeze — **PASS / CLOSED / FROZEN**.
 
 ## Setup gate result
 
@@ -288,6 +288,6 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
+Part003 remains **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
