@@ -211,8 +211,8 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - missing / duplicate planned coverage — **0 / 0**;
 - batch-number collisions — **0**;
 - English section-order collisions — **0**;
-- fully translated Part003 files — **4/9**;
-- source-checked Part003 files — **4/9**;
+- fully translated Part003 files — **5/9**;
+- source-checked Part003 files — **5/9**;
 - English literary prose drafted in setup — **0**;
 - frozen Parts001–002 English edits — **0**;
 - canonical / assembled Tamil edits caused by planning — **0 / 0**;
@@ -225,15 +225,16 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - E19 — **SOURCE-CHECKED / COMPLETE — scans147–154**
 - E20 — **SOURCE-CHECKED / COMPLETE — scans155–163**
 - E21 — **SOURCE-CHECKED / COMPLETE — scans164–172**
-- E22–E26 — **PLANNED / NOT DRAFTED**
-- cumulative Part003 English physical coverage — **27/70 / scans146–172**
-- remaining — **43 scans / scans173–215**
+- E22 — **SOURCE-CHECKED / COMPLETE — scans173–180**
+- E23–E26 — **PLANNED / NOT DRAFTED**
+- cumulative Part003 English physical coverage — **35/70 / scans146–180**
+- remaining — **35 scans / scans181–215**
 - frozen Parts001–002 English edits — **0**
-- canonical / assembled Tamil edits caused by E18–E21 — **0 / 0**
+- canonical / assembled Tamil edits caused by E18–E22 — **0 / 0**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
 ## Exact next activity
 
-Run **Part003 E22 English draft + direct source-check — scans173–180 / chapter18 `சுயநலமா? பொதுநலமா?`**.
+Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
 
-Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**.
