@@ -4,7 +4,7 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
+**PART003 RELEASE/READINESS REPORT — PASS / CLOSED.**
 
 Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 SOURCE-CHECKED / COMPLETE — 9/9**.
 
@@ -45,6 +45,10 @@ No OCR, web text, alternate edition, remembered wording or published English tra
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
 - English editorial review — **PASS / CLOSED**
 - whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness report — **PASS / CLOSED**
+- release/readiness record — `PART_003_RELEASE_REPORT.md`
+- unresolved release/readiness blockers — **0**
+- maintained English body edits introduced by readiness — **0**
 - release/readiness — **PASS / CLOSED**
 - release-ready synchronization — **PASS / CLOSED**
 - final Part001 closure — **PASS / CLOSED / FROZEN**
@@ -230,6 +234,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 release/readiness report**.
+Run **Part003 release-ready synchronization**.
 
 Keep Parts001–002 frozen. Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
