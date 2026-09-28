@@ -28,6 +28,8 @@ Source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_0
 Direct rendered-page inspection establishes:
 
 - scan216 / local1 — chapter23 **`ஆசான் ஆணைக்கேட்டு நடப்போம்`** opens;
+- scan224 / local9 / printed207 — chapter23 closes;
+- scan225 / local10 — chapter24 **`ஆசான் சபதம்!`** opens;
 - scan217 / local2 — running printed page **200**;
 - scan285 / local70 — running printed page **268**, with chapter30 still continuing at the Part004 split edge.
 
