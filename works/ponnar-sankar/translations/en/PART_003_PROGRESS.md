@@ -2,11 +2,11 @@
 
 ## Overall state
 
-**PART003 ENGLISH BATCH TRANSLATION — E18–E26 SOURCE-CHECKED / COMPLETE**
+**PART003 ENGLISH WHOLE-PART GLOSSARY RECONCILIATION — COMPLETE / PASS**
 
 Parts001–002 English remain **FINAL CLOSED / FROZEN**.
 
-E18–E26 have been drafted and directly source-checked. Whole-Part glossary reconciliation is next.
+E18–E26 are drafted and directly source-checked, and whole-Part glossary reconciliation is **COMPLETE / PASS**. English editorial review is next.
 
 ## Reserved batch map
 
@@ -220,7 +220,26 @@ Cumulative Part003 English coverage — **scans146–215 / 70 of 70**.
 Source-checked batches/files — **9/9 / 9/9**.  
 Missing / duplicate physical coverage — **0 / 0**.
 
-## Cross-Part locks
+## Whole-Part glossary reconciliation closure
+
+- durable record — `PART_003_GLOSSARY_RECONCILIATION.md`
+- E18–E26 maintained English files reviewed — **9/9**
+- E18–E26 source-check records reviewed — **9/9**
+- title locks / E18 continuation handling — **PASS**
+- source-backed literary continuity corrections — **13 occurrences / 3 files**
+  - E22 `அர்ச்சனை` — ***archanai*** → ***archana*** — **2**
+  - E23 `அர்ச்சனை` — ***archanai*** → ***archana*** — **1**
+  - E26 `கோளாத்தாக் கவுண்டர்` — **Koalatha Gounder** → **Kolaatha Gounder** — **9**
+  - E26 `பவளாத்தாள்` — **Pavalathaall** → **Pavalaathaal** — **1**
+- unresolved source-backed glossary conflicts — **0**
+- unsupported normalization — **0**
+- meaning / source order / block structure changes — **0 / 0 / 0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–002 English edits — **0**
+- Part004 leakage — **0**
+- outgoing **215→216 — PENDING Part004 direct witness**
+
+
 
 ### Incoming E17 → E18
 
@@ -269,6 +288,6 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 ## Exact next activity
 
-Run **Part003 whole-Part glossary reconciliation across E18–E26**.
+Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
 
 Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
