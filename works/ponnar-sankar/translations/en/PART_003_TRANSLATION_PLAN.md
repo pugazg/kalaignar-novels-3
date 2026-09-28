@@ -178,8 +178,8 @@ After E18–E26 all close **SOURCE-CHECKED / COMPLETE**:
 2. English editorial review — **PASS / CLOSED**;
 3. whole-Part bilingual review against verified Part003 Tamil — **PASS / CLOSED**;
 4. release/readiness — **PASS / CLOSED**;
-5. release-ready synchronization — **NEXT**;
-6. no-post-release textual-drift verification;
+5. release-ready synchronization — **PASS / CLOSED**;
+6. no-post-release textual-drift verification — **NEXT WITH FINAL CLOSURE / FREEZE**;
 7. Part003 final closure / freeze.
 
 Part004 canonical work remains blocked until Part003 final closure and direct Part004 intake/boundary witness.
@@ -264,6 +264,6 @@ Sequential batch translation/source-check phase — **COMPLETE / PASS — 9/9**.
 
 ## Exact next activity
 
-Run **Part003 release-ready synchronization**.
+Run **Part003 final closure / freeze**.
 
-Do not begin Part004 and do not infer scan216.
+Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
