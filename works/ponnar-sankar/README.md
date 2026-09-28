@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH PLANNING/SETUP COMPLETE / PASS**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH E18 SOURCE-CHECKED / COMPLETE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -139,11 +139,15 @@
 - Part003 English planned coverage: **scans146–215 / 70 of 70 / 0 missing / 0 duplicate**
 - Part003 English batch-number collisions: **0**
 - Part003 English section-order collisions: **0**
-- Part003 English fully translated/source-checked: **0/9 / 0/9**
+- Part003 English fully translated/source-checked: **1/9 / 1/9**
 - Part003 English literary prose drafted in setup: **0**
 - frozen Parts001–002 English edits caused by Part003 setup: **0**
 - Part003 English controls: `translations/en/PART_003_TRANSLATION_PLAN.md`, `translations/en/PART_003_GLOSSARY.md`, `translations/en/PART_003_PROGRESS.md`
-- Part003 English exact next activity: **E18 draft + direct source-check — scan146 only**
+- Part003 E18: **SOURCE-CHECKED / COMPLETE — scan146 / chapter14 continuation close / 7 Tamil blocks = 7 English blocks**
+- Part003 E18 durable source-check: `translations/en/E18_SOURCE_CHECK.md`
+- Part003 English physical coverage: **scan146 / 1 of 70**
+- Part003 English remaining: **scans147–215 / 69**
+- Part003 English exact next activity: **E19 draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -211,6 +215,6 @@
 
 ## Exact next activity
 
-Run **Part003 E18 English draft + direct source-check — scan146 only**.
+Run **Part003 E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
 
-Keep Parts001–002 frozen. Use verified `sections/17-raachchaandaar-malai-nokki-part003-continuation.md` and canonical scan146; preserve chapter14 continuation without repeating a displayed chapter heading. Outgoing **215→216 remains PENDING Part004 direct witness**. Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+Keep Parts001–002 frozen. E18 is **SOURCE-CHECKED / COMPLETE** and must not be reopened merely to advance E19. Outgoing **215→216 remains PENDING Part004 direct witness**.
