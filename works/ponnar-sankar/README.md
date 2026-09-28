@@ -188,8 +188,15 @@
 - Part003 glossary reconciliation literary corrections: **13 occurrences / 3 files**
 - Part003 unresolved glossary conflicts: **0**
 - Part003 unsupported normalization: **0**
-- Part003 exact next activity: **Part004 source intake when supplied**
-- Part004–Part008: **pending intake / NOT REGISTERED**
+- Part003 outgoing boundary 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 source intake: **REGISTERED / COMPLETE — scans216–285 / 70 pages**
+- Part004 source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf`
+- Part004 SHA-256: `2ed96e4ae046b20b8d9a6c6db3aeae8c822411df0947771f9a691007be729616`
+- Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 Pass1: **READY / NOT STARTED — 0/70**
+- Part004 Pass1 next: **Batch1 scans216–225 / local pages1–10**
+- Part004 outgoing 285→286: **PENDING Part005 direct witness**
+- Part005–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
 
@@ -256,6 +263,6 @@
 
 ## Exact next activity
 
-When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
+Process **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**.
 
-Parts001–003 are **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
+Parts001–003 remain **FINAL CLOSED / FROZEN**. Incoming **215→216 is CHAPTER TRANSITION / AUDITED / PASS**.
