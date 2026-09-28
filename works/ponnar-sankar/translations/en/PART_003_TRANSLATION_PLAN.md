@@ -211,8 +211,8 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - missing / duplicate planned coverage — **0 / 0**;
 - batch-number collisions — **0**;
 - English section-order collisions — **0**;
-- fully translated Part003 files — **2/9**;
-- source-checked Part003 files — **2/9**;
+- fully translated Part003 files — **3/9**;
+- source-checked Part003 files — **3/9**;
 - English literary prose drafted in setup — **0**;
 - frozen Parts001–002 English edits — **0**;
 - canonical / assembled Tamil edits caused by planning — **0 / 0**;
@@ -223,15 +223,16 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 
 - E18 — **SOURCE-CHECKED / COMPLETE — scan146**
 - E19 — **SOURCE-CHECKED / COMPLETE — scans147–154**
-- E20–E26 — **PLANNED / NOT DRAFTED**
-- cumulative Part003 English physical coverage — **9/70 / scans146–154**
-- remaining — **61 scans / scans155–215**
+- E20 — **SOURCE-CHECKED / COMPLETE — scans155–163**
+- E21–E26 — **PLANNED / NOT DRAFTED**
+- cumulative Part003 English physical coverage — **18/70 / scans146–163**
+- remaining — **52 scans / scans164–215**
 - frozen Parts001–002 English edits — **0**
-- canonical / assembled Tamil edits caused by E18 — **0 / 0**
+- canonical / assembled Tamil edits caused by E18–E20 — **0 / 0**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
 ## Exact next activity
 
-Run **Part003 E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**.
+Run **Part003 E21 English draft + direct source-check — scans164–172 / chapter17 `சங்கரன்மலையில் சந்திப்போம்?`**.
 
-Do not begin E21 until E20 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E22 until E21 is **SOURCE-CHECKED / COMPLETE**.
