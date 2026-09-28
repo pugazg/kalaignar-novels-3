@@ -2,11 +2,11 @@
 
 ## Overall state
 
-**PART003 ENGLISH ACTIVE — E18–E22 SOURCE-CHECKED / COMPLETE**
+**PART003 ENGLISH BATCH TRANSLATION — E18–E26 SOURCE-CHECKED / COMPLETE**
 
 Parts001–002 English remain **FINAL CLOSED / FROZEN**.
 
-E18–E22 have been drafted and directly source-checked; E23–E26 remain undrafted.
+E18–E26 have been drafted and directly source-checked. Whole-Part glossary reconciliation is next.
 
 ## Reserved batch map
 
@@ -17,10 +17,10 @@ E18–E22 have been drafted and directly source-checked; E23–E26 remain undraf
 | **E20** | section19 — போர்முனை எது? | 155–163 | **SOURCE-CHECKED / COMPLETE** |
 | **E21** | section20 — சங்கரன்மலையில் சந்திப்போம்? | 164–172 | **SOURCE-CHECKED / COMPLETE** |
 | **E22** | section21 — சுயநலமா? பொதுநலமா? | 173–180 | **SOURCE-CHECKED / COMPLETE** |
-| **E23** | section22 — உண்மையின் உறைவிடம் | 181–190 | **PLANNED / NOT DRAFTED** |
-| **E24** | section23 — அப்பன் அருள்வாக்கு | 191–199 | **PLANNED / NOT DRAFTED** |
-| **E25** | section24 — நேர்மையைப் பற்றி வீரமலை | 200–207 | **PLANNED / NOT DRAFTED** |
-| **E26** | section25 — தியாகத்தின் எல்லை | 208–215 | **PLANNED / NOT DRAFTED** |
+| **E23** | section22 — உண்மையின் உறைவிடம் | 181–190 | **SOURCE-CHECKED / COMPLETE** |
+| **E24** | section23 — அப்பன் அருள்வாக்கு | 191–199 | **SOURCE-CHECKED / COMPLETE** |
+| **E25** | section24 — நேர்மையைப் பற்றி வீரமலை | 200–207 | **SOURCE-CHECKED / COMPLETE** |
+| **E26** | section25 — தியாகத்தின் எல்லை | 208–215 | **SOURCE-CHECKED / COMPLETE** |
 
 ## Planned maintained English files
 
@@ -47,18 +47,18 @@ These filenames are provenance handles. Semantic English chapter-title decisions
 - Part003 English reserved batches — **E18–E26 / 9**
 - Part003 English reserved section orders — **17–25 / 9**
 - Part003 English planned files — **9**
-- Part003 fully translated files — **5/9**
+- Part003 fully translated files — **9/9**
 - Part003 partial translated files — **0**
-- Part003 source-checked complete files — **5/9**
-- Part003 physical English processing coverage — **35/70 / scans146–180**
-- Part003 physical English remaining — **35 / scans181–215**
+- Part003 source-checked complete files — **9/9**
+- Part003 physical English processing coverage — **70/70 / scans146–215**
+- Part003 physical English remaining — **0**
 - planned source coverage — **scans146–215**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
 - English literary prose drafted in setup — **0**
-- English literary prose drafted after setup — **E18–E22 / scans146–180**
+- English literary prose drafted after setup — **E18–E26 / scans146–215**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Parts001–002 English edits caused by Part003 planning — **0**
@@ -170,6 +170,56 @@ Cumulative Part003 English coverage — **scans146–172 / 27 of 70**.
 
 Cumulative Part003 English coverage — **scans146–180 / 35 of 70**.
 
+## E23 closure
+
+- batch — **E23**
+- translated/source-checked coverage — **scans181–190 / 10 of 10**
+- maintained English file — `sections/22-unmaiyin-uraividam.md`
+- durable source-check — `E23_SOURCE_CHECK.md`
+- maintained display title — **The Abode of Truth**
+- Tamil / English literary-display blocks — **48 / 48**
+- source-boundary comments — **9 / 9**
+- unresolved E23 holds — **0**
+
+## E24 closure
+
+- batch — **E24**
+- translated/source-checked coverage — **scans191–199 / 9 of 9**
+- maintained English file — `sections/23-appan-arulvaakku.md`
+- durable source-check — `E24_SOURCE_CHECK.md`
+- maintained display title — **The Father's Oracle**
+- Tamil / English literary-display blocks — **51 / 51**
+- source-boundary comments — **8 / 8**
+- unresolved E24 holds — **0**
+
+## E25 closure
+
+- batch — **E25**
+- translated/source-checked coverage — **scans200–207 / 8 of 8**
+- maintained English file — `sections/24-nermaiyai-patri-veeramalai.md`
+- durable source-check — `E25_SOURCE_CHECK.md`
+- maintained display title — **Veeramalai on Integrity**
+- Tamil / English literary-display blocks — **47 / 47**
+- source-boundary comments — **7 / 7**
+- unresolved E25 holds — **0**
+
+## E26 closure
+
+- batch — **E26**
+- translated/source-checked coverage — **scans208–215 / 8 of 8**
+- maintained English file — `sections/25-thiyaagaththin-ellai.md`
+- durable source-check — `E26_SOURCE_CHECK.md`
+- maintained display title — **The Limit of Sacrifice**
+- Tamil / English literary-display blocks — **55 / 55**
+- internal source-boundary comments — **7 / 7**
+- outgoing pending-boundary control — **1 / 1**
+- unsupported Part004 continuation — **0**
+- unresolved E26 holds — **0**
+
+Cumulative Part003 English coverage — **scans146–215 / 70 of 70**.  
+Source-checked batches/files — **9/9 / 9/9**.  
+Missing / duplicate physical coverage — **0 / 0**.
+
 ## Cross-Part locks
 
 ### Incoming E17 → E18
@@ -219,6 +269,6 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 ## Exact next activity
 
-Run **E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
+Run **Part003 whole-Part glossary reconciliation across E18–E26**.
 
-Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
