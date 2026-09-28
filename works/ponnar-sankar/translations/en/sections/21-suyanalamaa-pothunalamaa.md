@@ -18,7 +18,7 @@ title_status: "semantic English title source-checked directly against Tamil chap
 
 Self-Interest? Public Interest?
 
-Before Chinnamalaik Kozhundhu's bewilderment, surprise and hesitation could compete with one another and make him forget himself, auspicious music began to sound at the gate of Sankaranmalai Fort. Kundrudaiyaan was approaching, surrounded by *aalavattam* ceremonial fans. Several warriors carrying swords and *vel* walked on either side of him. Chinnamalaik Kozhundhu stood motionless, watching him come. Lines of brightness shone across the faces of Ponnar, Sankar, Veeramalai and the Aarichampatti warriors.
+Before Chinnamalaik Kozhundhu's bewilderment, surprise and hesitation could compete with one another and make him forget himself, auspicious music began to sound at the gate of Sankaranmalai Fort. Kundrudaiyaan was approaching, surrounded by *aalavattam*. Several warriors carrying swords and *vel* walked on either side of him. Chinnamalaik Kozhundhu stood motionless, watching him come. Lines of brightness shone across the faces of Ponnar, Sankar, Veeramalai and the Aarichampatti warriors.
 
 Realising that Kundrudaiyaan had come with his attendants to welcome them and lead them into the fort, Chinnamalaik Kozhundhu and the others dismounted and stood looking at him. With a slight smile gathered on his lips, Kundrudaiyaan came and stood directly before Chinnamalaik Kozhundhu.
 
@@ -96,7 +96,9 @@ As Kundrudaiyaan began telling them about the young men, Maayavar interrupted. �
 
 “Why will you not tell your names, boys? Could it be that your parents never gave you names at all?”
 
-When Maayavar persisted with this question, Ponnar said, “Our teacher Raakkiyannan ordered us not to tell our names to anyone!”
+Maayavar would not let them off and pressed them with this question.
+
+“Our teacher Raakkiyannan ordered us not to tell our names to anyone!” Ponnar said.
 
 At that moment Chinnamalaik Kozhundhu cleared his throat lightly and made as though to say something.
 
