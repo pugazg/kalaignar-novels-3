@@ -294,6 +294,12 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part002 final closure: **PASS / CLOSED / FROZEN**
 - Part002 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
+- Part003 English E18–E26: **SOURCE-CHECKED / COMPLETE — 9/9**
+- Part003 whole-Part glossary reconciliation: **COMPLETE / PASS**
+- Part003 English editorial review: **PASS / CLOSED**
+- Part003 whole-Part bilingual review: **PASS / CLOSED**
+- Part003 release/readiness: **PASS / CLOSED — 0 blockers**
+- Part003 release-ready synchronization: **PASS / CLOSED**
 - Part003 outgoing 215→216: **PENDING Part004 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
@@ -320,4 +326,4 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part003 English translation planning/setup**
+- exact next activity: **Part003 final closure / freeze**
