@@ -14,7 +14,7 @@
 | 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
 | 003 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf` | 49598408 | `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab` | 70 | 146–215 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
-| 004 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf` | 49892265 | `2ed96e4ae046b20b8d9a6c6db3aeae8c822411df0947771f9a691007be729616` | 70 | 216–285 | **REGISTERED / COMPLETE** | **PASS1 READY / NOT STARTED** |
+| 004 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf` | 49892265 | `2ed96e4ae046b20b8d9a6c6db3aeae8c822411df0947771f9a691007be729616` | 70 | 216–285 | **REGISTERED / COMPLETE** | **PASS1 ACTIVE — 10/70 TEXT-COMPLETE** |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 007 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
