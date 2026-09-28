@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+Status: **PART003 ACTIVE — E18 SOURCE-CHECKED / COMPLETE**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -102,6 +102,31 @@ E18 covers **scan146 only**.
 - E18 must not edit frozen Part002 English;
 - E18 closes chapter14 within Part003.
 
+## E18 — scan146 / chapter14 continuation close
+
+E18 is **SOURCE-CHECKED / COMPLETE**.
+
+Direct source-check confirmed that no new semantic title decision is needed because scan146 continues and closes frozen chapter14 without a repeated displayed heading.
+
+Active continuity forms retained from frozen Parts001–002:
+
+| Tamil source | E18 handling |
+|---|---|
+| `சின்னமலைக் கொழுந்து` / spacing variant | **Chinnamalaik Kozhundhu** |
+| `வையம் பெருமான்` | **Vaiyam Perumaan** |
+| `சிலம்பாயி` | **Silambayi** |
+| `முத்தாயி` | **Muthayi** |
+| `பவளாயி` | **Pavalayi** |
+| `தலையூர்க்காளி` | **Thalaiyur Kaali** |
+| `தளகர்த்தன்` | **commander** in the immediate E18 sentence |
+| `திருமலை` | **Thirumalai** |
+| `ராச்சாண்டார் மலை` | **Raachchaandaar Malai** |
+| `மாந்தியப்பன்` | **Maanthiyappan** |
+
+E18 new Part003-only glossary locks — **0**.
+
+The dying messenger's ellipses and broken syntax are a source-meaning feature; English must not fill the omitted links.
+
 ## Outgoing Part003 lock
 
 - scan215 remains inside chapter22 **தியாகத்தின் எல்லை**;
@@ -136,4 +161,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-During **E18 draft + source-check**, apply only already-established chapter14/name-term continuity that is directly supported by verified scan146. Do not open E19 glossary/title decisions until E18 closes **SOURCE-CHECKED / COMPLETE**.
+Run **E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
+
+Decide the chapter15 semantic English display title only during E19 direct source-check. Use established continuity forms only where the same verified Tamil forms recur.
