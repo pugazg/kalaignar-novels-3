@@ -11,10 +11,10 @@
 - source family / archive identifier: **TVA_BOK_0065560**
 - Part001: **FINAL CLOSED / FROZEN — 75 local pages / global scans1–75**
 - Part002: **FINAL CLOSED / FROZEN — 70 local pages / global scans76–145**
-- Part003: **REGISTERED / COMPLETE — 70 local pages / global scans146–215**
+- Part003: **FINAL CLOSED / FROZEN — 70 local pages / global scans146–215**
 - remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 release-ready synchronization PASS / CLOSED; next: final closure / freeze**
+- current state: **Parts001–003 FINAL CLOSED / FROZEN; next: Part004 source intake when supplied**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -56,6 +56,9 @@
 - Part003 release/readiness report — **PASS / CLOSED**
 - Part003 release/readiness record — `works/ponnar-sankar/translations/en/PART_003_RELEASE_REPORT.md`
 - Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
+- Part003 final-closure record — `works/ponnar-sankar/PART_003_FINAL_CLOSURE.md`
+- Part003 canonical Tamil / assembled Tamil / maintained English — **FROZEN**
 - Part003 synchronization control — `works/ponnar-sankar/PART_003_RELEASE_READY_SYNC.md`
 - Part003 synchronization textual body drift — **0**
 - Part003 unresolved release/readiness blockers — **0**
@@ -101,6 +104,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
+Parts001–003 are **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
