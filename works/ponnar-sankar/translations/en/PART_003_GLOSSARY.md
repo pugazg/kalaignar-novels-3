@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 WHOLE-PART GLOSSARY RECONCILIATION — COMPLETE / PASS**
+Status: **PART003 FINAL CLOSED / FROZEN — glossary reconciliation COMPLETE / PASS**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -364,6 +364,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Whole-Part glossary reconciliation remains **COMPLETE / PASS** and English editorial review is **PASS / CLOSED**. Preserve **215→216 PENDING Part004 direct witness**.
+Part003 remains **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
