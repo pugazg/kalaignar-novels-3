@@ -49,7 +49,7 @@ The translation preserves Ponnar declining to insist on Chinnamalaik Kozhundhu's
 - `தசரதன் / கைகேயி` — **Dasaratha / Kaikeyi**, source-facing names only
 - `கொங்கு வேளாளர்` — **Kongu Vellalar**, continuity form
 - `மதுக்கரை செல்லியம்மன்` — **Madhukkarai Chelliyamman**
-- `அர்ச்சனை` — ***archanai***
+- `அர்ச்சனை` — ***archana***
 - `மருத்துவச்சி` — **midwife**
 - `பொற்கிழி` — **purse of gold**
 - `விலங்கு` in the arrest scene — **shackles**
@@ -85,3 +85,11 @@ The translation preserves Ponnar declining to insist on Chinnamalaik Kozhundhu's
 ## Exact next activity
 
 Run **E24 English draft + direct source-check — scans191–199 / chapter20 `அப்பன் அருள்வாக்கு`**.
+
+## Whole-Part glossary reconciliation note
+
+During Part003 whole-Part glossary reconciliation, the identical Tamil source form `அர்ச்சனை` was aligned to the frozen Parts001–002 continuity form ***archana***.
+
+- E23 literary occurrences corrected — **1**
+- meaning/order/block structure changed — **0**
+- source-check closure status — **unchanged / COMPLETE**
