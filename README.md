@@ -14,7 +14,7 @@
 - Part003: **REGISTERED / COMPLETE — 70 local pages / global scans146–215**
 - remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 E18–E19 SOURCE-CHECKED / COMPLETE; E20–E26 pending; next: E20 draft + direct source-check for scans155–163**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 E18–E20 SOURCE-CHECKED / COMPLETE; E21–E26 pending; next: E21 draft + direct source-check for scans164–172**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -36,8 +36,10 @@
 - Part003 E18 source-check — `works/ponnar-sankar/translations/en/E18_SOURCE_CHECK.md`
 - Part003 E19 — **SOURCE-CHECKED / COMPLETE — scans147–154 / title `The War Host Sets Out`**
 - Part003 E19 source-check — `works/ponnar-sankar/translations/en/E19_SOURCE_CHECK.md`
-- Part003 English physical coverage — **9/70 / scans146–154**
-- Part003 English source-checked files — **2/9**
+- Part003 E20 — **SOURCE-CHECKED / COMPLETE — scans155–163 / title `Where Is the Battlefront?`**
+- Part003 E20 source-check — `works/ponnar-sankar/translations/en/E20_SOURCE_CHECK.md`
+- Part003 English physical coverage — **18/70 / scans146–163**
+- Part003 English source-checked files — **3/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 ## Workflow
@@ -67,6 +69,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Run **Part003 E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**.
+Run **Part003 E21 English draft + direct source-check — scans164–172 / chapter17 `சங்கரன்மலையில் சந்திப்போம்?`**.
 
-E18–E19 are closed. Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+E18–E20 are closed. Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
