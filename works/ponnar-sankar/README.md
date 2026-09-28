@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH E18–E19 SOURCE-CHECKED / COMPLETE**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH E18–E20 SOURCE-CHECKED / COMPLETE**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -139,17 +139,19 @@
 - Part003 English planned coverage: **scans146–215 / 70 of 70 / 0 missing / 0 duplicate**
 - Part003 English batch-number collisions: **0**
 - Part003 English section-order collisions: **0**
-- Part003 English fully translated/source-checked: **2/9 / 2/9**
+- Part003 English fully translated/source-checked: **3/9 / 3/9**
 - Part003 English literary prose drafted in setup: **0**
 - frozen Parts001–002 English edits caused by Part003 setup: **0**
 - Part003 English controls: `translations/en/PART_003_TRANSLATION_PLAN.md`, `translations/en/PART_003_GLOSSARY.md`, `translations/en/PART_003_PROGRESS.md`
 - Part003 E18: **SOURCE-CHECKED / COMPLETE — scan146 / chapter14 continuation close / 7 Tamil blocks = 7 English blocks**
 - Part003 E18 durable source-check: `translations/en/E18_SOURCE_CHECK.md`
-- Part003 English physical coverage: **scans146–154 / 9 of 70**
-- Part003 English remaining: **scans155–215 / 61**
+- Part003 English physical coverage: **scans146–163 / 18 of 70**
+- Part003 English remaining: **scans164–215 / 52**
 - Part003 E19: **SOURCE-CHECKED / COMPLETE — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை` / title `The War Host Sets Out` / 44 Tamil blocks = 44 English blocks**
 - Part003 E19 durable source-check: `translations/en/E19_SOURCE_CHECK.md`
-- Part003 English exact next activity: **E20 draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**
+- Part003 E20: **SOURCE-CHECKED / COMPLETE — scans155–163 / chapter16 `போர்முனை எது?` / title `Where Is the Battlefront?` / 63 Tamil blocks = 63 English blocks**
+- Part003 E20 durable source-check: `translations/en/E20_SOURCE_CHECK.md`
+- Part003 English exact next activity: **E21 draft + direct source-check — scans164–172 / chapter17 `சங்கரன்மலையில் சந்திப்போம்?`**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -217,6 +219,6 @@
 
 ## Exact next activity
 
-Run **Part003 E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**.
+Run **Part003 E21 English draft + direct source-check — scans164–172 / chapter17 `சங்கரன்மலையில் சந்திப்போம்?`**.
 
-Keep Parts001–002 frozen and E18–E19 closed. Outgoing **215→216 remains PENDING Part004 direct witness**.
+Keep Parts001–002 frozen and E18–E20 closed. Outgoing **215→216 remains PENDING Part004 direct witness**.
