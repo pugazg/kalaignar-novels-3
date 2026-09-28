@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ASSEMBLED TAMIL VERIFIED / PASS / CLOSED**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH PLANNING/SETUP COMPLETE / PASS**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -87,7 +87,7 @@
 - Part002 English fully translated/source-checked: **8/8 / 8/8**
 - Part002 English partial translated files: **0**
 - Part002 English physical coverage: **scans76–145 / 70 of 70**
-- Part002 English outgoing 145→146: **PENDING Part003 direct witness**
+- Part002 English outgoing 145→146: **GENUINE CONTINUATION / AUDITED / PASS from direct Part003 witness**
 - Part002 whole-Part English glossary reconciliation: **RECONCILED / PASS — 8/8 files / 0 drift / 0 section edits / 0 unresolved**
 - Part002 English editorial review: **PASS / CLOSED — 8/8 reviewed / 0 prose edits / 0 unresolved**
 - Part002 whole-Part bilingual review: **PASS / CLOSED — 8/8 pairs / 0 new English corrections / 0 unresolved**
@@ -133,6 +133,17 @@
 - Part003 assembled section files: **9/9 — scans146–215 / exact canonical coverage 70/70**
 - Part003 assembled audit: **0 missing / 0 duplicate / 0 unsupported Tamil / 0 control-note leakage / 0 canonical mutations / 0 Parts001–002 section mutations / 0 Part004 body leakage**
 - Part003 assembled validation: `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part003 English translation planning/setup: **COMPLETE / PASS**
+- Part003 English reserved batches: **E18–E26 / 9**
+- Part003 English reserved section orders: **17–25 / 9**
+- Part003 English planned coverage: **scans146–215 / 70 of 70 / 0 missing / 0 duplicate**
+- Part003 English batch-number collisions: **0**
+- Part003 English section-order collisions: **0**
+- Part003 English fully translated/source-checked: **0/9 / 0/9**
+- Part003 English literary prose drafted in setup: **0**
+- frozen Parts001–002 English edits caused by Part003 setup: **0**
+- Part003 English controls: `translations/en/PART_003_TRANSLATION_PLAN.md`, `translations/en/PART_003_GLOSSARY.md`, `translations/en/PART_003_PROGRESS.md`
+- Part003 English exact next activity: **E18 draft + direct source-check — scan146 only**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -200,6 +211,6 @@
 
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+Run **Part003 E18 English draft + direct source-check — scan146 only**.
 
-Keep Parts001–002 frozen. Part003 canonical Tamil is **70/70 verified**, Tamil archival-ready is **PASS / COMPLETE**, and assembled Tamil is **VERIFIED / PASS / CLOSED — 9/9 / exact coverage 70/70**. Run English translation planning/setup next without drafting literary prose, and keep outgoing 215→216 pending Part004 direct witness.
+Keep Parts001–002 frozen. Use verified `sections/17-raachchaandaar-malai-nokki-part003-continuation.md` and canonical scan146; preserve chapter14 continuation without repeating a displayed chapter heading. Outgoing **215→216 remains PENDING Part004 direct witness**. Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
