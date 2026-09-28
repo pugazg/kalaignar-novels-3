@@ -127,6 +127,6 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first, assign its source-backed global scan range, and directly audit **215→216** before Pass1.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Do not begin Part004; keep **215→216 PENDING Part004 direct witness**.
+Do not invent Part004 range, boundary classification or text. Part003 remains **FINAL CLOSED / FROZEN**.
