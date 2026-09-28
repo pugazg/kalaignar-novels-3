@@ -13,8 +13,8 @@
 |---:|---|---|---:|---|---:|---|---|---|
 | 001 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_001_pages_1-75.pdf` | 49648830 | `7c18dcd38e4710962da5f31391f3bd74ce73046f2aeceda97e6cb5d8e1b65ae6` | 75 | 1–75 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
 | 002 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_002_pages_76-145.pdf` | 49532734 | `d6bfca1bb53a21c72e4eab0ca03db545c9cf7070cd3e2cf8eaca9d864596c6cd` | 70 | 76–145 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
-| 003 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf` | 49598408 | `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab` | 70 | 146–215 | **REGISTERED / COMPLETE** | **PASS1 COMPLETE / PASS — 70/70; PASS2A READY** |
-| 004 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
+| 003 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_003_pages_146-215.pdf` | 49598408 | `3e1e742f27912797a3217e51e706caf75bbb4a74dd0b8c33116d6837df7c67ab` | 70 | 146–215 | **REGISTERED / COMPLETE** | **FINAL CLOSED / FROZEN** |
+| 004 | yes | `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf` | 49892265 | `2ed96e4ae046b20b8d9a6c6db3aeae8c822411df0947771f9a691007be729616` | 70 | 216–285 | **REGISTERED / COMPLETE** | **PASS1 READY / NOT STARTED** |
 | 005 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 006 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
 | 007 | pending | — | — | — | — | — | NOT REGISTERED | NOT STARTED |
@@ -22,8 +22,8 @@
 
 ## Current accounting
 
-- registered Parts: **3/8**
-- registered physical scan coverage: **1–215 / 215 scans**
+- registered Parts: **4/8**
+- registered physical scan coverage: **1–285 / 285 scans**
 - Part001 source intake: **REGISTERED / COMPLETE**
 - Part001 canonical records: **75/75 — scans1–75**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual pages + 1 image-map page**
@@ -121,7 +121,13 @@
 - Part003 release/readiness: **PASS / CLOSED — 0 blockers**
 - Part003 release-ready synchronization: **PASS / CLOSED**
 - Part003 final closure: **PASS / CLOSED / FROZEN**
-- Part003 outgoing 215→216: **PENDING Part004 direct witness**
+- Part003 outgoing 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 source intake: **REGISTERED / COMPLETE — 70 pages / scans216–285**
+- Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
+- Part004 canonical records: **0/70**
+- Part004 Pass1: **READY / NOT STARTED — 0/70**
+- Part004 Pass1 Batch1 next: **scans216–225 / local pages1–10**
+- Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part004–Part008: **pending source intake**
 - outgoing Part001 / incoming Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing Part002 / incoming Part003 boundary **145→146**: **GENUINE CONTINUATION / AUDITED / PASS**
