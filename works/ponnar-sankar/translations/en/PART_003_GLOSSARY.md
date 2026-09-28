@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 ACTIVE — E18–E21 SOURCE-CHECKED / COMPLETE**
+Status: **PART003 ACTIVE — E18–E22 SOURCE-CHECKED / COMPLETE**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -51,7 +51,7 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 | புறப்பட்டது போர்ப்படை | **The War Host Sets Out** — E19 source-checked display title |
 | போர்முனை எது? | **Where Is the Battlefront?** — E20 source-checked display title |
 | சங்கரன்மலையில் சந்திப்போம்? | **Shall We Meet at Sankaranmalai?** — E21 source-checked display title |
-| சுயநலமா? பொதுநலமா? | paired rhetorical structure locked; semantic English display title deferred to E22 source-check |
+| சுயநலமா? பொதுநலமா? | **Self-Interest? Public Interest?** — E22 source-checked display title |
 | உண்மையின் உறைவிடம் | Tamil title locked; semantic English display title deferred to E23 source-check |
 | அப்பன் அருள்வாக்கு | Tamil title locked; semantic English display title deferred to E24 source-check |
 | நேர்மையைப் பற்றி வீரமலை | Tamil title locked; semantic English display title deferred to E25 source-check |
@@ -191,6 +191,27 @@ Continuity forms **Kundrudaiyaan / Kundrudaiya Gounder, Nelliyangodan, Raakkiyan
 
 No external place-name, historical, social or political normalization was introduced.
 
+## E22 — scans173–180 / chapter18
+
+E22 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-backed E22 decisions:
+
+| Tamil source | E22 handling |
+|---|---|
+| `சுயநலமா? பொதுநலமா?` | **Self-Interest? Public Interest?** |
+| `ஆல வட்டங்கள்` | ***aalavattam*** — source term retained without external object-description |
+| `அர்ச்சனை` | ***archanai*** — source ritual term retained without external explanation |
+| `மைத்துனரே` | **brother-in-law** in immediate kinship context |
+| `அருட்கன்னி` | **Arutkanni** |
+| `விளையும் பயிர் முளையிலே` | **one can know the crop from the sprout** — agricultural proverb image preserved |
+| `சபதம் / சத்தியம்` | **vow / oath** according to immediate occurrence |
+| `வாக்குறுதி` | **promise** |
+
+The source's stone-on-stone argument metaphor and its paired final dilemma are preserved rather than normalized into abstract exposition.
+
+No external historical, religious, kinship, political or cultural explanation was introduced.
+
 ## Outgoing Part003 lock
 
 - scan215 remains inside chapter22 **தியாகத்தின் எல்லை**;
@@ -225,6 +246,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **E22 English draft + direct source-check — scans173–180 / chapter18 `சுயநலமா? பொதுநலமா?`**.
+Run **E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
 
-Decide the chapter18 paired rhetorical English display title only during E22 direct source-check. Do not reopen closed E18–E21 merely to advance E22.
+Decide the chapter19 semantic English display title only during E23 direct source-check. Do not reopen closed E18–E22 merely to advance E23.
