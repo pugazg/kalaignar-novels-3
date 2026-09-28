@@ -238,6 +238,12 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - durable Part003 audit — `PART_003_AUDIT.md`
 - Part003 Pass3 cadence — **15 pages per iteration; final remainder may be smaller**
 - durable Part003 Pass3 tracker — `PART_003_PASS3_PROGRESS.md`
+- Part003 English E18–E26 — **SOURCE-CHECKED / COMPLETE — 9/9**
+- Part003 whole-Part glossary reconciliation — **COMPLETE / PASS**
+- Part003 English editorial review — **PASS / CLOSED**
+- Part003 whole-Part bilingual review — **PASS / CLOSED**
+- Part003 release/readiness — **PASS / CLOSED — 0 blockers**
+- Part003 release-ready synchronization — **PASS / CLOSED**
 - Part003 outgoing 215→216 — **PENDING Part004 direct witness**
 - Part004–Part008 — **pending intake / NOT REGISTERED**
 - boundary 75→76 — **GENUINE CONTINUATION / AUDITED / PASS**
@@ -286,4 +292,4 @@ Source PDFs are controlling evidence but remain outside Git. Repository records 
 - Part002 release-ready synchronization — **PASS / CLOSED**
 - Part002 final closure — **PASS / CLOSED / FROZEN**
 - Part002 canonical / assembled Tamil / maintained English — **FROZEN**
-- exact next activity — **Part003 English translation planning/setup**
+- exact next activity — **Part003 final closure / freeze**
