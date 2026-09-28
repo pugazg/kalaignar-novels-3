@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 E18–E26 SOURCE-CHECKED / COMPLETE — WHOLE-PART GLOSSARY RECONCILIATION NEXT**
+Status: **PART003 WHOLE-PART GLOSSARY RECONCILIATION — COMPLETE / PASS**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -45,7 +45,7 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 
 ## Chapter-title handling
 
-| Part003 source title | Planning handling |
+| Part003 source title | Reconciled handling |
 |---|---|
 | ராச்சாண்டார் மலைநோக்கி... | frozen E17 display title **Toward Raachchaandaar Malai...** is continuity evidence only; E18 is continuation/close and must not repeat the displayed heading |
 | புறப்பட்டது போர்ப்படை | **The War Host Sets Out** — E19 source-checked display title |
@@ -59,21 +59,24 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 
 Romanized section filenames are provenance handles only. They are not final semantic English titles.
 
-## Part003-only or not-yet-frozen forms
+## Part003 first-source-check forms — reconciled
 
-The following verified Part003 forms are not assigned a new semantic English rendering during setup. Their handling must be decided at first direct source-check from Part003 evidence only:
+All Part003-only / first-source-check forms required by E18–E26 have now been resolved from verified Part003 evidence.
 
-- அழகுநாச்சியார்
-- ஆரிச்சம்பட்டி / ஆரிச்சம் பட்டி occurrence variants
-- சங்கரன்மலை / சங்கர மலை occurrence variants
-- மாரிக்கவுண்டன்பாளையம்
-- கோளாத்தாக் கவுண்டர்
-- தளகர்த்தர் where the immediate Part003 sentence may require a functional rendering
-- source-specific military, ritual, kinship, lineage and place expressions first encountered in Part003
+| Tamil source / occurrence class | Reconciled English handling | Whole-Part note |
+|---|---|---|
+| `அழகுநாச்சி / அழகுநாச்சியார்` | **Azhagu Naachchi / Azhagu Naachchiyar** | honorific distinction retained by occurrence |
+| `ஆரிச்சம்பட்டி` and source spacing variants | **Aarichampatti** | frozen continuity form; Tamil spacing evidence remains upstream |
+| `சங்கரன்மலை` | **Sankaranmalai** | compound occurrence retained |
+| `சங்கரன் மலை` / `சங்கர மலை` where source separates the place name | **Sankaran Malai** | source-separated occurrence retained |
+| `மாரிக்கவுண்டன்பாளையம்` / Part003 local spacing variants | **Maarik Goundan Paalayam** | source-facing project continuity; upstream Tamil not normalized |
+| `கோளாத்தாக் கவுண்டர்` | **Kolaatha Gounder** | frozen Part001 continuity form; E26 drift corrected |
+| `பவளாத்தாள்` | **Pavalaathaal** | frozen Part001 continuity form; E26 drift corrected |
+| `தளகர்த்தர் / தளகர்த்தன்` | **commander** where the immediate sentence is functional | existing prior functional handling retained |
 
-Planning state — **SOURCE-FACING / FIRST-SOURCE-CHECK LOCK REQUIRED**.
+Source-distinct deity-name forms remain distinct: **Madhukkarai Chelliyamman** for `மதுக்கரை செல்லியம்மன்` and **Madhukkarai Chellandiyamman** for `மதுக்கரை செல்லாண்டியம்மன்`. They are not silently normalized into one another.
 
-No outside spelling, map, gazetteer, encyclopedia, published translation or remembered standard form is authorized.
+No outside spelling, map, gazetteer, encyclopedia, published translation or remembered standard form was used.
 
 ## Kinship, titles and occurrence-sensitive forms
 
@@ -201,7 +204,7 @@ Source-backed E22 decisions:
 |---|---|
 | `சுயநலமா? பொதுநலமா?` | **Self-Interest? Public Interest?** |
 | `ஆல வட்டங்கள்` | ***aalavattam*** — source term retained without external object-description |
-| `அர்ச்சனை` | ***archanai*** — source ritual term retained without external explanation |
+| `அர்ச்சனை` | ***archana*** — frozen Parts001–002 continuity form for the identical Tamil source term |
 | `மைத்துனரே` | **brother-in-law** in immediate kinship context |
 | `அருட்கன்னி` | **Arutkanni** |
 | `விளையும் பயிர் முளையிலே` | **one can know the crop from the sprout** — agricultural proverb image preserved |
@@ -266,8 +269,8 @@ E26 is **SOURCE-CHECKED / COMPLETE**.
 | Tamil source | E26 handling |
 |---|---|
 | `தியாகத்தின் எல்லை` | **The Limit of Sacrifice** |
-| `கோளாத்தாக் கவுண்டர்` | **Koalatha Gounder** |
-| `பவளாத்தாள்` | **Pavalathaall** |
+| `கோளாத்தாக் கவுண்டர்` | **Kolaatha Gounder** |
+| `பவளாத்தாள்` | **Pavalaathaal** |
 | `குடமுழுக்கு` | ***kudamuzhukku*** |
 | `பெருங்குடி` | **Perungkudi** — source-facing community/clan form |
 | `மக்கட் செல்வம்` | **the wealth of one's children** |
@@ -276,6 +279,56 @@ E26 is **SOURCE-CHECKED / COMPLETE**.
 | `சுயநலம் / தன்னலமற்ற` | **selfishness / selfless** |
 
 E26 preserves the terminal control marker **215→216 PENDING Part004 direct witness** and does not infer continuation.
+
+## Whole-Part reconciliation result
+
+Reviewed:
+
+- maintained Part003 English files — **9/9 / E18–E26**;
+- durable batch source-checks — **9/9 / E18–E26**;
+- chapter-title locks — **8/8 titles + E18 continuation handling / PASS**;
+- frozen Parts001–002 exact-key glossary intersections — **checked**;
+- occurrence-sensitive name / honorific / place distinctions — **checked**;
+- retained source-facing ritual / measure / military terms — **checked**.
+
+Three accidental English continuity drifts were found and corrected:
+
+1. `அர்ச்சனை` — ***archanai*** → ***archana*** — **3 literary occurrences** (E22 ×2, E23 ×1);
+2. `கோளாத்தாக் கவுண்டர்` — **Koalatha Gounder** → **Kolaatha Gounder** — **9 literary occurrences** (E26);
+3. `பவளாத்தாள்` — **Pavalathaall** → **Pavalaathaal** — **1 literary occurrence** (E26).
+
+Total source-backed literary continuity corrections — **13 occurrences across 3 maintained English files**.
+
+These corrections change transliteration continuity only:
+
+- source meaning changed — **0**;
+- source order changed — **0**;
+- literary/display block count changed — **0**;
+- physical boundary provenance changed — **0**;
+- canonical Tamil edits — **0**;
+- assembled Tamil edits — **0**;
+- frozen Parts001–002 English edits — **0**.
+
+Deliberately retained occurrence-sensitive distinctions include:
+
+- **Raakkiyannan / Raakkiyannar**;
+- **Thamarai Naachchi / Thamarai Naachchiyar**;
+- **Kundrudaiyaan / Kundrudaiya Gounder**;
+- **Veeramalai / Veeramalai Sambuvan**;
+- **Azhagu Naachchi / Azhagu Naachchiyar**;
+- **Sankaranmalai / Sankaran Malai**;
+- **Raachchaandaar Malai / Raachchaandaar Thirumalai**;
+- **Madhukkarai Chelliyamman / Madhukkarai Chellandiyamman** where the Tamil source itself differs.
+
+Retained source-facing terms are occurrence-backed only, including ***karagam, archana, kumbabhishekam, naivedyam, prasadam, kudamuzhukku, naazhigai, kal*** and ***vel***.
+
+**PART003 WHOLE-PART GLOSSARY RECONCILIATION — COMPLETE / PASS**
+
+- E18–E26 reviewed — **9/9**;
+- source-backed glossary conflicts unresolved — **0**;
+- unsupported normalization — **0**;
+- external-source normalization — **0**;
+- outgoing 215→216 — **PENDING Part004 direct witness**.
 
 ## Outgoing Part003 lock
 
@@ -298,7 +351,7 @@ For each E18–E26 batch:
 
 ## Planning result
 
-**PART003 GLOSSARY SETUP — COMPLETE / PASS**
+**PART003 GLOSSARY SETUP — COMPLETE / PASS — SUPERSEDED BY WHOLE-PART RECONCILIATION COMPLETE / PASS**
 
 - frozen Parts001–002 glossary edits — **0**;
 - carry-forward continuity rules registered — **PASS**;
@@ -311,6 +364,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **Part003 whole-Part glossary reconciliation across E18–E26**.
+Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
 
-Reconcile only source-backed Part003 English forms and occurrence-sensitive variants. Keep Parts001–002 frozen, do not revise literary prose merely for stylistic preference, and preserve **215→216 PENDING Part004 direct witness**.
+Do not reopen canonical or assembled Tamil, do not alter frozen Parts001–002 English, and preserve **215→216 PENDING Part004 direct witness**.
