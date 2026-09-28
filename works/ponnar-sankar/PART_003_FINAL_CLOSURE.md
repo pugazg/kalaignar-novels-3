@@ -278,3 +278,19 @@ Navigation state now points to:
 - incoming **215→216 — PENDING direct Part004 source witness**
 
 **Post-record synchronization verification: PASS.**
+
+
+## Subsequent Part004 source witness
+
+After Part003 was frozen, the user supplied the controlling Part004 source.
+
+Direct adjacent inspection resolved the formerly pending outgoing boundary:
+
+- frozen scan215 closes chapter22 **`தியாகத்தின் எல்லை`**;
+- Part004 scan216 opens chapter23 **`ஆசான் ஆணைக்கேட்டு நடப்போம்`**;
+- boundary classification — **215→216 CHAPTER TRANSITION / AUDITED / PASS**;
+- split-word reconstruction — **NO**;
+- frozen Part003 canonical / assembled / English body edits — **0 / 0 / 0**;
+- Part004 text imported into frozen Part003 body — **0**.
+
+Part003 remains **FINAL CLOSED / FROZEN**.
