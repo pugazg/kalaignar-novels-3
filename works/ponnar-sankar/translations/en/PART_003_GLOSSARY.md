@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 ACTIVE — E18 SOURCE-CHECKED / COMPLETE**
+Status: **PART003 ACTIVE — E18–E19 SOURCE-CHECKED / COMPLETE**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -48,7 +48,7 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 | Part003 source title | Planning handling |
 |---|---|
 | ராச்சாண்டார் மலைநோக்கி... | frozen E17 display title **Toward Raachchaandaar Malai...** is continuity evidence only; E18 is continuation/close and must not repeat the displayed heading |
-| புறப்பட்டது போர்ப்படை | Tamil title locked; semantic English display title deferred to E19 source-check |
+| புறப்பட்டது போர்ப்படை | **The War Host Sets Out** — E19 source-checked display title |
 | போர்முனை எது? | Tamil punctuation/question locked; semantic English display title deferred to E20 source-check |
 | சங்கரன்மலையில் சந்திப்போம்? | Tamil punctuation/question locked; semantic English display title deferred to E21 source-check |
 | சுயநலமா? பொதுநலமா? | paired rhetorical structure locked; semantic English display title deferred to E22 source-check |
@@ -127,6 +127,27 @@ E18 new Part003-only glossary locks — **0**.
 
 The dying messenger's ellipses and broken syntax are a source-meaning feature; English must not fill the omitted links.
 
+## E19 — scans147–154 / chapter15
+
+E19 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-backed E19 decisions:
+
+| Tamil source | E19 handling |
+|---|---|
+| `புறப்பட்டது போர்ப்படை` | **The War Host Sets Out** |
+| `ராஜதந்திரி` | **statesman** in the narrator's immediate evaluative sentence |
+| `நூலேணி` | **rope ladder** — source metaphor preserved |
+| `வீர வேல்!` | **Veera Vel!** |
+| `வெற்றி வேல்!` | **Vetri Vel!** |
+| `விற்போர்` | **archery** in the immediate military context |
+| `ஓலை` | **palm-leaf message** in the immediate communication context |
+| `வேல்` in the troop inventory | ***vel*** — kept distinct from `ஈட்டி` / spear |
+
+Continuity forms **Aarichampatti, Nelli Valanaadu, Chellaatha Gounder, Thalaiyur Kaali, Thamarai Naachchiyar, Maanthiyappan, Muthayi, Pavalayi, Vaiyam Perumaan, Chinnamalaik Kozhundhu, Veeramalai Sambuvan, Ponnar, Sankar, Thirumalai, Raachchaandaar Malai / Raachchaandaar Thirumalai, Chellandiyamman, Kulithalai** and ***karagam*** were retained only where the same verified Tamil forms recur.
+
+No external normalization or new historical/geographic explanation was introduced.
+
 ## Outgoing Part003 lock
 
 - scan215 remains inside chapter22 **தியாகத்தின் எல்லை**;
@@ -161,6 +182,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
+Run **E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**.
 
-Decide the chapter15 semantic English display title only during E19 direct source-check. Use established continuity forms only where the same verified Tamil forms recur.
+Decide the chapter16 semantic English display title only during E20 direct source-check. Do not reopen closed E18–E19 merely to advance E20.
