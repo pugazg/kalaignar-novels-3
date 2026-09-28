@@ -4,9 +4,9 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS.**
+**PART003 ENGLISH ACTIVE — E18 SOURCE-CHECKED / COMPLETE.**
 
-Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 / 9** reserved with **0 literary prose drafted**.
+Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18 SOURCE-CHECKED / COMPLETE**; E19–E26 remain planned.
 
 ## Maintained English sequence per Part
 
@@ -180,8 +180,9 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 - missing / duplicate planned coverage — **0 / 0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- fully translated/source-checked files — **0/9 / 0/9**
+- fully translated/source-checked files — **1/9 / 1/9**
 - English literary prose drafted in setup — **0**
+- current Part003 English physical coverage — **scan146 / 1 of 70**
 - frozen Parts001–002 English edits — **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -190,7 +191,7 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 | Batch | Verified Tamil assembled source | Scans | Status |
 |---|---|---:|---|
-| **E18** | `17-raachchaandaar-malai-nokki-part003-continuation.md` | 146 | **PLANNED / NOT DRAFTED** |
+| **E18** | `17-raachchaandaar-malai-nokki-part003-continuation.md` | 146 | **SOURCE-CHECKED / COMPLETE** |
 | **E19** | `18-purappattathu-porppadai.md` | 147–154 | **PLANNED / NOT DRAFTED** |
 | **E20** | `19-pormunai-ethu.md` | 155–163 | **PLANNED / NOT DRAFTED** |
 | **E21** | `20-sangaranmalaiyil-santhippom.md` | 164–172 | **PLANNED / NOT DRAFTED** |
@@ -208,6 +209,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 E18 English draft + direct source-check — scan146 only**.
+Run **Part003 E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
 
-Use verified section17 and canonical scan146. Preserve chapter14 continuation from frozen E17 without repeating a displayed heading. Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E20 until E19 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
