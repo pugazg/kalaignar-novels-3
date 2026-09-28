@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 WHOLE-PART BILINGUAL REVIEW PASS / CLOSED**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 RELEASE/READINESS REPORT PASS / CLOSED**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -167,6 +167,10 @@
 - Part003 whole-Part English glossary reconciliation: **COMPLETE / PASS**
 - Part003 English editorial review: **PASS / CLOSED**
 - Part003 whole-Part bilingual review: **PASS / CLOSED**
+- Part003 release/readiness report: **PASS / CLOSED**
+- Part003 release/readiness record: `translations/en/PART_003_RELEASE_REPORT.md`
+- Part003 unresolved release/readiness blockers: **0**
+- Part003 maintained English body edits introduced by readiness: **0**
 - Part003 bilingual review record: `translations/en/PART_003_BILINGUAL_REVIEW.md`
 - Part003 bilingual pairs reviewed: **9/9**
 - Part003 new English corrections required by bilingual review: **0**
@@ -178,7 +182,7 @@
 - Part003 glossary reconciliation literary corrections: **13 occurrences / 3 files**
 - Part003 unresolved glossary conflicts: **0**
 - Part003 unsupported normalization: **0**
-- Part003 English exact next activity: **release/readiness report**
+- Part003 English exact next activity: **release-ready synchronization**
 - Part003 English exact next activity: **whole-Part glossary reconciliation across E18–E26**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -247,6 +251,6 @@
 
 ## Exact next activity
 
-Run **Part003 release/readiness report**.
+Run **Part003 release-ready synchronization**.
 
 Keep Parts001–002 frozen. Do not begin Part004; outgoing **215→216 remains PENDING Part004 direct witness**.
