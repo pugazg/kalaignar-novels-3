@@ -123,7 +123,7 @@ Canonical `scan_page` remains the global physical scan number.
 - Part003 release-ready synchronization — **PASS / CLOSED**
 - unresolved downstream blockers — **0**
 - Part004 body leakage — **0**
-- outgoing **215→216 — PENDING Part004 direct witness**
+- outgoing **215→216 — CHAPTER TRANSITION / AUDITED / PASS**
 
 ## Exact next activity
 
