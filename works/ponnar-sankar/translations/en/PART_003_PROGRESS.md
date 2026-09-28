@@ -2,17 +2,17 @@
 
 ## Overall state
 
-**PART003 ENGLISH TRANSLATION PLANNING/SETUP — COMPLETE / PASS**
+**PART003 ENGLISH ACTIVE — E18 SOURCE-CHECKED / COMPLETE**
 
 Parts001–002 English remain **FINAL CLOSED / FROZEN**.
 
-No Part003 English literary prose has been drafted yet.
+E18 has been drafted and directly source-checked; E19–E26 remain undrafted.
 
 ## Reserved batch map
 
 | Batch | Verified Part003 assembled Tamil source | Scans | Planned status |
 |---|---|---:|---|
-| **E18** | section17 — ராச்சாண்டார் மலைநோக்கி... continuation/close | 146 | **PLANNED / NOT DRAFTED** |
+| **E18** | section17 — ராச்சாண்டார் மலைநோக்கி... continuation/close | 146 | **SOURCE-CHECKED / COMPLETE** |
 | **E19** | section18 — புறப்பட்டது போர்ப்படை | 147–154 | **PLANNED / NOT DRAFTED** |
 | **E20** | section19 — போர்முனை எது? | 155–163 | **PLANNED / NOT DRAFTED** |
 | **E21** | section20 — சங்கரன்மலையில் சந்திப்போம்? | 164–172 | **PLANNED / NOT DRAFTED** |
@@ -47,17 +47,18 @@ These filenames are provenance handles. Semantic English chapter-title decisions
 - Part003 English reserved batches — **E18–E26 / 9**
 - Part003 English reserved section orders — **17–25 / 9**
 - Part003 English planned files — **9**
-- Part003 fully translated files — **0/9**
+- Part003 fully translated files — **1/9**
 - Part003 partial translated files — **0**
-- Part003 source-checked complete files — **0/9**
-- Part003 physical English processing coverage — **0/70**
-- Part003 physical English remaining — **70**
+- Part003 source-checked complete files — **1/9**
+- Part003 physical English processing coverage — **1/70 / scan146**
+- Part003 physical English remaining — **69 / scans147–215**
 - planned source coverage — **scans146–215**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
 - English literary prose drafted in setup — **0**
+- English literary prose drafted after setup — **E18 / scan146 only**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Parts001–002 English edits caused by Part003 planning — **0**
@@ -81,6 +82,20 @@ These filenames are provenance handles. Semantic English chapter-title decisions
 - union — **146–215 exactly**
 - gaps — **0**
 - overlaps — **0**
+
+## E18 closure
+
+- batch — **E18**
+- translated/source-checked coverage — **scan146 / 1 of 1**
+- maintained English file — `sections/17-raachchaandaar-malai-nokki-part003-continuation.md`
+- durable source-check — `E18_SOURCE_CHECK.md`
+- Tamil / English literary-display blocks — **7 / 7**
+- repeated chapter14 display heading — **0**
+- omitted / duplicated / unsupported English blocks — **0 / 0 / 0**
+- direct source-pixel discrepancy requiring Tamil reopening — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–002 English edits — **0**
+- unresolved E18 holds — **0**
 
 ## Cross-Part locks
 
@@ -131,6 +146,6 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 ## Exact next activity
 
-Run **E18 English draft + direct source-check — scan146 only** against verified section17 and canonical scan146.
+Run **E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
 
-E18 must preserve chapter14 continuation from frozen E17 without repeating the displayed chapter heading. Do not begin E19 until E18 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin E20 until E19 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
