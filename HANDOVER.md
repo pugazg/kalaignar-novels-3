@@ -224,17 +224,21 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 English batch-number collisions — **0**
 - Part003 English section-order collisions — **0**
 - Part003 English prose drafted in setup — **0**
+- Part003 E18 — **SOURCE-CHECKED / COMPLETE — scan146 / chapter14 continuation close**
+- Part003 E18 source-check — `works/ponnar-sankar/translations/en/E18_SOURCE_CHECK.md`
+- Part003 English physical coverage — **1/70 / scan146**
+- Part003 English translated/source-checked files — **1/9 / 1/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **E18 English draft + direct source-check — scan146 only**
+- Part003 exact next activity — **E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 E18 English draft + source-check frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 E19 English draft + source-check frontier**
 
 ## Exact next activity
 
-Run **Part003 E18 English draft + direct source-check — scan146 only**.
+Run **Part003 E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 planning/setup is **COMPLETE / PASS** with **E18–E26 / 9** reserved and **0** setup prose. Use verified section17 + canonical scan146, preserve chapter14 continuation without repeating a displayed heading, and keep **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. E18 is **SOURCE-CHECKED / COMPLETE** and should not be reopened merely to advance E19. Keep **215→216 PENDING Part004 direct witness**.
