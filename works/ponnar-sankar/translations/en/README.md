@@ -4,7 +4,7 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+**PART003 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED.**
 
 Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 SOURCE-CHECKED / COMPLETE — 9/9**.
 
@@ -230,6 +230,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
+Run **Part003 release/readiness report**.
 
 Keep Parts001–002 frozen. Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
