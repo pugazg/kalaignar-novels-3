@@ -234,19 +234,27 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 E21 source-check — `works/ponnar-sankar/translations/en/E21_SOURCE_CHECK.md`
 - Part003 E22 — **SOURCE-CHECKED / COMPLETE — scans173–180 / chapter18 / maintained title `Self-Interest? Public Interest?`**
 - Part003 E22 source-check — `works/ponnar-sankar/translations/en/E22_SOURCE_CHECK.md`
-- Part003 English physical coverage — **35/70 / scans146–180**
-- Part003 English translated/source-checked files — **5/9 / 5/9**
+- Part003 E23 — **SOURCE-CHECKED / COMPLETE — scans181–190 / chapter19 / maintained title `The Abode of Truth`**
+- Part003 E23 source-check — `works/ponnar-sankar/translations/en/E23_SOURCE_CHECK.md`
+- Part003 E24 — **SOURCE-CHECKED / COMPLETE — scans191–199 / chapter20 / maintained title `The Father's Oracle`**
+- Part003 E24 source-check — `works/ponnar-sankar/translations/en/E24_SOURCE_CHECK.md`
+- Part003 E25 — **SOURCE-CHECKED / COMPLETE — scans200–207 / chapter21 / maintained title `Veeramalai on Integrity`**
+- Part003 E25 source-check — `works/ponnar-sankar/translations/en/E25_SOURCE_CHECK.md`
+- Part003 E26 — **SOURCE-CHECKED / COMPLETE — scans208–215 / chapter22 / maintained title `The Limit of Sacrifice`**
+- Part003 E26 source-check — `works/ponnar-sankar/translations/en/E26_SOURCE_CHECK.md`
+- Part003 English physical coverage — **70/70 / scans146–215**
+- Part003 English translated/source-checked files — **9/9 / 9/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**
+- Part003 exact next activity — **whole-Part glossary reconciliation across E18–E26**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 E23 English draft + source-check frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 whole-Part glossary reconciliation frontier**
 
 ## Exact next activity
 
-Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
+Run **Part003 whole-Part glossary reconciliation across E18–E26**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. E18–E22 are **SOURCE-CHECKED / COMPLETE** and should not be reopened merely to advance E23. Keep **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. E18–E26 are **SOURCE-CHECKED / COMPLETE — 9/9 / scans146–215**. Keep **215→216 PENDING Part004 direct witness**.
