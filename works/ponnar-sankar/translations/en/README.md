@@ -4,7 +4,7 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+**PART003 FINAL CLOSED / FROZEN — maintained English E18–E26 frozen.**
 
 Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 SOURCE-CHECKED / COMPLETE — 9/9**.
 
@@ -48,8 +48,10 @@ No OCR, web text, alternate edition, remembered wording or published English tra
 - release/readiness report — **PASS / CLOSED**
 - release/readiness record — `PART_003_RELEASE_REPORT.md`
 - Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
+- Part003 final-closure record — `../../PART_003_FINAL_CLOSURE.md`
 - synchronization body drift — **0**
-- exact next gate — **Part003 final closure / freeze**
+- exact next gate — **Part004 source intake when source is supplied**
 - unresolved release/readiness blockers — **0**
 - maintained English body edits introduced by readiness — **0**
 - release/readiness — **PASS / CLOSED**
@@ -237,6 +239,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
+Part003 remains **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
