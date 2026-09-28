@@ -243,6 +243,10 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 E26 — **SOURCE-CHECKED / COMPLETE — scans208–215 / chapter22 / maintained title `The Limit of Sacrifice`**
 - Part003 E26 source-check — `works/ponnar-sankar/translations/en/E26_SOURCE_CHECK.md`
 - Part003 whole-Part English glossary reconciliation — **COMPLETE / PASS**
+- Part003 English editorial review — **PASS / CLOSED**
+- Part003 editorial review record — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_REVIEW.md`
+- Part003 editorial prose edits — **0/9 files / 0 substantive corrections**
+- Part003 unresolved editorial holds — **0**
 - Part003 glossary reconciliation record — `works/ponnar-sankar/translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
 - Part003 source-backed glossary corrections — **13 occurrences / 3 files**
 - Part003 unresolved glossary conflicts — **0**
@@ -250,16 +254,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 English physical coverage — **70/70 / scans146–215**
 - Part003 English translated/source-checked files — **9/9 / 9/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **English editorial review across E18–E26**
+- Part003 exact next activity — **whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 English editorial review frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 whole-Part bilingual review frontier**
 
 ## Exact next activity
 
-Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
+Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
 
 Parts001–002 remain **FINAL CLOSED / FROZEN**. Keep **215→216 PENDING Part004 direct witness**.
