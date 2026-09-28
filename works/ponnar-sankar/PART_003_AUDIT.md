@@ -207,8 +207,22 @@ Promotion validation:
 - durable validation — `PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
 - outgoing **215→216** — **PENDING Part004 direct witness**
 
+## Downstream English / release lifecycle
+
+- English E18–E26 — **SOURCE-CHECKED / COMPLETE — 9/9**
+- whole-Part glossary reconciliation — **COMPLETE / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness report — **PASS / CLOSED — 0 blockers**
+- release-ready synchronization — **PASS / CLOSED**
+- maintained English body drift during synchronization — **0**
+- canonical / assembled Tamil body drift during synchronization — **0 / 0**
+- frozen Parts001–002 body drift during synchronization — **0**
+- Part004 leakage — **0**
+- outgoing **215→216 — PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+Run **Part003 final closure / freeze**.
 
-Do not draft English literary prose during the planning/setup gate.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Do not begin Part004; keep **215→216 PENDING Part004 direct witness**.
