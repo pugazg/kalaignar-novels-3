@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 ACTIVE — E18–E22 SOURCE-CHECKED / COMPLETE**
+Status: **PART003 E18–E26 SOURCE-CHECKED / COMPLETE — WHOLE-PART GLOSSARY RECONCILIATION NEXT**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -52,10 +52,10 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 | போர்முனை எது? | **Where Is the Battlefront?** — E20 source-checked display title |
 | சங்கரன்மலையில் சந்திப்போம்? | **Shall We Meet at Sankaranmalai?** — E21 source-checked display title |
 | சுயநலமா? பொதுநலமா? | **Self-Interest? Public Interest?** — E22 source-checked display title |
-| உண்மையின் உறைவிடம் | Tamil title locked; semantic English display title deferred to E23 source-check |
-| அப்பன் அருள்வாக்கு | Tamil title locked; semantic English display title deferred to E24 source-check |
-| நேர்மையைப் பற்றி வீரமலை | Tamil title locked; semantic English display title deferred to E25 source-check |
-| தியாகத்தின் எல்லை | Tamil title locked; semantic English display title deferred to E26 source-check |
+| உண்மையின் உறைவிடம் | **The Abode of Truth** — E23 source-checked display title |
+| அப்பன் அருள்வாக்கு | **The Father's Oracle** — E24 source-checked display title |
+| நேர்மையைப் பற்றி வீரமலை | **Veeramalai on Integrity** — E25 source-checked display title |
+| தியாகத்தின் எல்லை | **The Limit of Sacrifice** — E26 source-checked display title |
 
 Romanized section filenames are provenance handles only. They are not final semantic English titles.
 
@@ -212,6 +212,71 @@ The source's stone-on-stone argument metaphor and its paired final dilemma are p
 
 No external historical, religious, kinship, political or cultural explanation was introduced.
 
+## E23 — scans181–190 / chapter19
+
+E23 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | E23 handling |
+|---|---|
+| `உண்மையின் உறைவிடம்` | **The Abode of Truth** |
+| `வாக்கு நாணயம் / வாக்குச் சுத்தம்` | worth / purity of one's pledged word in immediate context |
+| `தசரதன் / கைகேயி` | **Dasaratha / Kaikeyi** |
+| `மதுக்கரை செல்லியம்மன்` | **Madhukkarai Chelliyamman** |
+| `மருத்துவச்சி` | **midwife** |
+| `பொற்கிழி` | **purse of gold** |
+| `விலங்கு` in arrest scene | **shackles** |
+
+## E24 — scans191–199 / chapter20
+
+E24 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | E24 handling |
+|---|---|
+| `அப்பன் அருள்வாக்கு` | **The Father's Oracle** |
+| `பாதாளச் சிறை` | **underground prison** |
+| `கும்பாபிஷேகம்` | ***kumbabhishekam*** |
+| `தர்மகர்த்தா` | **trustee** |
+| `நைவேத்தியம்` | ***naivedyam*** |
+| `பிரசாதம்` | ***prasadam*** |
+| `கம்சன் / கிருஷ்ணன்` | **Kamsa / Krishna** |
+| `பவுன்` | **sovereign** |
+
+Claimed divine possession/oracle language remains explicitly source-framed; no external religious validation is added.
+
+## E25 — scans200–207 / chapter21
+
+E25 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | E25 handling |
+|---|---|
+| `நேர்மையைப் பற்றி வீரமலை` | **Veeramalai on Integrity** |
+| `அழகுநாச்சி / அழகுநாச்சியார்` | **Azhagu Naachchi / Azhagu Naachchiyar** |
+| `சோழன் தோட்டி` | **Chozhan Thotti** |
+| `மணியங்குறிச்சி` | **Maniyangurichi** |
+| `நாழிகை` | ***naazhigai*** — source-facing time measure |
+| `அகல்விளக்கு` | **oil lamp** |
+| `கார்த்திகைத் திருவிழா` | **Karthigai festival** |
+| `நம்பிக்கையான சாட்சி` | **trustworthy witness** |
+| `தியாக வரலாறு` | **history of sacrifice** |
+
+## E26 — scans208–215 / chapter22
+
+E26 is **SOURCE-CHECKED / COMPLETE**.
+
+| Tamil source | E26 handling |
+|---|---|
+| `தியாகத்தின் எல்லை` | **The Limit of Sacrifice** |
+| `கோளாத்தாக் கவுண்டர்` | **Koalatha Gounder** |
+| `பவளாத்தாள்` | **Pavalathaall** |
+| `குடமுழுக்கு` | ***kudamuzhukku*** |
+| `பெருங்குடி` | **Perungkudi** — source-facing community/clan form |
+| `மக்கட் செல்வம்` | **the wealth of one's children** |
+| `முத்தமாரி` | **shower of kisses** |
+| `கண்மணிகள்` | **little treasures** in immediate affectionate context |
+| `சுயநலம் / தன்னலமற்ற` | **selfishness / selfless** |
+
+E26 preserves the terminal control marker **215→216 PENDING Part004 direct witness** and does not infer continuation.
+
 ## Outgoing Part003 lock
 
 - scan215 remains inside chapter22 **தியாகத்தின் எல்லை**;
@@ -246,6 +311,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
+Run **Part003 whole-Part glossary reconciliation across E18–E26**.
 
-Decide the chapter19 semantic English display title only during E23 direct source-check. Do not reopen closed E18–E22 merely to advance E23.
+Reconcile only source-backed Part003 English forms and occurrence-sensitive variants. Keep Parts001–002 frozen, do not revise literary prose merely for stylistic preference, and preserve **215→216 PENDING Part004 direct witness**.
