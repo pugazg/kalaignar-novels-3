@@ -1,6 +1,6 @@
 # English Translation Glossary — பொன்னர் சங்கர் / Part003
 
-Status: **PART003 ACTIVE — E18–E20 SOURCE-CHECKED / COMPLETE**
+Status: **PART003 ACTIVE — E18–E21 SOURCE-CHECKED / COMPLETE**
 
 This glossary is derived only from verified Part003 Tamil, the closed Part003 assembled Tamil reading layer, and frozen Parts001–002 project-English choices where the **same source form** recurs.
 
@@ -50,7 +50,7 @@ These are continuity controls only. Direct Part003 context governs sentence-leve
 | ராச்சாண்டார் மலைநோக்கி... | frozen E17 display title **Toward Raachchaandaar Malai...** is continuity evidence only; E18 is continuation/close and must not repeat the displayed heading |
 | புறப்பட்டது போர்ப்படை | **The War Host Sets Out** — E19 source-checked display title |
 | போர்முனை எது? | **Where Is the Battlefront?** — E20 source-checked display title |
-| சங்கரன்மலையில் சந்திப்போம்? | Tamil punctuation/question locked; semantic English display title deferred to E21 source-check |
+| சங்கரன்மலையில் சந்திப்போம்? | **Shall We Meet at Sankaranmalai?** — E21 source-checked display title |
 | சுயநலமா? பொதுநலமா? | paired rhetorical structure locked; semantic English display title deferred to E22 source-check |
 | உண்மையின் உறைவிடம் | Tamil title locked; semantic English display title deferred to E23 source-check |
 | அப்பன் அருள்வாக்கு | Tamil title locked; semantic English display title deferred to E24 source-check |
@@ -170,6 +170,27 @@ Established continuity handling also retained **heavy sword** for `கொடு�
 
 No external historical, geographic, religious, social or military explanation was introduced.
 
+## E21 — scans164–172 / chapter17
+
+E21 is **SOURCE-CHECKED / COMPLETE**.
+
+Source-backed E21 decisions:
+
+| Tamil source | E21 handling |
+|---|---|
+| `சங்கரன்மலையில் சந்திப்போம்?` | **Shall We Meet at Sankaranmalai?** |
+| `சங்கரன்மலை` | **Sankaranmalai** |
+| `சங்கரன் மலை` | **Sankaran Malai** — source-separated occurrence retained |
+| `குடையூர்` | **Kudaiyur** |
+| `அமராவதி` | **Amaravathi** |
+| `எல்லைக்காவல் ஆட்சியாளர்` | **border-guarding ruler** in immediate context |
+| `பொன்னூசல்` | **golden cradle** in the immediate metaphor |
+| `வெற்றிக்கனி / நான் பெற்ற கனிகள்` | **fruit of victory / fruits I have borne** — source wordplay preserved |
+
+Continuity forms **Kundrudaiyaan / Kundrudaiya Gounder, Nelliyangodan, Raakkiyannan, Maayavar, Arukkaani Thangam, Madhukkarai** and ***kal*** were retained only where the same verified Tamil forms recur.
+
+No external place-name, historical, social or political normalization was introduced.
+
 ## Outgoing Part003 lock
 
 - scan215 remains inside chapter22 **தியாகத்தின் எல்லை**;
@@ -204,6 +225,6 @@ For each E18–E26 batch:
 
 ## Exact next activity
 
-Run **E21 English draft + direct source-check — scans164–172 / chapter17 `சங்கரன்மலையில் சந்திப்போம்?`**.
+Run **E22 English draft + direct source-check — scans173–180 / chapter18 `சுயநலமா? பொதுநலமா?`**.
 
-Decide the chapter17 semantic English display title only during E21 direct source-check. Do not reopen closed E18–E20 merely to advance E21.
+Decide the chapter18 paired rhetorical English display title only during E22 direct source-check. Do not reopen closed E18–E21 merely to advance E22.
