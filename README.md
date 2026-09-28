@@ -14,7 +14,7 @@
 - Part003: **REGISTERED / COMPLETE — 70 local pages / global scans146–215**
 - remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 English editorial review PASS / CLOSED; next: whole-Part bilingual review**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 whole-Part bilingual review PASS / CLOSED; next: release/readiness**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -52,6 +52,11 @@
 - Part003 E26 source-check — `works/ponnar-sankar/translations/en/E26_SOURCE_CHECK.md`
 - Part003 whole-Part English glossary reconciliation — **COMPLETE / PASS**
 - Part003 English editorial review — **PASS / CLOSED**
+- Part003 whole-Part bilingual review — **PASS / CLOSED**
+- Part003 bilingual review record — `works/ponnar-sankar/translations/en/PART_003_BILINGUAL_REVIEW.md`
+- Part003 bilingual pairs reviewed — **9/9**
+- Part003 new English corrections required by bilingual review — **0**
+- Part003 unresolved bilingual holds — **0**
 - Part003 editorial review record — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_REVIEW.md`
 - Part003 editorial prose edits — **0/9 files / 0 substantive corrections**
 - Part003 unresolved editorial holds — **0**
@@ -89,6 +94,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
+Run **Part003 release/readiness report**.
 
 Parts001–002 remain **FINAL CLOSED / FROZEN**. Outgoing **215→216 remains PENDING Part004 direct witness**.
