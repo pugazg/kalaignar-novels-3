@@ -17,7 +17,7 @@
 - split basis: **file size**, not a fixed page count
 - source family / archive identifier: **TVA_BOK_0065560**
 - registered physical scan extent: **1–215 across Parts001–003**
-- complete-work physical scan count: **pending intake of Parts003–008**
+- complete-work physical scan count: **pending intake of Parts004–008**
 - source PDFs remain outside Git
 
 ## Canonical numbering rule
@@ -248,6 +248,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 release/readiness report — **PASS / CLOSED**
 - Part003 release/readiness record — `works/ponnar-sankar/translations/en/PART_003_RELEASE_REPORT.md`
 - Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 final closure — **PASS / CLOSED / FROZEN**
+- Part003 final-closure record — `works/ponnar-sankar/PART_003_FINAL_CLOSURE.md`
+- Part003 canonical Tamil / assembled Tamil / maintained English — **FROZEN**
 - Part003 release-ready synchronization record — `works/ponnar-sankar/PART_003_RELEASE_READY_SYNC.md`
 - Part003 synchronization pre-record head — `d1a8d617e9082f30466277397f8d019ca5adb3fd`
 - Part003 synchronization record commit — `bcb501164c2e36b81add8e06069d6e7d8874bef8`
@@ -269,16 +272,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 English physical coverage — **70/70 / scans146–215**
 - Part003 English translated/source-checked files — **9/9 / 9/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **final closure / freeze**
+- Part003 exact next activity — **Part004 source intake when supplied**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 final closure / freeze frontier**
+- NEXT_CHAT_PROMPT.md — **PENDING FINAL SYNC — Part004 source-intake frontier**
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Keep **215→216 PENDING Part004 direct witness**.
+Parts001–003 are **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
