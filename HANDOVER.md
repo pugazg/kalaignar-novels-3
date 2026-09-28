@@ -248,6 +248,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 release/readiness report — **PASS / CLOSED**
 - Part003 release/readiness record — `works/ponnar-sankar/translations/en/PART_003_RELEASE_REPORT.md`
 - Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 release-ready synchronization record — `works/ponnar-sankar/PART_003_RELEASE_READY_SYNC.md`
+- Part003 synchronization pre-record head — `d1a8d617e9082f30466277397f8d019ca5adb3fd`
+- Part003 synchronization record commit — `bcb501164c2e36b81add8e06069d6e7d8874bef8`
 - Part003 synchronization control — `works/ponnar-sankar/PART_003_RELEASE_READY_SYNC.md`
 - Part003 synchronization textual body drift — **0**
 - Part003 unresolved release/readiness blockers — **0**
@@ -272,7 +275,7 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **PENDING FINAL SYNC — Part003 final closure / freeze frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 final closure / freeze frontier**
 
 ## Exact next activity
 
