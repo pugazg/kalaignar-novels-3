@@ -52,4 +52,6 @@ Outgoing Part003 **215→216 remains PENDING Part004 direct witness**.
 
 ## Exact next activity
 
-**Part003 Pass1 Batch1 — scans146–155 / local pages1–10.**
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
+
+Part003 is **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
