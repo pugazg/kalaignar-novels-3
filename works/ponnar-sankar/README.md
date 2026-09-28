@@ -9,7 +9,7 @@
 - each split: **<=50 MB**
 - source family: **TVA_BOK_0065560**
 - total physical scans for complete work: **pending remaining Part intakes**
-- registered physical scans: **215 — Parts001–003**
+- registered physical source extent: **1–285 across Parts001–004**
 - canonical page records: **75/75 — scans1–75**
 - Pass1 textual transcriptions: **74/75 — scans1–15,17–75**
 - Pass1 image-preserved page: **1/75 — scan16 map plate**
@@ -193,8 +193,10 @@
 - Part004 source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf`
 - Part004 SHA-256: `2ed96e4ae046b20b8d9a6c6db3aeae8c822411df0947771f9a691007be729616`
 - Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 Pass1: **READY / NOT STARTED — 0/70**
-- Part004 Pass1 next: **Batch1 scans216–225 / local pages1–10**
+- Part004 Pass1: **ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
+- Part004 canonical records: **10/70 — scans216–225**
+- Part004 Pass1 Batch1: **COMPLETE — scans216–225 / 10 TEXT-COMPLETE**
+- Part004 Pass1 next: **Batch2 scans226–235 / local pages11–20**
 - Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part005–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -263,6 +265,6 @@
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**.
+Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
 
-Parts001–003 remain **FINAL CLOSED / FROZEN**. Incoming **215→216 is CHAPTER TRANSITION / AUDITED / PASS**.
+Parts001–003 remain **FINAL CLOSED / FROZEN**. Do not begin Batch3 in the same activity unless separately instructed.
