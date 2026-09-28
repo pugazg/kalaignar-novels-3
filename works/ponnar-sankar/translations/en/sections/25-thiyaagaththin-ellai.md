@@ -108,9 +108,11 @@ At the sight of Azhagu Naachchiyar pressing those children to the womb that had 
 
 “Come, give them,” the husband said, stretching out both hands. But his wife Azhagu Naachchiyar stood hesitating, shaking her head as though to say, “No, no!”
 
-“Azhagu Naachchi! Not for my sake. For the future of our Perungkudi people, you and I must make this sacrifice. As repayment of our debt of gratitude for the countless benefits our people and country received from Koalatha Gounder, we must save his grandchildren. We ourselves once wondered why twins had been born to us. But today? Look how great a good it has become! We can hand over our own two children to the Thalaiyur man as though they were Kundrudaiyaan's twins, can we not? We can protect Koalatha Gounder's two tender flowers from being crushed, can we not?”
+“Azhagu Naachchi! Not for my sake. For the future of our Perungkudi people, you and I must make this sacrifice. As repayment of our debt of gratitude for the countless benefits our people and country received from Koalatha Gounder, we must save his grandchildren. We ourselves once wondered why twins had been born to us. But today? It—
 
 <!-- source boundary: scan 213 → scan 214 -->
+
+“—has turned out to be such a great good, has it not? We can hand over our own two children to the Thalaiyur man as though they were Kundrudaiyaan's twins, can we not? We can protect Koalatha Gounder's two tender flowers from being crushed, can we not?”
 
 “Ayyo! Only now do I understand the pain of twins having been born to us! If only one child had been born, such an idea would never have sprouted in your mind!”
 
@@ -120,9 +122,11 @@ Azhagu Naachchiyar began to sob. Comforting her, the teacher took the children f
 
 “Ayyo! How can a mother willingly dare to lose her own children? You tell me!”
 
-“She cannot. But there is no other way. Azhagu Naachchi! Losing what can be lost is not sacrifice. Some people, out of selfishness, will not even dare to lose what can be lost. A chance to make the sacrifice of losing the great wealth that must not be lost—the wealth of one's children—for the future of this soil comes only rarely. We must not let that chance pass and become selfish people. Please listen to me. From now on, the little treasures lying on this cot—Ponnar and Sankar—are our children. It is our duty to raise them into capable men and, at the proper time, hand them over to Kundrudaiyaan and Thamarai Naachchi. Until then, no one must know that these children are Ponnar and Sankar. Here—give these children one final kiss and send them on their way. Let us forget that two such children were ever born to us. Do not be shaken. Do not cry. If it is true that you are the wife of a warrior; if it is true that even as a mother you are selfless; if it is true that the wellbeing and future light of our Perungkudi community are our goal—then give me leave!”
+“She cannot. But there is no other way. Azhagu Naachchi! Losing what can be lost is not sacrifice. Some people, out of selfishness, will not even dare to lose what can be lost. A chance to make the sacrifice of losing the great wealth that must not be lost—the wealth of one's children—for the future of this soil comes only rarely. We must not let that chance pass and become selfish people. Please listen to me. From now on, the little treasures lying on this cot—Ponnar and Sankar—are our children. It is our duty to raise them into capable men and, at the proper time, hand them over to Kundrudaiyaan and Thamarai Naachchi. Until then, no one must know that these children are Ponnar and Sankar. Here—give these children one final kiss and send them on their way. Let us forget that two such children—
 
 <!-- source boundary: scan 214 → scan 215 -->
+
+“—were ever born to us. Do not be shaken. Do not cry. If it is true that you are the wife of a warrior; if it is true that even as a mother you are selfless; if it is true that the wellbeing and future light of our Perungkudi community are our goal—then give me leave!”
 
 Azhagu Naachchiyar, stunned, took her own children from her husband's hands and, until her longing was spent, showered them with kisses—one or two, a hundred, two hundred, a thousand, a hundred thousand. Then she collapsed in a faint upon the cot, buried her head at the feet of Kundrudaiyaan's two children and sobbed.
 
