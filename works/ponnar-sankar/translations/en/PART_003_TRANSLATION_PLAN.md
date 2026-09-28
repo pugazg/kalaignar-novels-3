@@ -175,8 +175,8 @@ Sequential discipline: E18 closes before E19, E19 before E20, and so on through 
 After E18–E26 all close **SOURCE-CHECKED / COMPLETE**:
 
 1. Part003 whole-Part glossary reconciliation — **COMPLETE / PASS**;
-2. English editorial review — **NEXT**;
-3. whole-Part bilingual review against verified Part003 Tamil;
+2. English editorial review — **PASS / CLOSED**;
+3. whole-Part bilingual review against verified Part003 Tamil — **NEXT**;
 4. release/readiness;
 5. release-ready synchronization;
 6. no-post-release textual-drift verification;
@@ -264,6 +264,6 @@ Sequential batch translation/source-check phase — **COMPLETE / PASS — 9/9**.
 
 ## Exact next activity
 
-Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
+Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
 
 Do not begin Part004 and do not infer scan216.
