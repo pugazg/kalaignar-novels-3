@@ -180,9 +180,9 @@ After E18–E26 all close **SOURCE-CHECKED / COMPLETE**:
 4. release/readiness — **PASS / CLOSED**;
 5. release-ready synchronization — **PASS / CLOSED**;
 6. no-post-release textual-drift verification — **NEXT WITH FINAL CLOSURE / FREEZE**;
-7. Part003 final closure / freeze.
+7. Part003 final closure / freeze — **PASS / CLOSED / FROZEN**.
 
-Part004 canonical work remains blocked until Part003 final closure and direct Part004 intake/boundary witness.
+Part003 final closure is now satisfied. Part004 canonical work remains blocked until direct Part004 source intake and the 215→216 boundary witness.
 
 ## Planning coverage arithmetic
 
@@ -264,6 +264,6 @@ Sequential batch translation/source-check phase — **COMPLETE / PASS — 9/9**.
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
+Part003 remains **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
