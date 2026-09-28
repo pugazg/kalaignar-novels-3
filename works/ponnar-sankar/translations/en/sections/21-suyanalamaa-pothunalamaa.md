@@ -78,11 +78,11 @@ Maayavar's eyes looked at them. Those eyes were giving off a clear light.
 
 <!-- source boundary: scan 176 → scan 177 -->
 
-“Was it not because you wanted to have *archanai* performed in these young men's names that you went about asking for their names at the Chellandiyamman temple festival?” Kundrudaiyaan asked Vaiyam Perumaan, Muthayi and Pavalayi. Nelliyangodan was a man of such open-hearted innocence that, without the least blemish in his mind, he recalled the incident before everyone.
+“Was it not because you wanted to have *archana* performed in these young men's names that you went about asking for their names at the Chellandiyamman temple festival?” Kundrudaiyaan asked Vaiyam Perumaan, Muthayi and Pavalayi. Nelliyangodan was a man of such open-hearted innocence that, without the least blemish in his mind, he recalled the incident before everyone.
 
 Too shy to risk giving any detailed answer, Muthayi and Pavalayi merely nodded their heads as if to say, “Yes.” Vaiyam Perumaan nodded too.
 
-‘They went about trying to have *archanai* performed in our names? Oh! Then love for us had already begun to bloom in these beauties of Aarichampatti even then!’ Ponnar and Sankar luxuriated in that delightful thought. Like horses that break restraint and gallop on, refusing even when ropes pull them back, their gazes sprang toward Muthayi and Pavalayi.
+‘They went about trying to have *archana* performed in our names? Oh! Then love for us had already begun to bloom in these beauties of Aarichampatti even then!’ Ponnar and Sankar luxuriated in that delightful thought. Like horses that break restraint and gallop on, refusing even when ropes pull them back, their gazes sprang toward Muthayi and Pavalayi.
 
 In a place crowded with many people, are not the eyes the ones that have learned the art of becoming the lips and tongues of loving hearts, speaking without anyone else knowing? Those eyes performed that work now as well.
 
