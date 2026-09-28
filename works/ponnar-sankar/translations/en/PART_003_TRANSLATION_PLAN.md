@@ -174,8 +174,8 @@ Sequential discipline: E18 closes before E19, E19 before E20, and so on through 
 
 After E18–E26 all close **SOURCE-CHECKED / COMPLETE**:
 
-1. Part003 whole-Part glossary reconciliation;
-2. English editorial review;
+1. Part003 whole-Part glossary reconciliation — **COMPLETE / PASS**;
+2. English editorial review — **NEXT**;
 3. whole-Part bilingual review against verified Part003 Tamil;
 4. release/readiness;
 5. release-ready synchronization;
@@ -236,7 +236,19 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - canonical / assembled Tamil edits caused by E18–E26 — **0 / 0**
 - outgoing 215→216 — **PENDING Part004 direct witness**
 
-## Completed batch-title locks
+## Whole-Part glossary reconciliation checkpoint
+
+- durable record — `PART_003_GLOSSARY_RECONCILIATION.md`
+- reviewed English files — **9/9**
+- reviewed E18–E26 source-checks — **9/9**
+- source-backed corrections — **13 occurrences / 3 files**
+- unresolved glossary conflicts — **0**
+- unsupported normalization — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–002 English edits — **0**
+- outgoing 215→216 — **PENDING Part004 direct witness**
+
+
 
 - E18 — chapter14 continuation — **no repeated display heading**
 - E19 — **The War Host Sets Out**
@@ -252,6 +264,6 @@ Sequential batch translation/source-check phase — **COMPLETE / PASS — 9/9**.
 
 ## Exact next activity
 
-Run **Part003 whole-Part glossary reconciliation across E18–E26**.
+Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
 
 Do not begin Part004 and do not infer scan216.
