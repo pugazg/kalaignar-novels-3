@@ -211,8 +211,8 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - missing / duplicate planned coverage — **0 / 0**;
 - batch-number collisions — **0**;
 - English section-order collisions — **0**;
-- fully translated Part003 files — **5/9**;
-- source-checked Part003 files — **5/9**;
+- fully translated Part003 files — **9/9**;
+- source-checked Part003 files — **9/9**;
 - English literary prose drafted in setup — **0**;
 - frozen Parts001–002 English edits — **0**;
 - canonical / assembled Tamil edits caused by planning — **0 / 0**;
@@ -226,15 +226,32 @@ Part004 canonical work remains blocked until Part003 final closure and direct Pa
 - E20 — **SOURCE-CHECKED / COMPLETE — scans155–163**
 - E21 — **SOURCE-CHECKED / COMPLETE — scans164–172**
 - E22 — **SOURCE-CHECKED / COMPLETE — scans173–180**
-- E23–E26 — **PLANNED / NOT DRAFTED**
-- cumulative Part003 English physical coverage — **35/70 / scans146–180**
-- remaining — **35 scans / scans181–215**
+- E23 — **SOURCE-CHECKED / COMPLETE — scans181–190**
+- E24 — **SOURCE-CHECKED / COMPLETE — scans191–199**
+- E25 — **SOURCE-CHECKED / COMPLETE — scans200–207**
+- E26 — **SOURCE-CHECKED / COMPLETE — scans208–215**
+- cumulative Part003 English physical coverage — **70/70 / scans146–215**
+- remaining — **0 scans**
 - frozen Parts001–002 English edits — **0**
-- canonical / assembled Tamil edits caused by E18–E22 — **0 / 0**
+- canonical / assembled Tamil edits caused by E18–E26 — **0 / 0**
 - outgoing 215→216 — **PENDING Part004 direct witness**
+
+## Completed batch-title locks
+
+- E18 — chapter14 continuation — **no repeated display heading**
+- E19 — **The War Host Sets Out**
+- E20 — **Where Is the Battlefront?**
+- E21 — **Shall We Meet at Sankaranmalai?**
+- E22 — **Self-Interest? Public Interest?**
+- E23 — **The Abode of Truth**
+- E24 — **The Father's Oracle**
+- E25 — **Veeramalai on Integrity**
+- E26 — **The Limit of Sacrifice**
+
+Sequential batch translation/source-check phase — **COMPLETE / PASS — 9/9**.
 
 ## Exact next activity
 
-Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
+Run **Part003 whole-Part glossary reconciliation across E18–E26**.
 
-Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**.
+Do not begin Part004 and do not infer scan216.
