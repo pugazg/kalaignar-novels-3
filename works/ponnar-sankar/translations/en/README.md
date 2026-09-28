@@ -4,9 +4,9 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 ENGLISH ACTIVE — E18–E21 SOURCE-CHECKED / COMPLETE.**
+**PART003 ENGLISH ACTIVE — E18–E22 SOURCE-CHECKED / COMPLETE.**
 
-Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E21 SOURCE-CHECKED / COMPLETE**; E22–E26 remain planned.
+Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E22 SOURCE-CHECKED / COMPLETE**; E23–E26 remain planned.
 
 ## Maintained English sequence per Part
 
@@ -180,15 +180,17 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 - missing / duplicate planned coverage — **0 / 0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
-- fully translated/source-checked files — **4/9 / 4/9**
+- fully translated/source-checked files — **5/9 / 5/9**
 - English literary prose drafted in setup — **0**
-- current Part003 English physical coverage — **scans146–172 / 27 of 70**
+- current Part003 English physical coverage — **scans146–180 / 35 of 70**
 - E19 maintained display title — **The War Host Sets Out**
 - E19 durable source-check — `E19_SOURCE_CHECK.md`
 - E20 maintained display title — **Where Is the Battlefront?**
 - E20 durable source-check — `E20_SOURCE_CHECK.md`
 - E21 maintained display title — **Shall We Meet at Sankaranmalai?**
 - E21 durable source-check — `E21_SOURCE_CHECK.md`
+- E22 maintained display title — **Self-Interest? Public Interest?**
+- E22 durable source-check — `E22_SOURCE_CHECK.md`
 - frozen Parts001–002 English edits — **0**
 - incoming 145→146 — **GENUINE CONTINUATION / AUDITED / PASS**
 - outgoing 215→216 — **PENDING Part004 direct witness**
@@ -201,7 +203,7 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 | **E19** | `18-purappattathu-porppadai.md` | 147–154 | **SOURCE-CHECKED / COMPLETE** |
 | **E20** | `19-pormunai-ethu.md` | 155–163 | **SOURCE-CHECKED / COMPLETE** |
 | **E21** | `20-sangaranmalaiyil-santhippom.md` | 164–172 | **SOURCE-CHECKED / COMPLETE** |
-| **E22** | `21-suyanalamaa-pothunalamaa.md` | 173–180 | **PLANNED / NOT DRAFTED** |
+| **E22** | `21-suyanalamaa-pothunalamaa.md` | 173–180 | **SOURCE-CHECKED / COMPLETE** |
 | **E23** | `22-unmaiyin-uraividam.md` | 181–190 | **PLANNED / NOT DRAFTED** |
 | **E24** | `23-appan-arulvaakku.md` | 191–199 | **PLANNED / NOT DRAFTED** |
 | **E25** | `24-nermaiyai-patri-veeramalai.md` | 200–207 | **PLANNED / NOT DRAFTED** |
@@ -215,6 +217,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 E22 English draft + direct source-check — scans173–180 / chapter18 `சுயநலமா? பொதுநலமா?`**.
+Run **Part003 E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
 
-Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
