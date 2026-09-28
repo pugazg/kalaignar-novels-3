@@ -331,8 +331,22 @@ Decision:
 - durable Tamil archival-ready — `PART_003_TAMIL_ARCHIVAL_READY.md`
 - Part audit checks in this checkpoint — **NOT STARTED**
 
+## Downstream release lifecycle
+
+- whole-Part audit — **PASS / COMPLETE**
+- Tamil archival-ready — **PASS / COMPLETE**
+- assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9**
+- English E18–E26 — **SOURCE-CHECKED / COMPLETE — 9/9**
+- glossary reconciliation — **COMPLETE / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
+- release/readiness — **PASS / CLOSED**
+- release-ready synchronization — **PASS / CLOSED**
+- Part004 leakage — **0**
+- outgoing **215→216 — PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+Run **Part003 final closure / freeze**.
 
-Part003 Tamil and assembled Tamil are closed. Run English translation planning/setup next; keep Parts001–002 frozen and outgoing **215→216 PENDING Part004 direct witness**. Do not draft English literary prose during setup.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Do not begin Part004; keep **215→216 PENDING Part004 direct witness**.
