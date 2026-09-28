@@ -2,11 +2,11 @@
 
 ## Overall state
 
-**PART003 ENGLISH ACTIVE — E18–E21 SOURCE-CHECKED / COMPLETE**
+**PART003 ENGLISH ACTIVE — E18–E22 SOURCE-CHECKED / COMPLETE**
 
 Parts001–002 English remain **FINAL CLOSED / FROZEN**.
 
-E18–E21 have been drafted and directly source-checked; E22–E26 remain undrafted.
+E18–E22 have been drafted and directly source-checked; E23–E26 remain undrafted.
 
 ## Reserved batch map
 
@@ -16,7 +16,7 @@ E18–E21 have been drafted and directly source-checked; E22–E26 remain undraf
 | **E19** | section18 — புறப்பட்டது போர்ப்படை | 147–154 | **SOURCE-CHECKED / COMPLETE** |
 | **E20** | section19 — போர்முனை எது? | 155–163 | **SOURCE-CHECKED / COMPLETE** |
 | **E21** | section20 — சங்கரன்மலையில் சந்திப்போம்? | 164–172 | **SOURCE-CHECKED / COMPLETE** |
-| **E22** | section21 — சுயநலமா? பொதுநலமா? | 173–180 | **PLANNED / NOT DRAFTED** |
+| **E22** | section21 — சுயநலமா? பொதுநலமா? | 173–180 | **SOURCE-CHECKED / COMPLETE** |
 | **E23** | section22 — உண்மையின் உறைவிடம் | 181–190 | **PLANNED / NOT DRAFTED** |
 | **E24** | section23 — அப்பன் அருள்வாக்கு | 191–199 | **PLANNED / NOT DRAFTED** |
 | **E25** | section24 — நேர்மையைப் பற்றி வீரமலை | 200–207 | **PLANNED / NOT DRAFTED** |
@@ -47,18 +47,18 @@ These filenames are provenance handles. Semantic English chapter-title decisions
 - Part003 English reserved batches — **E18–E26 / 9**
 - Part003 English reserved section orders — **17–25 / 9**
 - Part003 English planned files — **9**
-- Part003 fully translated files — **4/9**
+- Part003 fully translated files — **5/9**
 - Part003 partial translated files — **0**
-- Part003 source-checked complete files — **4/9**
-- Part003 physical English processing coverage — **27/70 / scans146–172**
-- Part003 physical English remaining — **43 / scans173–215**
+- Part003 source-checked complete files — **5/9**
+- Part003 physical English processing coverage — **35/70 / scans146–180**
+- Part003 physical English remaining — **35 / scans181–215**
 - planned source coverage — **scans146–215**
 - missing planned source coverage — **0**
 - duplicate planned source coverage — **0**
 - batch-number collisions — **0**
 - English section-order collisions — **0**
 - English literary prose drafted in setup — **0**
-- English literary prose drafted after setup — **E18–E21 / scans146–172**
+- English literary prose drafted after setup — **E18–E22 / scans146–180**
 - canonical Tamil edits caused by English planning — **0**
 - assembled Tamil edits caused by English planning — **0**
 - frozen Parts001–002 English edits caused by Part003 planning — **0**
@@ -151,6 +151,25 @@ Cumulative Part003 English coverage — **scans146–163 / 18 of 70**.
 
 Cumulative Part003 English coverage — **scans146–172 / 27 of 70**.
 
+## E22 closure
+
+- batch — **E22**
+- translated/source-checked coverage — **scans173–180 / 8 of 8**
+- maintained English file — `sections/21-suyanalamaa-pothunalamaa.md`
+- durable source-check — `E22_SOURCE_CHECK.md`
+- maintained display title — **Self-Interest? Public Interest?**
+- paired rhetorical title structure — **PRESERVED**
+- Tamil / English literary-display blocks — **56 / 56**
+- internal source-boundary comments — **7 / 7**
+- omitted / duplicated / unsupported English blocks — **0 / 0 / 0**
+- direct source-pixel discrepancy requiring Tamil reopening — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- frozen Parts001–002 English edits — **0**
+- closed E18–E21 edits — **0**
+- unresolved E22 holds — **0**
+
+Cumulative Part003 English coverage — **scans146–180 / 35 of 70**.
+
 ## Cross-Part locks
 
 ### Incoming E17 → E18
@@ -200,6 +219,6 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 ## Exact next activity
 
-Run **E22 English draft + direct source-check — scans173–180 / chapter18 `சுயநலமா? பொதுநலமா?`**.
+Run **E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
 
-Do not begin E23 until E22 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
+Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**. Outgoing **215→216 remains PENDING Part004 direct witness**.
