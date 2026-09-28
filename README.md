@@ -10,10 +10,11 @@
 - split method: **file-size based**, therefore page counts per Part are not assumed
 - source family / archive identifier: **TVA_BOK_0065560**
 - Part001: **FINAL CLOSED / FROZEN — 75 local pages / global scans1–75**
-- Part002: **REGISTERED / COMPLETE — 70 local pages / global scans76–145**
-- remaining complete physical scan extent: **pending Parts003–008 intake**
+- Part002: **FINAL CLOSED / FROZEN — 70 local pages / global scans76–145**
+- Part003: **REGISTERED / COMPLETE — 70 local pages / global scans146–215**
+- remaining complete physical scan extent: **pending Parts004–008 intake**
 - canonical `scan_page`: continuous global physical-scan numbering across all 8 Parts; never resets
-- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 TAMIL ARCHIVAL-READY PASS / COMPLETE; assembled Tamil VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70; next: English translation planning/setup**
+- current state: **Parts001–002 FINAL CLOSED / FROZEN; Part003 English translation planning/setup COMPLETE / PASS; E18–E26 reserved; next: E18 draft + direct source-check for scan146**
 - Part001 assembled-Tamil validation: `works/ponnar-sankar/PART_001_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part002 assembled-Tamil validation: `works/ponnar-sankar/PART_002_ASSEMBLED_TAMIL_VALIDATION.md`
 - Part001→Part002 boundary **75→76**: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -24,6 +25,12 @@
 - Part003 Tamil archival-ready — **PASS / COMPLETE**
 - Part003 assembled Tamil — **VERIFIED / PASS / CLOSED — 9/9 section files / exact canonical coverage 70/70**
 - Part003 assembled-Tamil validation — `works/ponnar-sankar/PART_003_ASSEMBLED_TAMIL_VALIDATION.md`
+- Part003 English translation planning/setup — **COMPLETE / PASS**
+- Part003 English reserved batches — **E18–E26 / 9**
+- Part003 English reserved section orders — **17–25 / 9**
+- Part003 English planned coverage — **scans146–215 / 70 of 70 / 0 missing / 0 duplicate**
+- Part003 English literary prose drafted in setup — **0**
+- Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
 
 ## Workflow
 
@@ -52,6 +59,6 @@ This work follows the maintained Part-by-Part workflow used for **பாயு�
 
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+Run **Part003 E18 English draft + direct source-check — scan146 only**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. Part003 canonical Tamil is **70/70 verified**, Tamil archival-ready is **PASS / COMPLETE**, and assembled Tamil is **VERIFIED / PASS / CLOSED — 9/9 / exact coverage 70/70**. Run English translation planning/setup next without drafting literary prose; outgoing 215→216 remains pending.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. E18 continues and closes chapter14 from frozen E17 without repeating a displayed heading. Outgoing **215→216 remains PENDING Part004 direct witness**.
