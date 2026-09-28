@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH E18–E26 SOURCE-CHECKED / COMPLETE**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 ENGLISH GLOSSARY RECONCILIATION COMPLETE / PASS**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -164,7 +164,12 @@
 - Part003 E26: **SOURCE-CHECKED / COMPLETE — scans208–215 / chapter22 `தியாகத்தின் எல்லை` / title `The Limit of Sacrifice` / 55 Tamil blocks = 55 English blocks**
 - Part003 E26 durable source-check: `translations/en/E26_SOURCE_CHECK.md`
 - Part003 English batch phase: **COMPLETE / PASS — 9/9 / scans146–215 / 70 of 70**
-- Part003 English exact next activity: **whole-Part glossary reconciliation across E18–E26**
+- Part003 whole-Part English glossary reconciliation: **COMPLETE / PASS**
+- Part003 glossary reconciliation record: `translations/en/PART_003_GLOSSARY_RECONCILIATION.md`
+- Part003 glossary reconciliation literary corrections: **13 occurrences / 3 files**
+- Part003 unresolved glossary conflicts: **0**
+- Part003 unsupported normalization: **0**
+- Part003 English exact next activity: **English editorial review across E18–E26**
 - Part003 English exact next activity: **whole-Part glossary reconciliation across E18–E26**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -233,6 +238,6 @@
 
 ## Exact next activity
 
-Run **Part003 whole-Part glossary reconciliation across E18–E26**.
+Run **Part003 English editorial review** across the nine reconciled E18–E26 English files.
 
-Keep Parts001–002 frozen. E18–E26 are **SOURCE-CHECKED / COMPLETE**. Do not begin Part004; outgoing **215→216 remains PENDING Part004 direct witness**.
+Keep Parts001–002 frozen. Do not begin Part004; outgoing **215→216 remains PENDING Part004 direct witness**.
