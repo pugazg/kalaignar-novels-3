@@ -2,11 +2,11 @@
 
 ## Overall state
 
-**PART003 ENGLISH EDITORIAL REVIEW — PASS / CLOSED**
+**PART003 WHOLE-PART BILINGUAL REVIEW — PASS / CLOSED**
 
 Parts001–002 English remain **FINAL CLOSED / FROZEN**.
 
-E18–E26 are drafted and directly source-checked; whole-Part glossary reconciliation is **COMPLETE / PASS**; English editorial review is **PASS / CLOSED**. Whole-Part bilingual review is next.
+E18–E26 are drafted and directly source-checked; whole-Part glossary reconciliation is **COMPLETE / PASS**; English editorial review is **PASS / CLOSED**; whole-Part bilingual review is **PASS / CLOSED**. Release/readiness is next.
 
 ## Reserved batch map
 
@@ -267,8 +267,8 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 1. Part003 whole-Part glossary reconciliation — **COMPLETE / PASS**;
 2. English editorial review — **PASS / CLOSED**;
-3. whole-Part bilingual review against verified Part003 Tamil — **NEXT**;
-4. release/readiness;
+3. whole-Part bilingual review against verified Part003 Tamil — **PASS / CLOSED**;
+4. release/readiness — **NEXT**;
 5. release-ready synchronization;
 6. no-post-release textual-drift verification;
 7. Part003 final closure / freeze.
@@ -288,6 +288,6 @@ After all nine batches are **SOURCE-CHECKED / COMPLETE**:
 
 ## Exact next activity
 
-Run **Part003 whole-Part bilingual review — verified Tamil vs maintained English / scans146–215**.
+Run **Part003 release/readiness report**.
 
 Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
