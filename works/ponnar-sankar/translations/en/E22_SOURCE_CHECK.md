@@ -76,7 +76,7 @@ The translation preserves:
 - Ponnar and Sankar recognising Maayavar from their earlier encounter at Maarik Goundan Paalayam;
 - Maayavar's identification as Thalaiyur Kaali's minister and Chinnamalaik Kozhundhu's recognition of him;
 - the source's eye/gaze metaphors, including the lost pearl-studded earrings and split reflection images;
-- Kundrudaiyaan openly recalling that Vaiyam Perumaan, Muthayi and Pavalayi had sought the young men's names for *archanai* at the Chellandiyamman festival;
+- Kundrudaiyaan openly recalling that Vaiyam Perumaan, Muthayi and Pavalayi had sought the young men's names for *archana* at the Chellandiyamman festival;
 - Ponnar and Sankar's delighted interpretation of Muthayi and Pavalayi's earlier interest;
 - Maayavar pressing the young men about their refusal to reveal their names and Ponnar citing Raakkiyannan's command;
 - Chinnamalaik Kozhundhu privately consulting Silambayi before making his marriage announcement;
@@ -124,7 +124,7 @@ E22 source-backed decisions:
 
 - `சுயநலமா? பொதுநலமா?` — **Self-Interest? Public Interest?**
 - `ஆல வட்டங்கள்` — retained conservatively as ***aalavattam***; no external object-description added
-- `அர்ச்சனை` — retained as ***archanai*** in the immediate ritual context; no external religious explanation added
+- `அர்ச்சனை` — retained as ***archana*** in the immediate ritual context; no external religious explanation added
 - `மைத்துனரே` — **brother-in-law** in the immediate kinship context
 - `அருட்கன்னி` — **Arutkanni**, source-facing personal name
 - `விளையும் பயிர் முளையிலே` — **one can know the crop from the sprout**, preserving the source proverb's agricultural image
@@ -219,3 +219,11 @@ E22 does not resolve or infer the terminal Part003 split.
 Run **E23 English draft + direct source-check — scans181–190 / chapter19 `உண்மையின் உறைவிடம்`**.
 
 Do not begin E24 until E23 is **SOURCE-CHECKED / COMPLETE**.
+
+## Whole-Part glossary reconciliation note
+
+During Part003 whole-Part glossary reconciliation, the identical Tamil source form `அர்ச்சனை` was aligned to the frozen Parts001–002 continuity form ***archana***. This is a source-backed continuity correction, not a stylistic rewrite.
+
+- E22 literary occurrences corrected — **2**
+- meaning/order/block structure changed — **0**
+- source-check closure status — **unchanged / COMPLETE**
