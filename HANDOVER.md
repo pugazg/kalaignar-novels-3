@@ -226,19 +226,21 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 English prose drafted in setup — **0**
 - Part003 E18 — **SOURCE-CHECKED / COMPLETE — scan146 / chapter14 continuation close**
 - Part003 E18 source-check — `works/ponnar-sankar/translations/en/E18_SOURCE_CHECK.md`
-- Part003 English physical coverage — **1/70 / scan146**
-- Part003 English translated/source-checked files — **1/9 / 1/9**
+- Part003 E19 — **SOURCE-CHECKED / COMPLETE — scans147–154 / chapter15 / maintained title `The War Host Sets Out`**
+- Part003 E19 source-check — `works/ponnar-sankar/translations/en/E19_SOURCE_CHECK.md`
+- Part003 English physical coverage — **9/70 / scans146–154**
+- Part003 English translated/source-checked files — **2/9 / 2/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**
+- Part003 exact next activity — **E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 E19 English draft + source-check frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 E20 English draft + source-check frontier**
 
 ## Exact next activity
 
-Run **Part003 E19 English draft + direct source-check — scans147–154 / chapter15 `புறப்பட்டது போர்ப்படை`**.
+Run **Part003 E20 English draft + direct source-check — scans155–163 / chapter16 `போர்முனை எது?`**.
 
-Parts001–002 remain **FINAL CLOSED / FROZEN**. E18 is **SOURCE-CHECKED / COMPLETE** and should not be reopened merely to advance E19. Keep **215→216 PENDING Part004 direct witness**.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. E18–E19 are **SOURCE-CHECKED / COMPLETE** and should not be reopened merely to advance E20. Keep **215→216 PENDING Part004 direct witness**.
