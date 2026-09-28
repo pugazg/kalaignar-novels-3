@@ -695,6 +695,6 @@ Decision:
 
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+When the user supplies Part004, perform **Part004 source intake** first, assign its source-backed global scan range, and directly audit **215→216** before Pass1.
 
-Use only direct rendered source pixels. Do not use OCR, web, alternate editions or remembered text. Do not alter Parts001–002. Keep incoming **145→146 GENUINE CONTINUATION / AUDITED / PASS** and outgoing **215→216 PENDING Part004 direct witness**. Do not draft English literary prose during setup.
+Do not invent Part004 range, boundary classification or text. Part003 remains **FINAL CLOSED / FROZEN**.
