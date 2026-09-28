@@ -2,7 +2,7 @@
 
 ## Archive state
 
-**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 RELEASE-READY SYNCHRONIZATION PASS / CLOSED**
+**PART001 FINAL CLOSED / FROZEN — PART002 FINAL CLOSED / FROZEN — PART003 FINAL CLOSED / FROZEN**
 
 - author: **கலைஞர் மு. கருணாநிதி**
 - supplied design: **8 size-based split PDFs**
@@ -170,6 +170,9 @@
 - Part003 release/readiness report: **PASS / CLOSED**
 - Part003 release/readiness record: `translations/en/PART_003_RELEASE_REPORT.md`
 - Part003 release-ready synchronization: **PASS / CLOSED**
+- Part003 final closure: **PASS / CLOSED / FROZEN**
+- Part003 final-closure record: `PART_003_FINAL_CLOSURE.md`
+- Part003 canonical Tamil / assembled Tamil / maintained English: **FROZEN**
 - Part003 synchronization body drift: **0**
 - Part003 synchronization control: `PART_003_RELEASE_READY_SYNC.md`
 - Part003 unresolved release/readiness blockers: **0**
@@ -185,8 +188,7 @@
 - Part003 glossary reconciliation literary corrections: **13 occurrences / 3 files**
 - Part003 unresolved glossary conflicts: **0**
 - Part003 unsupported normalization: **0**
-- Part003 English exact next activity: **final closure / freeze**
-- Part003 English exact next activity: **whole-Part glossary reconciliation across E18–E26**
+- Part003 exact next activity: **Part004 source intake when supplied**
 - Part004–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
 - Part002→Part003 boundary 145→146: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -254,6 +256,6 @@
 
 ## Exact next activity
 
-Run **Part003 final closure / freeze**.
+When the user supplies Part004, perform **Part004 source intake** first. Assign the global scan range from the supplied source only and directly audit **215→216** before Pass1.
 
-Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
+Parts001–003 are **FINAL CLOSED / FROZEN**. Do not invent Part004 range, boundary classification or text.
