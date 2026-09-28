@@ -76,19 +76,20 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Pass1 activation result
 
-**PART004 PASS1 — READY / NOT STARTED**
+**PART004 PASS1 — ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
 
 - registered source coverage — **70 pages / scans216–285**
-- canonical Part004 records present — **0/70**
-- Pass1 text-complete — **0/70**
-- pending — **70/70**
+- canonical Part004 records present — **10/70 — scans216–225**
+- Pass1 text-complete — **10/70**
+- pending — **60/70**
 - unresolved source-reading holds — **0 at intake**
 - initial cadence — **10 scans per batch**
-- Batch1 target — **scans216–225 / local pages1–10**
+- Batch1 — **COMPLETE / scans216–225 / local pages1–10 / 10 TEXT-COMPLETE**
+- Batch2 target — **scans226–235 / local pages11–20**
 - status/visual-fidelity promotion during Pass1 — **PROHIBITED**
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch1 — scans216–225 / local pages1–10**.
+Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
 
-Parts001–003 remain **FINAL CLOSED / FROZEN**. Incoming **215→216 is CHAPTER TRANSITION / AUDITED / PASS**.
+Parts001–003 remain **FINAL CLOSED / FROZEN**. Do not import scan236.
