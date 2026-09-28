@@ -247,6 +247,9 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 whole-Part bilingual review — **PASS / CLOSED**
 - Part003 release/readiness report — **PASS / CLOSED**
 - Part003 release/readiness record — `works/ponnar-sankar/translations/en/PART_003_RELEASE_REPORT.md`
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- Part003 synchronization control — `works/ponnar-sankar/PART_003_RELEASE_READY_SYNC.md`
+- Part003 synchronization textual body drift — **0**
 - Part003 unresolved release/readiness blockers — **0**
 - Part003 maintained English body edits introduced by readiness — **0**
 - Part003 bilingual review record — `works/ponnar-sankar/translations/en/PART_003_BILINGUAL_REVIEW.md`
@@ -263,16 +266,16 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 English physical coverage — **70/70 / scans146–215**
 - Part003 English translated/source-checked files — **9/9 / 9/9**
 - Part003 English controls — `works/ponnar-sankar/translations/en/PART_003_TRANSLATION_PLAN.md`, `PART_003_GLOSSARY.md`, `PART_003_PROGRESS.md`
-- Part003 exact next activity — **release-ready synchronization**
+- Part003 exact next activity — **final closure / freeze**
 - Part004–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part003 release-ready synchronization frontier**
+- NEXT_CHAT_PROMPT.md — **PENDING FINAL SYNC — Part003 final closure / freeze frontier**
 
 ## Exact next activity
 
-Run **Part003 release-ready synchronization**.
+Run **Part003 final closure / freeze**.
 
 Parts001–002 remain **FINAL CLOSED / FROZEN**. Keep **215→216 PENDING Part004 direct witness**.
