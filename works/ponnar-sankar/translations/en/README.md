@@ -4,7 +4,7 @@
 
 **PART001 FINAL CLOSED / FROZEN.**  
 **PART002 FINAL CLOSED / FROZEN — maintained English E10–E17 frozen.**  
-**PART003 ENGLISH BATCH TRANSLATION — E18–E26 SOURCE-CHECKED / COMPLETE.**
+**PART003 WHOLE-PART GLOSSARY RECONCILIATION — COMPLETE / PASS.**
 
 Part002 English literary translation batches E10–E17 are **8/8 SOURCE-CHECKED / COMPLETE**. Part003 has **E18–E26 SOURCE-CHECKED / COMPLETE — 9/9**.
 
@@ -181,6 +181,11 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 - batch-number collisions — **0**
 - English section-order collisions — **0**
 - fully translated/source-checked files — **9/9 / 9/9**
+- whole-Part glossary reconciliation — **COMPLETE / PASS**
+- glossary reconciliation record — `PART_003_GLOSSARY_RECONCILIATION.md`
+- source-backed continuity corrections — **13 occurrences / 3 files**
+- unresolved glossary conflicts — **0**
+- unsupported normalization — **0**
 - English literary prose drafted in setup — **0**
 - current Part003 English physical coverage — **scans146–215 / 70 of 70**
 - E19 maintained display title — **The War Host Sets Out**
@@ -225,6 +230,6 @@ Part002 final closure — **PASS / CLOSED / FROZEN**. Durable record: `../../PAR
 
 ## Exact next activity
 
-Run **Part003 whole-Part glossary reconciliation across E18–E26**.
+Run **Part003 English editorial review** across E18–E26.
 
 Keep Parts001–002 frozen. Do not begin Part004. Preserve outgoing **215→216 PENDING Part004 direct witness**.
