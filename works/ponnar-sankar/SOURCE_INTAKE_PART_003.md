@@ -113,8 +113,20 @@ Canonical `scan_page` remains the global physical scan number.
 - Pass2B unresolved textual questions — **0**
 - status/visual-fidelity promotion during Pass1 — **PROHIBITED**
 
+## Downstream closure state
+
+- English E18–E26 — **SOURCE-CHECKED / COMPLETE — 9/9**
+- whole-Part glossary reconciliation — **COMPLETE / PASS**
+- English editorial review — **PASS / CLOSED**
+- whole-Part bilingual review — **PASS / CLOSED**
+- release/readiness report — **PASS / CLOSED**
+- Part003 release-ready synchronization — **PASS / CLOSED**
+- unresolved downstream blockers — **0**
+- Part004 body leakage — **0**
+- outgoing **215→216 — PENDING Part004 direct witness**
+
 ## Exact next activity
 
-Run **Part003 English translation planning/setup**.
+Run **Part003 final closure / freeze**.
 
-Pass2B / Pass3 / whole-Part audit are closed. Canonical metadata is **70/70 verified**, Tamil archival-ready is **PASS / COMPLETE**, and assembled Tamil is **VERIFIED / PASS / CLOSED — 9/9 / exact coverage 70/70**. Run English translation planning/setup next without drafting literary prose; outgoing 215→216 remains pending.
+Parts001–002 remain **FINAL CLOSED / FROZEN**. Do not begin Part004; keep **215→216 PENDING Part004 direct witness**.
