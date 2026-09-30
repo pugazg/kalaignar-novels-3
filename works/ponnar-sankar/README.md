@@ -193,10 +193,11 @@
 - Part004 source: `TVA_BOK_0065560_பொன்னர்_சங்கர்_2017_part_004_pages_216-285.pdf`
 - Part004 SHA-256: `2ed96e4ae046b20b8d9a6c6db3aeae8c822411df0947771f9a691007be729616`
 - Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 Pass1: **ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
-- Part004 canonical records: **10/70 — scans216–225**
+- Part004 Pass1: **ACTIVE — BATCH2 COMPLETE / 20/70 TEXT-COMPLETE**
+- Part004 canonical records: **20/70 — scans216–235**
 - Part004 Pass1 Batch1: **COMPLETE — scans216–225 / 10 TEXT-COMPLETE**
-- Part004 Pass1 next: **Batch2 scans226–235 / local pages11–20**
+- Part004 Pass1 Batch2: **COMPLETE — scans226–235 / 10 TEXT-COMPLETE**
+- Part004 Pass1 next: **Batch3 scans236–245 / local pages21–30**
 - Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part005–Part008: **pending intake / NOT REGISTERED**
 - Part001→Part002 boundary 75→76: **GENUINE CONTINUATION / AUDITED / PASS**
@@ -265,6 +266,6 @@
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
+Process **Part004 Pass1 Batch3 — scans236–245 / local pages21–30**.
 
-Parts001–003 remain **FINAL CLOSED / FROZEN**. Do not begin Batch3 in the same activity unless separately instructed.
+Parts001–003 remain **FINAL CLOSED / FROZEN**. Do not begin Batch4 in the same activity unless separately instructed.
