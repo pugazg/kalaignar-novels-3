@@ -17,13 +17,13 @@ Part004 source:
 
 ## Pass1 state
 
-**ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
+**ACTIVE — BATCH2 COMPLETE / 20/70 TEXT-COMPLETE**
 
 | Batch | Scans | Local pages | State |
 |---|---:|---:|---|
 | Batch1 | 216–225 | 1–10 | **COMPLETE / 10 TEXT-COMPLETE** |
-| Batch2 | 226–235 | 11–20 | **NEXT** |
-| Batch3 | 236–245 | 21–30 | PENDING |
+| Batch2 | 226–235 | 11–20 | **COMPLETE / 10 TEXT-COMPLETE** |
+| Batch3 | 236–245 | 21–30 | **NEXT** |
 | Batch4 | 246–255 | 31–40 | PENDING |
 | Batch5 | 256–265 | 41–50 | PENDING |
 | Batch6 | 266–275 | 51–60 | PENDING |
@@ -42,7 +42,18 @@ Part004 source:
 - status promotion — **0**
 - outgoing **285→286 — PENDING Part005 direct witness**
 
+## Batch2 closure
 
+- scans — **226–235 / 10**
+- local pages — **11–20**
+- canonical records created — **10**
+- cumulative Pass1 — **20/70 TEXT-COMPLETE**
+- chapter24 `ஆசான் சபதம்!` — **continues scans226–233 and closes scan233**
+- chapter25 `நியாயம் பெறுவது நிலையில்...!` — **opens scan234 and continues scan235**
+- unresolved source-reading holds — **0**
+- frozen Parts001–003 body edits — **0**
+- status promotion — **0**
+- outgoing **285→286 — PENDING Part005 direct witness**
 
 - direct source-pixel transcription only;
 - no OCR;
@@ -61,6 +72,6 @@ Part004 source:
 
 ## Exact next activity
 
-**Part004 Pass1 Batch2 — scans226–235 / local pages11–20.**
+**Part004 Pass1 Batch3 — scans236–245 / local pages21–30.**
 
-Do not begin Batch3 in the same activity unless separately instructed.
+Do not begin Batch4 in the same activity unless separately instructed.
