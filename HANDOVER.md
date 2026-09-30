@@ -275,20 +275,21 @@ Adjacent next-Part scans may be inspected only as boundary witnesses. No next-Pa
 - Part003 outgoing 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
 - Part004 source intake — **REGISTERED / COMPLETE — scans216–285 / 70 pages**
 - Part004 boundary audit 215→216 — **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 Pass1 — **ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
-- Part004 canonical records — **10/70 — scans216–225**
+- Part004 Pass1 — **ACTIVE — BATCH2 COMPLETE / 20/70 TEXT-COMPLETE**
+- Part004 canonical records — **20/70 — scans216–235**
 - Part004 Pass1 Batch1 — **COMPLETE / scans216–225 / 10 TEXT-COMPLETE**
-- Part004 Pass1 next — **Batch2 scans226–235 / local pages11–20**
+- Part004 Pass1 Batch2 — **COMPLETE / scans226–235 / 10 TEXT-COMPLETE**
+- Part004 Pass1 next — **Batch3 scans236–245 / local pages21–30**
 - Part004 outgoing 285→286 — **PENDING Part005 direct witness**
 - Part005–Part008 — **NOT REGISTERED / pending source intake**
 - Part001 Pass 3 — **COMPLETE / 75/75 REVIEWED / PASS**
 - Part001 Pass 3 structural corrections — **0**
 - Part001 Pass 3 unresolved visual / structural questions — **0**
 - Part001 Pass 3 cadence — **15 pages per iteration**
-- NEXT_CHAT_PROMPT.md — **PENDING SYNC — Part004 Pass1 Batch2 frontier**
+- NEXT_CHAT_PROMPT.md — **SYNCHRONIZED — Part004 Pass1 Batch3 frontier**
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
+Process **Part004 Pass1 Batch3 — scans236–245 / local pages21–30**.
 
 Parts001–003 remain **FINAL CLOSED / FROZEN**.
