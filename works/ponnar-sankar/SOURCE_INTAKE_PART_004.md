@@ -30,6 +30,9 @@ Direct rendered-page inspection establishes:
 - scan216 / local1 — chapter23 **`ஆசான் ஆணைக்கேட்டு நடப்போம்`** opens;
 - scan224 / local9 / printed207 — chapter23 closes;
 - scan225 / local10 — chapter24 **`ஆசான் சபதம்!`** opens;
+- scan233 / local18 / printed216 — chapter24 closes;
+- scan234 / local19 — chapter25 **`நியாயம் பெறுவது நிலையில்...!`** opens;
+- scan235 / local20 / printed218 — chapter25 continues;
 - scan217 / local2 — running printed page **200**;
 - scan285 / local70 — running printed page **268**, with chapter30 still continuing at the Part004 split edge.
 
@@ -78,20 +81,21 @@ Canonical `scan_page` remains the global physical scan number.
 
 ## Pass1 activation result
 
-**PART004 PASS1 — ACTIVE — BATCH1 COMPLETE / 10/70 TEXT-COMPLETE**
+**PART004 PASS1 — ACTIVE — BATCH2 COMPLETE / 20/70 TEXT-COMPLETE**
 
 - registered source coverage — **70 pages / scans216–285**
-- canonical Part004 records present — **10/70 — scans216–225**
-- Pass1 text-complete — **10/70**
-- pending — **60/70**
+- canonical Part004 records present — **20/70 — scans216–235**
+- Pass1 text-complete — **20/70**
+- pending — **50/70**
 - unresolved source-reading holds — **0 at intake**
 - initial cadence — **10 scans per batch**
 - Batch1 — **COMPLETE / scans216–225 / local pages1–10 / 10 TEXT-COMPLETE**
-- Batch2 target — **scans226–235 / local pages11–20**
+- Batch2 — **COMPLETE / scans226–235 / local pages11–20 / 10 TEXT-COMPLETE**
+- Batch3 target — **scans236–245 / local pages21–30**
 - status/visual-fidelity promotion during Pass1 — **PROHIBITED**
 
 ## Exact next activity
 
-Process **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**.
+Process **Part004 Pass1 Batch3 — scans236–245 / local pages21–30**.
 
-Parts001–003 remain **FINAL CLOSED / FROZEN**. Do not import scan236.
+Parts001–003 remain **FINAL CLOSED / FROZEN**. Do not import scan246.
