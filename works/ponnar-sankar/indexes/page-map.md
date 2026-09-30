@@ -231,6 +231,16 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 | 004 | 8 | 223 | 206 | chapter23 continuation; Maayavar explains Raakkiyannan's role and intent | needs-review | `pages/0223-aasaan-aanai-kettu-nadappom.md` |
 | 004 | 9 | 224 | 207 | chapter23 closes; all defer to the aasaan's wish | needs-review | `pages/0224-aasaan-aanai-kettu-nadappom.md` |
 | 004 | 10 | 225 | — | chapter24 opens — ஆசான் சபதம்! | needs-review | `pages/0225-aasaan-sabatham.md` |
+| 004 | 11 | 226 | 209 | chapter24 continuation; Maayavar sets travel/security plan | needs-review | `pages/0226-aasaan-sabatham.md` |
+| 004 | 12 | 227 | 210 | chapter24 continuation; farewell / arrival before Raakkiyannan | needs-review | `pages/0227-aasaan-sabatham.md` |
+| 004 | 13 | 228 | 211 | chapter24 continuation; Raakkiyannan receives them / milk-honey exchange | needs-review | `pages/0228-aasaan-sabatham.md` |
+| 004 | 14 | 229 | 212 | chapter24 continuation; Chola court proposal receives Raakkiyannan's approval | needs-review | `pages/0229-aasaan-sabatham.md` |
+| 004 | 15 | 230 | 213 | chapter24 continuation; marriage proposal placed before the aasaan | needs-review | `pages/0230-aasaan-sabatham.md` |
+| 004 | 16 | 231 | 214 | chapter24 continuation; Raakkiyannan reveals a prior vow | needs-review | `pages/0231-aasaan-sabatham.md` |
+| 004 | 17 | 232 | 215 | chapter24 continuation; vow recounts sacrifice and demanded retribution | needs-review | `pages/0232-aasaan-sabatham.md` |
+| 004 | 18 | 233 | 216 | chapter24 closes; Raakkiyannan states celibacy condition / warrior illustration | needs-review | `pages/0233-aasaan-sabatham.md` |
+| 004 | 19 | 234 | — | chapter25 opens — நியாயம் பெறுவது நிலையில்...! | needs-review | `pages/0234-niyaayam-peruvathu-nilaiyil.md` |
+| 004 | 20 | 235 | 218 | chapter25 continuation; Sellaththaak Kavundar briefs Talaiyur Kaali / unknown young warriors raised | needs-review | `pages/0235-niyaayam-peruvathu-nilaiyil.md` |
 
 ## Split accounting
 
@@ -243,8 +253,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 ## Current state
 
 - registered Parts: **4/8**
-- registered physical scan rows: **225 canonical rows — Parts001–003 frozen/verified + Part004 Pass1 10/70 needs-review**
-- canonical page records: **225 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 frozen/verified + Part004 10/70 needs-review**
+- registered physical scan rows: **235 canonical rows — Parts001–003 frozen/verified + Part004 Pass1 20/70 needs-review**
+- canonical page records: **235 total — Part001 75/75 frozen + Part002 70/70 frozen + Part003 70/70 frozen/verified + Part004 20/70 needs-review**
 - Part001 Pass 1: **COMPLETE — 75/75 canonical; 74 textual + 1 image-map; 0 holds**
 - Part001 Pass 2A: **COMPLETE — scans1–75 REVIEWED / PASS; 31 corrections recorded historically; 0 unresolved; P2A-001 superseded by P2B-001**
 - Part001 Pass 2B: **COMPLETE / PASS — scans1–75 REVIEWED / PASS; 8 corrections; 0 unresolved**
@@ -315,8 +325,8 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 outgoing 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
 - Part004 source intake: **REGISTERED / COMPLETE — scans216–285 / 70 pages**
 - Part004 incoming 215→216: **CHAPTER TRANSITION / AUDITED / PASS**
-- Part004 canonical page records: **10/70 — scans216–225**
-- Part004 Pass1: **ACTIVE — Batch1 COMPLETE / 10/70 TEXT-COMPLETE**
+- Part004 canonical page records: **20/70 — scans216–235**
+- Part004 Pass1: **ACTIVE — Batch2 COMPLETE / 20/70 TEXT-COMPLETE**
 - Part004 outgoing 285→286: **PENDING Part005 direct witness**
 - Part003 source intake: **REGISTERED / COMPLETE — scans146–215 / 70 pages**
 - Part003 Pass1: **COMPLETE / PASS — 70/70 TEXT-COMPLETE — scans146–215**
@@ -343,4 +353,4 @@ Part001 physical mapping is registered from direct source intake. Printed pagina
 - Part003 Pass3 cadence: **15 pages per iteration; final remainder may be smaller**
 - Part003 Pass2B cadence: **10 scans per batch**
 - Part003 Pass2B source-text corrections: **11**
-- exact next activity: **Part004 Pass1 Batch2 — scans226–235 / local pages11–20**
+- exact next activity: **Part004 Pass1 Batch3 — scans236–245 / local pages21–30**
